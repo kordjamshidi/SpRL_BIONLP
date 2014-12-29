@@ -1,0 +1,17 @@
+T1	Organism 0 9	Spirillum
+T2	Process 10 21	Description
+T3	Organism 39 57	Spirillum bacteria
+T4	Unknown 102 117	van Leeuwenhoek
+T5	Value 125 130	1670s
+T6	Unknown 144 150	Muller
+T7	Organism 152 163	S. volutans
+T8	Organism 175 184	bacterium
+T9	Geometrical_part 230 247	helical structure
+T10	Organism 258 269	S. volutans
+T11	Chemical 292 297	water
+T12	Habitat 345 352	England
+T13	Chemical 362 367	water
+T14	Habitat 382 386	pond
+T15	Organism 411 420	bacterium
+T16	Organism_subdivision 442 448	bodies
+T17	Chemical 461 466	water

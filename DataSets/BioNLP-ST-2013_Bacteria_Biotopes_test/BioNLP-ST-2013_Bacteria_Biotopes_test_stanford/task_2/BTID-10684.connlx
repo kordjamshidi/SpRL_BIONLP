@@ -1,0 +1,105 @@
+1	Thermosipho	_	NNP	_	_	2	VMOD	_	_
+2	africanus	_	VBZ	_	_	0	ROOT	_	_
+3	TCF52B	_	NNP	_	_	2	VMOD	_	_
+		
+1	Description	_	NNP	_	_	0	ROOT	_	_
+		
+1	Thermosipho	_	NNP	_	_	2	VMOD	_	_
+2	africanus	_	VBZ	_	_	0	ROOT	_	_
+3	.	_	.	_	_	2	P	_	_
+		
+1	Thermosipho	_	NNP	_	_	2	NAME	_	_
+2	africanus	_	NNP	_	_	10	VMOD	_	_
+3	,	_	,	_	_	2	P	_	_
+4	a	_	DT	_	_	5	NMOD	_	_
+5	member	_	NN	_	_	2	APPO	_	_
+6	of	_	IN	_	_	5	NMOD	_	_
+7	the	_	DT	_	_	8	NMOD	_	_
+8	Thermotogales	_	NNPS	_	_	6	PMOD	_	_
+9	,	_	,	_	_	2	P	_	_
+10	has	_	VBZ	_	_	0	ROOT	_	_
+11	the	_	DT	_	_	13	NMOD	_	_
+12	characteristic	_	JJ	_	_	13	NMOD	_	_
+13	morphology	_	NN	_	_	10	VMOD	_	_
+14	of	_	IN	_	_	13	NMOD	_	_
+15	one	_	CD	_	_	18	NMOD	_	_
+16	or	_	CC	_	_	15	COORD	_	_
+17	more	_	JJR	_	_	16	CONJ	_	_
+18	cells	_	NNS	_	_	14	PMOD	_	_
+19	contained	_	VBN	_	_	18	APPO	_	_
+20	in	_	IN	_	_	19	VMOD	_	_
+21	a	_	DT	_	_	23	NMOD	_	_
+22	sheath-like	_	JJ	_	_	23	NMOD	_	_
+23	envelope	_	NN	_	_	20	PMOD	_	_
+24	which	_	WDT	_	_	25	VMOD	_	_
+25	extends	_	VBZ	_	_	13	NMOD	_	_
+26	beyond	_	IN	_	_	25	VMOD	_	_
+27	the	_	DT	_	_	29	NMOD	_	_
+28	cell	_	NN	_	_	29	NMOD	_	_
+29	wall	_	NN	_	_	26	PMOD	_	_
+30	.	_	.	_	_	10	P	_	_
+		
+1	Preliminary	_	JJ	_	_	2	NMOD	_	_
+2	sequencing	_	NN	_	_	6	VMOD	_	_
+3	of	_	IN	_	_	2	NMOD	_	_
+4	Thermotogales	_	NNP	_	_	5	NMOD	_	_
+5	genomes	_	NNS	_	_	3	PMOD	_	_
+6	has	_	VBZ	_	_	0	ROOT	_	_
+7	identified	_	VBN	_	_	6	VC	_	_
+8	extensive	_	JJ	_	_	11	NMOD	_	_
+9	horizontal	_	JJ	_	_	11	NMOD	_	_
+10	gene	_	NN	_	_	11	NMOD	_	_
+11	transfer	_	NN	_	_	7	VMOD	_	_
+12	between	_	IN	_	_	11	NMOD	_	_
+13	these	_	DT	_	_	14	NMOD	_	_
+14	organisms	_	NNS	_	_	12	PMOD	_	_
+15	and	_	CC	_	_	14	COORD	_	_
+16	the	_	DT	_	_	17	NMOD	_	_
+17	Archaea	_	NNP	_	_	15	CONJ	_	_
+18	.	_	.	_	_	6	P	_	_
+		
+1	Thermosipho	_	NNP	_	_	2	NMOD	_	_
+2	africanus	_	NNS	_	_	3	VMOD	_	_
+3	has	_	VBZ	_	_	0	ROOT	_	_
+4	been	_	VBN	_	_	3	VC	_	_
+5	isolated	_	VBN	_	_	4	VC	_	_
+6	from	_	IN	_	_	5	VMOD	_	_
+7	marine	_	JJ	_	_	9	NMOD	_	_
+8	hydrothermal	_	JJ	_	_	9	NMOD	_	_
+9	systems	_	NNS	_	_	6	PMOD	_	_
+10	and	_	CC	_	_	9	COORD	_	_
+11	oil	_	NN	_	_	14	NMOD	_	_
+12	reservoir	_	NN	_	_	14	NMOD	_	_
+13	production	_	NN	_	_	14	NMOD	_	_
+14	waters	_	NNS	_	_	10	CONJ	_	_
+15	.	_	.	_	_	3	P	_	_
+		
+1	Description	_	NNP	_	_	0	ROOT	_	_
+		
+1	Thermosipho	_	NNP	_	_	2	VMOD	_	_
+2	africanus	_	VBZ	_	_	0	ROOT	_	_
+3	TCF52B	_	NNP	_	_	2	VMOD	_	_
+4	.	_	.	_	_	2	P	_	_
+		
+1	This	_	DT	_	_	2	NMOD	_	_
+2	organism	_	NN	_	_	3	VMOD	_	_
+3	was	_	VBD	_	_	0	ROOT	_	_
+4	isolated	_	VBN	_	_	3	VC	_	_
+5	from	_	IN	_	_	4	VMOD	_	_
+6	the	_	DT	_	_	9	NMOD	_	_
+7	Troll	_	NNP	_	_	9	NMOD	_	_
+8	oil	_	NN	_	_	9	NMOD	_	_
+9	formation	_	NN	_	_	5	PMOD	_	_
+10	in	_	IN	_	_	9	NMOD	_	_
+11	the	_	DT	_	_	13	NMOD	_	_
+12	North	_	NNP	_	_	13	NAME	_	_
+13	Sea	_	NNP	_	_	10	PMOD	_	_
+14	and	_	CC	_	_	3	COORD	_	_
+15	will	_	MD	_	_	14	CONJ	_	_
+16	be	_	VB	_	_	15	VC	_	_
+17	used	_	VBN	_	_	16	VC	_	_
+18	for	_	IN	_	_	17	VMOD	_	_
+19	comparative	_	JJ	_	_	20	NMOD	_	_
+20	analysis	_	NN	_	_	18	PMOD	_	_
+21	.	_	.	_	_	3	P	_	_
+		

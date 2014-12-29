@@ -1,0 +1,7 @@
+(ROOT (NP (NNP Spirillum)))
+(ROOT (NP (NN Description) (CC and) (NN Significance)))
+(ROOT (S (NP (JJ Spirillum) (NNS bacteria)) (VP (VBP are) (VP (VBN thought) (S (VP (TO to) (VP (VB have) (VP (VBN been) (VP (ADVP (RB first)) (VBN described) (PP (IN by) (NP (NNP van) (NNP Leeuwenhoek))) (PP (IN in) (NP (DT the) (NN 1670s) (CC and) (RB later))) (PP (IN by) (NP (NNP Muller)))))))))) (. .)))
+(ROOT (S (NP (NNP S.) (NNP volutans)) (VP (VBZ is) (NP (DT a) (JJ large) (NN bacterium)) (ADVP (ADVP (RB as) (RB well)) (PP (IN as) (NP (DT an) (JJ obligate) (NN microaerophile)))) (PP (IN with) (NP (DT a) (JJ helical) (NN structure)))) (. .)))
+(ROOT (NP (NNP Ecology)))
+(ROOT (S (NP (NNP S.) (NNS volutans)) (VP (VBZ has) (VP (VBN been) (VP (VBN found) (PP (PP (IN in) (NP (NP (DT the) (NN water)) (PP (IN of) (NP (NP (DT a) (VBG cooling) (NN tower)) (PP (IN of) (NP (NP (DT a) (JJ sugar-beet) (NN refinery)) (PP (IN in) (NP (NNP England))))))))) (CC and) (PP (IN from) (NP (NP (NN water)) (PP (IN of) (NP (DT a) (JJ polluted) (NN pond))))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN thought) (SBAR (IN that) (S (NP (DT the) (NN bacterium)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NP (JJ many) (NNS bodies)) (PP (IN of) (NP (JJ stagnant) (NN water)))))))))))) (. .)))

@@ -1,0 +1,40 @@
+T1	Organism 0 21	Myxococcus xanthus DK
+T2	Value 22 26	1622
+T3	Process 27 38	Description
+T4	Organism2 39 67	Myxococcus xanthus strain DK
+T5	Value 68 72	1622
+T6	Organism1 79 87	organism
+T7	Category 100 107	complex
+T8	Process 108 119	development
+T9	Process 124 139	differentiation
+T10	Process 140 147	pathway
+T11	Cell 156 161	cells
+T12	Process 192 200	motility
+T13	Cell 208 212	cell
+T14	Parameter 213 220	density
+T15	Organism1 236 244	organism
+T16	Process 265 273	motility
+T17	Cell 295 300	cells
+T18	Parameter 326 332	masses
+T19	Organism_subdivision 349 355	bodies
+T20	Value 382 389	100 000
+T21	Cell 390 395	cells
+T22	Chemical 402 410	nutrient
+T23	Process 411 420	depletion
+T24	Cell 426 431	cells
+T25	Organism_subdivision 441 456	fruiting bodies
+T26	Process 472 480	decision
+T27	Process 501 509	motility
+T28	Cellular_component 519 532	intercellular
+T29	Process 533 546	communication
+T30	Parameter 575 591	cellular density
+T31	Process 597 605	motility
+T32	Unknown 606 612	system
+T33	Cellular_component 633 641	flagella
+T34	Organism1 652 660	bacteria
+T35	Cellular_component 694 698	pili
+T36	Body_part 706 730	extracellular appendages
+T37	Organism1 788 796	organism
+T38	Disease 842 852	anticancer
+T39	Chemical 853 857	drug
+T40	Parameter 870 880	Properties

@@ -1,0 +1,166 @@
+T1	Organism 0 19	Campylobacter fetus
+T2	Process 20 31	Description
+T3	Organism 49 68	Campylobacter fetus
+T4	Organism1 99 117	bacterial pathogen
+T5	Unknown 136 137	S
+T6	Unknown 138 143	layer
+T7	Protein 167 183	surface proteins
+T8	Unknown 186 191	Their
+T9	Process 199 207	function
+T10	Unknown 235 237	It
+T11	Organism1 243 264	gram-negative species
+T12	Cellular_component 277 286	membranes
+T13	Cellular_component 298 307	cell wall
+T14	Unknown 320 322	It
+T15	Organism1 328 336	pathogen
+T16	Organism1 369 374	human
+T17	Organism_subdivision 375 379	body
+T18	Organism 385 406	Campylobacter fetus S
+T19	Tissue 407 412	layer
+T20	Protein 413 421	proteins
+T21	Molecule 443 459	virulence factor
+T22	Parameter 463 473	resistance
+T23	Organism2 481 485	host
+T24	Multi-tissue_structure 486 492	immune
+T25	Process 493 500	defense
+T26	Process 501 511	mechanisms
+T27	Unknown 534 541	Journal
+T28	Unknown 545 553	Clinical
+T29	Unknown 572 575	Two
+T30	Organism 623 642	Campylobacter fetus
+T31	Organism 652 671	Campylobacter fetus
+T32	Developing_anatomy 679 684	fetus
+T33	Organism 689 708	Campylobacter fetus
+T34	Unknown 716 726	Venerealis
+T35	Protein 755 762	genetic
+T36	Organism2 779 795	C. fetus strains
+T37	Process 799 808	different
+T38	Protein 827 834	genetic
+T39	Technique 835 843	analyses
+T40	Molecule 874 877	DNA
+T41	Unknown 878 884	(RAPD)
+T42	Technique 886 925	pulsed-field gel electrophoresis (PFGE)
+T43	Unknown 931 938	DNA-DNA
+T44	Process 939 952	hybridization
+T45	Unknown 958 960	It
+T46	Habitat 1000 1007	habitat
+T47	Organism 1011 1019	C. fetus
+T48	Developing_anatomy 1027 1032	fetus
+T49	Body_part 1040 1056	intestinal tract
+T50	Organism1 1060 1066	cattle
+T51	Disease 1090 1099	abortions
+T52	Disease 1102 1116	Cell structure
+T53	Bio_Process 1121 1134	
+T54	Cellular_component 1139 1147	flagella
+T55	Process 1152 1160	motility
+T56	Molecule 1171 1177	proton
+T57	Parameter 1185 1190	force
+T58	Parameter 1195 1201	energy
+T59	Unknown 1243 1248	layer
+T60	Process 1252 1262	protection
+T61	Cellular_component 1265 1279	inner membrane
+T62	Unknown 1286 1298	murein layer
+T63	Cellular_component 1306 1320	outer membrane
+T64	Organism1 1327 1335	organism
+T65	Process 1352 1358	growth
+T66	Chemical 1388 1391	CO2
+T67	Value 1396 1398	5%
+T68	Chemical 1399 1405	oxygen
+T69	Chemical 1411 1419	nitrogen
+T70	Chemical 1423 1431	hydrogen
+T71	Unknown 1460 1475	bacteriology(2)
+T72	Developing_anatomy 1492 1497	fetus
+T73	Habitat 1517 1528	environment
+T74	Process 1533 1539	growth
+T75	Multi-tissue_structure 1552 1568	respiratory type
+T76	Bio_Process 1572 1582	metabolism
+T77	Process 1587 1593	growth
+T78	Organism1 1601 1609	bacteria
+T79	Process 1617 1624	ferment
+T80	Chemical 1651 1664	carbohydrates
+T81	Parameter 1679 1685	energy
+T82	Protein_part 1709 1720	amino acids
+T83	Chemical 1742 1746	acid
+T84	Process 1747 1752	cycle
+T85	Molecule 1753 1766	intermediates
+T86	Unknown 1808 1809	S
+T87	Unknown 1810 1815	layer
+T88	Protein 1816 1832	surface proteins
+T89	Organism 1842 1861	Campylobacter fetus
+T90	Cell 1908 1940	intestinal epithelial cell lines
+T91	Organism1 1960 1966	humans
+T92	Organism 2016 2024	Canadian
+T93	Unknown 2025 2032	Journal
+T94	Unknown 2036 2048	Microbiology
+T95	Organism 2069 2088	Campylobacter fetus
+T96	Cell 2129 2139	cell lines
+T97	Cell 2181 2186	cells
+T98	Organism 2192 2201	bacterium
+T99	Organism1 2234 2242	pathogen
+T100	Organism2 2266 2270	host
+T101	Cell 2271 2276	cells
+T102	Organism1 2287 2293	humans
+T103	Organism1 2300 2307	animals
+T104	Organism1 2315 2321	cattle
+T105	Organism 2333 2352	Campylobacter fetus
+T106	Organism 2358 2367	bacterium
+T107	Process 2398 2410	reproduction
+T108	Geometrical_part 2449 2456	surface
+T109	Unknown 2457 2462	layer
+T110	Protein 2463 2471	proteins
+T111	Disease 2485 2494	antigenic
+T112	Process 2495 2504	variation
+T113	Multi-tissue_structure 2524 2537	immune system
+T114	Process 2562 2571	mechanism
+T115	Organism1 2587 2595	bacteria
+T116	Organism 2639 2658	Campylobacter fetus
+T117	Unknown 2666 2676	Venerealis
+T118	Organism1 2689 2693	bull
+T119	Tissue 2694 2705	mucus layer
+T120	Tissue 2721 2731	cell layer
+T121	Organism2 2739 2743	male
+T122	Tissue 2744 2751	prepuce
+T123	Organism1 2767 2775	bacteria
+T124	Organism1 2798 2811	female cattle
+T125	Disease 2827 2838	infertility
+T126	Bio_Process 2898 2904	mating
+T127	Organism 2906 2925	Campylobacter fetus
+T128	Developing_anatomy 2933 2938	Fetus
+T129	Process 2950 2959	different
+T130	Disease 2960 2969	infection
+T131	Process 2970 2979	mechanism
+T132	Organism1 2993 2999	animal
+T133	Organism1 3008 3012	bird
+T134	Organism1 3014 3021	reptile
+T135	Organism1 3033 3041	bacteria
+T136	Cell 3058 3068	mucus cell
+T137	Disease 3086 3094	abortion
+T138	Process 3120 3129	different
+T139	Organism2 3149 3153	host
+T140	Organism1 3155 3161	Humans
+T141	Organism 3218 3237	Campylobacter fetus
+T142	Body_part 3245 3250	Fetus
+T143	Disease 3262 3277	severe symptoms
+T144	Pathological_formation 3286 3298	inflammation
+T145	Organ 3302 3322	intestinal tract.(5)
+T146	Process 3323 3334	Application
+T147	Unknown 3338 3355	
+T148	Organism1 3376 3383	species
+T149	Unknown 3393 3409	
+T150	Process 3414 3424	mechanisms
+T151	Parameter 3446 3456	resistance
+T152	Body_part 3475 3480	serum
+T153	Process 3499 3506	binding
+T154	Body_part 3515 3520	serum
+T155	Organism 3528 3536	C. fetus
+T156	Cell 3537 3541	cell
+T157	Protein 3542 3558	surface proteins
+T158	Unknown 3589 3590	I
+T159	Unknown 3627 3628	S
+T160	Unknown 3629 3634	layer
+T161	Protein 3635 3648	coat proteins
+T162	Molecule 3664 3674	antibodies
+T163	Multi-tissue_structure 3682 3695	immune system
+T164	Cell 298 302	cell
+T165	Cell 2721 2725	cell
+T166	Cell 1102 1116	Cell structure

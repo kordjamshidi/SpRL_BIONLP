@@ -1,0 +1,37 @@
+T1	Organism 0 25	Burkholderia phytofirmans
+T2	Mutant_Organism 26 30	PsJN
+T3	Organism 31 56	Burkholderia phytofirmans
+T4	Organism2 57 68	strain PsJN
+T5	Unknown 69 70	T
+T6	Organism1 86 105	beta-Proteobacteria
+T7	Geometrical_part 148 155	surface
+T8	Body_part 167 173	Glomus
+T9	Food 174 187	vesiculiferum
+T10	Food 198 203	onion
+T11	Body_part 204 209	roots
+T12	Organism2 238 245	strains
+T13	Organism1 264 271	species
+T14	Cell 320 325	Cells
+T15	Cell 361 365	rods
+T16	Process 384 392	presence
+T17	Chemical 404 410	sugars
+T18	Organism2 416 422	strain
+T19	Chemical 440 447	nitrate
+T20	Chemical 451 458	nitrite
+T21	Organism 460 464	PsJN
+T22	Protein 474 487	ACC deaminase
+T23	Parameter 488 496	activity
+T24	Organism1 526 531	plant
+T25	Process 532 538	growth
+T26	Organism2 566 572	strain
+T27	Process 597 606	signaling
+T28	Chemical 607 647	compound 3-hydroxy-C8-homoserine lactone
+T29	Organism2 649 660	Strain PsJN
+T30	Organism1 678 684	plants
+T31	Organism1 728 733	plant
+T32	Process 734 740	growth
+T33	Process 741 750	promotion
+T34	Organism1 783 789	plants
+T35	Organism1 798 804	potato
+T36	Organism1 806 812	tomato
+T37	Organism1 814 823	grapevine

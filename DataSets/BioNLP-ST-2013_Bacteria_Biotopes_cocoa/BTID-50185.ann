@@ -1,0 +1,101 @@
+T1	Organism 0 31	
+T2	Disease 39 53	bubonic plague
+T3	Organism 54 69	Yersinia pestis
+T4	Organism1 75 102	Gram-negative coccobacillus
+T5	Organism 120 138	Enterobacteriaceae
+T6	Unknown 156 161	agent
+T7	Disease 165 171	plague
+T8	Organism1 202 210	pathogen
+T9	Bio_Process 244 250	deaths
+T10	Disease 280 287	disease
+T11	Parameter 298 303	times
+T12	Organism 305 320	Yersinia pestis
+T13	Protein 337 349	Andre Yersin
+T14	Unknown 354 360	French
+T15	Company 384 401	Institute Pasteur
+T16	Habitat 409 417	Far East
+T17	Habitat 419 423	Hong
+T18	Parameter 424 428	Kong
+T19	Disease 439 445	plague
+T20	Disease 470 476	plague
+T21	Organism 477 485	bacillus
+T22	Organism 495 510	Yersinia pestis
+T23	Organism1 526 541	rodent pathogen
+T24	Organism1 548 554	humans
+T25	Organism2 575 579	host
+T26	Disease 598 606	infected
+T27	Organism1 607 615	rat flea
+T28	Organism1 621 625	flea
+T29	Organism1 639 658	Y. pestis organisms
+T30	Body_part 668 684	intestinal tract
+T31	Organism1 692 701	organisms
+T32	Organism1 718 722	flea
+T33	Organism1 737 743	flea's
+T34	Body_part 744 758	proventriculus
+T35	Bio_Process 760 769	digestive
+T36	Geometrical_part 770 777	chamber
+T37	Organism 785 794	Y. pestis
+T38	Organism1 802 806	flea
+T39	Organism1 838 842	flea
+T40	Tissue 857 862	blood
+T41	Food 863 867	meal
+T42	Disease 890 899	infection
+T43	Organism2 909 913	host
+T44	Organism1 943 947	flea
+T45	Disease 958 967	infection
+T46	Body_part 988 999	bloodstream
+T47	Process 1012 1023	involvement
+T48	Organ 1031 1036	liver
+T49	Organ 1038 1044	spleen
+T50	Organ 1050 1055	lungs
+T51	Organism2 1061 1068	patient
+T52	Disease 1087 1106	bacterial pneumonia
+T53	Organism1 1141 1150	organisms
+T54	Chemical 1160 1163	air
+T55	Disease 1171 1184	coughing fits
+T56	Value 1186 1188	50
+T57	Value 1192 1202	60 percent
+T58	Organism2 1216 1224	patients
+T59	Disease 1255 1263	epidemic
+T60	Disease 1267 1281	bubonic plague
+T61	Unknown 1309 1319	conditions
+T62	Disease 1344 1356	malnutrition
+T63	Disease 1368 1384	flea infestation
+T64	Disease 1429 1438	pneumonic
+T65	Value 1498 1509	100 percent
+T66	Bio_Process 1510 1519	mortality
+T67	Technique 1525 1535	sequencing
+T68	Organism 1549 1558	Y. pestis
+T69	Organism1 1596 1604	pathogen
+T70	Protein 1630 1637	genetic
+T71	Process 1638 1645	changes
+T72	Parameter 1696 1700	time
+T73	Organ 1728 1735	stomach
+T74	Tissue 1745 1750	blood
+T75	Organism1 1757 1765	pathogen
+T76	Parameter 1772 1776	time
+T77	Organism 1778 1787	Y. pestis
+T78	Protein 1797 1802	genes
+T79	Organism1 1814 1822	bacteria
+T80	Organism1 1827 1834	viruses
+T81	Tissue 1866 1871	blood
+T82	Organ 1887 1896	intestine
+T83	Profession 1914 1925	researchers
+T84	Protein_part 1937 1947	21 regions
+T85	Process 1952 1962	adaptation
+T86	Habitat 1963 1970	islands
+T87	Organism1 2011 2020	organisms
+T88	Protein 2034 2038	gene
+T89	Process 2039 2050	acquisition
+T90	Protein 2072 2076	gene
+T91	Process 2077 2081	loss
+T92	Protein 2099 2104	genes
+T93	Protein 2109 2120	pseudogenes
+T94	Organism 2157 2166	Y. pestis
+T95	Organism1 2184 2189	human
+T96	Organism_subdivision 2190 2193	gut
+T97	Habitat 2231 2242	environment
+T98	Protein 2258 2263	genes
+T99	Process 2280 2288	adhesion
+T100	Process 2303 2315	colonization
+T101	Organism_subdivision 2323 2326	gut

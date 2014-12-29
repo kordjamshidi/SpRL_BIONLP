@@ -1,0 +1,32 @@
+T1	Organism 0 24	Bordetella parapertussis
+T2	Process 31 42	Description
+T3	Organism 43 53	Bordetella
+T4	Unknown 60 65	group
+T5	Organism1 69 78	organisms
+T6	Body_part 106 123	respiratory tract
+T7	Organism1 127 134	animals
+T8	Disease 147 162	severe diseases
+T9	Molecule 189 206	virulence factors
+T10	Protein 237 261	filamentous hemagglutins
+T11	Process 266 276	attachment
+T12	Molecule 278 288	cytotoxins
+T13	Protein 294 302	proteins
+T14	Complex 315 340	type III secretion system
+T15	Process 345 354	transport
+T16	Category 358 366	effector
+T17	Molecule 367 376	molecules
+T18	Organism2 382 386	host
+T19	Cell 387 392	cells
+T20	Process 394 405	Description
+T21	Organism2 406 443	Bordetella parapertussis strain 12822
+T22	Organism1 451 459	organism
+T23	Organism1 471 477	humans
+T24	Organism1 482 487	sheep
+T25	Habitat 523 534	environment
+T26	Organism2 541 547	strain
+T27	Disease 569 577	infected
+T28	Organism2 578 584	infant
+T29	Habitat 588 595	Germany
+T30	Protein 609 615	genome
+T31	Protein 629 633	gene
+T32	Protein 638 653	pertussis toxin

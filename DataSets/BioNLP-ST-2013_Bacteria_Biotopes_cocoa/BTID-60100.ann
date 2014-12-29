@@ -1,0 +1,75 @@
+T1	Organism 0 25	Burkholderia pseudomallei
+T2	Process 26 37	Description
+T3	Organism 55 80	Burkholderia pseudomallei
+T4	Organism 86 109	gram-negative bacterium
+T5	Parameter 115 125	dimensions
+T6	Value 126 136	2-5 microm
+T7	Parameter 140 146	length
+T8	Value 157 163	microm
+T9	Parameter 167 175	diameter
+T10	Geometrical_part 183 188	shape
+T11	Cell 194 197	rod
+T12	Organism 204 213	bacterium
+T13	Cellular_component 235 244	flagellum
+T14	Process 259 267	motility
+T15	Chemical 294 299	water
+T16	Disease 307 314	endemic
+T17	Habitat 318 332	Southeast Asia
+T18	Habitat 337 355	Northern Australia
+T19	Process 369 375	growth
+T20	Parameter 390 401	temperature
+T21	Value 405 417	40 degrees C
+T22	Parameter 444 453	acidic pH
+T23	Organism 455 480	Burkholderia pseudomallei
+T24	Process 503 507	role
+T25	Disease 521 528	disease
+T26	Disease 538 549	melioidosis
+T27	Chemical 582 589	vaccine
+T28	Organism 603 628	Burkholderia pseudomallei
+T29	Organism1 634 639	human
+T30	Organism1 644 659	animal pathogen
+T31	Process 671 676	cause
+T32	Disease 680 691	melioidosis
+T33	Disease 704 711	disease
+T34	Habitat 722 736	Southeast Asia
+T35	Habitat 750 759	Australia
+T36	Molecule 786 792	toxins
+T37	Process 803 807	role
+T38	Disease 827 835	symptoms
+T39	Disease 839 850	melioidosis
+T40	Disease 894 903	infection
+T41	Process 922 931	ingestion
+T42	Process 935 942	contact
+T43	Organism1 946 954	bacteria
+T44	Pathological_formation 965 976	skin wounds
+T45	Process 992 1002	inhalation
+T46	Organism 1022 1047	Burkholderia pseudomallei
+T47	Disease 1049 1060	Melioidosis
+T48	Process 1116 1126	incubation
+T49	Parameter 1127 1131	time
+T50	Disease 1139 1147	symptoms
+T51	Organism 1156 1181	Burkholderia pseudomallei
+T52	Disease 1189 1201	tuberculosis
+T53	Disease 1251 1259	symptoms
+T54	Disease 1271 1286	Common symptoms
+T55	Disease 1295 1300	fever
+T56	Process 1302 1311	formation
+T57	Pathological_formation 1315 1322	abscess
+T58	Geometrical_part 1334 1339	parts
+T59	Organism_subdivision 1347 1351	body
+T60	Organ 1364 1369	brain
+T61	Disease 1371 1384	osteomyelitis
+T62	Disease 1386 1396	bacteremia
+T63	Disease 1409 1417	diseases
+T64	Organ 1425 1430	heart
+T65	Organ 1432 1438	kidney
+T66	Organ 1443 1448	lungs
+T67	Disease 1457 1466	pneumonia
+T68	Organism 1468 1493	Burkholderia pseudomallei
+T69	Parameter 1532 1541	potential
+T70	Disease 1550 1559	virulence
+T71	Unknown 1598 1614	Category B agent
+T72	Unknown 1623 1625	US
+T73	Disease 1638 1645	Disease
+T74	Process 1646 1653	Control
+T75	Organ 965 969	skin

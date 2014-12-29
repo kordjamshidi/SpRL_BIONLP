@@ -1,0 +1,64 @@
+T1	Organism 0 15	Bifidobacterium
+T2	Chemical 16 22	longum
+T3	Unknown 39 43	ATCC
+T4	Value 44 49	15697
+T5	Process 50 61	Description
+T6	Organism 62 77	Bifidobacterium
+T7	Organism1 103 108	genus
+T8	Organism1 132 137	human
+T9	Organism_subdivision 138 166	gastrointestinal tract (GIT)
+T10	Bio_Process 218 229	homeostasis
+T11	Organ 237 257	intestinal ecosystem
+T12	Process 278 287	digestion
+T13	Process 295 303	presence
+T14	Bio_Process 340 346	health
+T15	Process 347 354	effects
+T16	Process 364 374	prevention
+T17	Disease 378 386	diarrhea
+T18	Process 388 400	amelioration
+T19	Disease 404 423	lactose intolerance
+T20	Disease 428 444	immunomodulation
+T21	Process 462 468	effect
+T22	Organism_subdivision 472 475	GIT
+T23	Organism1 476 486	microflora
+T24	Parameter 508 516	capacity
+T25	Organism1 520 534	bifidobacteria
+T26	Protein 546 558	bacteriocins
+T27	Molecule 570 591	bacteriostatic agents
+T28	Parameter 605 613	spectrum
+T29	Process 617 623	action
+T30	Parameter 638 640	pH
+T31	Parameter 650 658	activity
+T32	Value 672 675	~30
+T33	Organism1 682 689	species
+T34	Organism1 693 707	bifidobacteria
+T35	Organism1 736 745	mammalian
+T36	Organism_subdivision 746 749	GIT
+T37	Multi-tissue_structure 769 776	vaginal
+T38	Body_part 781 792	oral cavity
+T39	Organism1 811 820	anaerobes
+T40	Organism 838 853	Actinomycetales
+T41	Organism1 865 887	Gram-positive bacteria
+T42	Unknown 898 900	GC
+T43	Organism1 928 942	Corynebacteria
+T44	Organism1 944 956	Mycobacteria
+T45	Organism 962 976	Streptomycetes
+T46	Process 978 989	Description
+T47	Organism 990 1005	Bifidobacterium
+T48	Chemical 1006 1012	longum
+T49	Organism1 1019 1027	organism
+T50	Organism1 1040 1052	adult humans
+T51	Organism2 1069 1076	infants
+T52	Parameter 1089 1098	component
+T53	Organism_subdivision 1102 1105	gut
+T54	Organism1 1106 1111	flora
+T55	Process 1113 1124	Description
+T56	Organism 1125 1140	Bifidobacterium
+T57	Chemical 1141 1147	longum
+T58	Unknown 1164 1167	str
+T59	Unknown 1169 1173	ATCC
+T60	Value 1174 1179	15697
+T61	Organism2 1186 1192	strain
+T62	Organism2 1211 1223	human infant
+T63	Multi-tissue_structure 1224 1229	feces
+T64	Organism1 1211 1216	human

@@ -1,0 +1,106 @@
+T1	Organism 0 20	Yersinia pestis CO92
+T2	Process 21 32	Description
+T3	Organism 33 41	Yersinia
+T4	Organism1 48 53	genus
+T5	Organism1 69 76	species
+T6	Organism1 93 108	human pathogens
+T7	Molecule 119 136	virulence factors
+T8	Protein_part 156 184	pathogenicity islands (PAIs)
+T9	Phenotype 211 229	invasive phenotype
+T10	Disease 246 265	Yersinia infections
+T11	Protein_part 273 277	PAIs
+T12	Cellular_component 296 321	extrachromosomal plasmids
+T13	Protein 332 342	chromosome
+T14	Disease 352 361	virulence
+T15	Body_part 362 369	plasmid
+T16	Organism1 393 398	human
+T17	Organism1 408 417	pathogens
+T18	Protein 421 429	pCD1/pYv
+T19	Complex 447 472	type III secretion system
+T20	Protein 493 511	virulence proteins
+T21	Process 531 546	internalization
+T22	Organism2 556 560	host
+T23	Cell 561 565	cell
+T24	Process 567 578	Description
+T25	Organism 579 594	Yersinia pestis
+T26	Organism1 601 608	species
+T27	Profession 637 663	Institut Pasteur scientist
+T28	Protein 664 676	Andre Yersin
+T29	Unknown 688 692	Hong
+T30	Parameter 693 697	Kong
+T31	Unknown 719 724	agent
+T32	Disease 728 734	plague
+T33	Disease 773 780	disease
+T34	Organism1 822 830	organism
+T35	Organism1 855 859	rats
+T36	Organism1 863 869	humans
+T37	Disease 893 901	infected
+T38	Organism1 902 906	flea
+T39	Chemical 942 945	air
+T40	Disease 964 973	infection
+T41	Organism 975 990	Yersinia pestis
+T42	Disease 1007 1017	pathogenic
+T43	Organism1 1018 1026	organism
+T44	Disease 1076 1083	disease
+T45	Organism1 1128 1136	organism
+T46	Disease 1140 1154	enteroinvasive
+T47	Cell 1189 1200	macrophages
+T48	Organism2 1248 1252	host
+T49	Organism 1254 1269	Yersinia pestis
+T50	Organism1 1300 1308	serovars
+T51	Mutant_Organism 1310 1317	Antiqua
+T52	Mutant_Organism 1319 1329	Mediavalis
+T53	Mutant_Organism 1335 1345	Orientalis
+T54	Organism1 1405 1410	human
+T55	Value 1507 1511	19th
+T56	Unknown 1521 1526	Black
+T57	Bio_Process 1527 1532	Death
+T58	Habitat 1560 1565	China
+T59	Value 1577 1581	19th
+T60	Organism 1657 1665	Microtus
+T61	Organism 1667 1682	Yersinia pestis
+T62	Process 1711 1720	insertion
+T63	Unknown 1721 1729	elements
+T64	Chemical 1742 1747	IS100
+T65	Organism 1770 1778	Yersinia
+T66	Organism1 1791 1798	species
+T67	Body_part 1808 1816	plasmids
+T68	Body_part 1818 1822	pMT1
+T69	Body_part 1827 1832	pPCP1
+T70	Body_part 1834 1838	pMT1
+T71	Protein 1849 1856	protein
+T72	Organism1 1858 1864	murine
+T73	Molecule 1865 1870	toxin
+T74	Process 1895 1907	transmission
+T75	Process 1921 1929	survival
+T76	Organism1 1937 1945	organism
+T77	Organism1 1953 1957	flea
+T78	Organism_subdivision 1958 1964	midgut
+T79	Disease_Process 1971 1986	tissue invasion
+T80	Process 2001 2009	presence
+T81	Protein 2015 2036	plasminogen activator
+T82	Body_part 2052 2065	pPCP1 plasmid
+T83	Organism 2067 2082	Yersinia pestis
+T84	Protein_part 2099 2102	PAI
+T85	Protein 2110 2120	chromosome
+T86	Protein_part 2144 2153	SPI-2 PAI
+T87	Organism 2159 2169	Salmonella
+T88	Location 2182 2195	intracellular
+T89	Process 2196 2204	survival
+T90	Organism1 2212 2220	organism
+T91	Process 2222 2233	Description
+T92	Organism2 2234 2261	Yersinia pestis strain CO92
+T93	Organism2 2268 2274	strain
+T94	Organism 2287 2305	Orientalis subtype
+T95	Unknown 2322 2325	USA
+T96	Organism2 2333 2340	patient
+T97	Disease 2353 2369	pneumonic plague
+T98	Disease 2390 2397	disease
+T99	Disease 2406 2414	infected
+T100	Organism1 2415 2418	cat
+T101	Organism2 2425 2431	strain
+T102	Value 2435 2441	50 Kbp
+T103	Organism 2458 2473	Yersinia pestis
+T104	Protein 2474 2487	KIM10+ genome
+T105	Process 2504 2514	insertions
+T106	Tissue 1971 1977	tissue

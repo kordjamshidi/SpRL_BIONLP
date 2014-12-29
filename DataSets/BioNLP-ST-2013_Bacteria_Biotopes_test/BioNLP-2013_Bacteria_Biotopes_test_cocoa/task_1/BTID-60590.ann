@@ -1,0 +1,545 @@
+T1	Organism 0 22	Sinorhizobium meliloti
+T2	Process 23 37	Classification
+T3	Unknown 38 44	Higher
+T4	Organism1 51 86	
+T5	Process 88 99	Description
+T6	Process 104 116	significance
+T7	Organism 117 139	Sinorhizobium meliloti
+T8	Organism 145 168	gram-negative bacterium
+T9	Organism 183 191	Rhizobia
+T10	Organism 193 204	S. meliloti
+T11	Organism1 241 255	microorganisms
+T12	Value 269 271	11
+T13	Chemical 297 305	nitrogen
+T14	Parameter 323 336	relationships
+T15	Organism1 342 349	legumes
+T16	Organism 355 366	S. meliloti
+T17	Organism 379 390	S. meliloti
+T18	Cell 391 396	cells
+T19	Molecule 404 414	substances
+T20	Chemical 439 444	amino
+T21	Chemical 449 462	organic acids
+T22	Body_part 480 485	roots
+T23	Organism1 489 495	plants
+T24	Value 497 499	12
+T25	Cell 506 511	cells
+T26	Organism_subdivision 529 539	root hairs
+T27	Body_part 561 566	roots
+T28	Organism_subdivision 582 591	root hair
+T29	Geometrical_part 592 596	tips
+T30	Cellular_component 620 638	cytoplasmic bridge
+T31	Protein 653 665	microtubules
+T32	Cellular_component 674 683	cytoplasm
+T33	Cell 691 701	root cells
+T34	Disease 722 731	infection
+T35	Body_part 759 764	roots
+T36	Body_part 772 778	cortex
+T37	Organism 786 795	bacterial
+T38	Cell 796 801	cells
+T39	Organism 816 827	S. meliloti
+T40	Cell 828 833	cells
+T41	Cellular_component 844 853	cytoplasm
+T42	Cell 861 871	root cells
+T43	Bio_Process 880 891	endocytosis
+T44	Value 893 894	1
+T45	Organism 897 908	S. meliloti
+T46	Chemical 931 939	nitrogen
+T47	Organism2 980 984	host
+T48	Value 1007 1009	12
+T49	Organism 1022 1033	S. meliloti
+T50	Chemical 1081 1089	nitrogen
+T51	Chemical 1144 1155	fertilizers
+T52	Value 1157 1158	7
+T53	Organism 1165 1176	S. meliloti
+T54	Protein 1177 1183	genome
+T55	Body_part 1216 1223	nodules
+T56	Organism1 1248 1259	host plants
+T57	Organism 1272 1280	Medicago
+T58	Organism1 1282 1289	alfalfa
+T59	Organism 1324 1333	Melilotus
+T60	Organism1 1341 1347	clover
+T61	Organism 1354 1364	Trigonella
+T62	Organism1 1366 1375	fenugreek
+T63	Organism1 1377 1384	species
+T64	Value 1386 1388	11
+T65	Organism 1413 1424	S. meliloti
+T66	Organism 1435 1443	Rhizobia
+T67	Profession 1464 1479	microbiologists
+T68	Organism1 1496 1504	bacteria
+T69	Body_part 1514 1518	root
+T70	Geometrical_part 1519 1527	surfaces
+T71	Organism2 1537 1541	host
+T72	Process 1551 1561	mechanisms
+T73	Category 1574 1581	complex
+T74	Parameter 1609 1621	relationship
+T75	Value 1623 1625	12
+T76	Protein 1628 1634	Genome
+T77	Geometrical_part 1635 1644	structure
+T78	Organism 1645 1656	S. meliloti
+T79	Organism 1675 1684	Rhizobium
+T80	Protein 1713 1719	genome
+T81	Parameter 1720 1724	size
+T82	Value 1728 1731	6.7
+T83	Protein_part 1740 1750	base pairs
+T84	Protein 1756 1762	genome
+T85	Category 1778 1785	complex
+T86	Unknown 1819 1827	elements
+T87	Molecule 1831 1834	DNA
+T88	Protein 1850 1859	replicons
+T89	Value 1861 1862	5
+T90	Protein 1881 1891	chromosome
+T91	Value 1892 1899	3.65 Mb
+T92	Body_part 1930 1942	megaplasmids
+T93	Value 1943 1950	1.68 Mb
+T94	Value 1955 1962	1.35 Mb
+T95	Value 1977 1978	7
+T96	Protein 1986 1994	replicon
+T97	Disease 2014 2034	bacteria's symbiosis
+T98	Organism1 2044 2054	host plant
+T99	Protein 2068 2076	replicon
+T100	Protein 2104 2122	housekeeping genes
+T101	Organism 2126 2137	S. meliloti
+T102	Cell 2138 2143	cells
+T103	Protein 2163 2168	genes
+T104	Bio_Process 2185 2194	metabolic
+T105	Process 2195 2203	pathways
+T106	Protein 2226 2231	genes
+T107	Organism1 2244 2249	plant
+T108	Process 2250 2261	interaction
+T109	Disease 2277 2292	external stress
+T110	Process 2294 2302	mobility
+T111	Bio_Process 2308 2318	chemotaxis
+T112	Protein 2331 2339	replicon
+T113	Protein 2347 2352	pSymB
+T114	Protein 2362 2367	genes
+T115	Chemical 2380 2388	nutrient
+T116	Process 2389 2395	uptake
+T117	Process 2410 2418	invasion
+T118	Organism2 2426 2436	plant host
+T119	Protein 2461 2469	replicon
+T120	Protein 2477 2482	pSymA
+T121	Chemical 2511 2519	nitrogen
+T122	Organism 2547 2556	bacterium
+T123	Value 2558 2559	5
+T124	Protein 2572 2583	chromosomal
+T125	Protein_part 2584 2594	components
+T126	Profession 2618 2629	researchers
+T127	Disease 2653 2667	Cell structure
+T128	Bio_Process 2672 2682	metabolism
+T129	Organism 2683 2694	S. meliloti
+T130	Organism 2701 2718	aerobic bacterium
+T131	Body_part 2783 2788	roots
+T132	Organism1 2803 2809	plants
+T133	Value 2811 2813	14
+T134	Protein 2825 2845	superoxide dismutase
+T135	Protein 2864 2873	sodA gene
+T136	Process 2889 2898	formation
+T137	Chemical 2902 2919	hydrogen peroxide
+T138	Chemical 2924 2930	oxygen
+T139	Chemical 2936 2947	superoxides
+T140	Value 2949 2951	14
+T141	Organism 2954 2965	S. meliloti
+T142	Cell 2966 2971	cells
+T143	Process 3002 3011	different
+T144	Habitat 3012 3024	environments
+T145	Parameter 3038 3047	life time
+T146	Body_part 3066 3073	nodules
+T147	Body_part 3088 3093	roots
+T148	Organism1 3097 3103	plants
+T149	Value 3105 3106	4
+T150	Process 3138 3147	abundance
+T151	Chemical 3151 3160	manganese
+T152	Cell 3170 3174	cell
+T153	Disease 3195 3205	aerobiosis
+T154	Body_part 3223 3230	nodules
+T155	Parameter 3251 3264	concentration
+T156	Chemical 3273 3279	oxygen
+T157	Chemical 3284 3293	manganese
+T158	Chemical 3303 3307	iron
+T159	Chemical 3335 3341	acidic
+T160	Habitat 3342 3353	environment
+T161	Value 3355 3356	9
+T162	Unknown 3367 3377	conditions
+T163	Organism 3403 3414	S. meliloti
+T164	Cell 3415 3420	cells
+T165	Chemical 3435 3462	iron-substituted superoxide
+T166	Value 3475 3477	15
+T167	Organism 3512 3523	S. meliloti
+T168	Cell 3524 3529	cells
+T169	Process 3530 3540	transition
+T170	Body_part 3609 3615	nodule
+T171	Habitat 3616 3627	environment
+T172	Protein 3663 3683	superoxide dismutase
+T173	Value 3685 3687	14
+T174	Organism 3690 3701	S. meliloti
+T175	Cell 3706 3716	root cells
+T176	Organism1 3720 3727	legumes
+T177	Parameter 3746 3758	relationship
+T178	Organism 3772 3781	bacterial
+T179	Cell 3782 3787	cells
+T180	Chemical 3804 3812	nitrogen
+T181	Cell 3839 3849	root cells
+T182	Value 3851 3853	12
+T183	Organism1 3870 3875	plant
+T184	Cell 3876 3881	cells
+T185	Chemical 3898 3914	carbon compounds
+T186	Organism 3924 3935	S. meliloti
+T187	Process 3940 3946	uptake
+T188	Chemical 3956 3962	carbon
+T189	Chemical 3998 4004	carbon
+T190	Organism 4030 4041	S. meliloti
+T191	Cell 4042 4047	cells
+T192	Chemical 4049 4067	dicarboxylic acids
+T193	Chemical 4076 4085	succinate
+T194	Chemical 4101 4107	malate
+T195	Process 4139 4150	involvement
+T196	Chemical 4154 4162	nitrogen
+T197	Process 4163 4171	fixation
+T198	Value 4173 4175	13
+T199	Process 4182 4191	oxidation
+T200	Chemical 4201 4210	compounds
+T201	Organism 4228 4238	S. melioti
+T202	Cell 4239 4244	cells
+T203	Chemical 4275 4283	nitrogen
+T204	Organism1 4318 4324	plants
+T205	Chemical 4338 4347	compounds
+T206	Organism 4359 4368	bacterial
+T207	Cell 4369 4374	cells
+T208	Process 4394 4400	growth
+T209	Parameter 4401 4405	rate
+T210	Process 4419 4425	uptake
+T211	Chemical 4429 4438	succinate
+T212	Chemical 4462 4468	carbon
+T213	Chemical 4489 4498	succinate
+T214	Molecule 4508 4518	catabolite
+T215	Process 4519 4529	repression
+T216	Molecule 4553 4563	catabolite
+T217	Process 4564 4574	repression
+T218	Organism1 4584 4592	bacteria
+T219	Value 4594 4596	10
+T220	Process 4609 4629	molecular mechanisms
+T221	Chemical 4637 4646	succinate
+T222	Molecule 4656 4666	catabolite
+T223	Process 4667 4677	repression
+T224	Organism 4730 4741	S. meliloti
+T225	Chemical 4756 4762	carbon
+T226	Chemical 4788 4797	Phosphate
+T227	Process 4798 4806	Transfer
+T228	Unknown 4807 4813	System
+T229	Cell 4826 4831	cells
+T230	Unknown 4851 4854	PTS
+T231	Protein 4880 4891	transporter
+T232	Protein 4905 4918	DctA permease
+T233	Value 4920 4922	13
+T234	Organism 4929 4938	bacterial
+T235	Cell 4939 4944	cells
+T236	Chemical 4964 4979	polysaccharides
+T237	Chemical 4990 4998	glycogen
+T238	Chemical 5000 5019	cyclic Beta-glucans
+T239	Chemical 5025 5043	exopolysaccharides
+T240	Process 5062 5070	pathways
+T241	Cell 5087 5092	cells
+T242	Chemical 5105 5121	Entner-Doudoroff
+T243	Chemical 5126 5143	pentose-phosphate
+T244	Process 5144 5152	pathways
+T245	Chemical 5158 5177	glucose 6-phosphate
+T246	Protein 5190 5199	enzymatic
+T247	Value 5210 5212	13
+T248	Organism1 5237 5245	bacteria
+T249	Organism 5247 5269	Sinorhizobium meliloti
+T250	Cell 5270 5275	cells
+T251	Process 5296 5300	role
+T252	Process 5308 5316	survival
+T253	Organism1 5325 5338	plant species
+T254	Process 5367 5379	contribution
+T255	Habitat 5387 5398	environment
+T256	Value 5411 5413	12
+T257	Value 5445 5462	approximately 85%
+T258	Chemical 5463 5471	nitrogen
+T259	Unknown 5500 5507	element
+T260	Organism1 5523 5532	organisms
+T261	Process 5554 5563	processes
+T262	Chemical 5574 5582	nitrogen
+T263	Chemical 5627 5637	dinitrogen
+T264	Chemical 5639 5641	N2
+T265	Organism1 5669 5675	plants
+T266	Organism1 5680 5687	animals
+T267	Value 5689 5690	8
+T268	Organism 5693 5704	S. meliloti
+T269	Cell 5705 5710	cells
+T270	Process 5732 5736	role
+T271	Habitat 5744 5755	environment
+T272	Parameter 5784 5797	relationships
+T273	Organism1 5814 5820	plants
+T274	Chemical 5833 5835	N2
+T275	Chemical 5841 5857	organic nitrogen
+T276	Parameter 5871 5883	relationship
+T277	Organism1 5897 5903	plants
+T278	Chemical 5969 5977	nutrient
+T279	Organism 5994 6005	S. meliloti
+T280	Process 6025 6040	denitrification
+T281	Process 6050 6065	Denitrification
+T282	Process 6073 6080	process
+T283	Chemical 6093 6100	nitrate
+T284	Chemical 6105 6112	nitrite
+T285	Chemical 6118 6120	N2
+T286	Habitat 6151 6162	environment
+T287	Organism 6164 6175	S. meliloti
+T288	Organism1 6217 6226	organisms
+T289	Protein 6257 6282	nitrogen oxide reductases
+T290	Protein 6316 6326	chromosome
+T291	Value 6328 6329	8
+T292	Process 6332 6347	Denitrification
+T293	Process 6367 6374	effects
+T294	Process 6385 6389	loss
+T295	Chemical 6413 6421	nitrogen
+T296	Chemical 6437 6440	N2O
+T297	Chemical 6477 6483	acidic
+T298	Process 6496 6505	depletion
+T299	Unknown 6513 6524	ozone layer
+T300	Process 6535 6550	denitrification
+T301	Organism 6564 6575	S. meliloti
+T302	Cell 6576 6581	cells
+T303	Process 6600 6607	effects
+T304	Chemical 6672 6675	N2O
+T305	Process 6688 6703	denitrification
+T306	Chemical 6731 6734	gas
+T307	Organism1 6758 6767	microbial
+T308	Process 6768 6783	denitrification
+T309	Process 6820 6832	purification
+T310	Chemical 6836 6846	wastewater
+T311	Chemical 6848 6856	Nitrogen
+T312	Chemical 6862 6873	fertilizers
+T313	Process 6898 6907	pollution
+T314	Chemical 6918 6923	water
+T315	Value 6925 6926	7
+T316	Chemical 6934 6939	water
+T317	Bio_Process 6968 6976	pregnant
+T318	Organism2 6977 6982	women
+T319	Organism2 6987 6994	infants
+T320	Profession 7004 7014	scientists
+T321	Organism1 7037 7046	microbial
+T322	Process 7047 7062	denitrification
+T323	Chemical 7066 7071	water
+T324	Process 7072 7081	treatment
+T325	Unknown 7110 7117	NO3 (8)
+T326	Organism 7135 7157	Sinorhizobium meliloti
+T327	Chemical 7163 7171	nitrogen
+T328	Organism1 7184 7192	bacteria
+T329	Process 7228 7237	reactions
+T330	Organism1 7248 7254	plants
+T331	Disease 7277 7287	pathogenic
+T332	Parameter 7337 7349	relationship
+T333	Organism1 7366 7372	plants
+T334	Habitat 7400 7411	environment
+T335	Value 7413 7415	12
+T336	Organism 7418 7429	S. meliloti
+T337	Cell 7430 7435	cells
+T338	Process 7457 7472	denitrification
+T339	Process 7476 7484	addition
+T340	Chemical 7488 7496	nitrogen
+T341	Process 7497 7505	fixation
+T342	Process 7516 7523	process
+T343	Process 7534 7546	side effects
+T344	Habitat 7554 7565	environment
+T345	Process 7594 7609	denitrification
+T346	Habitat 7626 7637	environment
+T347	Chemical 7650 7658	nitrogen
+T348	Chemical 7691 7694	N2O
+T349	Chemical 7716 7722	acidic
+T350	Unknown 7745 7756	ozone layer
+T351	Value 7758 7759	8
+T352	Organism 7777 7788	S. meliloti
+T353	Cell 7789 7794	cells
+T354	Habitat 7833 7844	environment
+T355	Process 7866 7881	denitrification
+T356	Process 7902 7915	investigation
+T357	Process 7917 7928	Application
+T358	Organism 7932 7957	
+T359	Cell 7958 7963	cells
+T360	Profession 7992 8007	microbiologists
+T361	Organism1 8025 8031	plants
+T362	Chemical 8036 8044	nutrient
+T363	Process 8045 8056	composition
+T364	Organism 8082 8091	bacterial
+T365	Cell 8092 8097	cells
+T366	Organism1 8151 8160	microbial
+T367	Organism1 8207 8220	plant/microbe
+T368	Process 8221 8233	interactions
+T369	Profession 8235 8246	researchers
+T370	Process 8265 8276	correlation
+T371	Process 8289 8297	presence
+T372	Chemical 8309 8318	compounds
+T373	Organism1 8338 8344	plants
+T374	Value 8362 8363	4
+T375	Chemical 8384 8393	nutrients
+T376	Body_part 8403 8407	root
+T377	Organism1 8411 8417	plants
+T378	Chemical 8445 8454	nutrients
+T379	Organism1 8485 8499	microorganisms
+T380	Body_part 8519 8523	root
+T381	Geometrical_part 8524 8530	region
+T382	Body_part 8571 8575	root
+T383	Geometrical_part 8576 8582	region
+T384	Chemical 8600 8608	nutrient
+T385	Process 8609 8622	distributions
+T386	Parameter 8638 8650	relationship
+T387	Organism 8656 8667	S. meliloti
+T388	Organism 8678 8686	Rhizobia
+T389	Organism1 8698 8705	legumes
+T390	Organism1 8727 8736	microbial
+T391	Profession 8737 8747	ecologists
+T392	Value 8767 8768	3
+T393	Organism1 8771 8780	Bacterial
+T394	Cell 8781 8786	cells
+T395	Process 8836 8844	presence
+T396	Chemical 8856 8865	nutrients
+T397	Body_part 8873 8877	root
+T398	Organism1 8906 8914	bacteria
+T399	Organism1 8928 8934	plants
+T400	Protein_part 8967 8974	regions
+T401	Chemical 8992 9001	nutrients
+T402	Unknown 9006 9016	present(3)
+T403	Chemical 9048 9057	nutrients
+T404	Process 9065 9078	distributions
+T405	Process 9086 9095	depletion
+T406	Process 9106 9112	uptake
+T407	Organism1 9120 9125	plant
+T408	Body_part 9126 9131	roots
+T409	Chemical 9215 9221	sugars
+T410	Chemical 9223 9236	organic acids
+T411	Chemical 9247 9253	carbon
+T412	Process 9266 9272	growth
+T413	Organism1 9276 9284	bacteria
+T414	Organism1 9296 9309	plant species
+T415	Organism 9387 9409	Sinorhizobium meliloti
+T416	Chemical 9423 9437	drinking water
+T417	Process 9453 9468	denitrification
+T418	Chemical 9498 9501	NO3
+T419	Chemical 9505 9507	N2
+T420	Chemical 9512 9515	N2O
+T421	Organism 9538 9549	S. meliloti
+T422	Cell 9550 9555	cells
+T423	Chemical 9573 9578	water
+T424	Process 9579 9588	treatment
+T425	Process 9603 9611	addition
+T426	Value 9630 9631	8
+T427	Unknown 9642 9650	Research
+T428	Company 9658 9688	Australian National University
+T429	Company 9691 9729	Research School of Biological Sciences
+T430	Cell 9775 9797	undifferentiated cells
+T431	Organism1 9801 9807	plants
+T432	Process 9816 9827	development
+T433	Organism1 9836 9842	plants
+T434	Disease 9854 9873	bacterial infection
+T435	Profession 9888 9899	researchers
+T436	Organism1 9919 9924	plant
+T437	Organism 9982 10004	Sinorhizobium meliloti
+T438	Cell 10005 10010	cells
+T439	Parameter 10024 10036	relationship
+T440	Organism1 10046 10052	legume
+T441	Body_part 10053 10058	roots
+T442	Process 10115 10126	interaction
+T443	Process 10134 10139	basis
+T444	Protein 10192 10197	genes
+T445	Protein 10199 10212	gene products
+T446	Process 10218 10227	signaling
+T447	Molecule 10228 10237	molecules
+T448	Process 10247 10253	growth
+T449	Process 10258 10269	development
+T450	Tissue 10277 10292	nodule meristem
+T451	Protein_part 10313 10320	peptide
+T452	Molecule 10328 10337	molecules
+T453	Molecule 10354 10364	regulators
+T454	Cell 10383 10399	meristemic cells
+T455	Organism1 10432 10438	plants
+T456	Process 10443 10451	adaption
+T457	Habitat 10459 10481	Australian environment
+T458	Process 10499 10509	production
+T459	Chemical 10513 10522	chemicals
+T460	Organism1 10546 10551	human
+T461	Cell 10552 10557	cells
+T462	Protein 10607 10613	genome
+T463	Organism1 10621 10646	microsymbiont S. meliloti
+T464	Cell 10647 10652	cells
+T465	Bio_Process 10686 10695	metabolic
+T466	Cell 10716 10721	cells
+T467	Organism1 10728 10736	bacteria
+T468	Phenotype 10759 10769	lifestyles
+T469	Organism1 10817 10822	plant
+T470	Body_part 10854 10866	root nodules
+T471	Protein 10896 10904	proteins
+T472	Unknown 10940 10950	conditions
+T473	Value 10952 10954	14
+T474	Value 10957 10968	2) Recently
+T475	Company 10974 10993	National Laboratory
+T476	Organism1 10997 11002	Plant
+T477	Unknown 11003 11021	Molecular Genetics
+T478	Habitat 11062 11067	China
+T479	Protein 11100 11105	genes
+T480	Organism 11109 11120	S. meliloti
+T481	Chemical 11144 11152	nitrogen
+T482	Process 11153 11161	fixation
+T483	Organism 11177 11186	Rhizobium
+T484	Protein 11187 11196	nifA gene
+T485	Category 11226 11235	activator
+T486	Chemical 11239 11247	nitrogen
+T487	Process 11248 11256	fixation
+T488	Process 11274 11281	effects
+T489	Body_part 11285 11291	nodule
+T490	Organism1 11292 11300	bacteria
+T491	Process 11328 11335	effects
+T492	Organism 11343 11365	Sinorhizobium meliloti
+T493	Protein 11366 11375	nifA gene
+T494	Body_part 11379 11386	Alfalfa
+T495	Organism 11387 11393	plants
+T496	Technique 11399 11418	cDNA-AFLP technique
+T497	Process 11450 11457	changes
+T498	Protein 11461 11465	gene
+T499	Process 11466 11476	expression
+T500	Molecule 11480 11491	nifA mutant
+T501	Body_part 11492 11499	nodules
+T502	Process 11521 11534	investigation
+T503	Organism 11571 11582	S. meliloti
+T504	Molecule 11583 11594	nifA mutant
+T505	Process 11604 11613	different
+T506	Protein 11614 11618	gene
+T507	Process 11619 11629	expression
+T508	Protein 11647 11661	wild type gene
+T509	Body_part 11665 11672	Alfalfa
+T510	Organism 11673 11680	nodules
+T511	Value 11682 11683	6
+T512	Value 11686 11688	3)
+T513	Company 11689 11706	Dublin University
+T514	Process 11734 11744	mechanisms
+T515	Chemical 11748 11759	siderophore
+T516	Chemical 11769 11773	iron
+T517	Process 11774 11785	acquisition
+T518	Organism 11789 11811	Sinorhizobium meliloti
+T519	Body_part 11820 11832	root nodules
+T520	Organism1 11836 11842	plants
+T521	Process 11860 11869	abundance
+T522	Chemical 11873 11877	iron
+T523	Value 11889 11892	low
+T524	Parameter 11893 11895	pH
+T525	Organism 11897 11908	S. meliloti
+T526	Cell 11909 11914	cells
+T527	Protein 11947 11984	iron-substituted superoxide dismutase
+T528	Chemical 12011 12017	oxygen
+T529	Chemical 12042 12046	ions
+T530	Chemical 12050 12054	Fe3+
+T531	Cell 12065 12070	cells
+T532	Process 12091 12107	active transport
+T533	Process 12108 12118	mechanisms
+T534	Profession 12120 12131	Researchers
+T535	Protein 12185 12202	membrane proteins
+T536	Chemical 12220 12231	siderophore
+T537	Process 12232 12243	recognition
+T538	Process 12248 12257	transport
+T539	Value 12259 12260	9
+T540	Organism1 2426 2431	plant
+T541	Chemical 2825 2835	superoxide
+T542	Chemical 3663 3673	superoxide
+T543	Chemical 6257 6271	nitrogen oxide
+T544	Chemical 11947 11974	iron -substituted superoxide
+T545	Cell 2653 2667	Cell structure

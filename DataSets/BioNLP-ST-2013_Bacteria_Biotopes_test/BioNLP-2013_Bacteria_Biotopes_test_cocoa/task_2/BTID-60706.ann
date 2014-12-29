@@ -1,0 +1,96 @@
+T1	Organism 0 19	Wolbachia pipientis
+T2	Process 20 34	Classification
+T3	Organism1 35 61	
+T4	Organism 63 77	Proteobacteria
+T5	Organism 79 98	Alphaproteobacteria
+T6	Organism 100 113	Rickettsiales
+T7	Organism1 115 129	Rickettsiaceae
+T8	Unknown 131 142	Wolbachieae
+T9	Organism1 144 159	
+T10	Organism1 164 211	
+T11	Unknown 212 216	wMel
+T12	Process 217 228	Description
+T13	Process 233 245	Significance
+T14	Organism 246 265	Wolbachia pipientis
+T15	Organism1 270 278	bacteria
+T16	Organism1 307 319	invertebrate
+T17	Organism1 328 338	arthropods
+T18	Organism1 352 359	insects
+T19	Organism 361 370	Wolbachia
+T20	Organism1 397 406	pathogens
+T21	Habitat 410 415	Earth
+T22	Body_part 432 451	reproductive system
+T23	Organism1 455 462	insects
+T24	Value 485 498	more than 18%
+T25	Organism1 502 509	insects
+T26	Organism1 539 545	spider
+T27	Organism1 547 555	mosquito
+T28	Organism1 561 566	flies
+T29	Organism1 572 580	bacteria
+T30	Disease 626 635	infection
+T31	Disease 687 702	chromosomal sex
+T32	Bio_Process 722 742	gamete fertilization
+T33	Bio_Process 766 781	parthenogenesis
+T34	Process 794 800	growth
+T35	Process 805 816	development
+T36	Bio_Process 825 838	fertilization
+T37	Cell 842 847	sperm
+T38	Organism2 880 885	males
+T39	Process 918 929	competition
+T40	Cell 938 943	sperm
+T41	Location 955 966	cytoplasmic
+T42	Cell 997 1001	eggs
+T43	Organism 1003 1014	Wolbachia's
+T44	Process 1038 1050	reproduction
+T45	Profession 1067 1077	scientists
+T46	Disease 1105 1114	infection
+T47	Parameter 1125 1134	potential
+T48	Organism1 1155 1159	pest
+T49	Disease 1164 1172	pathosis
+T50	Process 1231 1244	gene transfer
+T51	Organism2 1254 1259	hosts
+T52	Organism 1263 1272	Wolbachia
+T53	Location 1330 1337	lateral
+T54	Process 1338 1351	gene transfer
+T55	Organism 1360 1369	Wolbachia
+T56	Organism 1374 1389	D. melanogaster
+T57	Organism 1401 1410	Wolbachia
+T58	Organism2 1425 1430	hosts
+T59	Cellular_component 1478 1490	mitochondria
+T60	Organism2 1506 1514	ancestor
+T61	Organism1 1520 1540	alpha-Proteobacteria
+T62	Process 1566 1576	similarity
+T63	Cellular_component 1582 1594	mitochondria
+T64	Organism1 1600 1607	species
+T65	Organism 1624 1637	Rickettsiales
+T66	Organism 1649 1658	Wolbachia
+T67	Organism1 1664 1682	parasitic bacteria
+T68	Body_part 1696 1715	reproductive system
+T69	Organism1 1719 1726	insects
+T70	Process 1765 1777	continuation
+T71	Disease 1783 1792	symbiosis
+T72	Organism1 1805 1813	bacteria
+T73	Organism2 1818 1822	host
+T74	Process 1852 1863	interaction
+T75	Disease 1893 1903	parasitism
+T76	Organism1 1909 1917	bacteria
+T77	Process 1925 1934	different
+T78	Organ 1944 1949	organ
+T79	Organism2 2019 2027	maternal
+T80	Protein 2028 2033	genes
+T81	Process 2060 2070	generation
+T82	Organ 2088 2094	testes
+T83	Organ 2099 2106	ovaries
+T84	Organism2 2116 2121	hosts
+T85	Process 2138 2147	different
+T86	Phenotype 2148 2158	phenotypes
+T87	Unknown 2170 2181	Furthermore
+T88	Organism 2183 2192	Wolbachia
+T89	Cell 2217 2223	sperms
+T90	Cell 2249 2253	eggs
+T91	Disease 2263 2272	infection
+T92	Organism2 2293 2302	offspring
+T93	Disease 2306 2314	infected
+T94	Organism2 2315 2322	females
+T95	Organism2 2331 2336	males
+T96	Multi-tissue_structure 722 728	gamete

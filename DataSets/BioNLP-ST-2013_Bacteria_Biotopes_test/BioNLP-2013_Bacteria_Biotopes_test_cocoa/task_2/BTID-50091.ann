@@ -1,0 +1,129 @@
+T1	Organism 0 45	
+T2	Disease 53 74	Legionnaires' disease
+T3	Organism1 98 106	bacteria
+T4	Organism1 112 128	genus Legionella
+T5	Value 136 140	1976
+T6	Disease_Process 149 157	outbreak
+T7	Disease 161 170	pneumonia
+T8	Habitat 177 185	American
+T9	Value 211 213	29
+T10	Bio_Process 214 220	deaths
+T11	Unknown 236 241	agent
+T12	Organism 274 296	Legionella pneumophila
+T13	Organism1 329 334	genus
+T14	Organism1 340 349	organisms
+T15	Organism1 369 374	genus
+T16	Organism1 379 401	Gram-negative bacteria
+T17	Location 422 435	intracellular
+T18	Organism1 436 445	parasites
+T19	Organism 447 469	Legionella pneumophila
+T20	Cell 483 486	rod
+T21	Organism 519 528	bacterium
+T22	Category 542 549	complex
+T23	Process 562 574	requirements
+T24	Protein_part 588 596	cysteine
+T25	Chemical 612 618	sodium
+T26	Parameter 619 625	levels
+T27	Organism 635 657	Legionella pneumophila
+T28	Habitat 703 715	environments
+T29	Habitat 724 729	lakes
+T30	Habitat 734 739	ponds
+T31	Process 753 759	growth
+T32	Parameter 760 777	temperature range
+T33	Organism1 787 795	bacteria
+T34	Value 799 820	20-45 degrees Celsius
+T35	Parameter 836 841	areas
+T36	Parameter 863 877	concentrations
+T37	Organism1 887 892	algae
+T38	Unknown 906 915	particles
+T39	Organism1 937 945	bacteria
+T40	Chemical 963 967	iron
+T41	Chemical 978 986	nitrogen
+T42	Chemical 1022 1031	nutrients
+T43	Process 1036 1042	growth
+T44	Process 1055 1065	protection
+T45	Chemical 1077 1086	chemicals
+T46	Organism1 1092 1100	organism
+T47	Chemical 1157 1162	water
+T48	Value 1166 1170	room
+T49	Parameter 1171 1182	temperature
+T50	Organism 1200 1210	Legionella
+T51	Habitat 1229 1241	environments
+T52	Organism1 1261 1270	organisms
+T53	Organism1 1289 1297	bacteria
+T54	Process 1345 1356	association
+T55	Parameter 1384 1396	relationship
+T56	Organism1 1411 1420	protozoan
+T57	Organism 1447 1470	Tetrahymena thermophila
+T58	Organism 1476 1499	Acanthamoeba castellani
+T59	Organism1 1522 1530	protozoa
+T60	Organism 1565 1575	Legionella
+T61	Organism 1612 1622	Legionella
+T62	Organism1 1664 1672	bacteria
+T63	Location 1682 1697	intracellularly
+T64	Process 1743 1755	reproduction
+T65	Organism 1814 1833	Legionella bacteria
+T66	Organism1 1846 1857	human being
+T67	Chemical 1936 1941	water
+T68	Organism 1943 1962	Legionella bacteria
+T69	Organ 1986 1991	lungs
+T70	Organism1 1995 2007	human beings
+T71	Process 2018 2025	process
+T72	Process 2033 2047	aerosilisation
+T73	Technique 2065 2072	devices
+T74	Organism1 2110 2118	bacteria
+T75	Chemical 2123 2126	air
+T76	Process 2127 2139	conditioning
+T77	Technique 2186 2193	devices
+T78	Organism1 2216 2224	bacteria
+T79	Disease 2226 2235	Infection
+T80	Organism 2239 2261	Legionella pneumophila
+T81	Disease 2280 2301	Legionnaire's Disease
+T82	Organism2 2317 2324	strains
+T83	Organism1 2332 2340	bacteria
+T84	Disease 2371 2379	disorder
+T85	Unknown 2387 2394	Pontiac
+T86	Disease 2395 2400	Fever
+T87	Disease 2417 2431	mild infection
+T88	Disease 2445 2468	influenza-like symptoms
+T89	Process 2494 2503	treatment
+T90	Disease 2518 2531	Legionellosis
+T91	Disease 2535 2556	Legionnaire's Disease
+T92	Chemical 2629 2632	air
+T93	Process 2633 2645	conditioning
+T94	Company 2691 2700	hospitals
+T95	Disease 2712 2720	symptoms
+T96	Disease 2724 2744	Legionnaires Disease
+T97	Value 2773 2788	two to ten days
+T98	Parameter 2808 2815	average
+T99	Process 2836 2846	incubation
+T100	Value 2850 2872	about five to six days
+T101	Disease 2909 2928	bacterial pneumonia
+T102	Disease 2963 2971	anorexia
+T103	Disease 2973 2980	malaise
+T104	Disease 2982 2989	myalgia
+T105	Disease 2995 3003	headache
+T106	Profession 3019 3026	doctors
+T107	Disease 3049 3058	infection
+T108	Organism 3066 3086	Legionella bacterium
+T109	Disease 3109 3117	symptoms
+T110	Disease 3126 3133	disease
+T111	Disease 3153 3158	cough
+T112	Disease 3160 3170	high fever
+T113	Disease 3176 3182	chills
+T114	Disease 3184 3198	abdominal pain
+T115	Disease 3200 3208	vomiting
+T116	Disease 3213 3221	diarrhea
+T117	Disease 3248 3269	Legionnaire's Disease
+T118	Disease 3276 3295	respiratory failure
+T119	Technique 3311 3333	mechanical ventilation
+T120	Disease 3341 3354	complications
+T121	Disease 3359 3378	acute renal failure
+T122	Disease 3380 3391	hypotension
+T123	Disease 3397 3402	shock
+T124	Organism2 3420 3428	patients
+T125	Parameter 3459 3463	rate
+T126	Value 3490 3505	fifteen percent
+T127	Organism_subdivision 3184 3193	abdominal
+T128	Multi-tissue_structure 3276 3287	respiratory
+T129	Organ 3365 3370	renal

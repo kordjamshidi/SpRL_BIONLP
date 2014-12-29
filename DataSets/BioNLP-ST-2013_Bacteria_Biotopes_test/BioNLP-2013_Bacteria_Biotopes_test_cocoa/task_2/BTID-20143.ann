@@ -1,0 +1,86 @@
+T1	Organism 0 37	
+T2	Unknown 38 43	PSU-1
+T3	Process 51 56	basis
+T4	Protein_part 60 77	16S rRNA sequence
+T5	Technique 79 91	Dicks et al.
+T6	Process 107 123	reclassification
+T7	Organism 127 144	Leuconostoc oenos
+T8	Organism1 156 161	genus
+T9	Organism 163 178	Oenococcus oeni
+T10	Organism 180 187	O. oeni
+T11	Molecule 213 216	DNA
+T12	Organism1 241 247	genera
+T13	Organism 255 273	Leuconostoc branch
+T14	Unknown 281 284	LAB
+T15	Value 286 287	1
+T16	Organism 308 315	O. oeni
+T17	Organism1 349 362	microorganism
+T18	Value 364 365	7
+T19	Process 379 390	comparisons
+T20	Protein 394 414	RNA polymerase genes
+T21	Value 439 440	5
+T22	Process 457 468	comparisons
+T23	Organism 477 484	O. oeni
+T24	Organism 508 533	Leuconostoc mesenteroides
+T25	Geometrical_part 553 557	part
+T26	Unknown 565 570	LABGC
+T27	Process 631 640	evolution
+T28	Organism 700 707	O. oeni
+T29	Chemical 734 740	malate
+T30	Chemical 744 751	lactate
+T31	Process 768 778	conversion
+T32	Process 795 801	uptake
+T33	Chemical 805 811	malate
+T34	Process 817 832	decarboxylation
+T35	Chemical 836 849	L-lactic acid
+T36	Chemical 854 857	CO2
+T37	Process 874 880	export
+T38	Category 888 896	products
+T39	Process 913 923	conversion
+T40	Parameter 934 940	energy
+T41	Cell 949 953	cell
+T42	Molecule 971 977	proton
+T43	Parameter 985 990	force
+T44	Value 992 993	6
+T45	Protein 1009 1014	genes
+T46	Protein 1028 1048	malate decarboxylase
+T47	Protein 1053 1068	malate permease
+T48	Value 1105 1106	3
+T49	Value 1108 1109	4
+T50	Process 1147 1160	gene transfer
+T51	Protein 1194 1201	genetic
+T52	Organism 1224 1231	O. oeni
+T53	Organism1 1241 1255	bacteriophages
+T54	Body_part 1260 1268	plasmids
+T55	Value 1294 1295	6
+T56	Organism2 1321 1325	host
+T57	Molecule 1332 1342	transposon
+T58	Unknown 1343 1348	Tn916
+T59	Organism 1377 1384	O. oeni
+T60	Protein 1385 1391	genome
+T61	Value 1393 1394	8
+T62	Protein 1419 1436	chromosomal genes
+T63	Organism 1442 1449	O. oeni
+T64	Value 1471 1475	< 20
+T65	Unknown 1487 1494	GenBank
+T66	Profession 1502 1513	researchers
+T67	Organism2 1545 1560	O. oeni strains
+T68	Protein 1645 1652	protein
+T69	Body_part 1664 1671	plasmid
+T70	Unknown 1683 1687	RAPD
+T71	Protein 1689 1693	PFGE
+T72	Protein 1695 1704	rDNA RFLP
+T73	Process 1732 1743	differences
+T74	Organism2 1747 1754	strains
+T75	Technique 1775 1783	analysis
+T76	Organism 1809 1819	Oenococcus
+T77	Organism1 1848 1853	genus
+T78	Organism2 1859 1865	strain
+T79	Organism 1893 1900	O. oeni
+T80	Unknown 1901 1906	PSU-1
+T81	Company 1935 1956	Penn State University
+T82	Process 2024 2036	fermentation
+T83	Food 2037 2042	wines
+T84	Protein 60 68	16S rRNA
+T85	Chemical 1028 1034	malate
+T86	Chemical 1053 1059	malate

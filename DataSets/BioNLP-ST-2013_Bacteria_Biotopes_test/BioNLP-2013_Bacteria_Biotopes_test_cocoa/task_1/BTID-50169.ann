@@ -1,0 +1,53 @@
+T1	Organism 0 39	
+T2	Disease 47 66	periodontal disease
+T3	Organism 67 86	Treponema denticola
+T4	Organism1 102 110	anaerobe
+T5	Parameter 127 133	number
+T6	Organism1 137 148	spirochetes
+T7	Body_part 162 173	oral cavity
+T8	Organism1 177 183	humans
+T9	Disease 216 235	periodontal disease
+T10	Pathological_formation 240 252	inflammation
+T11	Tissue 256 266	gum tissue
+T12	Tissue 292 296	bone
+T13	Process 297 307	resorbtion
+T14	Disease 323 333	tooth loss
+T15	Organism 339 354	bacterial flora
+T16	Pathological_formation 358 374	gingival lesions
+T17	Bio_Process 385 400	complex biofilm
+T18	Organism 410 422	T. denticola
+T19	Unknown 461 466	layer
+T20	Disease 500 513	dental caries
+T21	Geometrical_part 515 523	cavities
+T22	Disease 526 545	periodontal disease
+T23	Value 608 611	80%
+T24	Organism2 615 621	adults
+T25	Unknown 629 633	U.S.
+T26	Disease 643 662	periodontal disease
+T27	Parameter 671 675	time
+T28	Organism 692 704	T. denticola
+T29	Tissue 716 732	gingival tissues
+T30	Body_part 759 775	tooth root canal
+T31	Disease 777 787	infections
+T32	Organism 789 805	T. denticola DNA
+T33	Protein 810 818	antigens
+T34	Pathological_formation 841 864	atherosclerotic lesions
+T35	Multi-tissue_structure 872 877	aorta
+T36	Organism2 881 895	human patients
+T37	Process 900 911	association
+T39	Disease 944 950	weight
+T40	Organism2 954 961	infants
+T41	Disease 966 985	periodontal disease
+T42	Organism2 993 999	mother
+T43	Process 1039 1049	importance
+T44	Organism1 1051 1060	organisms
+T45	Organism 1080 1092	T. denticola
+T46	Disease 1104 1122	digital dermatitis
+T47	Organism1 1126 1132	cattle
+T48	Organism 1143 1155	T. denticola
+T49	Organism 1170 1181	T. pallidum
+T50	Disease 1187 1195	syphilis
+T51	Organism 1196 1206	spirochete
+T52	Organism1 1214 1223	organisms
+T53	Value 1234 1247	more than 10%
+T54	Organism1 881 886	human

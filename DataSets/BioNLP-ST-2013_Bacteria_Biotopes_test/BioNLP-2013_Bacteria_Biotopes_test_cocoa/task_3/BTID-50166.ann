@@ -1,0 +1,38 @@
+T1	Organism 0 39	
+T2	Category 67 74	complex
+T3	Chemical 75 88	carbohydrates
+T4	Parameter 97 106	potential
+T5	Parameter 122 128	energy
+T6	Organism 136 155	Thermotoga maritima
+T7	Cell 159 162	rod
+T8	Organism 170 179	bacterium
+T9	Organism 203 216	Thermotogales
+T10	Habitat 265 280	marine sediment
+T11	Habitat 284 291	Vulcano
+T12	Habitat 293 298	Italy
+T13	Organism1 304 312	organism
+T14	Process 328 334	growth
+T15	Parameter 335 346	temperature
+T16	Value 350 362	80 degrees C
+T17	Organism 364 375	T. maritima
+T18	Category 404 411	complex
+T19	Chemical 412 425	carbohydrates
+T20	Chemical 436 443	glucose
+T21	Chemical 445 452	sucrose
+T22	Chemical 454 460	starch
+T23	Chemical 462 471	cellulose
+T24	Chemical 477 482	xylan
+T25	Process 492 502	conversion
+T26	Chemical 520 528	hydrogen
+T27	Chemical 535 544	cellulose
+T28	Chemical 549 554	xylan
+T29	Parameter 566 575	potential
+T30	Chemical 589 595	carbon
+T31	Parameter 600 606	energy
+T32	Organism 616 627	T. maritima
+T33	Process 652 664	significance
+T34	Protein 674 687	small-subunit
+T35	Protein 688 701	ribosomal RNA
+T36	Bio_Process 702 711	phylogeny
+T37	Organism 728 737	bacterium
+T38	Organism1 801 811	Eubacteria

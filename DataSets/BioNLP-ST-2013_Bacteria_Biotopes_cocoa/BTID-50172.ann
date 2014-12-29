@@ -1,0 +1,44 @@
+T1	Organism 0 40	
+T2	Organism1 48 53	human
+T3	Disease 54 81	urogenital tract infections
+T4	Organism 82 99	Ureaplasma parvum
+T5	Organism1 105 115	mycoplasma
+T6	Disease 122 132	pathogenic
+T7	Body_part 173 190	urogenital tracts
+T8	Organism1 194 200	humans
+T9	Organism1 228 236	pathogen
+T10	Process 259 264	cause
+T11	Bio_Process 276 285	pregnancy
+T12	Disease 295 311	neonatal disease
+T13	Disease 329 338	arthritis
+T14	Body_part 382 404	central nervous system
+T15	Body_part 409 432	lower respiratory tract
+T16	Organism2 436 451	newborn infants
+T17	Organism2 465 471	infant
+T18	Disease 472 481	pneumonia
+T19	Disease 483 493	meningitis
+T20	Disease 499 509	septicemia
+T21	Organism 511 520	U. parvum
+T22	Organism1 531 541	mycoplasma
+T23	Cellular_component 556 565	cell wall
+T24	Organism2 575 584	ancestors
+T25	Organism1 628 637	organisms
+T26	Organism 654 675	Mycoplasma genitalium
+T27	Protein 693 699	genome
+T28	Value 709 716	750,000
+T29	Protein_part 717 727	base pairs
+T30	Organism 731 740	U. parvum
+T31	Protein 799 804	genes
+T32	Organism 822 831	bacterium
+T33	Protein 855 863	proteins
+T34	Organism1 887 896	organisms
+T35	Parameter 922 930	capacity
+T36	Chemical 962 971	nutrients
+T37	Process 983 989	growth
+T38	Organism1 1006 1014	bacteria
+T39	Organism1 1042 1051	serotypes
+T40	Organism1 1053 1061	serovars
+T41	Organism 1066 1075	U. parvum
+T42	Disease 1092 1099	disease
+T43	Cell 556 560	cell
+T44	Body_part 54 70	urogenital tract

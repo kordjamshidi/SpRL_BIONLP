@@ -1,0 +1,66 @@
+T1	Organism1 14 19	genus
+T2	Habitat 23 56	
+T3	Habitat 80 86	marine
+T4	Organism1 87 92	genus
+T5	Value 106 110	1992
+T6	Company 118 124	Centre
+T7	Chemical 125 138	d'Oceanologie
+T8	Unknown 139 151	de Marseille
+T9	Organism1 158 163	genus
+T10	Habitat 184 203	marine environments
+T11	Organism2 220 227	strains
+T12	Organism 367 381	bacterial mats
+T13	Habitat 383 389	marine
+T14	Chemical 390 399	hot-water
+T15	Habitat 411 416	Japan
+T16	Disease 421 425	cold
+T17	Chemical 426 434	seawater
+T18	Habitat 441 447	Arctic
+T19	Habitat 452 469	Antarctic regions
+T20	Bio_Process 476 485	metabolic
+T21	Mutant_Organism 501 514	Marinobacters
+T22	Category 534 544	substrates
+T23	Chemical 559 571	recalcitrant
+T24	Process 575 586	degradation
+T25	Chemical 595 607	hydrocarbons
+T26	Chemical 611 617	carbon
+T27	Parameter 622 628	energy
+T28	Bio_Process 708 718	metabolism
+T29	Organism2 729 735	strain
+T30	Organism 737 749	Marinobacter
+T31	Chemical 750 771	hydrocarbonoclasticus
+T32	Organism1 859 869	planktonic
+T33	Bio_Process 908 916	biofilms
+T34	Chemical 935 947	hydrocarbons
+T35	Mutant_Organism 1035 1048	Marinobacters
+T36	Chemical 1074 1086	denitrifying
+T37	Organism1 1087 1093	aerobe
+T38	Protein 1141 1152	phosphatase
+T39	Technique 1158 1168	sequencing
+T40	Organism2 1181 1187	strain
+T41	Process 1210 1223	comprehension
+T42	Protein 1231 1236	genes
+T43	Process 1255 1267	assimilation
+T44	Chemical 1271 1277	carbon
+T45	Unknown 1315 1318	OOB
+T46	Unknown 1320 1327	Banyuls
+T47	Chemical 1333 1345	recalcitrant
+T48	Chemical 1354 1366	hydrocarbons
+T49	Unknown 1368 1371	LEM
+T50	Unknown 1373 1376	Pau
+T51	Process 1386 1395	synthesis
+T52	Location 1399 1412	extracellular
+T53	Protein 1413 1420	enzymes
+T54	Unknown 1422 1436	IBSM-Marseille
+T55	Process 1446 1455	formation
+T56	Bio_Process 1459 1467	biofilms
+T57	Unknown 1469 1472	LEM
+T58	Unknown 1474 1477	Pau
+T59	Process 1491 1501	mechanisms
+T60	Process 1505 1515	adaptation
+T61	Chemical 1519 1523	salt
+T62	Chemical 1525 1530	LMGEM
+T63	Unknown 1532 1541	Marseille
+T64	Bio_Process 1624 1634	metabolism
+T65	Habitat 1651 1657	marine
+T66	Organism1 1658 1672	micro-organism

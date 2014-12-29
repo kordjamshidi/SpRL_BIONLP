@@ -1,0 +1,96 @@
+T1	Organism 3 12	bacterium
+T2	Chemical 38 53	dichloromethane
+T3	Organism1 54 62	Microbes
+T4	Chemical 74 94	one-carbon compounds
+T5	Profession 130 140	scientists
+T6	Organism1 155 164	organisms
+T7	Chemical 170 192	multi-carbon compounds
+T8	Molecule 198 207	molecules
+T9	Chemical 216 225	C-C bonds
+T10	Organism1 240 268	aerobic alpha-proteobacteria
+T11	Organism1 276 298	Methylobacterium genus
+T12	Process 334 347	investigation
+T13	Bio_Process 419 428	metabolic
+T14	Process 429 437	pathways
+T15	Organism 456 465	bacterial
+T16	Organism 472 480	archaeal
+T17	Protein 488 493	genes
+T18	Disease 523 531	toxicity
+T19	Chemical 535 547	formaldehyde
+T20	Bio_Process 557 566	metabolic
+T21	Molecule 567 579	intermediate
+T22	Molecule 615 624	molecules
+T23	Parameter 645 650	value
+T24	Chemical 683 691	methanol
+T25	Protein 710 716	genome
+T26	Protein_part 717 725	sequence
+T27	Organism2 743 749	strain
+T28	Organism1 757 779	Methylobacterium genus
+T29	Organism 781 794	M. extorquens
+T30	Organism 795 798	AM1
+T31	Habitat 829 840	US American
+T32	Technique 915 925	sequencing
+T33	Protein 930 936	genome
+T34	Organism 962 971	bacterium
+T35	Organism1 984 989	genus
+T36	Process 1019 1033	investigations
+T37	Process 1049 1054	basis
+T38	Process 1069 1080	adaptations
+T39	Chemical 1090 1119	halogenated organic compounds
+T40	Organism1 1124 1138	microorganisms
+T41	Process 1146 1157	adaptations
+T42	Unknown 1184 1191	Several
+T43	Organism1 1211 1235	Methylobacterium species
+T44	Chemical 1246 1266	halogenated methanes
+T45	Chemical 1273 1288	dichloromethane
+T46	Chemical 1292 1305	chloromethane
+T47	Chemical 1319 1325	carbon
+T48	Chemical 1338 1353	dichloromethane
+T49	Organism2 1364 1387	strain Methylobacterium
+T50	Chemical 1388 1406	dichloromethanicum
+T51	Mutant_Organism 1407 1410	DM4
+T52	Protein 1417 1423	genome
+T53	Process 1477 1486	treatment
+T54	Organism1 1487 1492	plant
+T55	Chemical 1497 1520	halogenated hydrocarbon
+T56	Process 1564 1573	inclusion
+T57	Chemical 1577 1592	dichloromethane
+T58	Unknown 1640 1643	EPA
+T59	Protein 1708 1717	enzymatic
+T60	Protein 1722 1729	genetic
+T61	Parameter 1730 1735	level
+T62	Unknown 1763 1774	Vuilleumier
+T63	Value 1776 1780	2002
+T64	Organism2 1783 1793	Strain DM4
+T65	Chemical 1869 1875	carbon
+T66	Chemical 1891 1911	halogen substituents
+T67	Organism1 1945 1954	microbial
+T68	Process 1955 1966	degradation
+T69	Chemical 1970 1981	halogenated
+T70	Chemical 1988 2005	organic compounds
+T71	Protein 2019 2036	membrane proteins
+T72	Process 2051 2060	transport
+T73	Organism1 2079 2088	microbial
+T74	Cell 2089 2093	cell
+T75	Chemical 2112 2129	hydrochloric acid
+T76	Location 2139 2154	intracellularly
+T77	Process 2166 2177	degradation
+T78	Chemical 2181 2192	halogenated
+T79	Organism1 2217 2231	microorganisms
+T80	Disease 2245 2254	genotoxic
+T81	Chemical 2255 2284	halogenated organic compounds
+T82	Process 2293 2304	adaptations
+T83	Molecule 2314 2317	DNA
+T84	Process 2318 2324	repair
+T85	Protein 2360 2366	genome
+T86	Protein_part 2367 2375	sequence
+T87	Organism2 2383 2393	DM4 strain
+T88	Process 2403 2413	comparison
+T89	Protein_part 2431 2439	sequence
+T90	Organism2 2447 2475	Methylobacterium type strain
+T91	Chemical 2503 2518	dichloromethane
+T92	Unknown 2539 2547	elements
+T93	Process 2668 2679	adaptations
+T94	Organism1 2683 2691	microbes
+T95	Protein 2713 2720	genetic
+T96	Parameter 2721 2726	level

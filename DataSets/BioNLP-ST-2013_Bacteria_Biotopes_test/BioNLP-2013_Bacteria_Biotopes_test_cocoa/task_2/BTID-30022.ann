@@ -1,0 +1,112 @@
+T1	Chemical 12 20	nitrogen
+T2	Organism 28 43	actinobacterium
+T3	Chemical 56 64	nitrogen
+T4	Organism 72 96	
+T5	Organism1 104 117	genus Frankia
+T6	Organism 138 152	Actinobacteria
+T7	Organism1 160 168	bacteria
+T8	Organism1 195 200	fungi
+T9	Body_part 217 225	mycelium
+T10	Protein 231 240	filaments
+T11	Protein 270 274	Gram
+T12	Cellular_component 284 294	cell walls
+T13	Protein 305 312	genomes
+T14	Value 323 367	high percentage of bases G and C (high G+C%)
+T15	Organism 369 383	Actinobacteria
+T16	Organism1 400 408	bacteria
+T17	Organism1 416 435	genus Mycobacterium
+T18	Unknown 451 457	agents
+T19	Disease 461 473	tuberculosis
+T20	Disease 478 485	leprosy
+T21	Organism1 491 499	bacteria
+T22	Organism1 507 525	genus Streptomyces
+T23	Chemical 546 557	antibiotics
+T24	Organism1 566 573	species
+T25	Organism 577 584	Frankia
+T26	Chemical 617 625	nitrogen
+T27	Organism1 633 641	bacteria
+T28	Disease 656 665	symbiosis
+T29	Parameter 679 687	spectrum
+T30	Organism1 697 703	plants
+T31	Value 705 707	24
+T32	Organism1 708 714	genera
+T33	Value 728 729	8
+T34	Unknown 730 738	families
+T35	Organism1 747 753	plants
+T36	Organism1 776 784	bacteria
+T37	Value 819 822	15%
+T38	Chemical 849 857	nitrogen
+T39	Organism 872 886	Actinobacteria
+T40	Molecular_Part 904 909	group
+T41	Chemical 924 932	nitrogen
+T42	Organism1 940 948	bacteria
+T43	Organism1 981 1001	alpha-proteobacteria
+T44	Organism 1004 1016	Azospirillum
+T45	Process 1036 1042	growth
+T46	Organism 1061 1070	Rhizobium
+T47	Chemical 1084 1092	nitrogen
+T48	Body_part 1096 1103	nodules
+T49	Body_part 1118 1123	roots
+T50	Organism1 1127 1134	legumes
+T51	Organism1 1147 1160	cyanobacteria
+T52	Organism1 1167 1174	species
+T53	Disease 1193 1202	symbiosis
+T54	Body_part 1212 1218	leaves
+T55	Chemical 1224 1229	water
+T56	Chemical 1235 1241	Azolla
+T57	Organism2 1247 1273	Frankia alni ACN14a strain
+T58	Organism 1307 1319	Alnus crispa
+T59	Habitat 1332 1341	Tadoussac
+T60	Habitat 1343 1349	Canada
+T61	Organism 1356 1365	bacterium
+T62	Chemical 1389 1397	nitrogen
+T63	Disease 1405 1414	symbiosis
+T64	Organism 1427 1432	Alnus
+T65	Organism 1452 1458	Myrica
+T66	Organism1 1479 1491	plant genera
+T67	Habitat 1495 1512	temperate regions
+T68	Habitat 1523 1529	forest
+T69	Habitat 1559 1564	dunes
+T70	Chemical 1592 1600	nitrogen
+T71	Protein 1617 1623	factor
+T72	Organism 1625 1637	Frankia alni
+T73	Organism_subdivision 1645 1654	root hair
+T74	Process 1655 1666	deformation
+T75	Cell 1686 1700	cortical cells
+T76	Process 1717 1726	formation
+T77	Body_part 1730 1737	nodules
+T78	Organism 1770 1779	Rhizobium
+T79	Organism1 1783 1790	legumes
+T80	Body_part 1798 1805	nodules
+T81	Body_part 1828 1845	vegetative hyphae
+T82	Body_part 1847 1855	mycelium
+T83	Protein 1856 1865	filaments
+T84	Chemical 1892 1906	diazo-vesicles
+T85	Cell 1960 1965	cells
+T86	Chemical 1981 1989	nitrogen
+T87	Process 1990 1998	fixation
+T88	Chemical 2027 2043	molecular oxygen
+T89	Unknown 2056 2062	layers
+T90	Chemical 2091 2097	lipids
+T91	Protein 2102 2109	genetic
+T92	Unknown 2110 2116	system
+T93	Disease 2166 2175	symbiosis
+T94	Organism 2184 2191	Frankia
+T95	Organism2 2200 2205	hosts
+T96	Technique 2216 2226	sequencing
+T97	Protein 2231 2237	genome
+T98	Organism2 2245 2258	ACN14a strain
+T99	Process 2292 2303	interaction
+T100	Chemical 2331 2352	secondary metabolites
+T101	Process 2371 2380	evolution
+T102	Organism 2400 2412	Frankia alni
+T103	Protein 2413 2419	genome
+T104	Protein_part 2420 2428	sequence
+T105	Process 2454 2464	comparison
+T106	Organism1 2486 2500	actinobacteria
+T107	Organism 2502 2514	Streptomyces
+T108	Organism 2516 2529	Mycobacterium
+T109	Organism 2531 2546	Corynebacterium
+T110	Organism 2548 2558	Tropheryma
+T111	Organism 2563 2578	Bifidobacterium
+T112	Cell 284 288	cell

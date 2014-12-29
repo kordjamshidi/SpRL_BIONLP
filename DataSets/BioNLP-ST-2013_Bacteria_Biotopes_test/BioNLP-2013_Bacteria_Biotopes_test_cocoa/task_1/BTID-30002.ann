@@ -1,0 +1,90 @@
+T1	Organism 1 27	Deinococcus radiodurans R1
+T2	Organism 35 54	Deinococcus species
+T3	Organism 61 84	Deinococcus radiodurans
+T4	Organism2 85 94	strain R1
+T5	Parameter 130 135	doses
+T6	Protein 139 154	gamma radiation
+T7	Parameter 177 184	periods
+T8	Process 188 199	desiccation
+T9	Protein_part 219 232	double-strand
+T10	Process 233 239	breaks
+T11	Protein 247 253	genome
+T12	Organism 257 271	D. radiodurans
+T13	Organism 296 310	D. radiodurans
+T14	Molecule 333 342	radiation
+T15	Process 351 357	breaks
+T16	Value 367 376	few hours
+T17	Cell 382 387	cells
+T18	Chemical 416 429	growth medium
+T19	Protein 435 441	genome
+T20	Organism 445 459	D. radiodurans
+T21	Organism 460 462	R1
+T22	Process 570 577	effects
+T23	Process 581 589	exposure
+T24	Cell 597 602	cells
+T25	Protein 606 621	gamma radiation
+T26	Protein 629 642	transcriptome
+T27	Bio_Process 647 655	proteome
+T28	Process 692 702	modulation
+T29	Process 706 716	expression
+T30	Protein 729 734	genes
+T31	Protein 870 876	genome
+T32	Process 877 883	repair
+T33	Process 884 894	mechanisms
+T34	Organism 898 912	D. radiodurans
+T35	Unknown 989 997	Battista
+T36	Value 999 1003	2005
+T37	Unknown 1005 1012	Nat Rev
+T38	Unknown 1013 1022	Microbiol
+T39	Value 1023 1029	3: 882
+T40	Organism 1032 1060	
+T41	Technique 1073 1089	genomic analysis
+T42	Organism 1093 1107	D. radiodurans
+T43	Organism1 1123 1130	species
+T44	Process 1155 1168	comprehension
+T45	Process 1176 1186	mechanisms
+T46	Molecule 1211 1220	radiation
+T47	Process 1221 1230	tolerance
+T48	Organism 1234 1245	Deinococcus
+T49	Technique 1256 1264	analysis
+T50	Organism2 1266 1299	Deinococcus deserti strain VCD115
+T51	Organism 1319 1329	D. deserti
+T52	Habitat 1358 1371	Sahara desert
+T53	Body_part 1395 1400	media
+T54	Organism 1416 1430	D. radiodurans
+T55	Organism 1493 1503	D. deserti
+T56	Cell 1504 1509	cells
+T57	Cell 1525 1529	rods
+T58	Organism 1548 1562	D. radiodurans
+T59	Body_part 1609 1617	colonies
+T60	Organism 1627 1646	Deinococcus species
+T61	Organism 1657 1667	D. deserti
+T62	Organism 1681 1691	D. deserti
+T63	Unknown 1699 1703	Gram
+T64	Organism 1722 1736	D. radiodurans
+T65	Unknown 1744 1748	Gram
+T66	Protein 1763 1769	genome
+T67	Parameter 1770 1774	size
+T68	Unknown 1778 1779	D
+T69	Organism 1788 1794	VCD115
+T70	Value 1817 1823	3.8 Mb
+T71	Organism 1847 1861	D. radiodurans
+T72	Protein 1862 1868	genome
+T73	Value 1872 1878	3.2 Mb
+T74	Organism 1899 1916	D. deserti VCD115
+T75	Protein 1937 1942	gamma
+T76	Technique 1947 1959	UV radiation
+T77	Process 1975 1986	desiccation
+T78	Process 2017 2025	Exposure
+T79	Organism 2029 2039	D. deserti
+T80	Disease 2050 2055	dosis
+T81	Protein 2059 2074	gamma radiation
+T82	Process 2090 2103	fragmentation
+T83	Protein 2111 2117	genome
+T84	Protein_part 2119 2132	double-strand
+T85	Process 2133 2139	breaks
+T86	Organism 2146 2156	D. deserti
+T87	Parameter 2165 2173	capacity
+T88	Process 2177 2183	repair
+T89	Value 2196 2205	few hours
+T90	Chemical 2229 2242	growth medium

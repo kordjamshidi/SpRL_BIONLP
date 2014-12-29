@@ -1,0 +1,74 @@
+T1	Organism 0 23	Ralstonia metallidurans
+T2	Organism 24 53	
+T3	Organism 54 58	CH34
+T4	Organism 79 109	Cupriavidus metallidurans CH34
+T5	Protein_part 118 122	site
+T6	Organism 134 157	Ralstonia metallidurans
+T7	Organism 158 162	CH34
+T8	Organism 173 191	Ralstonia eutropha
+T9	Organism 196 207	Alcaligenes
+T10	Body_part 239 248	non-spore
+T11	Organism 257 265	bacillus
+T12	Parameter 296 310	concentrations
+T13	Chemical 320 332	heavy metals
+T14	Process 346 352	growth
+T15	Parameter 353 364	temperature
+T16	Value 368 380	30 degrees C
+T17	Organism2 405 411	strain
+T18	Mutant_Organism 413 417	CH34
+T19	Value 441 445	1976
+T20	Chemical 455 461	sludge
+T21	Chemical 467 471	zinc
+T22	Process 472 483	decantation
+T23	Habitat 492 499	Belgium
+T24	Parameter 528 542	concentrations
+T25	Chemical 554 566	heavy metals
+T26	Chemical 581 586	metal
+T27	Unknown 597 604	members
+T28	Organism1 612 627	genus Ralstonia
+T29	Habitat 652 661	sediments
+T30	Chemical 695 707	heavy metals
+T31	Chemical 772 777	metal
+T32	Organism 788 797	Ralstonia
+T33	Process 805 813	presence
+T34	Disease 828 833	large
+T35	Body_part 834 846	megaplasmids
+T36	Protein 861 866	genes
+T37	Parameter 880 891	resistances
+T38	Chemical 895 907	heavy metals
+T39	Organism2 923 929	strain
+T40	Mutant_Organism 931 935	CH34
+T41	Parameter 964 972	capacity
+T42	Chemical 992 1003	salt medium
+T43	Chemical 1033 1039	cobalt
+T44	Chemical 1041 1045	zinc
+T45	Chemical 1051 1063	cadmium ions
+T46	Disease 1078 1083	large
+T47	Body_part 1084 1092	plasmids
+T48	Unknown 1094 1100	pMOL28
+T49	Value 1102 1108	180 kb
+T50	Unknown 1114 1120	pMOL30
+T51	Value 1122 1128	240 kb
+T52	Body_part 1146 1154	plasmids
+T53	Parameter 1162 1172	resistance
+T54	Chemical 1176 1178	Zn
+T55	Chemical 1180 1182	Cd
+T56	Chemical 1184 1186	Co
+T57	Chemical 1188 1190	Pb
+T58	Chemical 1192 1194	Cu
+T59	Chemical 1196 1198	Hg
+T60	Chemical 1201 1203	Ni
+T61	Chemical 1208 1210	Cr
+T62	Body_part 1217 1225	plasmids
+T63	Parameter 1291 1299	pressure
+T64	Parameter 1335 1346	frequencies
+T65	Parameter 1352 1390	Minimal Inhibitory Concentration (MIC)
+T66	Chemical 1414 1416	Ni
+T67	Chemical 1418 1420	Co
+T68	Chemical 1422 1424	Zn
+T69	Chemical 1429 1431	Cd
+T70	Value 1436 1439	2.5
+T71	Value 1441 1443	20
+T72	Value 1445 1447	12
+T73	Value 1452 1458	2.5 mM
+T74	Organism2 1491 1497	strain

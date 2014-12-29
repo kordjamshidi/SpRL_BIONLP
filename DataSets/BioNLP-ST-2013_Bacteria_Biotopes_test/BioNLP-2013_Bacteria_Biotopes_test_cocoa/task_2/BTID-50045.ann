@@ -1,0 +1,53 @@
+T1	Organism 0 24	Chlamydophila pneumoniae
+T2	Organism 25 49	Chlamydophila pneumoniae
+T3	Disease 57 66	pneumonia
+T4	Disease 71 81	bronchitis
+T5	Organism1 85 91	humans
+T6	Organism1 96 111	genus Chlamydia
+T7	Value 121 122	3
+T8	Organism1 123 130	species
+T9	Organism1 154 160	humans
+T10	Organism 162 186	Chlamydophila pneumoniae
+T11	Organism 188 206	Chlamydia psittaci
+T12	Organism 212 258	
+T13	Location 276 289	intracellular
+T14	Organism 290 327	
+T15	Disease 344 376	respiratory pathogenic infection
+T16	Disease 390 404	mild pneumonia
+T17	Disease 408 418	bronchitis
+T18	Organism2 422 433	adolescents
+T19	Organism2 444 450	adults
+T20	Organism2 458 464	adults
+T21	Disease 485 499	severe disease
+T22	Disease 513 523	infections
+T23	Disease 551 583	atherosclerotic vascular disease
+T24	Disease 585 604	Alzheimer's disease
+T25	Disease 606 624	multiple sclerosis
+T26	Disease 629 635	asthma
+T27	Organism 636 660	Chlamydophila pneumoniae
+T28	Organism1 677 685	organism
+T29	Unknown 713 715	US
+T30	Parameter 734 738	time
+T31	Value 748 750	20
+T32	Protein 755 761	genome
+T33	Organism 805 826	Chlamydia trachomatis
+T34	Organism1 832 840	pathogen
+T35	Disease 857 870	eye infection
+T36	Disease 888 897	blindness
+T37	Disease 924 932	diseases
+T38	Disease 941 968	pelvic inflammatory disease
+T39	Process 970 980	Comparison
+T40	Organism 988 1012	Chlamydophila pneumoniae
+T41	Protein 1013 1019	genome
+T42	Organism 1029 1050	Chlamydia trachomatis
+T43	Protein 1051 1057	genome
+T44	Profession 1070 1081	researchers
+T45	Process 1119 1128	processes
+T46	Disease 1142 1151	infection
+T47	Process 1156 1164	survival
+T48	Organism1 1168 1177	mammalian
+T49	Cell 1178 1183	cells
+T50	Multi-tissue_structure 344 355	respiratory
+T51	Multi-tissue_structure 567 575	vascular
+T52	Organ 857 860	eye
+T53	Organ 941 947	pelvic

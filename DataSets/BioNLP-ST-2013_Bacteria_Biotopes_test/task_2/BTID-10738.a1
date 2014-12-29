@@ -1,0 +1,41 @@
+T1	Bacteria 0 27	Yersinia pestis Pestoides F
+T2	Bacteria 40 48	Yersinia
+T3	Habitat 100 105	human
+T4	Bacteria 253 261	Yersinia
+T5	Habitat 400 405	human
+T6	Habitat 568 572	cell
+T7	Bacteria 586 601	Yersinia pestis
+T8	Habitat 644 670	Institut Pasteur scientist
+T9	Geographical 644 660	Institut Pasteur
+T10	Geographical 695 704	Hong Kong
+T11	Habitat 743 750	bubonic
+T12	Habitat 755 764	pulmonary
+T13	Habitat 862 866	rats
+T14	Habitat 870 876	humans
+T15	Habitat 889 913	bite of an infected flea
+T16	Habitat 900 913	infected flea
+T17	Habitat 922 927	human
+T18	Habitat 931 936	human
+T19	Habitat 949 952	air
+T20	Bacteria 982 997	Yersinia pestis
+T21	Habitat 1147 1161	enteroinvasive
+T22	Habitat 1196 1207	macrophages
+T23	Bacteria 1261 1276	Yersinia pestis
+T24	Bacteria 1317 1324	Antiqua
+T25	Bacteria 1326 1336	Mediavalis
+T26	Bacteria 1342 1352	Orientalis
+T27	Geographical 1567 1572	China
+T28	Bacteria 1664 1672	Microtus
+T29	Bacteria 1674 1689	Yersinia pestis
+T30	Bacteria 1777 1790	Yersinia spp.
+T31	Habitat 1865 1871	murine
+T32	Habitat 1889 1892	rat
+T33	Habitat 1896 1901	human
+T34	Habitat 1960 1971	flea midgut
+T35	Habitat 1960 1964	flea
+T36	Habitat 1973 1984	Deep tissue
+T37	Bacteria 2074 2089	Yersinia pestis
+T38	Bacteria 2166 2176	Salmonella
+T39	Habitat 2189 2202	intracellular
+T40	Bacteria 2241 2268	Yersinia pestis Pestoides F
+T41	Habitat 2335 2342	aerosol

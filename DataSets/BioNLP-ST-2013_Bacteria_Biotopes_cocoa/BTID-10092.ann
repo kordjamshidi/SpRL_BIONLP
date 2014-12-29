@@ -1,0 +1,55 @@
+T1	Organism 0 20	Borrelia hermsii DAH
+T2	Process 21 32	Description
+T3	Organism2 33 60	Borrelia hermsii strain DAH
+T4	Organism2 67 73	strain
+T5	Disease 102 117	relapsing fever
+T6	Unknown 129 139	Washington
+T7	Organism 141 157	Borrelia hermsii
+T8	Unknown 175 180	agent
+T9	Organism1 184 188	tick
+T10	Disease 195 210	relapsing fever
+T11	Habitat 226 232	United
+T12	Habitat 233 239	States
+T13	Habitat 244 250	Canada
+T14	Organism1 252 257	Ticks
+T15	Organism 279 287	Borrelia
+T16	Disease 313 321	infected
+T17	Organism1 322 328	mammal
+T18	Organism1 340 346	rodent
+T19	Organism1 350 358	squirrel
+T20	Organism 360 368	Borrelia
+T21	Disease 404 425	generalized infection
+T22	Organism1 441 445	tick
+T23	Organism1 466 470	tick
+T24	Organism1 482 490	organism
+T25	Organism2 498 512	mammalian host
+T26	Body_part 536 542	saliva
+T27	Organism1 544 550	Humans
+T28	Disease 573 581	infected
+T29	Organism1 582 587	ticks
+T30	Process 596 603	contact
+T31	Organism1 609 616	rodents
+T32	Organism1 620 626	rodent
+T33	Disease 634 649	Relapsing fever
+T34	Parameter 672 678	period
+T35	Disease 682 688	chills
+T36	Disease 690 695	fever
+T37	Disease 697 705	headache
+T38	Disease 711 718	malaise
+T39	Parameter 736 742	period
+T40	Disease 775 783	symptoms
+T41	Process 819 826	changes
+T42	Protein 834 850	surface proteins
+T43	Organism 854 862	Borrelia
+T44	Process 888 897	detection
+T45	Process 902 909	removal
+T46	Organism2 917 921	host
+T47	Multi-tissue_structure 922 935	immune system
+T48	Disease 942 951	antigenic
+T49	Process 952 961	variation
+T50	Process 979 1003	homologous recombination
+T51	Protein 1014 1022	proteins
+T52	Protein_part 1041 1046	locus
+T53	Process 1076 1087	replacement
+T54	Organism1 1095 1103	serotype
+T55	Organism1 498 507	mammalian

@@ -1,0 +1,200 @@
+T1	Organism 0 20	Campylobacter Jejuni
+T2	Process 21 32	Description
+T3	Organism 50 70	Campylobacter jejuni
+T4	Organism1 76 98	Gram-negative bacteria
+T5	Organism1 159 165	animal
+T6	Multi-tissue_structure 166 171	feces
+T7	Organism1 195 203	kangaroo
+T8	Organism1 208 212	bird
+T9	Multi-tissue_structure 213 218	feces
+T10	Organism 220 240	Campylobacter jejuni
+T11	Organism1 262 270	organism
+T12	Habitat 300 311	environment
+T13	Parameter 336 349	concentration
+T14	Chemical 353 359	oxygen
+T15	Value 361 366	~3-5%
+T16	Chemical 370 376	oxygen
+T17	Value 381 387	~2-10%
+T18	Chemical 391 405	carbon dioxide
+T19	Process 424 435	requirement
+T20	Disease 461 467	stress
+T21	Habitat 475 486	environment
+T22	Chemical 510 516	oxygen
+T23	Chemical 518 524	acidic
+T24	Unknown 525 535	conditions
+T25	Unknown 550 563	drying(Ref.2)
+T26	Organism 565 585	Campylobacter jejuni
+T27	Process 604 609	cause
+T28	Food 613 617	food
+T29	Disease 624 631	illness
+T30	Unknown 639 645	United
+T31	Unknown 646 652	States
+T32	Protein_part 689 697	sequence
+T33	Protein 702 708	genome
+T34	Process 726 730	role
+T35	Food 740 744	food
+T36	Disease 751 760	illnesses
+T37	Process 782 792	treatments
+T38	Organism 794 814	Campylobacter jejuni
+T39	Disease 844 852	diarrhea
+T40	Body_part 853 859	stools
+T41	Disease 863 871	infected
+T42	Organism1 872 883	individuals
+T43	Organism1 895 901	animal
+T44	Multi-tissue_structure 902 907	feces
+T45	Organism1 914 922	bacteria
+T46	Organism1 944 950	humans
+T47	Organism1 955 962	animals
+T48	Process 964 973	Isolation
+T49	Chemical 991 1001	antibiotic
+T50	Body_part 1013 1018	media
+T51	Habitat 1026 1037	environment
+T52	Parameter 1060 1065	level
+T53	Chemical 1069 1075	oxygen
+T54	Unknown 1096 1111	organims(Ref.1)
+T55	Organism 1122 1142	Campylobacter jejuni
+T56	Organism 1161 1170	bacterium
+T57	Organism1 1196 1206	eukaryotic
+T58	Unknown 1212 1218	system
+T59	Chemical 1223 1260	N-linked protein glycosylation(Ref.3)
+T60	Disease 1266 1273	disease
+T61	Chemical 1274 1286	Camylobacter
+T62	Disease 1326 1335	enteritis
+T63	Disease 1339 1355	gasteroenteritis
+T64	Organism1 1361 1369	bacteria
+T65	Cellular_component 1380 1388	flagella
+T66	Location 1397 1402	poles
+T67	Process 1407 1415	adhesion
+T68	Process 1420 1428	invasion
+T69	Unknown 1436 1447	host(Ref.1)
+T70	Disease 1453 1460	illness
+T71	Disease 1470 1485	severe diarrhea
+T72	Cell 1490 1506	fecal leukocytes
+T73	Disease 1514 1522	symptoms
+T74	Disease 1549 1554	fever
+T75	Disease 1556 1565	headaches
+T76	Disease 1570 1581	muscle pain
+T77	Organism2 1583 1591	Children
+T78	Organism2 1610 1616	adults
+T79	Disease 1648 1655	disease
+T80	Molecular_Part 1672 1678	groups
+T81	Organism 1689 1702	Campylobacter
+T82	Process 1721 1726	cause
+T83	Food 1730 1734	food
+T84	Disease 1741 1748	illness
+T85	Parameter 1792 1797	ratio
+T86	Value 1801 1813	about 1/1000
+T87	Unknown 1828 1838	low(Ref.2)
+T88	Organism 1854 1876	Campylobacter bacteria
+T89	Organ 1893 1903	intestines
+T90	Organism1 1912 1919	animals
+T91	Organism1 1929 1935	humans
+T92	Organ 1960 1970	intestinal
+T93	Habitat 1971 1982	environment
+T94	Disease 1995 2003	diarrhea
+T95	Protein_part 2041 2045	site
+T96	Disease 2049 2072	Campylobacter infection
+T97	Organ 2089 2094	ileum
+T98	Organ 2099 2106	jejunum
+T99	Organ 2114 2130	small intestines
+T100	Disease 2150 2155	large
+T101	Organ 2156 2166	intestines
+T102	Process 2195 2200	cause
+T103	Food 2204 2208	food
+T104	Disease 2215 2222	illness
+T105	Unknown 2230 2236	United
+T106	Unknown 2237 2243	States
+T107	Organism 2245 2258	Campylobacter
+T108	Organism 2318 2331	Campylobacter
+T109	Chemical 2348 2353	water
+T110	Food 2355 2359	milk
+T111	Food 2375 2379	meat
+T112	Organism1 2392 2399	chicken
+T113	Organism1 2433 2441	bacteria
+T114	Disease 2451 2460	infection
+T115	Disease 2466 2473	illness
+T116	Value 2488 2489	2
+T117	Value 2493 2499	5 days
+T118	Process 2548 2557	treatment
+T119	Value 2568 2571	25%
+T120	Organism2 2581 2589	patients
+T121	Unknown 2611 2625	relapse(Ref.5)
+T122	Disease 2631 2644	early symptom
+T123	Disease 2648 2671	Campylobacter infection
+T124	Disease 2683 2706	abnormal abdominal pain
+T125	Disease 2731 2746	bloody diarrhea
+T126	Disease 2774 2782	symptoms
+T127	Disease 2787 2792	fever
+T128	Disease 2794 2802	headache
+T129	Disease 2804 2815	muscle pain
+T130	Disease 2844 2855	dehydration
+T131	Disease 2889 2900	dehydration
+T132	Bio_Process 2965 2970	death
+T133	Disease 2972 2984	Complication
+T134	Disease 2988 3011	Campylobacter infection
+T135	Bio_Process 3035 3044	mortality
+T136	Bio_Process 3059 3065	deaths
+T137	Organism2 3083 3091	patients
+T138	Disease 3106 3115	cirrhosis
+T139	Disease 3117 3129	malnutrition
+T140	Disease 3135 3150	lymphoma(Ref.4)
+T141	Process 3152 3163	Application
+T142	Organism 3167 3201	
+T143	Chemical 3237 3246	compounds
+T144	Protein 3250 3257	enzymes
+T145	Organism1 3283 3291	pathogen
+T146	Food 3309 3313	food
+T147	Disease 3320 3327	illness
+T148	Unknown 3335 3341	United
+T149	Unknown 3342 3348	States
+T150	Organism 3359 3379	Campylobacter jejuni
+T151	Protein 3391 3397	enzyme
+T152	Protein 3405 3419	beta-lactamase
+T153	Chemical 3481 3491	ampicillin
+T154	Chemical 3496 3506	penicillin
+T155	Process 3512 3521	mechanism
+T156	Protein 3525 3539	beta-lactamase
+T157	Organism 3543 3563	Campylobacter jejuni
+T158	Chemical 3596 3607	antibiotics
+T159	Disease 3631 3660	Campylobacter jejuni infected
+T160	Unknown 3661 3675	illness(Ref.7)
+T161	Process 3727 3736	treatment
+T162	Chemical 3740 3752	erythromycin
+T163	Process 3763 3773	treatments
+T164	Organism2 3794 3802	patients
+T165	Chemical 3816 3828	erythromycin
+T166	Process 3860 3868	presence
+T167	Organism 3872 3892	Campylobacter jejuni
+T168	Body_part 3902 3908	stools
+T169	Process 3945 3954	mechanism
+T170	Chemical 3964 3978	erythromycin's
+T171	Chemical 4003 4015	erythromycin
+T172	Parameter 4016 4026	resistance
+T173	Organism 4030 4050	Campylobacter jejuni
+T174	Value 4060 4072	present(~5%)
+T175	Organism2 4095 4102	patient
+T176	Process 4131 4140	treatment
+T177	Chemical 4142 4154	erythromycin
+T178	Parameter 4155 4165	resistance
+T179	Organism 4169 4189	Campylobacter jejuni
+T180	Chemical 4219 4231	erythromycin
+T181	Chemical 4260 4270	antibiotic
+T182	Process 4279 4288	treatment
+T183	Unknown 4297 4311	illness(Ref.6)
+T184	Organism 4316 4336	Campylobacter jejuni
+T185	Process 4350 4355	cause
+T186	Food 4359 4363	food
+T187	Disease 4370 4377	illness
+T188	Process 4415 4428	contamination
+T189	Chemical 4432 4446	drinking water
+T190	Organism 4468 4488	Campylobacter jejuni
+T191	Chemical 4516 4521	water
+T192	Bio_Process 4525 4533	biofilms
+T193	Process 4548 4558	experiment
+T194	Process 4584 4592	survival
+T195	Organism 4604 4624	Campylobacter jejuni
+T196	Chemical 4628 4633	water
+T197	Bio_Process 4638 4646	biofilms
+T198	Organ 1570 1576	muscle
+T199	Organism_subdivision 2692 2701	abdominal
+T200	Organ 2804 2810	muscle

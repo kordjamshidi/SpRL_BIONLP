@@ -1,0 +1,325 @@
+T1	Organism 0 22	Lactobacillus jensenii
+T2	Process 23 37	Classification
+T3	Mutant_Organism 38 44	Higher
+T4	Organism1 51 84	
+T5	Process 85 96	Description
+T6	Process 101 113	significance
+T7	Organism1 123 142	genus Lactobacillus
+T8	Organism 144 166	Lactobacillus jensenii
+T9	Organism1 184 206	Gram-positive bacteria
+T10	Protein 218 231	peptidoglycan
+T11	Cellular_component 232 236	wall
+T12	Body_part 248 257	non-spore
+T13	Organism1 266 274	bacteria
+T14	Cell 277 280	rod
+T15	Value 297 298	7
+T16	Organism1 330 337	species
+T17	Organism 350 373	Lactobacillus crispatus
+T18	Organism2 388 394	female
+T19	Body_part 395 414	lower genital tract
+T20	Profession 446 456	scientists
+T21	Unknown 458 463	April
+T22	Value 464 468	1970
+T23	Technique 481 500	gel electrophoresis
+T24	Technique 521 529	analysis
+T25	Protein 533 553	lactic dehydrogenase
+T26	Parameter 554 562	activity
+T27	Organism 566 579	Lactobacillus
+T28	Organism1 596 601	human
+T29	Disease 602 619	vaginal discharge
+T30	Organism1 635 644	organisms
+T31	Molecule 677 680	DNA
+T32	Process 681 692	composition
+T33	Body_part 705 712	isolate
+T34	Value 714 718	36.1
+T35	Value 721 724	1.2
+T36	Chemical 733 740	guanine
+T37	Chemical 743 751	cytosine
+T38	Unknown 781 783	L.
+T39	Molecule 802 805	DNA
+T40	Value 823 827	50.8
+T41	Value 830 833	0.5
+T42	Chemical 842 849	guanine
+T43	Chemical 854 862	cytosine
+T44	Value 864 866	10
+T45	Geometrical_part 902 906	part
+T46	Multi-tissue_structure 922 929	vaginal
+T47	Organism1 930 940	microflora
+T48	Profession 984 995	researchers
+T49	Process 1005 1015	prevention
+T50	Mutant_Organism 1019 1023	STDs
+T51	Multi-tissue_structure 1036 1043	vaginal
+T52	Organism1 1044 1052	bacteria
+T53	Disease 1056 1070	Cell structure
+T54	Bio_Process 1075 1085	metabolism
+T55	Organism 1086 1097	L. jensenii
+T56	Unknown 1110 1117	members
+T57	Organism 1125 1138	Lactobacillus
+T58	Cell 1144 1147	rod
+T59	Organism1 1156 1194	anaerobic Gram-positive microorganisms
+T60	Process 1202 1208	growth
+T61	Unknown 1209 1219	conditions
+T62	Process 1232 1240	presence
+T63	Chemical 1244 1254	folic acid
+T64	Chemical 1256 1267	vitamin B12
+T65	Chemical 1269 1282	nictonic acid
+T66	Chemical 1288 1308	calcium pantothenate
+T67	Value 1312 1316	45 C
+T68	Organism1 1354 1361	species
+T69	Process 1404 1414	hydrolysis
+T70	Chemical 1418 1426	arginine
+T71	Process 1428 1438	production
+T72	Chemical 1442 1451	D-lactate
+T73	Process 1464 1476	fermentation
+T74	Chemical 1480 1489	galactose
+T75	Chemical 1500 1507	esculin
+T76	Chemical 1509 1526	maltose amygdalin
+T77	Chemical 1528 1535	sucrose
+T78	Chemical 1537 1543	ribose
+T79	Chemical 1549 1559	cellobiose
+T80	Chemical 1572 1579	lactose
+T81	Chemical 1593 1601	mannitol
+T82	Chemical 1603 1611	sorbitol
+T83	Chemical 1613 1622	arabinose
+T84	Chemical 1628 1634	xylose
+T85	Value 1636 1638	10
+T86	Organism1 1647 1655	anaerobe
+T87	Unknown 1664 1670	member
+T88	Organism 1674 1687	Lactobacillus
+T89	Organism1 1690 1698	bacteria
+T90	Chemical 1709 1714	acids
+T91	Process 1715 1725	production
+T92	Organism 1727 1738	L. jensenii
+T93	Chemical 1768 1772	acid
+T94	Organism_subdivision 1780 1786	vagina
+T95	Bio_Process 1800 1810	metabolism
+T96	Chemical 1814 1822	glycogen
+T97	Chemical 1828 1836	glycogen
+T98	Cell 1857 1881	vaginal epithelium cells
+T99	Parameter 1903 1908	level
+T100	Chemical 1912 1920	estrogen
+T101	Bio_Process 1942 1954	menstruation
+T102	Parameter 1955 1961	period
+T103	Multi-tissue_structure 1967 1974	vaginal
+T104	Organism1 1975 1980	flora
+T105	Cell 2001 2017	epithelial cells
+T106	Chemical 2033 2041	glycogen
+T107	Chemical 2047 2053	acetic
+T108	Chemical 2058 2069	lactic acid
+T109	Multi-tissue_structure 2082 2089	vaginal
+T110	Parameter 2090 2092	pH
+T111	Value 2101 2108	about 4
+T112	Parameter 2121 2134	concentration
+T113	Chemical 2142 2148	acidic
+T114	Habitat 2149 2160	environment
+T115	Organism_subdivision 2178 2184	vagina
+T116	Organism1 2198 2207	pathogens
+T117	Habitat 2215 2226	environment
+T118	Value 2228 2229	1
+T119	Organism 2240 2262	Lactobacillus jensenii
+T120	Organism_subdivision 2302 2306	body
+T121	Organism 2329 2340	L. jensenii
+T122	Organism 2353 2376	Lactobacillus crispatus
+T123	Organism 2381 2402	Lactobacillus gasseri
+T124	Disease 2417 2431	vaginal strain
+T125	Organism1 2435 2443	bacteria
+T126	Bio_Process 2455 2463	biofilms
+T127	Multi-tissue_structure 2471 2485	vaginal mucosa
+T128	Bio_Process 2489 2496	healthy
+T129	Organism2 2497 2504	females
+T130	Multi-tissue_structure 2522 2529	vaginal
+T131	Chemical 2530 2543	lactobacillus
+T132	Value 2559 2562	23%
+T133	Multi-tissue_structure 2570 2584	vaginal colony
+T134	Organism 2607 2620	Lactobacillus
+T135	Value 2621 2634	crispatus-32%
+T136	Multi-tissue_structure 2673 2680	vaginal
+T137	Chemical 2681 2692	lactobillus
+T138	Organism2 2706 2712	female
+T139	Body_part 2713 2726	genital tract
+T140	Chemical 2733 2750	hydrogen peroxide
+T141	Organism1 2761 2769	bacteria
+T142	Process 2796 2812	anaerobic growth
+T143	Category 2813 2821	products
+T144	Chemical 2830 2855	superoxide anion radicals
+T145	Chemical 2860 2877	hydroxyl radicals
+T146	Chemical 2896 2902	acidic
+T147	Habitat 2903 2914	environment
+T148	Parameter 2918 2920	pH
+T149	Value 2921 2934	less than 4.5
+T150	Disease 2936 2955	Bacterial Vaginosis
+T151	Unknown 2956 2962	(BV)'s
+T152	Process 2963 2969	growth
+T153	Process 2981 2993	transmission
+T154	Disease 2998 3008	infections
+T155	Multi-tissue_structure 3012 3019	genital
+T156	Disease 3028 3036	diseases
+T157	Disease 3038 3047	gonorrhea
+T158	Disease 3049 3072	urinary tract infection
+T159	Mutant_Organism 3092 3096	STDs
+T160	Organism1 3098 3101	HIV
+T161	Body_part 3136 3141	semen
+T162	Chemical 3160 3166	acidic
+T163	Habitat 3167 3178	environment
+T164	Organism_subdivision 3186 3192	vagina
+T165	Process 3249 3257	increase
+T166	Process 3258 3262	risk
+T167	Unknown 3266 3268	BV
+T168	Process 3269 3281	colonization
+T169	Value 3283 3284	2
+T170	Unknown 3303 3307	June
+T171	Value 3308 3312	2007
+T172	Disease 3314 3327	pathogenicity
+T173	Chemical 3331 3344	Lactobaciluus
+T174	Organism2 3363 3366	men
+T175	Organism2 3371 3376	women
+T176	Process 3418 3422	role
+T177	Mutant_Organism 3444 3448	STDs
+T178	Unknown 3463 3469	member
+T179	Organism1 3477 3482	human
+T180	Multi-tissue_structure 3483 3490	vaginal
+T181	Organism1 3491 3501	microflora
+T182	Organism2 3536 3540	host
+T183	Process 3546 3557	acquisition
+T184	Disease 3561 3569	diseases
+T185	Unknown 3576 3583	Ecology
+T186	Unknown 3611 3624	
+T187	Organism 3651 3673	Lactobacillus jensenii
+T188	Process 3676 3686	Inhibition
+T189	Disease_Process 3690 3705	HIV infectivity
+T190	Organism1 3719 3724	human
+T191	Body_part 3725 3732	isolate
+T192	Organism 3736 3758	Lactobacillus jensenii
+T193	Organism1 3821 3824	HIV
+T194	Multi-tissue_structure 3856 3862	mucosa
+T195	Organism 3864 3886	Lactobacillus jensenii
+T196	Multi-tissue_structure 3932 3944	vaginal area
+T197	Protein 3983 3997	two-domain CD4
+T198	Protein 4002 4005	CD4
+T199	Protein 4007 4015	proteins
+T200	Protein 4030 4036	2D CD4
+T201	Protein 4046 4063	anti-CD4 receptor
+T202	Organism1 4074 4079	HIV-1
+T203	Unknown 4080 4085	gp120
+T204	Organism 4139 4150	L. jensenii
+T205	Protein 4151 4159	proteins
+T206	Geometrical_part 4160 4169	structure
+T207	Protein 4199 4209	luciferase
+T208	Protein 4219 4223	gene
+T209	Disease 4238 4247	infection
+T210	Technique 4248 4254	assays
+T211	Organism 4283 4294	L. jensenii
+T212	Organism1 4314 4319	HIV-1
+T213	Process 4335 4341	target
+T214	Cell 4342 4347	cells
+T215	Organism1 4371 4379	bacteria
+T216	Protein_part 4412 4430	HIV-1HxB2 reporter
+T217	Organism1 4431 4436	virus
+T218	Disease_Process 4442 4453	infectivity
+T219	Cell 4457 4467	HeLa cells
+T220	Protein 4479 4493	CD4-CXCR4-CCR5
+T222	Disease_Process 4534 4545	infectivity
+T223	Organism1 4549 4554	HIV-1
+T224	Parameter 4560 4566	dosage
+T225	Organism 4589 4600	L. jensenii
+T226	Process 4621 4634	contraception
+T227	Body_part 4662 4670	colonies
+T228	Organism1 4674 4682	bacteria
+T229	Organism_subdivision 4694 4698	body
+T230	Process 4712 4724	transmission
+T231	Organism1 4728 4731	HIV
+T232	Multi-tissue_structure 4744 4751	Vaginal
+T233	Organism2 4752 4772	Lactobacillus Strain
+T234	Multi-tissue_structure 4777 4793	Mucosal Delivery
+T235	Organism 4801 4829	Human Immunodeficiency Virus
+T236	Category 4830 4839	Inhibitor
+T237	Organism 4840 4875	
+T238	Protein_part 4931 4938	peptide
+T239	Protein_part 4940 4944	CV-N
+T240	Process 4960 4966	fusion
+T241	Organism1 4972 4975	HIV
+T242	Protein 4982 4991	S-protein
+T243	Unknown 4992 4997	layer
+T244	Process 4998 5007	secretion
+T245	Process 5008 5015	pathway
+T246	Process 5021 5033	modification
+T247	Phenotype 5053 5062	phenotype
+T248	Organism1 5070 5078	bacteria
+T249	Protein 5122 5132	chromosome
+T250	Organism 5157 5168	L. jensenii
+T251	Organism_subdivision 5200 5207	vaginas
+T252	Bio_Process 5211 5217	estrus
+T253	State 5218 5223	phase
+T254	Organism1 5224 5228	mice
+T255	Protein_part 5253 5269	anti-HIV peptide
+T256	Organism 5295 5320	Lactobacillus CV-N hybrid
+T257	Unknown 5360 5378	CCR5-tropic HIVBaL
+T258	Disease_Process 5379 5390	infectivity
+T259	Value 5407 5410	50%
+T260	Parameter 5411 5435	inhibitory concentration
+T261	Value 5439 5445	0.3 nM
+T262	Disease 5503 5516	HIV infection
+T263	Process 5524 5535	replication
+T264	Organism2 5539 5544	women
+T265	Process 5546 5556	Inhibition
+T266	Organism 5560 5581	Neisseria gonorrhoeae
+T267	Organism2 5643 5649	Female
+T268	Multi-tissue_structure 5650 5657	Genital
+T269	Body_part 5658 5668	
+T270	Organism2 5669 5676	strains
+T271	Organism 5678 5700	Lactobacillus jensenii
+T272	Organism 5702 5725	Lactobacillus crispatus
+T273	Organism 5727 5752	Lactobacillus acidophilus
+T274	Organism 5758 5779	Lactobacillus gasseri
+T275	Organism 5784 5797	Lactobacillus
+T276	Process 5851 5855	link
+T277	Process 5869 5881	colonization
+T278	Organism 5885 5898	Lactobacillus
+T279	Parameter 5907 5911	risk
+T280	Disease 5915 5924	gonorrhea
+T281	Process 5934 5944	experiment
+T282	Organism 5946 5963	Neisseria species
+T283	Organism2 5967 5991	Escherichia coli strains
+T284	Process 6003 6009	target
+T285	Organism1 6010 6019	organisms
+T286	Body_part 6038 6046	isolates
+T287	Organism 6050 6064	N. gonorrhoeae
+T288	Process 6079 6088	different
+T289	Parameter 6089 6091	pH
+T290	Organ 6113 6118	heart
+T291	Process 6119 6127	infusion
+T292	Chemical 6128 6132	agar
+T293	Chemical 6137 6153	saline solutions
+T294	Organism2 6168 6189	Lactobacillus strains
+T295	Organism2 6200 6207	strains
+T296	Organism2 6233 6251	gonococcal strains
+T297	Value 6255 6258	low
+T298	Parameter 6259 6261	pH
+T299	Organism 6268 6279	L. jensenii
+T300	Organism 6284 6296	L. crispatus
+T301	Organism 6322 6337	N. gonnorrhoeae
+T302	Value 6341 6348	neutral
+T303	Parameter 6349 6351	pH
+T304	Organism2 6387 6402	E. coli strains
+T305	Organism 6411 6422	L. jensenii
+T306	Organism 6443 6460	Neisseria cinerea
+T307	Body_part 6482 6487	scale
+T308	Technique 6495 6500	assay
+T309	Organism 6502 6513	L. jensenii
+T310	Organism 6550 6564	N. gonorrhoeae
+T311	Organism2 6577 6584	strains
+T312	Organism2 6590 6597	strains
+T313	Chemical 6615 6632	hydrogen peroxide
+T314	Category 6636 6644	mediator
+T315	Disease 6659 6668	infection
+T316	Process 6710 6718	presence
+T317	Organism 6722 6733	L. jensenii
+T318	Organism 6738 6750	L. crispatus
+T319	Parameter 6764 6768	risk
+T320	Disease 6772 6781	gonorrhea
+T321	Chemical 533 539	lactic
+T322	Protein 5253 5261	anti-HIV
+T323	Organism1 6233 6243	gonococcal
+T324	Cell 1056 1070	Cell structure
+T325	Body_part 2417 2424	vaginal
+T326	Body_part 3049 3062	urinary tract

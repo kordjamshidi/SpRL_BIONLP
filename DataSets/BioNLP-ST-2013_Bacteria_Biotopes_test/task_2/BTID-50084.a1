@@ -1,0 +1,35 @@
+T1	Bacteria 0 22	Helicobacter hepaticus
+T2	Bacteria 23 45	Helicobacter hepaticus
+T3	Habitat 75 80	liver
+T4	Habitat 92 96	mice
+T5	Bacteria 97 109	H. hepaticus
+T6	Bacteria 370 379	bacterial
+T7	Habitat 395 400	mouse
+T8	Bacteria 401 413	Helicobacter
+T9	Bacteria 423 435	H. hepaticus
+T10	Bacteria 602 614	H. hepaticus
+T11	Bacteria 666 688	Helicobacter hepaticus
+T12	Habitat 715 720	liver
+T13	Habitat 763 768	bowel
+T14	Habitat 780 784	mice
+T15	Habitat 829 834	fecal
+T16	Habitat 835 839	oral
+T17	Habitat 866 871	liver
+T18	Bacteria 993 1005	H. hepaticus
+T19	Habitat 1015 1028	liver lesions
+T20	Habitat 1015 1020	liver
+T21	Bacteria 1048 1060	H. hepaticus
+T22	Habitat 1064 1070	humans
+T23	Bacteria 1105 1117	Helicobacter
+T24	Habitat 1211 1220	mammalian
+T25	Habitat 1267 1289	gastrointestinal tract
+T26	Bacteria 1423 1432	H. pylori
+T27	Habitat 1459 1465	humans
+T28	Habitat 1508 1520	domestic cat
+T29	Bacteria 1555 1574	Helicobacter pylori
+T30	Habitat 1631 1648	companion animals
+T31	Habitat 1652 1658	humans
+T32	Bacteria 1704 1716	Helicobacter
+T33	Bacteria 1789 1801	H. hepaticus
+T34	Bacteria 1846 1858	H. hepaticus
+T35	Habitat 1986 1991	liver

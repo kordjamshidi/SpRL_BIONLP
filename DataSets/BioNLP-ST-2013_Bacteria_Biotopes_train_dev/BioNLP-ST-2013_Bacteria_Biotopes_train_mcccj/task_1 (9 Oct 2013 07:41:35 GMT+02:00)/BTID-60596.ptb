@@ -1,0 +1,7 @@
+(S1 (S (NP (NN Spirillum))))
+(S1 (S (NP (NP (NN Description)) (CC and) (NP (NN Significance)))))
+(S1 (S (S (NP (NN Spirillum) (NNS bacteria)) (VP (VBP are) (VP (VBN thought) (S (VP (TO to) (VP (VBP have) (VP (VBN been) (ADVP (RB first)) (VP (VBN described) (PP (PP (IN by) (NP (NP (NNP van) (NNP Leeuwenhoek)) (PP (IN in) (NP (DT the) (NN 1670s))))) (CC and) (PP (RB later) (IN by) (NP (NNP Muller)))))))))))) (. .)))
+(S1 (S (S (NP (FW S.) (FW volutans)) (VP (VBZ is) (NP (NP (DT a) (JJ large) (NN bacterium)) (CONJP (RB as) (RB well) (IN as)) (NP (NP (DT an) (JJ obligate) (NN microaerophile)) (PP (IN with) (NP (DT a) (JJ helical) (NN structure))))))) (. .)))
+(S1 (S (NP (NN Ecology))))
+(S1 (S (S (NP (FW S.) (FW volutans)) (VP (VBZ has) (VP (VBN been) (VP (VBN found) (PP (PP (IN in) (NP (NP (DT the) (NN water)) (PP (IN of) (NP (NP (DT a) (JJ cooling) (NN tower)) (PP (IN of) (NP (NP (DT a) (JJ sugar-beet) (NN refinery)) (PP (IN in) (NP (NNP England))))))))) (CC and) (PP (IN from) (NP (NP (NN water)) (PP (IN of) (NP (DT a) (JJ polluted) (JJ pond)))))))))) (. .)))
+(S1 (S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN thought) (SBAR (IN that) (S (NP (DT the) (NN bacterium)) (VP (MD can) (VP (VB be) (VP (VBN found) (PP (IN in) (NP (NP (JJ many) (NNS bodies)) (PP (IN of) (NP (JJ stagnant) (NN water))))))))))))) (. .)))

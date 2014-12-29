@@ -1,0 +1,97 @@
+T1	Bacteria 0 23	Mycobacterium smegmatis
+T2	Bacteria 40 80	Mycobacterium paratuberculosis smegmatis
+T3	Bacteria 82 101	Bacterium smegmatis
+T4	Bacteria 103 121	Bacillus smegmatis
+T5	Bacteria 123 163	Mycobacterium paratuberculosis smegmatis
+T6	Bacteria 165 184	Bacterium smegmatis
+T7	Bacteria 186 204	Bacillus smegmatis
+T8	Bacteria 206 229	Mycobacterium smegmatis
+T9	Bacteria 264 287	Mycobacterium smegmatis
+T10	Bacteria 383 401	Bacillus smegmatis
+T11	Bacteria 478 501	Mycobacterium smegmatis
+T12	Bacteria 511 534	Mycobacterium smegmatis
+T13	Habitat 544 592	aggregate layers of cells attached to each other
+T14	Habitat 598 607	community
+T15	Habitat 617 624	biofilm
+T16	Bacteria 626 649	Mycobacterium smegmatis
+T17	Habitat 674 678	soil
+T18	Habitat 680 685	water
+T19	Habitat 691 697	plants
+T20	Habitat 730 751	large bodies of water
+T21	Geographical 789 795	States
+T22	Geographical 797 806	Australia
+T23	Geographical 808 814	Russia
+T24	Geographical 816 822	Canada
+T25	Geographical 828 839	Switzerland
+T26	Bacteria 845 868	Mycobacterium smegmatis
+T27	Habitat 971 977	animal
+T28	Bacteria 1002 1015	Mycobacterium
+T29	Bacteria 1021 1029	bacteria
+T30	Bacteria 1121 1144	Mycobacterium smegmatis
+T31	Bacteria 1378 1386	bacteria
+T32	Bacteria 1498 1521	Mycobacterium smegmatis
+T33	Bacteria 1593 1605	Mycobacteria
+T34	Habitat 1609 1634	cell culture laboratories
+T35	Habitat 1609 1621	cell culture
+T36	Bacteria 1654 1667	Mycobacterial
+T37	Bacteria 1716 1736	Mycobacterium leprea
+T38	Bacteria 1738 1764	Mycobacterium tuberculosis
+T39	Bacteria 1770 1789	Mycobacterium bovis
+T40	Bacteria 1791 1814	Mycobacterium smegmatis
+T41	Bacteria 1940 1963	Mycobacterium smegmatis
+T42	Bacteria 2019 2031	Mycobacteria
+T43	Bacteria 2109 2122	Mycobacterium
+T44	Habitat 2315 2319	drug
+T45	Habitat 2472 2484	laboratories
+T46	Bacteria 2583 2595	Mycobacteria
+T47	Habitat 2606 2614	Biofilms
+T48	Bacteria 2618 2641	Mycobacterium smegmatis
+T49	Habitat 2650 2662	stigmasterol
+T50	Habitat 2687 2693	plants
+T51	Bacteria 2699 2707	bacteria
+T52	Bacteria 2779 2802	Mycobacterium smegmatis
+T53	Habitat 2815 2834	large body of water
+T54	Bacteria 2879 2887	bacteria
+T55	Habitat 2938 2943	water
+T56	Habitat 2951 2971	female mosquito fish
+T57	Habitat 2980 3006	male anatomical sex organs
+T58	Bacteria 3169 3192	Mycobacterium smegmatis
+T59	Habitat 3224 3231	animals
+T60	Bacteria 3426 3449	Mycobacterium smegmatis
+T61	Bacteria 3557 3583	Mycobacterium tuberculosis
+T62	Bacteria 3585 3604	Mycobacterium bovis
+T63	Bacteria 3610 3630	Mycobacterium leprea
+T64	Habitat 3656 3663	animals
+T65	Habitat 3811 3835	inside the host organism
+T66	Bacteria 3916 3935	Mycobacterium avium
+T67	Habitat 3955 3986	outside of the host environment
+T68	Bacteria 4083 4091	bacteria
+T69	Habitat 4105 4110	human
+T70	Habitat 4145 4158	Italian child
+T71	Bacteria 4175 4198	Mycobacterium smegmatis
+T72	Habitat 4255 4260	child
+T73	Bacteria 4515 4538	Mycobacterium smegmatis
+T74	Habitat 4568 4573	child
+T75	Bacteria 4620 4628	bacteria
+T76	Bacteria 4683 4706	Mycobacterium smegmatis
+T77	Bacteria 4778 4801	Mycobacterium smegmatis
+T78	Habitat 4936 4941	tooth
+T79	Habitat 4959 4965	plaque
+T80	Habitat 5006 5017	bloodstream
+T81	Habitat 5063 5068	blood
+T82	Habitat 5190 5193	ear
+T83	Habitat 5198 5215	upper respiratory
+T84	Bacteria 5261 5284	Mycobacterium smegmatis
+T85	Bacteria 5367 5390	Mycobacterium smegmatis
+T86	Bacteria 5430 5453	Mycobacterium smegmatis
+T87	Bacteria 5547 5570	Mycobacterium smegmatis
+T88	Habitat 5676 5688	chiral drugs
+T89	Habitat 5690 5701	Researchers
+T90	Habitat 5742 5763	tissue culture medium
+T91	Habitat 5742 5756	tissue culture
+T92	Habitat 5742 5748	tissue
+T93	Habitat 5784 5788	food
+T94	Habitat 5833 5838	bread
+T95	Habitat 5840 5844	beer
+T96	Habitat 5846 5851;5865 5869	dried milk
+T97	Habitat 5855 5869	condensed milk

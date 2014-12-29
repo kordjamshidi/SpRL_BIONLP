@@ -1,0 +1,248 @@
+T1	Organism 0 17	
+T2	Process 28 39	Description
+T3	Protein 57 63	Genome
+T4	Geometrical_part 64 73	Structure
+T5	Protein 118 124	genome
+T6	Organism 137 145	Bacillus
+T7	Protein_part 162 170	sequence
+T8	Protein 179 185	genome
+T9	Organism 189 206	Bacillus subtilis
+T10	Protein_part 257 265	sequence
+T11	Organism 286 295	bacterium
+T12	Protein 301 307	genome
+T13	Value 311 314	4.2
+T14	Unknown 315 324	Mega-base
+T15	Value 341 346	4,100
+T16	Protein 347 354	protein
+T17	Protein_part 354 369	-coding regions
+T18	Organism 371 388	Bacillus subtilis
+T19	Organism1 395 400	plant
+T20	Process 401 407	growth
+T21	Organism1 418 432	rhizobacterium
+T22	Protein_part 453 472	antifungal peptides
+T23	Organism 510 521	B. subtilis
+T24	Organism 537 548	B. subtilis
+T25	Organism1 576 580	crop
+T26	Organism1 656 661	plant
+T27	Process 662 668	growth
+T28	Disease 682 689	disease
+T29	Process 690 696	growth
+T30	Protein 702 708	genome
+T31	Organism 712 730	Bacillus anthracis
+T32	Protein_part 744 754	base pairs
+T33	Value 765 770	5,508
+T34	Protein 781 788	protein
+T35	Protein_part 788 803	-coding regions
+T36	Protein 809 815	genome
+T37	Organism 819 831	B. anthracis
+T38	Protein 862 869	genomes
+T39	Organism 878 887	B. cereus
+T40	Organism 892 908	B. thuringiensis
+T41	Protein 945 951	genome
+T42	Organism 955 967	B. anthracis
+T43	Protein 981 989	proteins
+T44	Protein 1022 1029	protein
+T45	Organism 1037 1046	B. cereus
+T46	Molecule 1066 1083	virulence factors
+T47	Disease 1100 1107	anthrax
+T48	Body_part 1129 1137	plasmids
+T49	Protein 1177 1182	genes
+T50	Protein 1188 1198	homologues
+T51	Organism 1202 1211	B. cereus
+T52	Disease 1238 1247	virulence
+T53	Protein 1258 1263	genes
+T54	Organism 1295 1313	Bacillus anthracis
+T55	Geometrical_part 1330 1334	part
+T56	Geometrical_part 1349 1354	array
+T57	Protein 1358 1363	genes
+T58	Organism 1371 1386	B. cereus group
+T59	Organism 1397 1409	B. anthracis
+T60	Organism 1411 1420	B. cereus
+T61	Organism 1426 1442	B. thuringiensis
+T62	Geometrical_part 1453 1457	part
+T63	Organism 1460 1472	B. anthracis
+T64	Parameter 1504 1512	capacity
+T65	Chemical 1531 1543	carbohydrate
+T66	Bio_Process 1544 1554	metabolism
+T67	Organism 1563 1574	B. subtilis
+T68	Protein 1594 1599	genes
+T69	Process 1608 1616	cleavage
+T70	Location 1620 1633	extracellular
+T71	Chemical 1634 1640	chitin
+T72	Chemical 1645 1653	chitosan
+T73	Parameter 1680 1692	relationship
+T74	Organism1 1702 1734	insect pathogen B. thuringiensis
+T75	Bio_Process 1756 1765	metabolic
+T76	Organism1 1783 1797	genus Bacillus
+T77	Organism1 1799 1806	bacilli
+T78	Habitat 1841 1849	habitats
+T79	Organism1 1872 1879	insects
+T80	Organism1 1883 1889	humans
+T81	Organism 1891 1913	Bacillus thuringiensis
+T82	Organism1 1926 1933	insects
+T83	Organism1 1964 1968	pest
+T84	Process 1969 1976	control
+T85	Organism1 2014 2021	bacilli
+T86	Disease 2030 2040	pathogenic
+T87	Organism1 2041 2048	species
+T88	Organism 2055 2063	Bacillus
+T89	Cell 2068 2079	saprophytes
+T90	Organism 2148 2165	Bacillus subtilis
+T91	Organism1 2223 2228	plant
+T92	Body_part 2229 2234	roots
+T93	Organism1 2265 2271	plants
+T94	Body_part 2272 2277	roots
+T95	Bio_Process 2293 2300	biofilm
+T96	Process 2324 2330	effect
+T97	Habitat 2379 2390	environment
+T98	Organism 2424 2441	Bacillus subtilis
+T99	Process 2529 2537	survival
+T100	Habitat 2547 2559	environments
+T101	Organism1 2561 2568	bacilli
+T102	Body_part 2578 2584	spores
+T103	Organism1 2654 2662	bacteria
+T104	Chemical 2674 2685	antibiotics
+T105	Organism1 2711 2718	bacilli
+T106	Process 2776 2784	survival
+T107	Organism1 2801 2809	bacteria
+T108	Organism1 2872 2879	bacilli
+T109	Habitat 2915 2926	environment
+T110	Organism1 2954 2961	Bacilli
+T111	Geometrical_part 2971 2976	array
+T112	Disease 2980 2990	infections
+T113	Disease 2996 3010	ear infections
+T114	Disease 3014 3024	meningitis
+T115	Disease 3030 3054	urinary tract infections
+T116	Disease 3058 3068	septicemia
+T117	Disease 3091 3111	secondary infections
+T118	Disease 3115 3130	immunodeficient
+T119	Organism2 3131 3136	hosts
+T120	Organism2 3162 3167	hosts
+T121	Disease 3198 3207	infection
+T122	Tissue 3221 3227	tissue
+T123	Molecule 3237 3243	toxins
+T124	Chemical 3247 3258	metabolites
+T125	Process 3279 3288	treatment
+T126	Disease 3310 3317	disease
+T127	Organism1 3328 3335	bacilli
+T128	Disease 3339 3346	anthrax
+T129	Organism 3358 3376	Bacillus anthracis
+T130	Disease 3378 3385	Anthrax
+T131	Organism1 3410 3416	humans
+T132	Habitat 3476 3481	Egypt
+T133	Unknown 3498 3503	Bible
+T134	Organism1 3525 3532	animals
+T135	Disease 3558 3564	plague
+T136	Organism1 3589 3595	humans
+T137	Value 3605 3610	1600s
+T138	Disease 3611 3618	anthrax
+T139	Unknown 3637 3642	Black
+T140	Value 3665 3671	60,000
+T141	Organism1 3672 3676	cows
+T142	Disease 3678 3685	Anthrax
+T143	Disease 3784 3791	anthrax
+T144	Disease 3902 3909	disease
+T145	Disease 3911 3918	Anthrax
+T146	Disease 3934 3941	disease
+T147	Organism1 3945 3955	herbivores
+T148	Organism 3972 3981	bacterium
+T149	Organism1 3992 3998	plants
+T150	Chemical 4004 4008	dust
+T151	Disease 4023 4030	anthrax
+T152	Body_part 4031 4037	spores
+T153	Organism1 4039 4045	Humans
+T154	Disease 4059 4066	disease
+T155	Process 4076 4085	different
+T156	Disease 4092 4109	Cutaneous anthrax
+T157	Organism1 4124 4129	human
+T158	Process 4141 4148	contact
+T159	Body_part 4158 4169	spores form
+T160	Chemical 4170 4184	dust particles
+T161	Organism1 4203 4209	animal
+T162	Pathological_formation 4213 4220	carcass
+T163	Pathological_formation 4238 4246	abrasion
+T164	Disease 4248 4265	Cutaneous anthrax
+T165	Value 4279 4282	95%
+T166	Disease 4286 4293	anthrax
+T167	Value 4320 4327	2-3 day
+T168	Process 4328 4338	incubation
+T169	Parameter 4339 4345	period
+T170	Body_part 4350 4356	spores
+T171	Cell 4368 4384	vegetative cells
+T172	Pathological_formation 4401 4407	papule
+T173	Pathological_formation 4446 4452	papule
+T174	Process 4522 4529	process
+T175	Organism1 4571 4579	pathogen
+T176	Disease 4581 4605	Gastrointestinal anthrax
+T177	Food 4646 4650	meat
+T178	Multi-tissue_structure 4669 4686	intestinal mucosa
+T179	Organism1 4696 4705	organisms
+T180	Multi-tissue_structure 4717 4723	mucosa
+T181	Pathological_formation 4734 4753	preexisting lesions
+T182	Disease 4785 4802	cutaneous anthrax
+T183	Bio_Process 4877 4886	mortality
+T184	Parameter 4887 4891	rate
+T185	Disease 4893 4910	Pulmonary anthrax
+T186	Body_part 4936 4942	spores
+T187	Body_part 4971 4982	lymph nodes
+T188	Tissue 5047 5059	blood stream
+T189	Body_part 5064 5074	lymphatics
+T190	Disease 5090 5108	systemic arthritis
+T191	Disease 5161 5168	anthrax
+T192	Chemical 5278 5285	vaccine
+T193	Disease 5316 5323	disease
+T194	Organism 5347 5360	bacteriophage
+T195	Protein 5366 5371	gamma
+T196	Organism1 5372 5377	phage
+T197	Organism 5387 5405	Bacillus anthracis
+T198	Process 5456 5467	application
+T199	Organism 5473 5486	bacteriophage
+T200	Protein_part 5538 5544	lysing
+T201	Organism 5545 5557	B. anthracis
+T202	Cell 5558 5563	cells
+T203	Organism 5622 5631	B. cereus
+T204	Organism 5636 5652	B. thuringiensis
+T205	Protein 5658 5663	gamma
+T206	Organism1 5664 5669	phage
+T207	Value 5684 5687	80%
+T208	Disease 5710 5718	infected
+T209	Organism1 5719 5723	mice
+T210	Disease 5760 5767	disease
+T211	Bio_Process 5815 5820	death
+T212	Disease 5856 5863	anthrax
+T213	Organism2 5877 5884	strains
+T214	Process 5909 5918	treatment
+T215	Location 5935 5940	right
+T216	Profession 5964 5975	Researchers
+T217	Organism2 6037 6045	predator
+T218	Process 6068 6074	change
+T219	Cellular_component 6078 6097	cell wall structure
+T220	Organism1 6113 6118	virus
+T221	Process 6124 6131	binding
+T222	Organism 6157 6166	bacterium
+T223	Chemical 6168 6176	Medicine
+T224	Disease 6189 6199	pathogenic
+T225	Organism1 6221 6228	bacilli
+T226	Organism1 6241 6248	species
+T227	Process 6288 6297	processes
+T228	Organism1 6327 6337	bacteria's
+T229	Protein 6368 6376	proteins
+T230	Chemical 6381 6392	antibiotics
+T231	Chemical 6394 6404	Bacitracin
+T232	Chemical 6438 6447	Neosporin
+T233	Category 6453 6461	products
+T234	Organism1 6465 6472	bacilli
+T235	Organism 6490 6507	Bacillus microbes
+T236	Organism 6545 6561	bacillus species
+T237	Organism 6588 6599	B. subtilis
+T238	Chemical 6613 6625	carbohydrate
+T239	Process 6626 6634	pathways
+T240	Chemical 6664 6677	carbohydrates
+T241	Cell 6078 6082	cell
+T242	Organism_subdivision 2996 2999	ear
+T243	Body_part 3030 3043	urinary tract
+T244	Multi-tissue_structure 4092 4101	Cutaneous
+T245	Multi-tissue_structure 4248 4257	Cutaneous
+T246	Organism_subdivision 4581 4597	Gastrointestinal
+T247	Multi-tissue_structure 4785 4794	cutaneous
+T248	Organ 4893 4902	Pulmonary

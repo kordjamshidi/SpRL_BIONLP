@@ -1,0 +1,61 @@
+T1	Organism 0 24	Chloroflexus aurantiacus
+T2	Unknown 25 32	J-10-fl
+T3	Process 33 44	Description
+T4	Organism 45 69	Chloroflexus aurantiacus
+T5	Organism1 76 84	organism
+T6	Organism1 117 128	phototrophs
+T7	Chemical 173 183	non-sulfur
+T8	Organism1 210 218	bacteria
+T9	Chemical 261 271	non-sulfur
+T10	Organism1 272 280	bacteria
+T11	Molecular_Part 284 289	group
+T12	Organism1 329 340	phototrophs
+T13	Organism1 345 359	nonphototrophs
+T14	Organism1 367 379	thermophiles
+T15	Habitat 388 399	hot springs
+T16	Value 414 418	high
+T17	Parameter 419 421	pH
+T18	Unknown 464 469	layer
+T19	Organism1 486 499	cyanobacteria
+T20	Organism_subdivision 530 538	tendrils
+T21	Organism 544 553	bacterium
+T22	Organism1 565 581	photoheterotroph
+T23	Category 607 615	products
+T24	Organism1 620 633	cyanobacteria
+T25	Unknown 700 710	conditions
+T26	Unknown 748 758	conditions
+T27	Organism1 771 792	green sulfur bacteria
+T28	Cellular_component 835 846	chlorosomes
+T29	Cellular_component 866 882	reaction centers
+T30	Protein 897 904	protein
+T31	Chemical 916 926	glycolipid
+T32	Cellular_component 927 936	monolayer
+T33	Location 945 950	inner
+T34	Geometrical_part 951 958	surface
+T35	Cellular_component 966 986	cytoplasmic membrane
+T36	Cellular_component 1001 1017	reaction centers
+T37	Unknown 1042 1049	type II
+T38	Unknown 1050 1057	systems
+T39	Organism1 1067 1080	cyanobacteria
+T40	Unknown 1090 1096	type I
+T41	Unknown 1097 1104	systems
+T42	Chemical 1114 1126	green-sulfur
+T43	Organism1 1127 1135	bacteria
+T44	Chemical 1137 1143	Carbon
+T45	Chemical 1197 1216	3-hydroxypropionate
+T46	Process 1217 1224	pathway
+T47	Cellular_component 1230 1243	multicellular
+T48	Protein 1244 1253	filaments
+T49	Organism1 1259 1267	organism
+T50	Process 1300 1308	motility
+T51	Process 1310 1321	Description
+T52	Organism 1322 1346	Chloroflexus aurantiacus
+T53	Unknown 1347 1354	J-10-fl
+T54	Organism 1356 1380	Chloroflexus aurantiacus
+T55	Unknown 1381 1388	J-10-fl
+T56	Unknown 1390 1393	DSM
+T57	Value 1394 1397	635
+T58	Unknown 1421 1427	Hakone
+T59	Parameter 1439 1443	area
+T60	Habitat 1447 1452	Japan
+T61	Technique 1486 1494	analysis

@@ -1,0 +1,39 @@
+T1	Organism 0 14	Bradyrhizobium
+T2	Mutant_Organism 19 25	ORS278
+T3	Process 26 37	Description
+T4	Organism 38 52	Bradyrhizobium
+T5	Mutant_Organism 57 63	ORS278
+T6	Organism2 70 76	strain
+T7	Organism 98 110	Aeschynomene
+T8	Body_part 111 122	stem nodule
+T9	Phenotype 162 167	trait
+T10	Organism 171 189	Rhizobium bacteria
+T11	Organism2 197 204	strains
+T12	Organism1 215 233	photoheterotrophic
+T13	Process 247 269	aerobic photosynthesis
+T14	Body_part 274 281	culture
+T15	Body_part 288 301	stem isolates
+T16	Process 321 331	coloration
+T17	Organism2 345 352	strains
+T18	Food 361 367	orange
+T19	Process 368 380	pigmentation
+T20	Chemical 382 389	Pigment
+T21	Technique 390 398	analyses
+T22	Chemical 411 430	bacteriochlorophyll
+T23	Chemical 435 450	spirilloxanthin
+T24	Chemical 456 464	pigments
+T25	Unknown 489 495	system
+T26	Organism 539 561	Bradyrhizobium strains
+T27	Food 571 577	orange
+T28	Organism2 578 585	strains
+T29	Chemical 608 627	bicyclic carotenoid
+T30	Chemical 629 642	canthaxanthin
+T31	Chemical 644 669	4,4'-diketo-beta-carotene
+T32	Organism 672 686	Bradyrhizobium
+T33	Organism2 691 697	strain
+T34	Organism 698 704	ORS278
+T35	Chemical 738 751	canthaxanthin
+T36	Organism1 781 789	bacteria
+T37	Chemical 791 804	canthaxanthin
+T38	Value 816 819	85%
+T39	Chemical 833 843	carotenoid

@@ -1,0 +1,61 @@
+T1	Organism 44 53	Ralstonia
+T2	Organism 55 64	Wautersia
+T3	Mutant_Organism 78 86	LMG19424
+T4	Unknown 111 116	group
+T5	Organism1 120 128	bacteria
+T6	Chemical 172 180	nitrogen
+T7	Disease 188 197	symbiosis
+T8	Organism1 214 220	plants
+T9	Disease 227 236	symbiosis
+T10	Process 259 268	formation
+T11	Unknown 284 294	structures
+T12	Body_part 302 309	nodules
+T13	Body_part 317 322	roots
+T14	Organism1 330 340	host plant
+T15	Location 346 355	interiors
+T16	Organism1 379 387	bacteria
+T17	Chemical 392 400	nitrogen
+T18	Chemical 410 413	air
+T19	Organism1 478 498	alpha-proteobacteria
+T20	Parameter 549 555	number
+T21	Organism1 559 578	beta-proteobacteria
+T22	Organism1 596 615	genera Burkholderia
+T23	Organism 620 629	Ralstonia
+T24	Organism 631 654	R. taiwanensis LMG19424
+T25	Body_part 686 692	nodule
+T26	Organism1 702 730	legume species Mimosa pudica
+T27	Habitat 734 740	Taiwan
+T28	Protein 746 752	genome
+T29	Organism2 756 771	strain LMG19424
+T30	Protein 791 800	replicons
+T31	Protein 804 814	chromosome
+T32	Value 818 824	3.5 Mb
+T33	Value 842 848	2.4 Mb
+T34	Body_part 865 872	plasmid
+T35	Value 876 882	0.5 Mb
+T36	Protein 901 906	genes
+T37	Process 930 940	nodulation
+T38	Chemical 945 953	nitrogen
+T39	Process 954 962	fixation
+T40	Organism 970 993	R. taiwanensis LMG19424
+T41	Organism1 1094 1120	alpha-proteobacteria group
+T42	Protein_part 1158 1166	sequence
+T43	Protein 1177 1183	genome
+T44	Protein_part 1204 1213	sequences
+T45	Organism 1215 1237	Sinorhizobium meliloti
+T46	Organism 1239 1263	Bradyrhizobium japonicum
+T47	Organism 1268 1286	Mesorhizobium loti
+T48	Protein_part 1293 1301	sequence
+T49	Organism 1305 1319	R. taiwanensis
+T50	Process 1373 1382	evolution
+T51	Protein 1387 1394	genetic
+T52	Process 1395 1400	basis
+T53	Disease 1425 1434	symbiosis
+T54	Parameter 1488 1500	relationship
+T55	Disease 1509 1518	symbiosis
+T56	Disease 1523 1536	pathogenicity
+T57	Organism1 1547 1562	genus Ralstonia
+T58	Organism1 1576 1583	species
+T59	Organism1 1593 1608	plant pathogens
+T60	Organism 1618 1633	R. solanacearum
+T61	Organism1 1653 1668	human pathogens

@@ -1,0 +1,44 @@
+T1	Organism 0 25	Baumannia cicadellinicola
+T2	Unknown 26 29	str
+T3	Organism 31 60	Hc (Homalodisca coagulata) Hc
+T4	Process 61 72	Description
+T5	Organism 73 98	Baumannia cicadellinicola
+T6	Organism1 122 130	organism
+T7	Organism1 177 205	insect Homalodisca coagulata
+T8	Unknown 231 257	Glassy-Winged Sharpshooter
+T9	Body_part 278 283	xylem
+T10	Organism1 287 293	plants
+T11	Organism1 299 305	insect
+T12	Process 313 324	devastation
+T13	Organism1 328 339	grape crops
+T14	Organism1 361 368	grasses
+T15	Unknown 380 386	vector
+T16	Organism1 395 413	bacterial pathogen
+T17	Organism 415 433	Xylella fastidiosa
+T18	Disease 451 458	disease
+T19	Organism1 462 472	grapevines
+T20	Organism 478 487	bacterium
+T21	Organ 529 535	organs
+T22	Organism1 543 549	insect
+T23	Organism2 602 611	offspring
+T24	Organism 618 627	bacterium
+T25	Organism2 682 686	host
+T26	Organism1 692 707	bacteria-insect
+T27	Parameter 708 720	relationship
+T28	Organism1 762 770	bacteria
+T29	Chemical 789 800	metabolites
+T30	Organism1 809 817	insect's
+T31	Process 830 842	requirements
+T32	Habitat 871 882	environment
+T33	Chemical 887 898	metabolites
+T34	Organism1 908 914	insect
+T35	Protein 942 948	genome
+T36	Process 977 986	reduction
+T37	Technique 1005 1024	gel electrophoresis
+T38	Protein 1038 1044	genome
+T39	Parameter 1045 1049	size
+T40	Value 1058 1064	671 kb
+T41	Protein 1082 1087	genes
+T42	Process 1164 1176	requirements
+T43	Organism 1184 1193	bacterium
+T44	Organism2 1202 1206	host

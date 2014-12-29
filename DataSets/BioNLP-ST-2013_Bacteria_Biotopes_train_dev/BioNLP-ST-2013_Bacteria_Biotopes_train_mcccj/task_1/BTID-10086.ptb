@@ -1,0 +1,7 @@
+(S1 (S (NP (NN Bordetella) (NN petrii) (NN DSM) (NN 12804))))
+(S1 (S (NP (NN Description))))
+(S1 (S (NP (NP (NN Bordetella) (NN petrii) (NN strain) (NN DSM12804)) (. .))))
+(S1 (S (S (NP (NN Bordetella) (NN petrii) (NN strain) (NN DSM12804)) (VP (VBD was) (ADVP (RB initially)) (VP (VBN isolated) (PP (IN from) (NP (NN river) (NN sediment)))))) (. .)))
+(S1 (S (S (PP (IN Unlike) (NP (NP (JJ other) (NNS members)) (PP (IN of) (NP (DT the) (NN genus))))) (, ,) (NP (DT this) (NN organism)) (VP (VBZ is) (RB not) (VP (VBN known) (S (VP (TO to) (VP (VB be) (VP (VBN associated) (PP (IN with) (NP (NP (NNS humans)) (CC or) (NP (JJ other) (JJ warm-blooded) (NNS animals))))))))))) (. .)))
+(S1 (S (S (NP (NN Bordetella) (NN petrii)) (ADVP (RB also)) (VP (VBZ differs) (PP (IN from) (NP (NP (JJ other) (NN Bordetella) (NNS species)) (SBAR (WHPP (IN in) (WHNP (WDT that))) (S (NP (PRP it)) (VP (VBZ is) (NP (DT a) (JJ facultative) (NN anaerobe))))))))) (. .)))
+(S1 (S (S (NP (DT This) (NN strain)) (VP (VP (VBZ is) (NP (NP (DT the) (NN type) (NN strain)) (PP (IN for) (NP (DT the) (NNS species))))) (CC and) (VP (MD will) (VP (VB be) (VP (VBN used) (PP (IN for) (NP (NP (JJ comparative) (NNS genomics)) (PP (IN with) (NP (JJ other) (NN Bordetella) (NNS species)))))))))) (. .)))

@@ -1,0 +1,127 @@
+T1	Organism 0 15	Dehalococcoides
+T2	Mutant_Organism 20 24	BAV1
+T3	Organism 25 40	Dehalococcoides
+T4	Mutant_Organism 45 49	BAV1
+T5	Organism 50 65	Dehalococcoides
+T6	Organism2 70 76	strain
+T7	Organism 77 81	BAV1
+T8	Process 101 115	dechlorination
+T9	Chemical 131 150	chlorinated ethenes
+T10	Chemical 162 176	vinyl chloride
+T11	Category 191 199	products
+T12	Chemical 207 213	ethene
+T13	Chemical 218 236	inorganic chloride
+T14	Process 273 287	bioremediation
+T15	Protein_part 291 316	chlorinated solvent sites
+T16	Unknown 324 329	Facts
+T17	Organism 333 348	Dehalococcoides
+T18	Organism2 353 364	strain BAV1
+T19	Technique 418 428	sequencing
+T20	Organism 434 449	Dehalococcoides
+T21	Organism2 454 465	strain BAV1
+T22	Chemical 477 496	chlorinated ethenes
+T23	Chemical 509 520	groundwater
+T24	Process 521 534	contamination
+T25	Chemical 540 560	chlorinated solvents
+T26	Chemical 575 594	chlorinated ethenes
+T27	Bio_Process 620 626	health
+T28	Organism1 642 651	organisms
+T29	Chemical 665 682	tetrachloroethene
+T30	Chemical 684 687	PCE
+T31	Chemical 692 713	trichloroethene (TCE)
+T32	Chemical 718 741	cis -1,2-dichloroethene
+T33	Geometrical_part 744 752	cis -DCE
+T34	Geometrical_part 790 800	trans -DCE
+T35	Category 821 828	product
+T36	Organism1 832 841	microbial
+T37	Chemical 842 849	PCE/TCE
+T38	Bio_Process 850 860	metabolism
+T39	Value 862 863	3
+T40	Chemical 871 890	chlorinated ethenes
+T41	Process 920 934	dechlorination
+T42	Technique 946 960	detoxification
+T43	Process 971 980	isolation
+T44	Organism2 984 995	strain BAV1
+T45	Organism 1006 1015	bacterial
+T46	Chemical 1057 1071	dechlorinating
+T47	Chemical 1072 1075	PCE
+T48	Chemical 1079 1085	ethene
+T49	Organism 1087 1114	Dehalococcoides ethenogenes
+T50	Organism2 1115 1121	strain
+T51	Value 1122 1125	195
+T52	Chemical 1131 1134	PCE
+T53	Chemical 1136 1139	TCE
+T54	Geometrical_part 1144 1152	cis -DCE
+T55	Bio_Process 1156 1165	metabolic
+T56	Molecule 1166 1174	electron
+T57	Category 1175 1184	acceptors
+T58	Value 1186 1188	15
+T59	Organism 1196 1211	Dehalococcoides
+T60	Organism2 1216 1226	strain FL2
+T61	Chemical 1238 1241	TCE
+T62	Geometrical_part 1243 1251	cis -DCE
+T63	Geometrical_part 1257 1267	trans -DCE
+T64	Value 1269 1270	9
+T65	Chemical 1332 1334	VC
+T66	Process 1349 1363	dechlorination
+T67	Chemical 1370 1372	VC
+T68	Chemical 1376 1382	ethene
+T69	Chemical 1432 1434	VC
+T70	Process 1435 1444	formation
+T71	Value 1446 1447	9
+T72	Value 1449 1451	14
+T73	Value 1453 1458	16-18
+T74	Chemical 1462 1464	VC
+T75	Process 1465 1477	accumulation
+T76	Chemical 1514 1516	VC
+T77	Organism1 1522 1527	human
+T78	Chemical 1528 1538	carcinogen
+T79	Chemical 1555 1558	DCE
+T80	Chemical 1563 1565	VC
+T81	Process 1595 1609	bioremediation
+T82	Protein_part 1613 1638	chlorinated solvent sites
+T83	Organism 1640 1655	Dehalococcoides
+T84	Organism2 1660 1666	strain
+T85	Organism 1667 1671	BAV1
+T86	Chemical 1690 1718	PCE-to-ethene-dechlorinating
+T87	Protein_part 1794 1811	Bachman Road site
+T88	Unknown 1815 1821	Oscoda
+T89	Unknown 1823 1831	Michigan
+T90	Value 1833 1836	6-8
+T91	Value 1838 1840	13
+T92	Organism2 1844 1855	Strain BAV1
+T93	Chemical 1872 1883	DCE isomers
+T94	Chemical 1888 1890	VC
+T95	Molecule 1894 1902	electron
+T96	Category 1903 1912	acceptors
+T97	Chemical 1931 1934	PCE
+T98	Chemical 1939 1942	TCE
+T99	Chemical 1984 1993	compounds
+T100	Bio_Process 2013 2019	benign
+T101	Chemical 2020 2026	ethene
+T102	Chemical 2031 2049	inorganic chloride
+T103	Value 2051 2052	5
+T104	Value 2054 2055	7
+T105	Organism2 2069 2080	strain BAV1
+T106	Process 2098 2107	existence
+T107	Organism1 2111 2120	organisms
+T108	Chemical 2147 2166	chlorinated ethenes
+T109	Chemical 2178 2180	VC
+T110	Bio_Process 2201 2207	benign
+T111	Category 2208 2216	products
+T112	Chemical 2224 2230	ethene
+T113	Chemical 2235 2253	inorganic chloride
+T114	Process 2288 2302	bioremediation
+T115	Process 2303 2315	applications
+T116	Protein_part 2319 2344	chlorinated solvent sites
+T117	Protein 2350 2356	genome
+T118	Protein_part 2357 2365	sequence
+T119	Organism2 2369 2380	strain BAV1
+T120	Process 2413 2422	evolution
+T121	Process 2436 2450	dehalogenation
+T122	Organism 2484 2505	Dehalococcoides group
+T123	Protein 2511 2517	genome
+T124	Technique 2562 2577	molecular tools
+T125	Process 2603 2617	dechlorination
+T126	Parameter 2618 2626	activity
+T127	Protein_part 2643 2648	sites

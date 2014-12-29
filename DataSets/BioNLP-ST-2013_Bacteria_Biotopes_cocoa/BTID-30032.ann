@@ -1,0 +1,164 @@
+T1	Organism 4 22	tropical bacterium
+T2	Chemical 39 44	sugar
+T3	Organism 73 94	bacterium Xanthomonas
+T4	Chemical 95 106	albilineans
+T5	Unknown 114 119	agent
+T6	Disease 146 153	disease
+T7	Chemical 157 162	sugar
+T8	Body_part 175 179	leaf
+T9	Disease 186 193	disease
+T10	Disease 199 207	symptoms
+T11	Disease 215 222	disease
+T12	Body_part 242 252	white line
+T13	Body_part 260 266	leaves
+T14	Bio_Process 274 279	death
+T15	Organism1 287 292	plant
+T16	Disease 312 320	necrosis
+T17	Body_part 328 334	leaves
+T18	Chemical 339 350	albilineans
+T19	Chemical 408 413	sugar
+T20	Parameter 455 460	field
+T21	Process 478 487	reduction
+T22	Body_part 523 528	juice
+T23	Chemical 548 553	sugar
+T24	Parameter 593 601	capacity
+T25	Organism1 619 624	crops
+T26	Value 630 640	few months
+T27	Chemical 697 702	sugar
+T28	Process 745 755	production
+T29	Chemical 759 764	sugar
+T30	Unknown 772 783	by-products
+T31	Food 792 795	rum
+T32	Chemical 800 807	ethanol
+T33	Habitat 812 818	Brazil
+T34	Chemical 820 827	ethanol
+T35	Food 895 899	food
+T36	Parameter 900 905	value
+T37	Chemical 907 912	sugar
+T38	Parameter 970 976	energy
+T39	Process 1010 1021	Description
+T40	Organism 1022 1033	Xanthomonas
+T41	Chemical 1034 1045	albilineans
+T42	Cell 1051 1054	rod
+T43	Unknown 1063 1067	Gram
+T44	Organism 1081 1098	aerobic bacterium
+T45	Cellular_component 1127 1142	polar flagellum
+T46	Unknown 1158 1168	conditions
+T47	Chemical 1186 1191	sugar
+T48	Chemical 1253 1267	X. albilineans
+T49	Organism1 1334 1339	plant
+T50	Organism 1346 1355	bacterium
+T51	Protein 1428 1433	genes
+T52	Parameter 1448 1464	hypersensitivity
+T53	Disease 1468 1481	pathogenicity
+T54	Disease 1483 1486	hrp
+T55	Disease 1517 1532	phytopathogenic
+T56	Organism1 1533 1541	bacteria
+T57	Molecule 1576 1581	toxin
+T58	Chemical 1589 1598	albicidin
+T59	Disease 1639 1647	symptoms
+T60	Disease 1655 1662	disease
+T61	Body_part 1670 1676	leaves
+T62	Protein 1695 1700	genes
+T63	Process 1717 1729	biosynthesis
+T64	Chemical 1733 1742	albicidin
+T65	Technique 1789 1797	analysis
+T66	Protein 1807 1812	genes
+T67	Process 1828 1839	elaboration
+T68	Process 1859 1871	biosynthesis
+T69	Chemical 1879 1888	albicidin
+T70	Geometrical_part 1889 1897	backbone
+T71	Process 1912 1922	prediction
+T72	Geometrical_part 1930 1939	structure
+T73	Chemical 1950 1959	albicidin
+T74	Protein 1971 1991	pathogenicity factor
+T75	Chemical 1995 2009	X. albilineans
+T76	Organism2 2035 2042	Strains
+T77	Organism 2050 2059	bacterium
+T78	Molecule 2085 2090	toxin
+T79	Chemical 2134 2139	sugar
+T80	Chemical 2187 2196	albicidin
+T81	Protein 2204 2209	genes
+T82	Disease 2214 2227	pathogenicity
+T83	Chemical 2299 2313	X. albilineans
+T84	Organism 2338 2366	Xanthomonas campestris group
+T85	Unknown 2370 2375	group
+T86	Organism1 2379 2387	bacteria
+T87	Organism1 2418 2424	plants
+T88	Organism 2462 2480	Xylella fastidiosa
+T89	Organism 2484 2493	bacterium
+T90	Organism1 2517 2523	plants
+T91	Food 2532 2538	coffee
+T92	Organism1 2540 2546	grapes
+T93	Organism1 2548 2559	fruit trees
+T94	Organism1 2561 2573	citrus fruit
+T95	Organism1 2584 2590	olives
+T96	Organism1 2607 2612	trees
+T97	Organism1 2625 2628	oak
+T98	Process 2653 2668	de transmission
+T99	Chemical 2669 2683	X. albilineans
+T100	Organism 2709 2718	bacterium
+T101	Protein 2739 2746	genetic
+T102	Disease 2751 2761	pathogenic
+T103	Unknown 2762 2770	variants
+T104	Organism1 2793 2799	Humans
+T105	Unknown 2818 2825	vectors
+T106	Organism1 2833 2841	pathogen
+T107	Process 2855 2866	utilization
+T108	Technique 2894 2899	tools
+T109	Disease 2916 2924	infected
+T110	Organism1 2925 2930	plant
+T111	Chemical 2941 2946	sugar
+T112	Chemical 3005 3008	air
+T113	Process 3015 3027	transmission
+T114	Chemical 3057 3065	aerosols
+T115	Organism1 3068 3075	insects
+T116	Chemical 3079 3084	Sugar
+T117	Bio_Process 3118 3125	healthy
+T118	Organism1 3126 3132	plants
+T119	Value 3158 3167	few weeks
+T120	Organism1 3187 3192	human
+T121	Process 3193 3205	intervention
+T122	Protein 3231 3237	genome
+T123	Chemical 3241 3255	X. albilineans
+T124	Molecular_Part 3261 3266	group
+T125	Organism2 3280 3286	strain
+T126	Chemical 3290 3304	X. albilineans
+T127	Unknown 3306 3314	GPE PC73
+T128	Unknown 3347 3357	Guadeloupe
+T129	Organism2 3364 3370	strain
+T130	Disease 3378 3393	severe symptoms
+T131	Process 3400 3411	inoculation
+T132	Chemical 3428 3433	sugar
+T133	Disease 3467 3474	disease
+T134	Unknown 3489 3497	GPE PC73
+T135	Geometrical_part 3501 3505	part
+T136	Molecular_Part 3511 3516	group
+T137	Chemical 3520 3534	X. albilineans
+T138	Organism2 3535 3542	strains
+T139	Disease_Process 3575 3584	outbreaks
+T140	Disease 3592 3599	disease
+T141	Disease 3609 3618	epidemics
+T142	Habitat 3668 3672	Cuba
+T143	Unknown 3674 3684	Guadeloupe
+T144	Habitat 3686 3693	Florida
+T145	Habitat 3695 3704	Mauritius
+T146	Habitat 3706 3711	Texas
+T147	Habitat 3713 3719	Taiwan
+T148	Protein 3773 3779	genome
+T149	Chemical 3783 3797	X. albilineans
+T150	Process 3830 3840	mechanisms
+T151	Organism 3873 3882	bacterium
+T152	Chemical 3893 3898	sugar
+T153	Organism1 3904 3909	crops
+T154	Process 3923 3933	comparison
+T155	Protein 3943 3950	genomes
+T156	Organism1 3960 3967	species
+T157	Organism 3971 3982	Xanthomonas
+T158	Organism 3990 4003	X. fastidiosa
+T159	Process 4063 4076	comprehension
+T160	Organism1 4121 4130	parasitic
+T161	Process 4131 4145	specialization
+T162	Organism1 4149 4154	plant
+T163	Disease 4155 4165	pathogenic
+T164	Organism1 4166 4174	bacteria

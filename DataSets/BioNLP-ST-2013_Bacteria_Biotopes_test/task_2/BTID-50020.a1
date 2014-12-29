@@ -1,0 +1,28 @@
+T1	Bacteria 0 26	Bdellovibrio bacteriovorus
+T2	Bacteria 27 53	Bdellovibrio bacteriovorus
+T3	Habitat 75 82	microbe
+T4	Bacteria 135 161	Bdellovibrio bacteriovorus
+T5	Bacteria 195 216	delta-proteobacterium
+T6	Bacteria 237 245	bacteria
+T7	Bacteria 247 259	Bdellovibrio
+T8	Habitat 361 368;385 393	aquatic habitats
+T9	Habitat 373 393	terrestrial habitats
+T10	Habitat 405 425	mammalian intestines
+T11	Habitat 405 414	mammalian
+T12	Habitat 447 452	plant
+T13	Habitat 454 460	animal
+T14	Habitat 466 471	human
+T15	Bacteria 514 526	Bdellovibrio
+T16	Bacteria 676 692	B. bacteriovorus
+T17	Bacteria 808 824	B. bacteriovorus
+T18	Habitat 845 854	prey cell
+T19	Habitat 1033 1042	prey cell
+T20	Bacteria 1060 1076	B. bacteriovorus
+T21	Habitat 1110 1136	prey cell's outer membrane
+T22	Habitat 1110 1119	prey cell
+T23	Habitat 1110 1121;1141 1160	prey cell's peptidoglycan layer
+T24	Habitat 1350 1364	prey periplasm
+T25	Bacteria 1366 1382	B. bacteriovorus
+T26	Habitat 1567 1605	joint structure called the bdelloplast
+T27	Bacteria 1786 1798	Bdellovibrio
+T28	Habitat 1857 1867	prey cells

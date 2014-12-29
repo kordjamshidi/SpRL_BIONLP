@@ -1,0 +1,30 @@
+T1	Unknown 0 12	Dehalobacter
+T2	Process 13 27	Classification
+T3	Unknown 28 34	Higher
+T4	Organism1 41 53	
+T5	Unknown 54 66	Dehalobacter
+T6	Process 78 89	Description
+T7	Process 94 106	Significance
+T8	Unknown 107 119	Dehalobacter
+T9	Organism1 146 154	anaerobe
+T10	Chemical 236 247	chlorinated
+T11	Category 259 267	products
+T12	Organism1 273 281	bacteria
+T13	Chemical 306 321	trichloroethene
+T14	Category 327 335	terminal
+T15	Molecule 336 344	electron
+T16	Category 345 353	acceptor
+T17	Chemical 358 368	dihydrogen
+T18	Molecule 375 383	electron
+T19	Category 384 389	donor
+T20	Protein 391 397	Genome
+T21	Geometrical_part 398 407	Structure
+T22	Protein 408 418	No genomes
+T23	Organism1 426 433	species
+T24	Unknown 441 453	Dehalobacter
+T25	Organism1 454 459	genus
+T26	Process 489 498	Isolation
+T27	Process 503 514	Cultivation
+T28	Organism 515 528	D. restrictus
+T29	Unknown 559 565	system
+T30	Chemical 590 607	tetrachloroethene

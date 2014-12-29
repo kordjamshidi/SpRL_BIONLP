@@ -1,0 +1,37 @@
+T1	Organism 0 24	Saccharophagus degradans
+T2	Process 30 41	Description
+T3	Organism 42 66	Saccharophagus degradans
+T4	Organism2 67 73	strain
+T5	Organism2 85 91	strain
+T6	Habitat 97 103	marine
+T7	Organism1 104 125	gamma-proteobacterium
+T8	Organism 158 179	Spartina alterniflora
+T9	Chemical 183 187	salt
+T10	Habitat 188 193	marsh
+T11	Body_part 194 198	cord
+T12	Organism1 199 204	grass
+T13	Unknown 213 227	Chesapeake Bay
+T14	Unknown 229 232	USA
+T15	Category 280 287	complex
+T16	Chemical 288 301	carbohydrates
+T17	Process 325 331	action
+T18	Complex 335 351	enzyme complexes
+T19	Cell 365 369	cell
+T20	Geometrical_part 370 378	surfaces
+T21	Process 394 405	degradation
+T22	Category 406 414	products
+T23	Chemical 420 426	carbon
+T24	Chemical 449 455	chitin
+T25	Organism1 474 480	insect
+T26	Body_part 481 492	exoskeleton
+T27	Organism1 494 499	plant
+T28	Cellular_component 500 509	cell wall
+T29	Geometrical_part 510 520	components
+T30	Chemical 529 538	cellulose
+T31	Organism1 544 549	algal
+T32	Cellular_component 550 559	cell wall
+T33	Chemical 560 573	carbohydrates
+T34	Organism1 580 588	organism
+T35	Process 606 620	bioremediation
+T36	Cell 500 504	cell
+T37	Cell 550 554	cell

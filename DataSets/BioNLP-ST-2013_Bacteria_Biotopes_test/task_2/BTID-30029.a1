@@ -1,0 +1,37 @@
+T1	Bacteria 12 21	rhizobium
+T2	Bacteria 34 43	rhizobium
+T3	Bacteria 44 53;66 86	Ralstonia taiwanensis LMG19424
+T4	Bacteria 55 64;66 86	Wautersia taiwanensis LMG19424
+T5	Bacteria 102 110	rhizobia
+T6	Bacteria 120 128	bacteria
+T7	Habitat 203 220	leguminous plants
+T8	Habitat 302 309	nodules
+T9	Habitat 317 322	roots
+T10	Habitat 335 340	plant
+T11	Bacteria 379 387	bacteria
+T12	Habitat 410 413	air
+T13	Bacteria 478 498	alpha-proteobacteria
+T14	Bacteria 559 578	beta-proteobacteria
+T15	Bacteria 603 615	Burkholderia
+T16	Bacteria 620 629	Ralstonia
+T17	Bacteria 631 654	R. taiwanensis LMG19424
+T18	Habitat 686 740	nodule from the legume species Mimosa pudica in Taiwan
+T19	Habitat 702 708	legume
+T20	Habitat 717 730	Mimosa pudica
+T21	Geographical 734 740	Taiwan
+T22	Bacteria 763 771	LMG19424
+T23	Bacteria 970 993	R. taiwanensis LMG19424
+T24	Bacteria 1009 1018	rhizobium
+T25	Bacteria 1076 1084	rhizobia
+T26	Bacteria 1094 1114	alpha-proteobacteria
+T27	Bacteria 1195 1203	rhizobia
+T28	Bacteria 1215 1237	Sinorhizobium meliloti
+T29	Bacteria 1239 1263	Bradyrhizobium japonicum
+T30	Bacteria 1268 1286	Mesorhizobium loti
+T31	Bacteria 1305 1319	R. taiwanensis
+T32	Bacteria 1408 1417	rhizobium
+T33	Habitat 1418 1424	legume
+T34	Bacteria 1553 1562	Ralstonia
+T35	Habitat 1593 1598	plant
+T36	Bacteria 1618 1633	R. solanacearum
+T37	Habitat 1653 1658	human

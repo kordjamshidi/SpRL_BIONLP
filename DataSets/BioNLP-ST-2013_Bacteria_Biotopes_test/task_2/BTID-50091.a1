@@ -1,0 +1,65 @@
+T1	Bacteria 0 22	Legionella pneumophila
+T2	Bacteria 23 45	Legionella pneumophila
+T3	Bacteria 98 106	bacteria
+T4	Bacteria 118 128	Legionella
+T5	Habitat 177 203	American Legion convention
+T6	Geographical 177 185	American
+T7	Bacteria 274 296	Legionella pneumophila
+T8	Bacteria 393 401	bacteria
+T9	Habitat 422 435	intracellular
+T10	Bacteria 447 469	Legionella pneumophila
+T11	Bacteria 519 528	bacterium
+T12	Bacteria 635 657	Legionella pneumophila
+T13	Habitat 684 715	non-marine aquatic environments
+T14	Habitat 724 729	lakes
+T15	Habitat 734 739	ponds
+T16	Bacteria 787 795	bacteria
+T17	Habitat 836 915	areas where there are high concentrations of rust, algae, and organic particles
+T18	Habitat 881 885	rust
+T19	Habitat 887 892	algae
+T20	Bacteria 937 945	bacteria
+T21	Habitat 1153 1182	tap water at room temperature
+T22	Bacteria 1200 1210	Legionella
+T23	Bacteria 1289 1297	bacteria
+T24	Habitat 1411 1420	protozoan
+T25	Habitat 1422 1445	Hartmanella vermiformis
+T26	Habitat 1447 1470	Tetrahymena thermophila
+T27	Habitat 1476 1499	Acanthamoeba castellani
+T28	Habitat 1522 1530	protozoa
+T29	Bacteria 1565 1575	Legionella
+T30	Bacteria 1612 1622	Legionella
+T31	Habitat 1641 1648	amoebae
+T32	Bacteria 1664 1672	bacteria
+T33	Habitat 1682 1697	intracellularly
+T34	Habitat 1725 1732	amoebae
+T35	Habitat 1789 1796	amoebae
+T36	Bacteria 1814 1824	Legionella
+T37	Bacteria 1825 1833	bacteria
+T38	Habitat 1846 1851	human
+T39	Habitat 1875 1882	amoebae
+T40	Habitat 1924 1941	aerosolised water
+T41	Bacteria 1943 1953	Legionella
+T42	Bacteria 1954 1962	bacteria
+T43	Habitat 1986 2007	lungs of human beings
+T44	Habitat 1995 2000	human
+T45	Habitat 2065 2072	devices
+T46	Bacteria 2110 2118	bacteria
+T47	Habitat 2123 2154	air conditioning cooling towers
+T48	Habitat 2123 2139	air conditioning
+T49	Habitat 2123 2126	air
+T50	Habitat 2186 2193	devices
+T51	Bacteria 2216 2224	bacteria
+T52	Bacteria 2239 2261	Legionella pneumophila
+T53	Bacteria 2332 2340	bacteria
+T54	Habitat 2621 2645	central air conditioning
+T55	Habitat 2629 2632	air
+T56	Habitat 2661 2677	office buildings
+T57	Habitat 2679 2685	hotels
+T58	Habitat 2691 2700	hospitals
+T59	Bacteria 2909 2918	bacterial
+T60	Bacteria 3066 3076	Legionella
+T61	Bacteria 3077 3086	bacterium
+T62	Habitat 3184 3193	abdominal
+T63	Habitat 3276 3287	respiratory
+T64	Habitat 3365 3370	renal
+T65	Habitat 3407 3428	hospitalised patients

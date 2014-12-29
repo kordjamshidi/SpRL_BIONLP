@@ -1,0 +1,63 @@
+T1	Organism 0 45	
+T2	Organism1 51 65	plant pathogen
+T3	Disease 84 87	rot
+T4	Organism1 99 105	plants
+T5	Organism1 110 115	weeds
+T6	Organism1 120 137	genus Xanthomonas
+T7	Unknown 178 183	group
+T8	Organism1 187 211	bacterial phytopathogens
+T9	Process 230 247	gamma-subdivision
+T10	Organism 255 269	Proteobacteria
+T11	Organism 271 314	Xanthomonas campestris pv. campestris (Xcc)
+T12	Mutant_Organism 318 322	Gram
+T13	Cell 340 343	rod
+T14	Unknown 359 364	agent
+T15	Disease 374 377	rot
+T16	Organism 411 419	Brassica
+T17	Organism 424 435	Arabidopsis
+T18	Disease 437 445	Symptoms
+T19	Disease 463 477	leaf chlorosis
+T20	Tissue 495 510	vascular tissue
+T21	Disease 549 557	necrosis
+T22	Body_part 564 568	leaf
+T23	Disease 593 601	necrosis
+T24	Disease 615 622	disease
+T25	Organism 637 650	Xcc bacterium
+T26	Organism1 664 669	weeds
+T27	Organism 681 701	Arabidopsis thaliana
+T28	Organism1 746 753	species
+T29	Organism1 762 767	plant
+T30	Profession 778 789	Researchers
+T31	Protein 820 825	genes
+T32	Organism1 842 847	plant
+T33	Disease 848 858	infections
+T34	Protein 888 894	genome
+T35	Protein_part 895 904	sequences
+T36	Organism1 912 926	plant pathogen
+T37	Organism 929 932	Xcc
+T38	Organism2 950 955	hosts
+T39	Organism 957 968	Arabidopsis
+T40	Organism 971 1008	Xanthomonas campestris pv. campestris
+T41	Chemical 1046 1063	exopolysaccharide
+T42	Body_part 1072 1075	gum
+T43	Unknown 1125 1130	agent
+T44	Profession 1151 1162	Researchers
+T45	Organism1 1188 1203	plant pathogens
+T46	Organism1 1211 1228	genus Xanthomonas
+T47	Organism2 1235 1248	species preys
+T48	Process 1252 1261	different
+T49	Organism1 1262 1267	crops
+T50	Organism1 1280 1286	plants
+T51	Process 1290 1299	different
+T52	Protein 1318 1325	genomes
+T53	Value 1331 1341	80 percent
+T54	Protein 1351 1356	genes
+T55	Technique 1380 1388	analysis
+T56	Organism 1405 1424	Xanthomonas strains
+T57	Process 1441 1455	identification
+T58	Organism2 1468 1474	strain
+T59	Protein 1484 1489	genes
+T60	Disease 1547 1560	pathogenicity
+T61	Organism2 1565 1569	host
+T62	Organism1 1600 1609	organisms
+T63	Organism1 1235 1242	species

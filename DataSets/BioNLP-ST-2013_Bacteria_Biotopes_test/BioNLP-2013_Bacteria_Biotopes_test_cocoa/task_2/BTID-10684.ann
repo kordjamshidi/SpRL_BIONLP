@@ -1,0 +1,33 @@
+T1	Organism 0 21	Thermosipho africanus
+T2	Unknown 22 28	TCF52B
+T3	Process 29 40	Description
+T4	Organism 41 62	Thermosipho africanus
+T5	Organism 64 85	Thermosipho africanus
+T6	Unknown 89 95	member
+T7	Organism 103 116	Thermotogales
+T8	State 141 151	morphology
+T9	Cell 167 172	cells
+T10	Body_part 188 194	sheath
+T11	Geometrical_part 200 208	envelope
+T12	Cellular_component 234 243	cell wall
+T13	Technique 257 267	sequencing
+T14	Organism 271 284	Thermotogales
+T15	Protein 285 292	genomes
+T16	Process 329 342	gene transfer
+T17	Organism1 357 366	organisms
+T18	Organism 375 382	Archaea
+T19	Organism 384 405	Thermosipho africanus
+T20	Habitat 429 435	marine
+T21	Unknown 449 456	systems
+T22	Chemical 461 464	oil
+T23	Process 475 485	production
+T24	Chemical 486 492	waters
+T25	Process 494 505	Description
+T26	Organism 506 527	Thermosipho africanus
+T27	Unknown 528 534	TCF52B
+T28	Organism1 541 549	organism
+T29	Chemical 572 581	Troll oil
+T30	Process 582 591	formation
+T31	Habitat 599 608	North Sea
+T32	Technique 642 650	analysis
+T33	Cell 234 238	cell

@@ -1,0 +1,7 @@
+(S1 (S (NP (NN Saccharophagus) (NN degradans) (NN 2-40))))
+(S1 (S (NP (NN Description))))
+(S1 (S (S (NP (NN Saccharophagus)) (VP (VBZ degradans) (NP (NN strain) (NN 2-40)))) (. .)))
+(S1 (S (S (NP (DT This) (NN strain)) (VP (VBZ is) (NP (NP (DT a) (NN marine) (NN gamma-proteobacterium)) (SBAR (WHNP (WDT that)) (S (VP (VBD was) (VP (VBN isolated) (PP (IN from) (S (VP (VBG decaying) (NP (NP (NN Spartina) (NN alterniflora)) (, ,) (NP (DT a) (NN salt) (NN marsh) (NN cord) (NN grass)) (, ,)) (PP (IN in) (NP (DT the) (NNP Chesapeake) (NNP Bay) (, ,) (NNP USA))))))))))))) (. .)))
+(S1 (S (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ capable) (PP (IN of) (S (VP (VBG degrading) (NP (QP (RB up) (TO to) (CD 11)) (JJ insoluble) (NN complex) (NNS carbohydrates)) (PP (IN through) (NP (NP (DT the) (JJ collective) (NN action)) (PP (IN of) (NP (NP (NN enzyme) (NNS complexes)) (VP (VBN found) (PP (IN on) (NP (PRP$ its) (NN cell) (NNS surfaces)))))))))))) (, ,) (S (VP (VBG utilizing) (NP (DT the) (NN degradation) (NNS products)) (PP (IN as) (NP (DT a) (NN carbon) (NN source))))))) (. .)))
+(S1 (S (S (NP (DT These)) (VP (VBP include) (NP (NP (NN chitin)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBP constitute) (NP (NP (NN insect) (NN exoskeleton)) (, ,) (NP (NP (NN plant) (NN cell) (NN wall) (NNS components)) (PP (JJ such) (IN as) (NP (NN cellulose)))) (, ,) (CC and) (NP (JJ algal) (NN cell) (NN wall) (NNS carbohydrates))))))))) (. .)))
+(S1 (S (S (NP (DT This) (NN organism)) (VP (MD may) (VP (VB be) (ADJP (JJ useful) (PP (IN in) (NP (NN bioremediation))))))) (. .)))

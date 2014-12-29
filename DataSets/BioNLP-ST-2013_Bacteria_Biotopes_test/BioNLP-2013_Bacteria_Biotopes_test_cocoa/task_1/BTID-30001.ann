@@ -1,0 +1,47 @@
+T1	Organism1 2 10	bacteria
+T2	Protein_part 33 44	amino acids
+T3	Chemical 45 46	A
+T4	Organism1 47 55	bacteria
+T5	Protein_part 78 89	amino acids
+T6	Organism 95 106	Clostridium
+T7	Mutant_Organism 108 110	HF
+T8	Organism2 111 117	strain
+T9	Organism 155 168	Methanococcus
+T10	Chemical 181 188	formate
+T11	Body_part 198 206	cultures
+T12	Body_part 208 216	Stadtman
+T13	Body_part 221 227	Barker
+T14	Value 229 233	1951
+T15	Process 246 255	isolation
+T16	Body_part 264 271	culture
+T17	Organism1 296 304	organism
+T18	Protein_part 330 341	amino acids
+T19	Body_part 343 351	Stadtman
+T20	Value 353 357	1954
+T21	Organism 396 410	C. sticklandii
+T22	Parameter 419 425	energy
+T23	Process 430 436	growth
+T24	Process 442 451	oxidation
+T25	Process 462 471	reactions
+T26	Protein_part 489 499	amino acid
+T27	Unknown 506 516	(Stickland
+T28	Process 517 525	reaction
+T29	Protein 540 564	C. sporogenes (Stickland
+T30	Organism 573 587	C. sticklandii
+T31	Organism 593 616	Gram-positive bacterium
+T32	Unknown 627 631	G +C
+T33	Organism 646 663	Clostridium genus
+T34	Value 673 682	about 150
+T35	Organism1 683 690	species
+T36	Organism1 705 714	anaerobes
+T37	Bio_Process 734 743	metabolic
+T38	Habitat 782 790	habitats
+T39	Habitat 806 815	sediments
+T40	Organism1 817 823	animal
+T41	Organism1 828 833	human
+T42	Organ 834 844	intestines
+T43	Technique 851 861	sequencing
+T44	Technique 866 874	analysis
+T45	Organism 883 892	bacterium
+T46	Process 936 948	fermentation
+T47	Process 949 956	process

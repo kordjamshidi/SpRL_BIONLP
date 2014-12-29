@@ -1,0 +1,127 @@
+T1	Organism 0 22	Mycobacterium chelonae
+T2	Organism 27 50	Mycobacterium abscessus
+T3	Organism1 72 84	mycobacteria
+T4	Disease 95 105	pathogenic
+T5	Organism1 110 116	humans
+T6	Organism1 121 140	genus Mycobacterium
+T7	Organism 163 177	Actinobacteria
+T8	Organism 179 185	family
+T9	Organism 186 202	Mycobacteriaceae
+T10	Organism1 217 224	species
+T11	Unknown 237 240	GC%
+T12	Molecular_Part 256 262	groups
+T13	Organism1 285 297	mycobacteria
+T14	Organism1 335 347	mycobacteria
+T15	Value 396 404	about 60
+T16	Organism1 405 412	species
+T17	Parameter 479 487	capacity
+T18	Body_part 509 516	culture
+T19	Value 522 530	few days
+T20	Body_part 543 549	medium
+T21	Chemical 596 609	hydrotelluric
+T22	Habitat 610 621	environment
+T23	Chemical 653 663	antibiotic
+T24	Organism 675 698	Mycobacterium abscessus
+T25	Organism 703 725	Mycobacterium chelonae
+T26	Disease 763 773	pathogenic
+T27	Organism1 778 784	humans
+T28	Parameter 815 823	spectrum
+T29	Disease 827 837	infections
+T30	Disease 839 861	soft tissue infections
+T31	Disease 867 877	infections
+T32	Multi-tissue_structure 885 894	locomotor
+T33	Procedure 911 918	surgery
+T34	Process 922 931	injection
+T35	Chemical 935 940	drugs
+T36	Disease 960 970	infections
+T37	Disease 972 995	disseminated infections
+T38	Organism2 1015 1023	subjects
+T39	Body_part 1028 1033	graft
+T40	Disease 1064 1074	infections
+T41	Organism 1082 1094	M. abscessus
+T42	Organism2 1110 1118	patients
+T43	Disease 1124 1139	cystic fibrosis
+T44	Habitat 1236 1242	France
+T45	Chemical 1269 1293	Vaincre La Mucoviscidose
+T46	Process 1294 1304	Assocation
+T47	Disease 1312 1322	infections
+T48	Organism2 1358 1365	patient
+T49	Parameter 1405 1409	ages
+T50	Parameter 1476 1486	resistance
+T51	Organism 1490 1502	M. abscessus
+T52	Chemical 1511 1522	antibiotics
+T53	Organ 1557 1561	lung
+T54	Procedure 1562 1577	transplantation
+T55	Process 1621 1629	survival
+T56	Organism2 1639 1647	patients
+T57	Disease 1653 1668	cystic fibrosis
+T58	Technique 1674 1684	sequencing
+T59	Organism 1688 1700	M. abscessus
+T60	Organism 1705 1716	M. chelonae
+T61	Organism1 1790 1795	human
+T62	Disease 1796 1806	pathogenic
+T63	Technique 1887 1897	sequencing
+T64	Organism 1919 1942	Mycobacterium smegmatis
+T65	Unknown 1944 1948	TIGR
+T66	Organism1 1953 1960	species
+T67	Disease 1987 2000	pathogenicity
+T68	Organism1 2005 2011	humans
+T69	Organism1 2027 2034	animals
+T70	Protein_part 2040 2049	sequences
+T71	Organism 2053 2065	M. abscessus
+T72	Organism 2070 2081	M. chelonae
+T73	Parameter 2138 2151	relationships
+T74	Organism1 2183 2190	species
+T75	Organism1 2212 2224	mycobacteria
+T76	Disease 2235 2245	pathogenic
+T77	Organism1 2250 2256	humans
+T78	Technique 2346 2362	genomic analysis
+T79	Organism 2371 2383	M. abscessus
+T80	Organism 2388 2399	M. chelonae
+T81	Organism1 2405 2412	species
+T82	Parameter 2468 2472	time
+T84	Organism 2546 2558	M. abscessus
+T85	Organism 2563 2574	M. chelonae
+T86	Disease 2584 2594	pathogenic
+T87	Organism1 2599 2605	humans
+T88	Disease 2681 2688	disease
+T89	Disease 2709 2721	tuberculosis
+T90	Process 2723 2730	tropism
+T91	Multi-tissue_structure 2739 2755	respiratory tree
+T92	Process 2757 2767	production
+T93	Pathological_formation 2771 2793	tuberculoid granulomas
+T94	Pathological_formation 2799 2814	caseous lesions
+T95	Process 2828 2840	reactivation
+T96	Disease 2848 2857	infection
+T97	Process 2895 2908	hybridization
+T98	Process 2911 2914	RDA
+T99	Process 2938 2948	difference
+T100	Technique 2949 2957	analysis
+T101	Organism 3001 3013	M. abscessus
+T102	Organism 3027 3038	M. chelonae
+T103	Process 3046 3054	presence
+T104	Protein 3058 3063	genes
+T105	Organism1 3111 3120	pathogens
+T106	Organism 3129 3144	M. tuberculosis
+T107	Process 3166 3170	role
+T108	Disease 3174 3183	virulence
+T109	Technique 3197 3205	analysis
+T110	Protein 3215 3222	genomes
+T111	Protein 3256 3262	Genome
+T112	Protein 3267 3278	Informatics
+T113	Company 3280 3290	Laboratory
+T114	Unknown 3294 3298	Evry
+T115	Unknown 3303 3308	Pasek
+T116	Unknown 3313 3325	J.-L. Risler
+T117	Protein_part 3398 3405	regions
+T118	Protein_part 3415 3424	sequences
+T119	Organism 3430 3442	M. abscessus
+T120	Mutant_Organism 3447 3448	M
+T121	Process 3467 3478	comparisons
+T122	Bio_Process 3501 3510	proteomes
+T123	Organism1 3541 3553	mycobacteria
+T124	Organism 3586 3601	M. tuberculosis
+T125	Organism 3603 3611	M. bovis
+T126	Organism 3613 3622	M. leprae
+T127	Organism 3624 3643	M. paratuberculosis
+T128	Tissue 839 850	soft tissue

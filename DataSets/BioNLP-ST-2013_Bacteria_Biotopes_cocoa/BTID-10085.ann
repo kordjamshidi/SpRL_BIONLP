@@ -1,0 +1,50 @@
+T1	Organism 0 20	Bordetella pertussis
+T2	Unknown 21 29	Tohama I
+T3	Process 30 41	Description
+T4	Organism 42 52	Bordetella
+T5	Unknown 59 64	group
+T6	Organism1 68 77	organisms
+T7	Body_part 105 122	respiratory tract
+T8	Organism1 126 133	animals
+T9	Disease 146 161	severe diseases
+T10	Molecule 188 205	virulence factors
+T11	Protein 236 260	filamentous hemagglutins
+T12	Process 265 275	attachment
+T13	Molecule 277 287	cytotoxins
+T14	Protein 293 301	proteins
+T15	Complex 314 339	type III secretion system
+T16	Process 344 353	transport
+T17	Category 357 365	effector
+T18	Molecule 366 375	molecules
+T19	Organism2 381 385	host
+T20	Cell 386 391	cells
+T21	Process 393 404	Description
+T22	Organism 405 425	Bordetella pertussis
+T23	Unknown 426 434	Tohama I
+T24	Organism1 441 449	organism
+T25	Habitat 485 496	environment
+T26	Organism1 510 524	human pathogen
+T27	Disease 537 551	whooping cough
+T28	Organism2 610 616	strain
+T29	Organism2 648 655	patient
+T30	Disease 661 675	whooping cough
+T31	Value 718 726	40 years
+T32	Protein 732 742	chromosome
+T33	Complex 754 778	type IV secretion system
+T34	Process 783 789	export
+T35	Protein 797 812	pertussis toxin
+T36	Molecule 832 837	toxin
+T37	Protein 843 853	B subunits
+T38	Process 870 880	attachment
+T39	Organism2 884 888	host
+T40	Cell 889 894	cells
+T41	Protein 906 913	subunit
+T42	Protein 919 942	ADP-ribosylating factor
+T43	Cell 960 964	cell
+T44	Process 965 984	signalling pathways
+T45	Location 999 1012	intracellular
+T46	Chemical 1013 1017	cAMP
+T47	Parameter 1018 1032	concentrations
+T48	Cell 1064 1074	phagocytes
+T49	Organism 1112 1121	bacterium
+T50	Chemical 919 935	ADP -ribosylating

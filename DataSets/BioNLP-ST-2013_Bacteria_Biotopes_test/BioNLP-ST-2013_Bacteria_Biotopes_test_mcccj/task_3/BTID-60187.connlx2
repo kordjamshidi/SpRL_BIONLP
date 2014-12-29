@@ -1,0 +1,102 @@
+1	Dehalobacter	_	NN	_	_	0	ROOT	_	_	Dehalobacter
+
+1	Classification	_	NN	_	_	0	ROOT	_	_	classification
+
+1	Higher	_	JJR	_	_	3	NMOD	_	_	high
+2	order	_	NN	_	_	3	NMOD	_	_	order
+3	taxa	_	NNS	_	_	0	ROOT	_	_	taxon
+
+1	Species	_	NNS	_	_	0	ROOT	_	_	specie
+
+1	Dehalobacter	_	NN	_	_	2	NMOD	_	_	Dehalobacter
+2	restrictus	_	NNS	_	_	0	ROOT	_	_	restrictu
+
+1	Description	_	NN	_	_	0	ROOT	_	_	description
+2	and	_	CC	_	_	1	COORD	_	_	and
+3	Significance	_	NN	_	_	2	CONJ	_	_	significance
+
+1	Dehalobacter	_	NN	_	_	2	NMOD	_	_	Dehalobacter
+2	restrictus	_	NNS	_	_	3	VMOD	_	_	restrictu
+3	is	_	VBZ	_	_	0	ROOT	_	_	be
+4	an	_	DT	_	_	6	NMOD	_	_	a
+5	obligate	_	JJ	_	_	6	NMOD	_	_	obligate
+6	anaerobe	_	NN	_	_	3	VMOD	_	_	anaerobe
+7	,	_	,	_	_	6	P	_	_	,
+8	genetically	_	RB	_	_	9	AMOD	_	_	genetic
+9	close	_	JJ	_	_	6	APPO	_	_	close
+10	to	_	TO	_	_	9	AMOD	_	_	to
+11	the	_	DT	_	_	12	NMOD	_	_	the
+12	clostridia	_	NN	_	_	10	PMOD	_	_	clostridium
+13	.	_	.	_	_	3	P	_	_	.
+
+1	It	_	PRP	_	_	2	VMOD	_	_	it
+2	is	_	VBZ	_	_	0	ROOT	_	_	be
+3	isolated	_	VBN	_	_	2	VC	_	_	isolate
+4	from	_	IN	_	_	3	VMOD	_	_	from
+5	soil	_	NN	_	_	4	PMOD	_	_	soil
+6	contaminated	_	VBN	_	_	5	APPO	_	_	contaminate
+7	with	_	IN	_	_	6	VMOD	_	_	with
+8	chlorinated	_	VBN	_	_	10	NMOD	_	_	chlorinate
+9	industrial	_	JJ	_	_	10	NMOD	_	_	industrial
+10	products	_	NNS	_	_	7	PMOD	_	_	product
+11	.	_	.	_	_	2	P	_	_	.
+
+1	The	_	DT	_	_	2	NMOD	_	_	the
+2	bacteria	_	NNS	_	_	3	VMOD	_	_	bacterium
+3	respire	_	VB	_	_	0	ROOT	_	_	respire
+4	using	_	VBG	_	_	3	VMOD	_	_	use
+5	tetra-	_	JJ	_	_	4	VMOD	_	_	tetra-
+6	or	_	CC	_	_	5	COORD	_	_	or
+7	trichloroethene	_	NN	_	_	6	CONJ	_	_	trichloroethene
+8	as	_	IN	_	_	4	VMOD	_	_	as
+9	a	_	DT	_	_	12	NMOD	_	_	a
+10	terminal	_	JJ	_	_	12	NMOD	_	_	terminal
+11	electron	_	NN	_	_	12	NMOD	_	_	electron
+12	acceptor	_	NN	_	_	8	PMOD	_	_	acceptor
+13	and	_	CC	_	_	12	COORD	_	_	and
+14	dihydrogen	_	NN	_	_	13	CONJ	_	_	dihydrogen
+15	as	_	IN	_	_	12	NMOD	_	_	as
+16	an	_	DT	_	_	18	NMOD	_	_	a
+17	electron	_	NN	_	_	18	NMOD	_	_	electron
+18	donor	_	NN	_	_	15	PMOD	_	_	donor
+19	.	_	.	_	_	3	P	_	_	.
+
+1	Genome	_	NN	_	_	2	NMOD	_	_	genome
+2	Structure	_	NN	_	_	0	ROOT	_	_	structure
+
+1	No	_	DT	_	_	2	NMOD	_	_	no
+2	genomes	_	NNS	_	_	10	VMOD	_	_	genome
+3	of	_	IN	_	_	2	NMOD	_	_	of
+4	any	_	DT	_	_	5	NMOD	_	_	any
+5	species	_	NNS	_	_	3	PMOD	_	_	specie
+6	in	_	IN	_	_	5	NMOD	_	_	in
+7	the	_	DT	_	_	9	NMOD	_	_	the
+8	Dehalobacter	_	NN	_	_	9	NMOD	_	_	Dehalobacter
+9	genus	_	NN	_	_	6	PMOD	_	_	genus
+10	have	_	VBP	_	_	0	ROOT	_	_	have
+11	been	_	VBN	_	_	10	VC	_	_	be
+12	sequenced	_	VBN	_	_	11	VC	_	_	sequence
+13	to	_	TO	_	_	12	VMOD	_	_	to
+14	date	_	NN	_	_	13	PMOD	_	_	date
+15	.	_	.	_	_	10	P	_	_	.
+
+1	Isolation	_	NN	_	_	0	ROOT	_	_	isolation
+2	and	_	CC	_	_	1	COORD	_	_	and
+3	Cultivation	_	NN	_	_	2	CONJ	_	_	cultivation
+
+1	D.	_	NNP	_	_	2	NMOD	_	_	D.
+2	restrictus	_	NNS	_	_	3	VMOD	_	_	restrictu
+3	is	_	VBZ	_	_	0	ROOT	_	_	be
+4	isolated	_	VBN	_	_	3	VC	_	_	isolate
+5	from	_	IN	_	_	4	VMOD	_	_	from
+6	a	_	DT	_	_	8	NMOD	_	_	a
+7	laboratory	_	NN	_	_	8	NMOD	_	_	laboratory
+8	system	_	NN	_	_	5	PMOD	_	_	system
+9	that	_	WDT	_	_	10	VMOD	_	_	that
+10	was	_	VBD	_	_	8	NMOD	_	_	be
+11	being	_	VBG	_	_	10	VC	_	_	be
+12	fed	_	VBN	_	_	11	VC	_	_	feed
+13	with	_	IN	_	_	12	VMOD	_	_	with
+14	tetrachloroethene	_	NN	_	_	13	PMOD	_	_	tetrachloroethene
+15	.	_	.	_	_	3	P	_	_	.
+

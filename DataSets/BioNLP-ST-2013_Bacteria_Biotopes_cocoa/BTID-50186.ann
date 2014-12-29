@@ -1,0 +1,87 @@
+T1	Organism 0 55	
+T2	Organism1 61 75	human pathogen
+T3	Disease 94 112	pseudoappendicitis
+T4	Organism1 117 131	genus Yersinia
+T5	Organism1 160 167	species
+T6	Disease 200 210	pathogenic
+T7	Organism1 214 220	humans
+T8	Protein_part 222 223	Y
+T9	Protein_part 235 236	Y
+T10	Disease 239 257	pseudotuberculosis
+T11	Protein_part 264 265	Y
+T12	Organism 287 305	pseudotuberculosis
+T13	Organism1 311 338	Gram-negative coccobacillus
+T14	Organism 356 381	family Enterobacteriaceae
+T15	Mutant_Organism 409 417	Malassez
+T16	Mutant_Organism 422 428	Vignal
+T17	Organism1 433 441	organism
+T18	Organism1 495 509	genus Yersinia
+T19	Process 515 526	designation
+T20	Disease 527 545	pseudotuberculosis
+T21	Body_part 612 634	mesenteric lymph nodes
+T22	Disease 638 658	lymphoid hyperplasia
+T23	Disease 710 732	tuberculosis infection
+T24	Organism 737 755	pseudotuberculosis
+T25	Habitat 780 791	environment
+T26	Chemical 799 804	water
+T27	Organism1 806 816	vegetables
+T28	Organism 829 838	bacterium
+T29	Organism1 852 860	pathogen
+T30	Organism 864 868	wild
+T31	Organism1 873 889	domestic animals
+T32	Organism1 920 934	animal species
+T33	Organism2 949 957	carriers
+T34	Organism 961 982	Y. pseudotuberculosis
+T35	Disease 1043 1058	fatal infection
+T36	Organism1 1068 1075	animals
+T37	Disease 1093 1099	stress
+T38	Disease 1109 1113	cold
+T39	Parameter 1114 1126	temperatures
+T40	Disease 1139 1146	disease
+T41	Organism1 1189 1195	humans
+T42	Disease 1197 1229	Y. pseudotuberculosis infections
+T43	Disease_Process 1256 1265	outbreaks
+T44	Process 1282 1293	consumption
+T45	Chemical 1297 1302	water
+T46	Food 1306 1310	food
+T47	Organism1 1338 1344	animal
+T48	Multi-tissue_structure 1345 1351	faeces
+T49	Organism1 1366 1372	Humans
+T50	Disease 1400 1407	illness
+T51	Disease 1414 1428	abdominal pain
+T52	Disease 1433 1438	fever
+T53	Disease 1442 1453	septicaemia
+T54	Disease 1461 1480	mesenteric adenitis
+T55	Disease 1496 1523	acute appendicular syndrome
+T56	Disease 1525 1543	pseudoappendicitis
+T57	Process 1573 1585	presentation
+T58	Disease 1610 1619	infection
+T59	Organism2 1623 1627	self
+T60	Chemical 1673 1683	antibiotic
+T61	Procedure 1684 1691	therapy
+T62	Organism 1722 1743	Y. pseudotuberculosis
+T63	Parameter 1766 1783	sequence identity
+T64	Organism 1787 1796	Y. pestis
+T65	Unknown 1812 1817	agent
+T66	Disease 1821 1827	plague
+T67	Process 1868 1877	different
+T68	Organism1 1927 1934	species
+T69	Organism 1977 1986	Y. pestis
+T70	Protein 2030 2035	clone
+T71	Organism 2039 2060	Y. pseudotuberculosis
+T72	Organism 2114 2135	Y. pseudotuberculosis
+T73	Technique 2136 2146	sequencing
+T74	Protein 2172 2176	gene
+T75	Protein 2180 2184	gene
+T76	Process 2185 2195	comparison
+T77	Organism1 2225 2234	organisms
+T78	Process 2243 2250	insight
+T79	Chemical 2260 2275	molecular bases
+T80	Process 2309 2318	different
+T81	Disease 2328 2336	symptoms
+T82	Process 2341 2350	mechanism
+T83	Process 2354 2366	transmission
+T84	Body_part 638 646	lymphoid
+T85	Organism_subdivision 1414 1423	abdominal
+T86	Multi-tissue_structure 1461 1471	mesenteric
+T87	Multi-tissue_structure 1502 1514	appendicular

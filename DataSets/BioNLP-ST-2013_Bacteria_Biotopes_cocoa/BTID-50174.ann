@@ -1,0 +1,87 @@
+T1	Organism 0 31	
+T2	Technique 39 51	luminescence
+T3	Habitat 63 69	marine
+T4	Organism1 70 77	species
+T5	Organism 78 93	Vibrio fischeri
+T6	Organism 109 121	Vibrionaceae
+T7	Unknown 131 137	family
+T8	Habitat 141 147	marine
+T9	Organism1 148 168	gamma-proteobacteria
+T10	Organism1 197 204	species
+T11	Disease 253 263	pathogenic
+T12	Process 264 276	interactions
+T13	Organism1 282 288	animal
+T14	Tissue 289 295	tissue
+T15	Disease 325 335	pathogenic
+T16	Organism 336 350	Vibrio species
+T17	Organism1 362 367	human
+T18	Disease 368 376	diseases
+T19	Protein 405 412	genomes
+T20	Organism 427 442	Vibrio cholerae
+T21	Organism 444 467	Vibrio parahaemolyticus
+T22	Organism 473 490	Vibrio vulnificus
+T23	Disease 492 505	Nonpathogenic
+T24	Unknown 506 513	members
+T25	Organism1 521 533	genus Vibrio
+T26	Organism1 568 577	symbionts
+T27	Organism 607 619	Vibrionaceae
+T28	Organism1 647 654	species
+T29	Organism 684 699	Vibrio fischeri
+T30	Unknown 720 726	niches
+T31	Habitat 734 752	marine environment
+T32	Organism1 798 808	planktonic
+T33	State 809 814	state
+T34	Organism1 823 831	symbiont
+T35	Technique 843 854	luminescent
+T36	Organism1 855 859	fish
+T37	Organism1 863 868	squid
+T38	Organism1 911 919	symbiont
+T39	Organ 942 948	organs
+T40	Organism1 960 967	species
+T41	Organism1 971 977	squids
+T42	Organism1 1015 1020	squid
+T43	Organism 1022 1039	Euprymna scolopes
+T44	Organism1 1045 1053	bacteria
+T45	Organ 1081 1087	organs
+T46	Organism1 1095 1099	fish
+T47	Organism1 1103 1108	squid
+T48	Technique 1144 1156	Luminescence
+T49	Organism1 1164 1168	fish
+T50	Organism1 1172 1177	squid
+T51	Process 1211 1221	attraction
+T52	Organism2 1225 1229	prey
+T53	Disease 1264 1281	nocturnal feeding
+T54	Organism1 1289 1312	squid Euprymna scolopes
+T55	Technique 1314 1326	luminescence
+T56	Organ 1342 1347	organ
+T57	Habitat 1372 1375	sea
+T58	Organism1 1406 1411	squid
+T59	Parameter 1425 1434	intensity
+T60	Organism1 1486 1491	squid
+T61	Habitat 1499 1502	sea
+T62	Technique 1528 1540	luminescence
+T63	Organism1 1548 1556	bacteria
+T64	Habitat 1576 1594	marine environment
+T65	Organism1 1600 1608	bacteria
+T66	Organ 1650 1656	organs
+T67	Molecule 1673 1678	light
+T68	State 1703 1708	state
+T69	Organism1 1751 1759	bacteria
+T70	Technique 1780 1795	bioluminescence
+T71	Process 1803 1812	mechanism
+T72	Molecule 1822 1827	light
+T73	Parameter 1848 1854	energy
+T74	Organism 1881 1892	V. fischeri
+T75	Cell 1893 1898	cells
+T76	Technique 1910 1925	bioluminescence
+T77	Process 1943 1953	expression
+T78	Protein 1965 1971	operon
+T79	Protein 1992 1997	genes
+T80	Organism1 2034 2042	organism
+T81	Organism 2097 2108	V. fischeri
+T82	Organism 2121 2130	bacterium
+T83	Chemical 2140 2163	acyl-homoserine lactone
+T84	Technique 2217 2225	Analysis
+T85	Protein_part 2234 2242	sequence
+T86	Organism 2282 2293	V. cholerae
+T87	Organism1 2304 2313	pathogens

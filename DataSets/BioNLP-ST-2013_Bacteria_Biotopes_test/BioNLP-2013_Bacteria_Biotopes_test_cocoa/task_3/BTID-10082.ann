@@ -1,0 +1,38 @@
+T1	Organism 0 16	Bordetella avium
+T2	Value 17 21	197N
+T3	Process 22 33	Description
+T4	Organism 34 44	Bordetella
+T5	Unknown 51 56	group
+T6	Organism1 60 69	organisms
+T7	Body_part 97 114	respiratory tract
+T8	Organism1 118 125	animals
+T9	Disease 138 153	severe diseases
+T10	Molecule 180 197	virulence factors
+T11	Protein 228 252	filamentous hemagglutins
+T12	Process 257 267	attachment
+T13	Molecule 269 279	cytotoxins
+T14	Protein 285 293	proteins
+T15	Complex 306 331	type III secretion system
+T16	Process 336 345	transport
+T17	Category 349 357	effector
+T18	Molecule 358 367	molecules
+T19	Organism2 373 377	host
+T20	Cell 378 383	cells
+T21	Process 385 396	Description
+T22	Organism 397 413	Bordetella avium
+T23	Organism1 420 428	organism
+T24	Body_part 441 458	respiratory tract
+T25	Organism1 462 467	birds
+T26	Disease 480 493	bordetellosis
+T27	Organism1 520 527	animals
+T28	Organism1 536 543	turkeys
+T29	Disease 595 615	secondary infections
+T30	Process 617 628	Description
+T31	Organism2 629 652	Bordetella avium strain
+T32	Value 653 657	197N
+T33	Organism2 664 670	strain
+T34	Chemical 688 702	nalidixic acid
+T35	Unknown 713 723	derivative
+T36	Disease 727 735	virulent
+T37	Organism2 736 742	strain
+T38	Value 743 746	197

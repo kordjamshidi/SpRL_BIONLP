@@ -1,0 +1,6 @@
+(ROOT (NP (NNP Borrelia) (NNP afzelii) (NNP PKo)))
+(ROOT (NP (NNP Description)))
+(ROOT (S (NP (NNP Borrelia)) (VP (VBD afzelii)) (. .)))
+(ROOT (S (NP (DT This) (NN species)) (VP (VBD was) (VP (VBN isolated) (PP (IN from) (NP (DT a) (NN skin) (NN lesion))) (PP (IN from) (NP (NP (DT a) (NNP Lyme) (NN disease) (NN patient)) (PP (IN in) (NP (NNP Europe))))) (PP (IN in) (NP (CD 1993))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (NP (DT a) (JJ specific) (JJ aetological) (NN agent)) (PP (IN of) (NP (JJ acrodermatitis) (NN chronica) (NNS atrophicans)))) (PRN (-LRB- -LRB-) (NP (NNP ACA)) (-RRB- -RRB-)))) (. .)))
+(ROOT (S (NP (DT This) (NN organism)) (VP (MD can) (VP (VB be) (VP (VBN differentiated) (PP (IN from) (NP (JJ other) (NNP Borrelia) (NNS species))) (PP (IN by) (NP (JJ monoclonal) (NN antibody) (NN hybridization)))))) (. .)))

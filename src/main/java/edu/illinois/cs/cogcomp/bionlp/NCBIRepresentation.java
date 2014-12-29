@@ -1,7 +1,9 @@
 package edu.illinois.cs.cogcomp.bionlp;
 
-import Utility.PreProcessing;
 
+
+import edu.illinois.cs.cogcomp.bionlp.Utility.PreProcessing;
+import edu.illinois.cs.cogcomp.bionlp.Utility.Util;
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.Vector;
@@ -100,7 +102,7 @@ public boolean overlap(String s1, String s2)
  for (int i=0;i<s1Elements.length; i++)
 	for (int j=0;j<s2Elements.length;j++)
 		 if (s1Elements[i].equalsIgnoreCase(s2Elements[j]))
-				 if (!Utility.Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,s1Elements[i])) 
+				 if (!Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,s1Elements[i]))
 					 	return true;
 	return false;
 	}
@@ -110,7 +112,7 @@ public boolean overlap(String[] s1, String[] s2)
  for (int i=0;i<s1.length; i++)
 	for (int j=0;j<s2.length;j++)
 		 if (s1[i].equalsIgnoreCase(s2[j]))
-				 if (!Utility.Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,s1[i])) 
+				 if (!Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,s1[i]))
 					 	return true;
 	return false;
 	}
@@ -126,7 +128,7 @@ public boolean exists_Bactriun_NCBI(String[] s1) {
 		    String[] s1Elements=p.split(s);
 		    for (int i=0; i<s1Elements.length;i++)
 		    	s1Elements[i]=PreProcessing.BacteriaToken(s1Elements[i]);
-		    s1Elements=PreProcessing.BacteriafullName(s1Elements);
+		    s1Elements= PreProcessing.BacteriafullName(s1Elements);
 		    
 		    //if (Arrays.deepEquals(s1Elements,s1))
 		    //			return true;

@@ -1,0 +1,76 @@
+T1	Organism 19 28	bacterium
+T2	Chemical 29 36	Arsenic
+T3	Category 47 54	product
+T4	Organism1 83 88	human
+T5	Parameter 89 99	activities
+T6	Habitat 134 145	environment
+T7	Value 162 163	3
+T8	Process 164 173	different
+T9	State 174 190	oxidation states
+T10	Unknown 216 220	+III
+T11	Chemical 223 231	arsenite
+T12	Chemical 287 295	arsenite
+T13	Chemical 337 349	contaminants
+T14	Chemical 353 358	water
+T15	Chemical 363 370	arsenic
+T16	Parameter 402 413	risk factor
+T17	Organism1 418 423	human
+T18	Bio_Process 424 430	health
+T19	Process 478 485	effects
+T20	Habitat 518 523	India
+T21	Habitat 528 538	Bangladesh
+T22	Process 575 579	risk
+T23	Value 593 603	50 million
+T24	Habitat 620 626	France
+T25	Process 628 637	pollution
+T26	Chemical 641 646	water
+T27	Chemical 650 657	arsenic
+T28	Protein_part 688 695	regions
+T29	Chemical 703 710	arsenic
+T30	Disease 711 720	poisoning
+T31	Organ 741 752	oesophageal
+T32	Organism_subdivision 757 766	abdominal
+T33	Disease 777 797	hemorrhagic diarrhea
+T34	Process 809 817	exposure
+T35	Process 829 834	cause
+T36	Disease 846 853	cancers
+T37	Multi-tissue_structure 865 874	cutaneous
+T38	Process 875 882	changes
+T39	Pathological_formation 891 905	hyperkeratosis
+T40	Chemical 927 936	metalloid
+T41	Organism1 962 971	microbial
+T42	Process 972 987	transformations
+T43	Process 1005 1013	mobility
+T44	Parameter 1018 1033	bioavailability
+T45	Disease 1049 1057	toxicity
+T46	Chemical 1061 1068	arsenic
+T47	Habitat 1076 1087	environment
+T48	Organism 1089 1097	Bacteria
+T49	Process 1116 1125	processes
+T50	Process 1129 1146	biotransformation
+T51	Process 1155 1164	oxidation
+T52	Process 1166 1175	reduction
+T53	Process 1180 1191	methylation
+T54	Process 1239 1248	mechanism
+T55	Process 1252 1266	transformation
+T56	Process 1274 1283	reduction
+T57	Chemical 1298 1301	AsV
+T58	Chemical 1306 1314	arsenite
+T59	Chemical 1316 1321	AsIII
+T60	Bio_Process 1347 1357	physiology
+T61	Process 1390 1399	oxidation
+T62	Chemical 1403 1411	arsenite
+T63	Process 1438 1458	regulatory processes
+T64	Organism1 1498 1518	beta-proteobacterium
+T65	Chemical 1519 1528	Thiomonas
+T66	Organism1 1539 1562	heterotrophic bacterium
+T67	Chemical 1587 1604	oxidizing arsenic
+T68	Technique 1627 1641	detoxification
+T69	Process 1679 1690	implication
+T70	Bio_Process 1699 1709	metabolism
+T71	Process 1713 1722	processes
+T72	Parameter 1747 1757	resistance
+T73	Technique 1762 1776	detoxification
+T74	Process 1873 1883	mechanisms
+T75	Process 1914 1928	bioremediation
+T76	Technique 1929 1939	procedures

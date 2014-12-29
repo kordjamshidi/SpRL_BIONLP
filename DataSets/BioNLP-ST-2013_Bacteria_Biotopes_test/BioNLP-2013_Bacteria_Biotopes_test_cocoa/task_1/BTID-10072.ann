@@ -1,0 +1,84 @@
+T1	Organism 0 19	Bartonella henselae
+T2	Unknown 20 23	str
+T3	Unknown 25 34	Houston-1
+T4	Process 35 46	Description
+T5	Organism 47 57	Bartonella
+T6	Molecular_Part 64 69	group
+T7	Protein 73 78	alpha
+T8	Organism1 79 93	proteobacteria
+T9	Organism1 111 120	pathogens
+T10	Pathological_formation 140 158	angiogenic lesions
+T11	Bio_Process 160 172	Angiogenesis
+T12	Process 180 187	process
+T13	Body_part 204 217	blood vessels
+T14	Process 219 230	Description
+T15	Organism 231 250	Bartonella henselae
+T16	Organism1 257 265	organism
+T17	Unknown 298 303	agent
+T18	Organism1 307 310	cat
+T19	Disease 319 324	fever
+T20	Disease 328 335	disease
+T21	Organism2 354 362	children
+T22	Disease 369 386	immunocompromised
+T23	Organism2 387 393	adults
+T24	Organism1 395 399	Cats
+T25	Organism1 423 428	fleas
+T26	Organism1 442 450	bacteria
+T27	Organism1 467 473	humans
+T28	Chemical 524 528	bump
+T29	Body_part 542 546	site
+T30	Disease 550 559	infection
+T31	Value 570 579	2-3 weeks
+T32	Pathological_formation 591 607	painful swelling
+T33	Body_part 615 625	lymph node
+T34	Organism2 648 656	patients
+T35	Disease 706 718	encephalitis
+T36	Pathological_formation 720 728	swelling
+T37	Organ 736 742	spleen
+T38	Disease 748 769	heart valve infection
+T39	Value 771 791	Approximately 24 000
+T40	Unknown 818 820	US
+T41	Location 837 850	intracellular
+T42	Organism1 851 859	pathogen
+T43	Protein 882 887	actin
+T44	Process 898 907	mechanism
+T45	Process 923 930	targets
+T46	Cell 931 948	endothelial cells
+T47	Cell 965 970	cells
+T48	Process 992 1005	proliferation
+T49	Tissue 1013 1033	vascular endothelium
+T50	Disease 1035 1057	bacillary angiomatosis
+T51	Disease 1081 1101	Bartonella infection
+T52	Process 1117 1131	multiplication
+T53	Organism2 1139 1155	bacterium's host
+T54	Cell 1156 1161	cells
+T55	Disease 1163 1171	Infected
+T56	Cell 1172 1183	macrophages
+T57	Protein 1210 1251	vascular endothelial growth factor (VEGF)
+T58	Protein 1256 1274	interleukin 1 beta
+T59	Bio_Process 1298 1310	angiogenesis
+T60	Cell 1312 1329	Endothelial cells
+T61	Process 1379 1386	contact
+T62	Organism 1392 1401	bacterial
+T63	Cell 1402 1407	cells
+T64	Bio_Process 1422 1443	programmed cell death
+T65	Bio_Process 1445 1454	apoptosis
+T66	Cell 1459 1476	endothelial cells
+T67	Process 1511 1520	mechanism
+T68	Organism1 1521 1531	eukaryotic
+T69	Cell 1532 1537	cells
+T70	Disease 1555 1574	bacterial infection
+T71	Process 1576 1585	Secretion
+T72	Category 1589 1597	effector
+T73	Molecule 1598 1607	molecules
+T74	Complex 1626 1650	type IV secretion system
+T75	Protein 1658 1679	pathogenicity factors
+T76	Cellular_component 1688 1692	pili
+T77	Location 1697 1702	outer
+T78	Protein 1703 1720	membrane adhesins
+T79	Process 1725 1735	attachment
+T80	Organism2 1739 1743	host
+T81	Cell 1744 1749	cells
+T82	Organism1 1139 1150	bacterium's
+T83	Body_part 748 759	heart valve
+T84	Cell 1433 1437	cell

@@ -1,0 +1,64 @@
+T1	Bacteria 28 43	actinobacterium
+T2	Bacteria 72 87	actinobacterium
+T3	Bacteria 88 96	Bacteria
+T4	Bacteria 110 117	Frankia
+T5	Bacteria 138 152	Actinobacteria
+T6	Bacteria 160 168	bacteria
+T7	Habitat 195 200	fungi
+T8	Bacteria 369 383	Actinobacteria
+T9	Bacteria 400 408	bacteria
+T10	Bacteria 422 435	Mycobacterium
+T11	Bacteria 491 499	bacteria
+T12	Bacteria 513 525	Streptomyces
+T13	Bacteria 577 584	Frankia
+T14	Bacteria 633 641	bacteria
+T15	Habitat 691 703	dicot plants
+T16	Habitat 747 753	plants
+T17	Bacteria 776 784	bacteria
+T18	Bacteria 872 886	Actinobacteria
+T19	Bacteria 940 948	bacteria
+T20	Bacteria 981 1001	alpha-proteobacteria
+T21	Bacteria 1004 1016	Azospirillum
+T22	Habitat 1046 1057	graminaceae
+T23	Bacteria 1061 1070	Rhizobium
+T24	Habitat 1096 1134	nodules formed on the roots of legumes
+T25	Habitat 1118 1134	roots of legumes
+T26	Habitat 1127 1134	legumes
+T27	Bacteria 1147 1160	cyanobacteria
+T28	Habitat 1212 1241	leaves of a water fern Azolla
+T29	Habitat 1224 1241	water fern Azolla
+T30	Habitat 1224 1229	water
+T31	Bacteria 1247 1266	Frankia alni ACN14a
+T32	Habitat 1294 1305	green alder
+T33	Habitat 1307 1319	Alnus crispa
+T34	Geographical 1332 1341	Tadoussac
+T35	Geographical 1343 1349	Canada
+T36	Bacteria 1356 1365	bacterium
+T37	Habitat 1420 1425	alder
+T38	Habitat 1427 1437	Alnus spp.
+T39	Habitat 1444 1450	myrtle
+T40	Habitat 1452 1463	Myrica spp.
+T41	Habitat 1471 1484	pioneer plant
+T42	Habitat 1495 1512	temperate regions
+T43	Habitat 1523 1539	forest clearings
+T44	Habitat 1541 1552	mine wastes
+T45	Habitat 1541 1545	mine
+T46	Habitat 1554 1564	sand dunes
+T47	Habitat 1569 1585	glacial moraines
+T48	Bacteria 1625 1637	Frankia alni
+T49	Habitat 1645 1654	root hair
+T50	Habitat 1645 1649	root
+T51	Habitat 1686 1700	cortical cells
+T52	Habitat 1730 1737	nodules
+T53	Bacteria 1770 1779	Rhizobium
+T54	Habitat 1783 1790	legumes
+T55	Habitat 1798 1805	nodules
+T56	Bacteria 2184 2191	Frankia
+T57	Bacteria 2245 2251	ACN14a
+T58	Bacteria 2400 2412	Frankia alni
+T59	Bacteria 2486 2500	actinobacteria
+T60	Bacteria 2502 2514	Streptomyces
+T61	Bacteria 2516 2529	Mycobacterium
+T62	Bacteria 2531 2546	Corynebacterium
+T63	Bacteria 2548 2558	Tropheryma
+T64	Bacteria 2563 2578	Bifidobacterium

@@ -1,0 +1,51 @@
+T1	Organism 0 33	
+T2	Disease 53 73	fatal food poisoning
+T3	Organism 74 91	Vibrio vulnificus
+T4	Chemical 99 106	lactose
+T5	Unknown 131 135	Gram
+T6	Disease 147 171	opportunistic pathogenic
+T7	Organism 172 181	bacterium
+T8	Unknown 196 202	family
+T9	Process 217 222	cause
+T10	Disease 223 230	cholera
+T11	Chemical 258 266	seawater
+T12	Geometrical_part 274 278	part
+T13	Molecular_Part 284 289	group
+T14	Chemical 347 351	salt
+T15	Organism1 362 371	organisms
+T16	Organism1 378 386	organism
+T17	Pathological_formation 394 410	wound infections
+T18	Disease 412 427	gastroenteritis
+T19	Disease 434 442	syndrome
+T20	Disease 452 470	primary septicemia
+T21	Chemical 494 500	waters
+T22	Organism 507 516	bacterium
+T23	Disease 535 542	cholera
+T24	Organism1 543 551	pathogen
+T25	Disease 591 604	fatal illness
+T26	Disease 606 616	Infections
+T27	Organism1 671 680	shellfish
+T28	Organism1 695 702	oysters
+T29	Process 708 717	ingestion
+T30	Organism 721 734	V. vulnificus
+T31	Bio_Process 738 745	healthy
+T32	Organism1 746 757	individuals
+T33	Disease 772 787	gastroenteritis
+T34	Disease 794 812	primary septicemia
+T35	Disease 826 833	disease
+T36	Pathological_formation 846 862	Wound infections
+T37	Pathological_formation 899 909	open wound
+T38	Habitat 915 918	sea
+T39	Chemical 919 924	water
+T40	Organism1 939 947	organism
+T41	Geometrical_part 966 970	part
+T42	Organism_subdivision 978 982	body
+T43	Organism1 986 991	coral
+T44	Organism1 993 997	fish
+T45	Process 1017 1030	contamination
+T46	Organism1 1040 1048	organism
+T47	Disease 1109 1130	chronic liver disease
+T48	Process 1144 1148	risk
+T49	Organism 1154 1171	Vibrio vulnificus
+T50	Process 1215 1227	transmission
+T51	Organ 1117 1122	liver

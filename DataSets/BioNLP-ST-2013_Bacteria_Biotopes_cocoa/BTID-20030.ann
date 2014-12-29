@@ -1,0 +1,46 @@
+T1	Organism 0 31	Burkholderia cenocepacia HI2424
+T2	Organism1 36 54	genus Burkholderia
+T3	Organism 75 92	bacterial species
+T4	Cell 117 128	saprophytes
+T5	Organism1 133 147	phytopathogens
+T6	Unknown 190 196	niches
+T7	Organism1 215 222	species
+T8	Category 243 277	Burkholderia cepacia complex (Bcc)
+T9	Unknown 329 336	DNA-DNA
+T10	Process 337 350	hybridization
+T11	Parameter 351 357	values
+T12	Organism1 359 366	Species
+T13	Molecular_Part 379 384	group
+T14	Organism1 434 449	human pathogens
+T15	Disease 492 512	cystic fibrosis (CF)
+T16	Organism1 526 533	species
+T17	Organism 535 559	Burkholderia cenocepacia
+T18	Habitat 594 605	environment
+T19	Organism1 628 633	human
+T20	Disease 634 643	infection
+T21	Organism2 645 673	B. cenocepacia strain HI2424
+T22	Unknown 722 724	NY
+T23	Process 764 774	genotyping
+T24	Process 794 810	macrorestriction
+T25	Process 811 820	digestion
+T26	Parameter 833 838	field
+T27	Technique 839 858	gel electrophoresis
+T28	Location 863 873	multilocus
+T29	Protein_part 874 882	sequence
+T30	Organism 891 897	HI2424
+T31	Organism 942 961	B. cenocepacia PHDC
+T32	Protein 1002 1007	clone
+T33	Organism1 1046 1060	human pathogen
+T34	Disease 1089 1091	CF
+T35	Organism2 1092 1100	patients
+T36	Unknown 1107 1109	US
+T37	State 1110 1116	states
+T38	Habitat 1139 1145	Europe
+T39	Organism 1168 1174	HI2424
+T40	Protein 1185 1196	chromosomes
+T41	Value 1211 1228	approximately 3.4
+T42	Unknown 1229 1231	Mb
+T43	Value 1233 1236	2.9
+T44	Unknown 1237 1239	Mb
+T45	Value 1244 1247	1.0
+T46	Unknown 1248 1250	Mb

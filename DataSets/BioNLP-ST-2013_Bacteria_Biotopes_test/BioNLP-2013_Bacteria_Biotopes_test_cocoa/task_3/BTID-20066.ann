@@ -1,0 +1,36 @@
+T1	Organism 0 39	
+T2	Unknown 43 55	Fritz Widdel
+T3	Unknown 60 70	Ralf Rabus
+T4	Company 72 92	Max Planck Institute
+T5	Habitat 97 116	Marine Microbiology
+T6	Organism2 117 128	Strain Hxd3
+T7	Chemical 151 163	saline water
+T8	State 164 169	phase
+T9	Chemical 176 185	oil-water
+T10	Chemical 212 222	German oil
+T11	Parameter 223 228	field
+T12	Value 230 233	1,2
+T13	Unknown 236 240	Hxd3
+T14	Organism1 246 267	delta-proteobacterium
+T15	Chemical 289 304	C12-C20 alkanes
+T16	Process 308 314	growth
+T17	Category 315 325	substrates
+T18	Chemical 327 333	Alkane
+T19	Process 334 345	degradation
+T20	Unknown 349 353	Hxd3
+T21	Process 367 377	activation
+T22	Chemical 381 388	alkanes
+T23	Process 393 406	carboxylation
+T24	Protein_part 410 412	C3
+T25	Process 430 441	elimination
+T26	Protein_part 449 457	terminal
+T27	Chemical 474 481	carbons
+T28	Chemical 497 507	fatty acid
+T29	Chemical 520 526	carbon
+T30	Organism2 544 550	parent
+T31	Chemical 551 557	alkane
+T32	Value 559 560	3
+T33	Unknown 563 567	Hxd3
+T34	Unknown 575 579	ONLY
+T35	Body_part 585 592	culture
+T36	Chemical 610 644	carboxylate aliphatic hydrocarbons

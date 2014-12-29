@@ -1,0 +1,30 @@
+T1	Organism 0 30	Streptococcus thermophilus LMG
+T2	Value 31 36	18311
+T3	Process 38 49	Description
+T4	Organism 50 76	Streptococcus thermophilus
+T5	Organism1 83 91	organism
+T6	Chemical 97 108	lactic acid
+T7	Organism1 109 117	bacteria
+T8	Body_part 142 149	culture
+T9	Food 164 178	dairy products
+T10	Food 189 195	yogurt
+T11	Food 200 206	cheese
+T12	Food 230 235	dairy
+T13	Organism1 236 243	species
+T14	Disease 273 283	pathogenic
+T15	Organism1 284 296	streptococci
+T16	Disease 336 345	virulence
+T17	Parameter 346 355	potential
+T18	Protein 361 367	genome
+T19	Protein_part 368 377	sequences
+T20	Technique 382 390	analysis
+T21	Food 398 404	yogurt
+T22	Organism2 405 412	strains
+T23	Organism 416 431	S. thermophilus
+T24	Process 463 474	Description
+T25	Organism2 475 512	Streptococcus thermophilus strain LMG
+T26	Value 513 518	18311
+T27	Organism2 525 531	strain
+T28	Food 561 567	yogurt
+T29	Value 571 575	1974
+T30	Habitat 583 597	United Kingdom

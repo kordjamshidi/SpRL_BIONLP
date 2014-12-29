@@ -1,0 +1,86 @@
+T1	Organism 0 26	Rhodopseudomonas palustris
+T2	Mutant_Organism 27 32	BisB5
+T3	Organism2 33 106	
+T4	Unknown 108 112	HaA2
+T5	Mutant_Organism 114 120	BisB18
+T6	Unknown 125 131	BisA53
+T7	Organism 133 141	Bacteria
+T8	Value 143 149	5.5 Mb
+T9	Unknown 157 169	Phototrophic
+T10	Chemical 175 189	carbon dioxide
+T11	Chemical 194 202	nitrogen
+T12	Chemical 212 220	hydrogen
+T13	Parameter 230 237	biomass
+T14	Chemical 249 267	aromatic compounds
+T15	Organism1 285 297	phototrophic
+T16	Organism1 312 325	heterotrophic
+T17	Unknown 327 337	conditions
+T18	Organism2 343 349	strain
+T19	Mutant_Organism 351 357	CGA009
+T20	Organism 362 374	R. palustris
+T21	Unknown 401 404	JGI
+T22	Protein_part 413 421	sequence
+T23	Bio_Process 460 469	metabolic
+T24	Organism 514 523	bacterium
+T25	Chemical 549 555	oxygen
+T26	Chemical 561 569	nitrogen
+T27	Chemical 579 587	hydrogen
+T28	Process 616 630	biodegradation
+T29	Protein 649 655	genome
+T30	Protein_part 656 664	sequence
+T31	Organism2 668 681	strain CGA009
+T32	Organism 723 735	R. palustris
+T33	Bio_Process 751 766	major metabolic
+T34	Chemical 818 824	carbon
+T35	Chemical 826 834	nitrogen
+T36	Chemical 846 852	oxygen
+T37	Protein 960 980	nitrogenase isozymes
+T38	Chemical 987 999	benzene ring
+T39	Process 1000 1008	cleavage
+T40	Process 1009 1017	pathways
+T41	Value 1044 1045	2
+T42	Unknown 1046 1053	systems
+T43	Protein 1059 1065	genome
+T44	Protein_part 1066 1074	sequence
+T45	Organism2 1078 1091	strain CGA009
+T46	Organism 1124 1136	R. palustris
+T47	Unknown 1191 1201	conditions
+T48	Chemical 1228 1233	water
+T49	Habitat 1234 1246	environments
+T50	Bio_Process 1319 1328	metabolic
+T51	Organism1 1348 1368	R. palustris species
+T52	Organism2 1435 1442	strains
+T53	Organism 1446 1458	R. palustris
+T54	Protein 1495 1501	genome
+T55	Protein_part 1502 1511	sequences
+T56	Process 1527 1532	basis
+T57	Protein 1550 1557	genetic
+T58	Process 1573 1584	differences
+T59	Organism1 1611 1645	species Rhodopseudomonas palustris
+T60	Protein_part 1651 1668	16S rRNA sequence
+T61	Organism2 1684 1691	strains
+T62	Organism2 1735 1741	strain
+T63	Organism 1743 1749	CGA009
+T64	Value 1754 1762	about 2%
+T65	Organism2 1768 1775	strains
+T66	Process 1833 1842	different
+T67	Protein_part 1843 1848	sites
+T68	Organism2 1885 1892	strains
+T69	Process 1933 1942	isolation
+T70	Process 1964 1972	exposure
+T71	Habitat 1991 2002	environment
+T72	Organism2 2008 2015	strains
+T73	Unknown 2058 2065	BOX-PCR
+T74	Molecule 2074 2077	DNA
+T75	Organism2 2105 2112	strains
+T76	Process 2192 2203	differences
+T77	Process 2220 2232	pigmentation
+T78	Process 2237 2243	growth
+T79	Chemical 2247 2255	benzoate
+T80	Cell 2265 2270	cells
+T81	Organism2 2279 2285	strain
+T82	Process 2300 2309	different
+T83	Geometrical_part 2310 2316	shapes
+T84	Parameter 2321 2326	sizes
+T85	Organism 2381 2393	R. palustris
+T86	Protein 1651 1659	16S rRNA

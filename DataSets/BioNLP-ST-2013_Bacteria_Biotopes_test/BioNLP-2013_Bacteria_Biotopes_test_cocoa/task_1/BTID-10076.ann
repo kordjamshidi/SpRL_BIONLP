@@ -1,0 +1,42 @@
+T1	Organism 0 32	Bdellovibrio bacteriovorus HD100
+T2	Process 33 44	Description
+T3	Organism 45 71	Bdellovibrio bacteriovorus
+T4	Organism1 78 86	organism
+T5	Organism1 127 134	microbe
+T6	Organism2 140 145	preys
+T7	Organism1 169 177	bacteria
+T8	Habitat 228 240	environments
+T9	Bio_Process 271 279	biofilms
+T10	Unknown 314 319	agent
+T11	Organism1 337 342	plant
+T12	Organism1 344 350	animal
+T13	Organism1 356 371	human pathogens
+T14	Organism1 378 386	organism
+T15	Phenotype 393 411	biphasic lifestyle
+T16	State 455 460	phase
+T17	State 469 481	attack phase
+T18	Organism 492 501	bacterium
+T19	Organism2 516 520	host
+T20	Cell 521 525	cell
+T21	Cellular_component 544 553	periplasm
+T22	Organism2 581 585	host
+T23	Organism1 611 619	organism
+T24	Cellular_component 630 639	flagellum
+T25	Process 667 674	contact
+T26	Organism2 684 688	host
+T27	Cellular_component 730 741	bdelloplast
+T28	Process 756 767	degradation
+T29	Organism2 775 779	host
+T30	Cellular_component 780 799	cell inner membrane
+T31	Process 804 814	alteration
+T32	Protein 822 835	peptidoglycan
+T33	Unknown 836 841	layer
+T34	Cell 868 872	cell
+T35	Organism 878 890	Bdellovibrio
+T36	Cell 891 895	cell
+T37	Unknown 935 944	structure
+T38	Organism2 990 997	progeny
+T39	Process 1017 1028	degradation
+T40	Organism2 1036 1040	host
+T41	Cell 1041 1045	cell
+T42	Cell 780 784	cell

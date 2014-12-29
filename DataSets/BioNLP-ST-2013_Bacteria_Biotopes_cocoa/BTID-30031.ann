@@ -1,0 +1,80 @@
+T1	Organism 12 21	bacterium
+T2	Organ 29 33	skin
+T3	Organism 34 56	Staphylococcus xylosus
+T4	Unknown 62 66	Gram
+T5	Organism 76 85	bacterium
+T6	Unknown 97 98	G
+T7	Unknown 101 102	C
+T8	Protein 130 139	coagulase
+T9	Unknown 149 154	group
+T10	Organism1 158 171	staphylococci
+T11	Organism 191 200	bacterium
+T12	Organ 208 212	skin
+T13	Organism 266 275	bacterium
+T14	Unknown 300 305	agent
+T15	Process 313 323	production
+T16	Food 327 331	meat
+T17	Food 333 340	sausage
+T18	Food 346 350	milk
+T19	Food 352 358	cheese
+T20	Category 360 368	products
+T21	Process 392 403	development
+T22	Food 439 447	sausages
+T23	Protein 460 477	nitrate reductase
+T24	Parameter 478 486	activity
+T25	Food 508 514	orange
+T26	Geometrical_part 528 535	surface
+T27	Food 547 554	cheeses
+T28	Organism2 567 574	strains
+T29	Organism 578 588	S. xylosus
+T30	Organism 619 628	bacterium
+T31	Organism1 656 663	species
+T32	Process 667 677	production
+T33	Organism2 695 702	strains
+T34	Organism 706 716	S. xylosus
+T35	Geometrical_part 743 751	surfaces
+T36	Bio_Process 763 771	biofilms
+T37	Organism2 813 820	strains
+T38	Organism1 833 840	species
+T39	Organism2 881 888	strains
+T40	Food 903 907	milk
+T41	Food 916 919	ham
+T42	Molecule 928 940	enterotoxins
+T43	Unknown 941 942	D
+T44	Unknown 944 945	C
+T45	Unknown 949 950	E
+T46	Process 978 982	risk
+T47	Organism2 1007 1014	strains
+T48	Organism 1018 1028	S. xylosus
+T49	Organism1 1047 1056	pathogens
+T50	Organism1 1060 1067	animals
+T51	Organism2 1069 1076	Strains
+T52	Organism 1080 1090	S. xylosus
+T53	Disease 1128 1149	nosocomial infections
+T54	Chemical 1201 1212	antibiotics
+T55	Protein 1218 1224	genome
+T56	Organism 1228 1238	S. xylosus
+T57	Value 1255 1258	2.8
+T58	Unknown 1259 1261	Mb
+T59	Protein_part 1276 1284	sequence
+T60	Protein 1293 1299	genome
+T61	Process 1317 1330	establishment
+T62	Protein 1338 1345	genetic
+T63	Parameter 1359 1378	specific properties
+T64	Organism1 1387 1394	species
+T65	Process 1398 1408	comparison
+T66	Protein 1418 1425	genomes
+T67	Organism1 1435 1448	staphylococci
+T68	Organism 1450 1459	S. aureus
+T69	Organism 1461 1477	S. epidermididis
+T70	Organism 1482 1493	S. carnosus
+T71	Protein 1541 1548	genetic
+T72	Process 1563 1573	adaptation
+T73	Organism 1582 1591	bacterium
+T74	Habitat 1615 1626	environment
+T75	Process 1632 1641	functions
+T76	Protein 1683 1689	genome
+T77	Organism 1693 1703	S. xylosus
+T78	Organism2 1763 1770	strains
+T79	Unknown 1790 1796	agents
+T80	Chemical 460 467	nitrate

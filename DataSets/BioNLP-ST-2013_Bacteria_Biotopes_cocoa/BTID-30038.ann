@@ -1,0 +1,47 @@
+T1	Geometrical_part 8 18	signatures
+T2	Food 22 26	food
+T3	Organism1 38 61	
+T4	Organism1 63 83	Group D Streptococci
+T5	Unknown 87 96	Lancefild
+T6	Process 109 123	classification
+T7	Parameter 174 182	spectrum
+T8	Process 186 198	interactions
+T9	Organism2 208 212	host
+T10	Body_part 250 266	intestinal tract
+T11	Organism1 270 276	humans
+T12	Organism1 281 288	animals
+T13	Process 302 313	preparation
+T14	Food 334 340	cheese
+T15	Food 345 352	sausage
+T16	Unknown 388 394	agents
+T17	Disease 433 454	nosocomial infections
+T18	Molecular_Part 461 466	group
+T19	Process 499 513	identification
+T20	Organism1 517 555	Vancomycin Resistant Enterococci (VRE)
+T21	Disease 581 591	nosocomial
+T22	Organism1 592 601	pathogens
+T23	Unknown 609 615	1990's
+T24	Protein 641 648	genetic
+T25	Technique 663 667	MLST
+T26	Technique 672 689	genome sequencing
+T27	Technique 711 728	genome sequencing
+T28	Organism 732 743	E. faecalis
+T29	Protein 766 773	genomes
+T30	Body_part 792 800	isolates
+T31	Organism 808 819	E. faecalis
+T32	Organism2 830 848	E. faecium strains
+T33	Organism 874 884	E. faecium
+T34	Organism1 913 919	humans
+T35	Organism1 924 931	animals
+T36	Value 957 965	15 years
+T37	Disease 1032 1042	nosocomial
+T38	Organism1 1043 1051	pathogen
+T39	Organism2 1073 1086	unit patients
+T40	Unknown 1094 1100	United
+T41	Unknown 1101 1107	States
+T42	Process 1139 1148	evolution
+T43	Disease 1153 1162	virulence
+T44	Organism 1166 1176	E. faecium
+T45	Process 1218 1225	absence
+T46	Protein 1252 1258	genome
+T47	Protein_part 1259 1267	sequence

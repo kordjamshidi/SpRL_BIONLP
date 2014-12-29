@@ -1,0 +1,82 @@
+T1	Organism 0 53	
+T2	Organism1 75 82	microbe
+T3	Organism2 125 161	
+T4	Organism1 181 216	Gram-negative delta-proteobacterium
+T5	Organism2 222 227	preys
+T6	Organism1 237 245	bacteria
+T7	Organism 247 259	Bdellovibrio
+T8	Habitat 330 342	environments
+T9	Habitat 373 393	terrestrial habitats
+T10	Organism1 405 414	mammalian
+T11	Organ 415 425	intestines
+T12	Organism2 433 437	prey
+T13	Organism1 447 452	plant
+T14	Organism1 454 460	animal
+T15	Organism1 466 481	human pathogens
+T16	Parameter 500 510	dimensions
+T17	Organism 514 526	Bdellovibrio
+T18	Cell 527 532	cells
+T19	Value 534 537	0.2
+T20	Value 541 544	0.5
+T21	Chemical 545 547	Am
+T22	Value 557 567	0.5 to 2.5
+T23	Chemical 568 570	Am
+T24	Protein 582 588	genome
+T25	Value 601 610	3,782,950
+T26	Chemical 611 626	base pairs (bp)
+T27	Protein 648 658	chromosome
+T28	State 662 674	attack phase
+T29	Organism 676 692	B. bacteriovorus
+T30	Cellular_component 737 752	polar flagellum
+T31	Protein 784 792	filament
+T32	Parameter 793 801	waveform
+T33	Organism 808 824	B. bacteriovorus
+T34	Organism2 845 849	prey
+T35	Cell 850 854	cell
+T36	Process 906 917	recognition
+T37	Parameter 919 925	period
+T38	Location 981 985	pole
+T39	Cellular_component 999 1008	flagellum
+T40	Process 1017 1025	invasion
+T41	Organism2 1033 1037	prey
+T42	Cell 1038 1042	cell
+T43	Organism 1060 1076	B. bacteriovorus
+T44	Process 1095 1102	opening
+T45	Organism2 1110 1114	prey
+T46	Cellular_component 1115 1136	cell's outer membrane
+T47	Protein 1141 1154	peptidoglycan
+T48	Unknown 1155 1160	layer
+T49	Protein 1216 1223	enzymes
+T50	Organism2 1302 1306	prey
+T51	Process 1320 1329	diffusion
+T52	Process 1335 1340	entry
+T53	Organism2 1350 1354	prey
+T54	Cellular_component 1355 1364	periplasm
+T55	Organism 1366 1382	B. bacteriovorus
+T56	Cellular_component 1393 1402	flagellum
+T57	Cellular_component 1432 1440	cellular
+T58	Molecule 1456 1459	DNA
+T59	Process 1460 1471	replication
+T60	Process 1480 1489	synthesis
+T61	Protein 1493 1512	cellular biopolymer
+T62	Cell 1533 1537	cell
+T63	Geometrical_part 1538 1543	shape
+T64	Organism2 1551 1555	prey
+T65	Body_part 1567 1582	joint structure
+T66	Cellular_component 1594 1605	bdelloplast
+T67	Cell 1623 1626	rod
+T68	Organism2 1634 1638	prey
+T69	Process 1660 1667	process
+T70	Process 1692 1702	hydrolysis
+T71	Protein_part 1706 1713	peptide
+T72	Protein 1729 1738	glycanase
+T73	Parameter 1739 1747	activity
+T74	Process 1762 1782	molecular mechanisms
+T75	Mutant_Organism 1786 1800	Bdellovibrio's
+T76	Protein 1813 1820	enzymes
+T77	Process 1827 1834	insight
+T78	Process 1846 1853	targets
+T79	Organism2 1857 1861	prey
+T80	Cell 1862 1867	cells
+T81	Chemical 1979 1999	antimicrobial agents
+T82	Cell 1115 1121	cell's

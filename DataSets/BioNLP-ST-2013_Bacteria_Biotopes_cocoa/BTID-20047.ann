@@ -1,0 +1,74 @@
+T1	Organism 0 25	Chlorobaculum parvum NCIB
+T2	Organism 42 50	Chlorobi
+T3	Unknown 77 84	members
+T4	Organism1 92 113	green sulfur bacteria
+T5	Organism 134 149	bacterial phyla
+T6	Chemical 163 189	chlorophototrophic members
+T7	Organism 191 199	Chlorobi
+T8	Organism1 204 227	Gram-negative organisms
+T9	Unknown 243 250	members
+T10	Organism1 287 303	photoautotrophic
+T11	Unknown 310 317	members
+T12	Chemical 326 333	sulfide
+T13	Chemical 337 348	thiosulfate
+T14	Molecule 352 360	electron
+T15	Category 361 367	donors
+T16	Chemical 372 386	carbon dioxide
+T17	Process 387 395	fixation
+T18	Chemical 423 431	hydrogen
+T19	Chemical 435 447	ferrous iron
+T20	Process 449 458	Oxidation
+T21	Chemical 462 469	sulfide
+T22	Location 483 496	extracellular
+T23	Process 497 507	deposition
+T24	Body_part 511 526	sulfur globules
+T25	Chemical 571 578	sulfate
+T26	Organism2 604 611	strains
+T27	Chemical 627 635	nitrogen
+T28	Process 636 644	fixation
+T29	Organism1 662 671	organisms
+T30	Process 701 709	fixation
+T31	Chemical 713 719	carbon
+T32	Chemical 724 732	nitrogen
+T33	Habitat 743 755	environments
+T34	Chemical 773 780	sulfide
+T35	Process 814 820	growth
+T36	Organism1 828 837	organisms
+T37	Habitat 886 891	lakes
+T38	Organism1 893 902	microbial
+T39	Chemical 913 920	sulfide
+T40	Habitat 926 937	hot springs
+T41	Unknown 949 956	members
+T42	Body_part 996 1013	antenna structure
+T43	Chemical 1019 1029	chlorosome
+T44	Cellular_component 1035 1058	Type 1 reaction centers
+T45	Unknown 1068 1075	members
+T46	Chemical 1087 1115	bacteriochlorophyll (BChl) c
+T47	Chemical 1137 1153	pigment molecule
+T48	Chemical 1184 1188	BChl
+T49	Unknown 1195 1198	Chl
+T50	Process 1234 1255	molecular description
+T51	Bio_Process 1281 1290	metabolic
+T52	Unknown 1308 1315	members
+T53	Organism 1330 1338	Chlorobi
+T54	Technique 1340 1357	genome sequencing
+T55	Organism2 1370 1377	strains
+T56	Organism1 1395 1401	genera
+T57	Organism1 1406 1413	species
+T58	Organism 1434 1443	C. parvum
+T59	Protein 1444 1450	genome
+T60	Company 1491 1520	Pennsylvania State University
+T61	Process 1524 1537	collaboration
+T62	Technique 1543 1556	Dr. Stephan C
+T63	Technique 1568 1571	PCR
+T64	Technique 1588 1605	Sanger sequencing
+T65	Process 1627 1634	closure
+T66	Protein_part 1650 1658	sequence
+T67	Process 1659 1671	verification
+T68	Technique 1681 1689	analyses
+T69	Unknown 1736 1742	Imhoff
+T70	Unknown 1770 1777	members
+T71	Organism1 1785 1790	genus
+T72	Chemical 1791 1804	Chlorobaculum
+T73	Unknown 1837 1844	members
+T74	Organism1 1852 1868	genus Chlorobium

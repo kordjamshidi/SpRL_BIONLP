@@ -1,0 +1,60 @@
+T1	Organism 0 23	Borrelia recurrentis A1
+T2	Process 24 35	Description
+T3	Organism 36 56	Borrelia recurrentis
+T4	Organism 58 78	Borrelia recurrentis
+T5	Unknown 96 101	agent
+T6	Disease 117 132	relapsing fever
+T7	Unknown 143 155	World War II
+T8	Organism1 162 170	organism
+T9	Disease_Process 197 214	disease outbreaks
+T10	Bio_Process 222 231	mortality
+T11	Value 241 244	40%
+T12	Disease 282 289	disease
+T13	Habitat 304 309	parts
+T14	Habitat 313 319	Africa
+T15	Habitat 321 326	China
+T16	Habitat 332 336	Peru
+T17	Organism 338 352	B. recurrentis
+T18	Disease 373 381	infected
+T19	Organism1 382 387	human
+T20	Organism_subdivision 388 392	body
+T21	Organism1 393 397	lice
+T22	Organism 399 416	Pediculus humanus
+T23	Body_part 440 446	fluids
+T24	Multi-tissue_structure 459 475	mucous membranes
+T25	Organ 493 497	skin
+T26	Disease 499 514	Relapsing fever
+T27	Parameter 537 543	period
+T28	Disease 547 553	chills
+T29	Disease 555 560	fever
+T30	Disease 562 570	headache
+T31	Disease 576 583	malaise
+T32	Parameter 601 607	period
+T33	Disease 640 648	symptoms
+T34	Process 684 691	changes
+T35	Protein 699 715	surface proteins
+T36	Organism 719 727	Borrelia
+T37	Process 753 762	detection
+T38	Process 767 774	removal
+T39	Organism2 782 786	host
+T40	Multi-tissue_structure 787 800	immune system
+T41	Disease 807 816	antigenic
+T42	Process 817 826	variation
+T43	Process 844 868	homologous recombination
+T44	Protein 879 887	proteins
+T45	Protein_part 906 911	locus
+T46	Process 941 952	replacement
+T47	Organism1 960 968	serotype
+T48	Organism 983 997	B. recurrentis
+T49	Process 1011 1021	incubation
+T50	Parameter 1022 1028	period
+T51	Organism 1083 1099	Borrelia species
+T52	Process 1101 1112	Description
+T53	Organism 1113 1136	Borrelia recurrentis A1
+T54	Organism 1138 1158	Borrelia recurrentis
+T55	Organism2 1173 1186	adult patient
+T56	Disease 1204 1219	relapsing fever
+T57	Habitat 1223 1231	Ethiopia
+T58	Organism1 1238 1246	organism
+T59	Technique 1276 1284	analysis
+T60	Organism 1296 1312	Borrelia species

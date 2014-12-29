@@ -1,0 +1,38 @@
+T1	Organism1 32 37	human
+T2	Body_part 38 49	oral cavity
+T3	Organism 50 74	Streptococcus salivarius
+T4	Organism 102 111	bacterium
+T5	Body_part 119 130	oral cavity
+T6	Bio_Process 134 141	healthy
+T7	Organism1 142 148	humans
+T8	Organism 166 175	bacterium
+T9	Pathological_formation 196 209	dental plaque
+T10	Organism1 249 256	species
+T11	Organism1 268 274	genera
+T12	Pathological_formation 327 340	dental plaque
+T13	Unknown 361 371	conditions
+T14	Process 380 392	implantation
+T15	Organism1 402 409	species
+T16	Organism 422 431	bacterium
+T17	Process 448 452	role
+T18	Process 482 494	implantation
+T19	Organism1 498 506	bacteria
+T20	Bio_Process 532 538	health
+T21	Body_part 546 557	oral cavity
+T22	Organism 573 582	bacterium
+T23	Disease 605 629	opportunistic infections
+T24	Procedure 651 670	surgical procedures
+T25	Organism 739 748	bacterium
+T26	Organism2 774 778	host
+T27	Category 784 791	complex
+T28	Protein 852 859	factors
+T29	Pathological_formation 887 900	dental plaque
+T30	Organism1 928 935	species
+T31	Process 978 988	prevention
+T32	Geometrical_part 992 1000	cavities
+T33	Organism2 1016 1024	children
+T34	Organism2 1077 1084	strains
+T35	Disease 1107 1131	opportunistic infections
+T36	Process 1150 1154	risk
+T37	Process 1164 1173	detection
+T38	Organism2 1196 1204	subjects

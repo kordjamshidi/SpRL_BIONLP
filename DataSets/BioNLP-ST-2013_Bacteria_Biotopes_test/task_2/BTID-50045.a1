@@ -1,0 +1,31 @@
+T1	Bacteria 0 24	Chlamydophila pneumoniae
+T2	Bacteria 25 49	Chlamydophila pneumoniae
+T3	Habitat 85 91	humans
+T4	Bacteria 102 111	Chlamydia
+T5	Habitat 154 160	humans
+T6	Bacteria 162 186	Chlamydophila pneumoniae
+T7	Bacteria 188 206	Chlamydia psittaci
+T8	Bacteria 212 233	Chlamydia trachomatis
+T9	Bacteria 234 258	Chlamydophila pneumoniae
+T10	Habitat 276 289	intracellular
+T11	Bacteria 304 313	bacterium
+T12	Bacteria 314 338	Chlamydophila pneumoniae
+T13	Habitat 344 355	respiratory
+T14	Habitat 422 433	adolescents
+T15	Habitat 438 450	young adults
+T16	Habitat 452 464	Older adults
+T17	Habitat 551 566	atherosclerotic
+T18	Habitat 567 575	vascular
+T19	Bacteria 636 660	Chlamydophila pneumoniae
+T20	Habitat 668 676	airborne
+T21	Geographical 713 715	US
+T22	Habitat 713 750	US population by the time they are 20
+T23	Bacteria 805 826	Chlamydia trachomatis
+T24	Habitat 857 860	eye
+T25	Habitat 903 911	sexually
+T26	Habitat 941 947	pelvic
+T27	Bacteria 988 1012	Chlamydophila pneumoniae
+T28	Bacteria 1029 1050	Chlamydia trachomatis
+T29	Habitat 1070 1081	researchers
+T30	Habitat 1168 1183	mammalian cells
+T31	Habitat 1168 1177	mammalian

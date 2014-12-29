@@ -1,0 +1,21 @@
+T1	Organism 0 37	
+T2	Disease 45 66	bacterial leaf blight
+T3	Organism1 70 93	
+T4	Organism 98 116	Gram-negative rods
+T5	Cellular_component 147 162	polar flagellum
+T6	Unknown 181 186	agent
+T7	Disease 190 206	bacterial blight
+T8	Organism1 210 214	rice
+T9	Organism 217 229	Oryza sativa
+T10	Mutant_Organism 230 232	L.
+T11	Disease 235 259	Bacterial blight disease
+T12	Organism1 271 275	rice
+T13	Disease 276 283	disease
+T14	Habitat 287 301	tropical Asian
+T15	Organism1 332 346	rice cultivars
+T16	Disease 383 390	disease
+T17	Disease 400 416	vascular disease
+T18	Pathological_formation 446 459	white lesions
+T19	Multi-tissue_structure 470 480	leaf veins
+T20	Multi-tissue_structure 400 408	vascular
+T21	Body_part 446 451	white

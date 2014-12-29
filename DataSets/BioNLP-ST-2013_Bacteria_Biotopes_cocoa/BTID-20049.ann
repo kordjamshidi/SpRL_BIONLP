@@ -1,0 +1,131 @@
+T1	Organism 0 23	Chlorobium limicola DSM
+T2	Organism1 32 53	green sulfur bacteria
+T3	Mutant_Organism 55 58	GSB
+T4	Organism 60 75	Phylum Chlorobi
+T5	Habitat 144 156	environments
+T6	Habitat 158 167	sediments
+T7	Chemical 179 186	sulfide
+T8	Habitat 192 204	environments
+T9	Habitat 215 226	hot springs
+T10	Process 253 264	adaptations
+T11	Body_part 291 299	antennae
+T12	Organism1 307 315	bacteria
+T13	Process 331 337	growth
+T14	Parameter 347 358	intensities
+T15	Organism1 380 391	phototrophs
+T16	Habitat 425 437	environments
+T17	Organism1 445 454	organisms
+T18	Value 477 480	83%
+T19	Organism1 547 556	organisms
+T20	Chemical 598 604	carbon
+T21	Habitat 616 633	ecological niches
+T22	Mutant_Organism 645 648	GSB
+T23	Bio_Process 653 662	metabolic
+T24	Organism2 680 687	strains
+T25	Process 746 752	growth
+T26	Multi-tissue_structure 782 798	dark respiratory
+T27	Bio_Process 824 834	metabolism
+T28	Organism1 850 858	bacteria
+T29	Molecule 863 872	electrons
+T30	Chemical 886 910	reduced sulfur compounds
+T31	Molecule 931 936	light
+T32	Parameter 937 943	energy
+T33	Chemical 954 960	carbon
+T34	Chemical 965 977	nitrogen (4)
+T35	Mutant_Organism 984 987	GSB
+T36	Organism2 988 995	strains
+T37	Chemical 1013 1021	hydrogen
+T38	Molecule 1028 1036	electron
+T39	Category 1037 1042	donor
+T40	Organism1 1047 1063	photoautotrophic
+T41	Process 1064 1070	growth
+T42	Habitat 1088 1100	environments
+T43	Organism 1102 1110	Chlorobi
+T44	Chemical 1149 1155	carbon
+T45	Chemical 1157 1165	nitrogen
+T46	Chemical 1171 1177	sulfur
+T47	Process 1178 1184	cycles
+T48	Chemical 1186 1192	Carbon
+T49	Process 1193 1201	fixation
+T50	Mutant_Organism 1209 1212	GSB
+T51	Disease 1235 1244	TCA cycle
+T52	Process 1245 1254	reactions
+T53	Cellular_component 1306 1329	Type I reaction centers
+T54	Protein 1360 1373	Photosystem I
+T55	Organism1 1401 1407	plants
+T56	Organism1 1412 1425	cyanobacteria
+T57	Body_part 1448 1455	antenna
+T58	Cellular_component 1457 1468	chlorosomes
+T59	Organism_subdivision 1480 1486	bodies
+T60	Chemical 1503 1508	lipid
+T61	Cellular_component 1509 1518	monolayer
+T62	Value 1535 1552	more than 200,000
+T63	Unknown 1553 1557	BChl
+T64	Molecule 1564 1573	molecules
+T65	Value 1578 1583	~2500
+T66	Unknown 1584 1588	BChl
+T67	Molecule 1591 1600	molecules
+T68	Protein 1621 1633	protein CsmA
+T69	Cell 1649 1657	GSB cell
+T70	Cellular_component 1685 1696	chlorosomes
+T71	Cell 1700 1708	GSB cell
+T72	Value 1721 1741	more than 50 million
+T73	Unknown 1742 1746	BChl
+T74	Body_part 1779 1787	antennae
+T75	Cell 1803 1808	cells
+T76	Process 1820 1834	photosynthesis
+T77	Unknown 1860 1870	conditions
+T78	Chemical 1872 1873	4
+T79	Mutant_Organism 1885 1888	GSB
+T80	Parameter 1916 1936	metabolic properties
+T81	Organism1 1948 1959	phototrophs
+T82	Protein 1961 1969	16S rRNA
+T83	Technique 1970 1978	analyses
+T84	Organism1 1999 2007	bacteria
+T85	Organism1 2049 2075	phototrophs (cyanobacteria
+T86	Organism1 2077 2092	purple bacteria
+T87	Organism1 2111 2124	heliobacteria
+T88	Disease 2142 2152	anoxygenic
+T89	Organism1 2153 2164	phototrophs
+T90	Chemical 2172 2182	non-sulfur
+T91	Organism1 2183 2191	bacteria
+T92	Organism1 2195 2210	Chloroflexaceae
+T93	Organism 2227 2235	Chlorobi
+T94	Organism2 2259 2267	ancestor
+T95	Organism 2277 2290	Bacteroidetes
+T96	Organism2 2296 2327	Chlorobium limicola strain DSMZ
+T97	Value 2328 2333	245 T
+T98	Cell 2379 2382	rod
+T99	Mutant_Organism 2390 2393	GSB
+T100	Parameter 2395 2400	width
+T101	Value 2409 2419	1.1 microm
+T102	Parameter 2421 2427	length
+T103	Value 2428 2431	0.9
+T104	Value 2435 2445	1.5 microm
+T105	Cell 2471 2476	cells
+T106	Organism1 2483 2490	species
+T107	Organism1 2511 2518	species
+T108	Organism1 2526 2542	genus Chlorobium
+T109	Unknown 2570 2576	Nadson
+T110	Organism2 2590 2601	Strain DSMZ
+T111	Value 2602 2607	245 T
+T112	Habitat 2645 2662	Gilroy Hot Spring
+T113	Cell 2668 2673	cells
+T114	Protein 2694 2700	chains
+T115	Organism1 2712 2724	streptococci
+T116	Body_part 2760 2778	culture conditions
+T117	Cell 2784 2789	cells
+T118	Unknown 2798 2804	BChl c
+T119	Unknown 2809 2813	BChl
+T120	Chemical 2827 2840	chlorobactene
+T121	Chemical 2869 2877	pigments
+T122	Cell 2879 2884	Cells
+T123	Chemical 2896 2903	acetate
+T124	Chemical 2908 2918	propionate
+T125	Organism1 2926 2937	mixotrophic
+T126	Process 2938 2944	growth
+T127	Organism2 2950 2956	strain
+T128	Chemical 2975 2993	molecular hydrogen
+T129	Chemical 3050 3053	gas
+T130	Cellular_component 3054 3062	vesicles
+T131	Chemical 3076 3093	freshwater medium

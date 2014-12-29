@@ -1,0 +1,167 @@
+T1	Organism 1 8	Frankia
+T2	Unknown 13 25	
+T3	Organism 29 44	
+T4	Organism2 49 56	strains
+T5	Unknown 100 113	Mol% G+C Gram
+T6	Organism 123 137	Actinobacteria
+T7	Geometrical_part 213 216	tip
+T8	Process 217 226	extension
+T9	Chemical 249 259	antibiotic
+T10	Organism 270 282	Streptomyces
+T11	Unknown 287 295	Frankiae
+T12	Cell 341 351	cell types
+T13	Process 359 365	growth
+T14	Body_part 367 384	vegetative hyphae
+T15	Chemical 406 411	lipid
+T16	Cellular_component 422 441	cellular structures
+T17	Cellular_component 452 460	vesicles
+T18	Unknown 489 490	N
+T19	Chemical 518 520	O2
+T20	Protein 528 539	nitrogenase
+T21	Disease 544 553	symbiosis
+T22	Chemical 587 595	nitrogen
+T23	Organism1 608 613	plant
+T24	Chemical 637 645	nitrogen
+T25	Organism 664 679	Frankia strains
+T26	Chemical 703 717	nutrient media
+T27	Chemical 737 760	short-chain fatty acids
+T28	Chemical 762 780	dicarboxylic acids
+T29	Parameter 794 796	MW
+T30	Chemical 797 810	organic acids
+T31	Chemical 812 822	propionate
+T32	Chemical 824 833	succinate
+T33	Chemical 835 843	pyruvate
+T34	Chemical 856 863	ammonia
+T35	Protein_part 868 870	N2
+T36	Chemical 879 887	nitrogen
+T37	Organism2 901 908	strains
+T38	Chemical 924 930	sugars
+T39	Unknown 932 940	Frankiae
+T40	Protein 955 973	housekeeping genes
+T41	Process 1000 1009	existence
+T42	Protein 1015 1020	genes
+T43	Process 1025 1036	sporulation
+T44	Cellular_component 1038 1045	vesicle
+T45	Process 1046 1057	development
+T46	Disease 1059 1068	symbiosis
+T47	Chemical 1070 1072	N2
+T48	Process 1073 1081	fixation
+T49	Chemical 1086 1106	secondary metabolite
+T50	Process 1107 1117	production
+T51	Organism 1119 1126	Frankia
+T52	Organism2 1131 1137	strain
+T53	Organism 1138 1145	HFPCcI3
+T54	Value 1162 1166	1983
+T55	Company 1170 1177	Harvard
+T56	Habitat 1178 1184	Forest
+T57	Unknown 1188 1201	John Torrey's
+T58	Unknown 1209 1222	Zhang Zhongze
+T59	Organism 1224 1231	HFPCcI3
+T60	Chemical 1248 1261	organic acids
+T61	Chemical 1270 1280	propionate
+T62	Chemical 1284 1292	pyruvate
+T63	Category 1315 1322	complex
+T64	Body_part 1323 1328	media
+T65	Chemical 1349 1358	kanamycin
+T66	Chemical 1392 1406	nalidixic acid
+T67	Unknown 1412 1426	ultrastructure
+T68	Process 1481 1490	existence
+T69	Process 1499 1507	presence
+T70	Body_part 1511 1518	nodules
+T71	Organism 1522 1531	Casuarina
+T72	Organism 1536 1543	HFPCcI3
+T73	Molecular_Part 1557 1562	group
+T74	Organism2 1582 1589	strains
+T75	Organism 1604 1613	Casuarina
+T76	Organism 1618 1631	Allocasuarina
+T77	Chemical 1632 1635	spp
+T78	Organism1 1641 1654	Casuarinaceae
+T79	Unknown 1669 1675	family
+T80	Organism1 1679 1684	trees
+T81	Habitat 1725 1734	Australia
+T82	Protein_part 1743 1760	Melanesian region
+T83	Habitat 1768 1775	Pacific
+T84	Habitat 1803 1810	islands
+T85	Protein_part 1826 1833	regions
+T86	Organism 1841 1847	Indian
+T87	Habitat 1848 1853	Ocean
+T88	Habitat 1855 1866	New Zealand
+T89	Habitat 1868 1874	Africa
+T90	Habitat 1879 1884	North
+T91	Habitat 1889 1902	South America
+T92	Habitat 1922 1939	Caribbean islands
+T93	Unknown 1941 1948	Florida
+T94	Unknown 1953 1963	California
+T95	Process 1999 2012	stabilization
+T96	Unknown 2061 2078	Global Importance
+T97	Unknown 2086 2098	Actinorhizal
+T98	Disease 2099 2108	Symbiosis
+T99	Process 2113 2123	importance
+T100	Organism 2127 2134	Frankia
+T101	Organism2 2139 2146	strains
+T102	Chemical 2182 2190	nitrogen
+T103	Body_part 2198 2209	root nodule
+T104	Organism1 2237 2248	angiosperms
+T105	Organism1 2271 2277	plants
+T106	Organism1 2293 2299	plants
+T107	Organism1 2324 2329	plant
+T108	Unknown 2330 2338	families
+T109	Value 2340 2342	24
+T110	Organism1 2343 2349	genera
+T111	Value 2354 2367	more than 200
+T112	Organism1 2368 2375	species
+T113	Parameter 2405 2415	proportion
+T114	Chemical 2423 2431	nitrogen
+T115	Unknown 2443 2453	ecosystems
+T116	Value 2482 2485	N 2
+T117	Habitat 2507 2524	temperate forests
+T118	Organism 2527 2532	Alnus
+T119	Organism 2565 2574	Ceanothus
+T120	Mutant_Organism 2576 2582	Trevoa
+T121	Mutant_Organism 2584 2593	Talguenea
+T122	Organism 2595 2606	Chamaebatia
+T123	Organism 2608 2619	Cercocarpus
+T124	Organism 2621 2628	Purshia
+T125	Habitat 2640 2645	dunes
+T126	Organism 2648 2657	Casuarina
+T127	Organism 2659 2665	Myrica
+T128	Organism 2667 2676	Hippophae
+T129	Organism1 2687 2698	communities
+T130	Organism 2701 2706	Alnus
+T131	Protein_part 2723 2730	regions
+T132	Organism 2733 2738	Alnus
+T133	Organism 2740 2745	Dryas
+T134	Habitat 2759 2770	Scandinavia
+T135	Habitat 2772 2778	Canada
+T136	Unknown 2780 2786	Alaska
+T137	Habitat 2790 2801	New Zealand
+T138	Organism1 2808 2815	legumes
+T139	Habitat 2918 2925	forests
+T140	Process 2958 2967	occasions
+T141	Disease 2986 2999	anthropogenic
+T142	Process 3000 3007	changes
+T143	Unknown 3016 3026	ecosystems
+T144	Unknown 3116 3124	Relevant
+T145	Unknown 3138 3144	Benson
+T146	Unknown 3146 3150	D.R.
+T147	Unknown 3155 3158	W.B
+T148	Unknown 3171 3178	Biology
+T149	Organism 3182 3197	Frankia strains
+T150	Organism 3199 3221	actinomycete symbionts
+T151	Organism1 3238 3244	plants
+T152	Value 3263 3267	1993
+T153	Value 3269 3271	57
+T154	Value 3277 3284	293-319
+T155	Unknown 3293 3295	Z.
+T156	Unknown 3297 3300	M.F
+T157	Unknown 3313 3316	J.G
+T158	Process 3328 3338	comparison
+T159	Disease_Process 3371 3382	infectivity
+T160	Organism 3386 3402	Frankia isolates
+T161	Body_part 3408 3420	root nodules
+T162	Organism 3424 3441	Casuarina species
+T163	Organism1 3443 3448	Plant
+T164	Mutant_Organism 3453 3457	Soil
+T165	Value 3459 3463	1984
+T166	Value 3465 3467	78
+T167	Value 3473 3478	79-90

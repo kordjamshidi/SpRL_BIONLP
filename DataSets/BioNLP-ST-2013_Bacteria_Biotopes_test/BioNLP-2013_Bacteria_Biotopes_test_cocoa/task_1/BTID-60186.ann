@@ -1,0 +1,257 @@
+T1	Organism 0 23	Dechloromonas aromatica
+T2	Process 25 36	Description
+T3	Process 41 53	significance
+T4	Organism 54 77	Dechloromonas aromatica
+T5	Cell 83 86	rod
+T6	Cell 94 99	cells
+T7	Habitat 137 154	sediment habitats
+T8	Chemical 173 191	aromatic compounds
+T9	Chemical 200 207	toluene
+T10	Chemical 209 217	benzoate
+T11	Chemical 223 237	chlorobenzoate
+T12	Organism2 239 258	D. aromatica strain
+T13	Organism 259 262	RCB
+T14	Habitat 281 303	Potomic River sediment
+T15	Organism 305 313	Maryland
+T16	Mutant_Organism 315 318	USA
+T17	Unknown 320 322	It
+T18	Organism1 335 343	organism
+T19	Body_part 352 359	culture
+T20	Chemical 379 396	oxidizing benzene
+T21	Process 420 426	growth
+T22	Parameter 427 438	temperature
+T23	Value 442 446	30 C
+T24	Process 459 465	growth
+T25	Parameter 466 474	salinity
+T26	Value 478 480	0%
+T27	Value 483 484	1
+T28	Unknown 486 488	It
+T29	Profession 519 530	researchers
+T30	Protein 547 553	genome
+T31	Chemical 598 605	benzene
+T32	Process 609 616	absence
+T33	Chemical 620 626	oxygen
+T34	Chemical 628 635	Benzene
+T35	Chemical 683 694	hydrocarbon
+T36	Geometrical_part 709 716	surface
+T37	Chemical 717 723	waters
+T38	Protein 738 745	factors
+T39	Chemical 751 758	benzene
+T40	Process 846 855	processes
+T41	Parameter 878 887	component
+T42	Chemical 891 900	petroleum
+T43	Process 917 930	contamination
+T44	Chemical 976 983	benzene
+T45	Process 1013 1020	absence
+T46	Chemical 1024 1030	oxygen
+T47	Organism1 1037 1045	organism
+T48	Chemical 1102 1109	benzene
+T49	Organism 1173 1185	D. aromatica
+T50	Organism 1209 1225	D. aromatica RCB
+T51	Chemical 1254 1265	perchlorate
+T52	Chemical 1349 1357	chloride
+T53	Organism1 1389 1397	organism
+T54	Chemical 1418 1429	perchlorate
+T55	Process 1465 1474	movements
+T56	Parameter 1483 1488	areas
+T57	Chemical 1497 1508	perchlorate
+T58	Parameter 1509 1522	concentration
+T59	Value 1525 1528	1,2
+T60	Unknown 1530 1537	Ecology
+T61	Process 1558 1562	role
+T62	Organism 1566 1589	Dechloromonas aromatica
+T63	Habitat 1597 1608	environment
+T64	Process 1660 1672	contribution
+T65	Habitat 1680 1691	environment
+T66	Chemical 1734 1741	benzene
+T67	Chemical 1743 1754	perchlorate
+T68	Chemical 1774 1783	compounds
+T69	Chemical 1815 1824	compounds
+T70	Process 1861 1870	processes
+T71	Chemical 1900 1909	compounds
+T72	Habitat 1970 1981	environment
+T73	Organism1 1983 1989	humans
+T74	Organism1 2001 2010	organisms
+T75	Organism1 2031 2036	human
+T76	Process 2037 2045	presence
+T77	Food 2095 2100	foods
+T78	Chemical 2119 2126	benzene
+T79	Disease 2139 2147	vomiting
+T80	Organ 2149 2156	stomach
+T81	Bio_Process 2167 2172	death
+T82	Organism1 2176 2182	humans
+T83	Disease 2218 2224	anemia
+T84	Multi-tissue_structure 2234 2240	immune
+T85	Process 2241 2249	response
+T86	Parameter 2261 2265	size
+T87	Organ 2269 2276	ovaries
+T88	Organism2 2280 2285	women
+T89	Unknown 2318 2320	US
+T90	Company 2321 2331	Department
+T91	Bio_Process 2335 2341	Health
+T92	Organism 2346 2360	Human Services
+T93	Chemical 2366 2376	carcinogen
+T94	Organism1 2384 2391	animals
+T95	Bio_Process 2420 2425	birth
+T96	Parameter 2426 2433	weights
+T97	Tissue 2443 2447	bone
+T98	Process 2448 2457	formation
+T99	Tissue 2463 2467	bone
+T100	Bio_Process 2487 2495	pregnant
+T101	Organism1 2496 2503	animals
+T102	Chemical 2520 2527	benzene
+T103	Unknown 2547 2549	US
+T104	Value 2571 2578	100,000
+T105	Protein_part 2579 2584	sites
+T106	Chemical 2588 2595	benzene
+T107	Chemical 2604 2615	groundwater
+T108	Process 2616 2629	contamination
+T109	Process 2645 2658	contamination
+T110	Process 2703 2710	nations
+T111	Habitat 2719 2724	China
+T112	Value 2734 2738	2005
+T113	Chemical 2751 2756	water
+T114	Unknown 2767 2773	Harbin
+T115	Value 2803 2819	almost 9 million
+T116	Chemical 2839 2846	benzene
+T117	Process 2847 2860	contamination
+T118	Process 2869 2878	explosion
+T119	Habitat 2884 2889	China
+T120	Chemical 2890 2908	National Petroleum
+T121	Company 2909 2920	Corporation
+T122	Value 2921 2932	factory.(5)
+T123	Unknown 2933 2948	
+T124	Disease 2961 2970	virulence
+T125	Process 2972 2983	Application
+T126	Organism 2987 3024	
+T127	Chemical 3074 3081	benzene
+T128	Chemical 3083 3093	perchloate
+T129	Chemical 3104 3113	compounds
+T130	Bio_Process 3167 3173	health
+T131	Organism1 3187 3193	humans
+T132	Organism1 3204 3213	organisms
+T133	Process 3252 3259	absence
+T134	Chemical 3263 3269	oxygen
+T135	Parameter 3325 3330	areas
+T136	Chemical 3367 3378	groundwater
+T137	Process 3382 3396	bioremediation
+T138	Profession 3407 3418	Researchers
+T139	Chemical 3454 3465	diooxygense
+T140	Process 3474 3491	aerobic oxidation
+T141	Chemical 3495 3502	benzene
+T142	Process 3521 3528	pathway
+T143	Value 3538 3551	unclear.(1,2)
+T144	Chemical 3581 3592	radioactive
+T145	Chemical 3601 3608	benzene
+T146	Organism 3629 3652	Dechloromonas aromatica
+T147	Chemical 3661 3668	benzene
+T148	Value 3693 3704	CO2.(1)Also
+T149	Unknown 3726 3733	section
+T150	Unknown 3743 3751	Research
+T151	Value 3752 3753	1
+T152	Organism 3768 3791	Dechloromonas aromatica
+T153	Chemical 3855 3862	benzene
+T154	Chemical 3867 3878	perchlorate
+T155	Profession 3884 3895	researchers
+T156	Organism2 3919 3926	strains
+T157	Organism 3928 3931	RCB
+T158	Unknown 3936 3938	JJ
+T159	Habitat 3962 3974	environments
+T160	Chemical 4016 4023	benzene
+T161	Chemical 4027 4041	carbon dioxide
+T162	Process 4049 4056	absence
+T163	Chemical 4060 4066	oxygen
+T164	Chemical 4073 4080	nitrate
+T165	Category 4097 4105	acceptor
+T166	Process 4113 4123	experiment
+T167	Cell 4139 4144	cells
+T168	Body_part 4148 4155	culture
+T169	Chemical 4204 4211	benzene
+T170	Profession 4217 4228	researchers
+T171	Organism1 4268 4276	organism
+T172	Process 4323 4337	bioremediation
+T173	Chemical 4341 4348	benzene
+T174	Protein_part 4362 4367	sites
+T175	Chemical 4379 4386	benzene
+T176	Process 4387 4396	oxidation
+T177	Chemical 4408 4415	nitrate
+T178	Process 4416 4425	reduction
+T179	Body_part 4434 4441	culture
+T180	Organism2 4449 4456	strains
+T181	Chemical 4460 4473	Dechloromonas
+T182	Unknown 4480 4481	D
+T183	Chemical 4483 4489	Coates
+T184	Chemical 4491 4507	Romy Chakraborty
+T185	Chemical 4509 4517	Joseph G
+T186	Process 4519 4523	Lack
+T187	Unknown 4525 4532	Susan M
+T188	Unknown 4534 4542	O'Connor
+T189	Unknown 4544 4552	Kimberly
+T190	Multi-tissue_structure 4556 4560	Cole
+T191	Body_part 4562 4569	Kelly S
+T192	Unknown 4580 4586	Laurie
+T193	Value 4600 4601	2
+T194	Profession 4609 4620	researchers
+T195	Chemical 4655 4672	benzene oxidizing
+T196	Organism2 4684 4718	Dechloromonas aromatica strain RCB
+T197	Process 4744 4752	addition
+T198	Chemical 4756 4763	nitrate
+T199	Organism1 4771 4780	organisms
+T200	Chemical 4794 4805	perchlorate
+T201	Chemical 4809 4817	chlorate
+T202	Molecule 4821 4829	electron
+T203	Category 4830 4839	acceptors
+T204	Process 4858 4877	anaerobic oxidation
+T205	Chemical 4881 4888	benzene
+T206	Organism2 4924 4958	Dechloromonas aromatica strain RCB
+T207	Chemical 4972 4979	toluene
+T208	Chemical 4981 4993	ethylbenzene
+T209	Chemical 4999 5005	xylene
+T210	Molecule 5009 5017	electron
+T211	Category 5018 5024	donors
+T212	Chemical 5030 5037	nitrate
+T213	Molecule 5052 5060	electron
+T214	Category 5061 5069	acceptor
+T215	Organism2 5087 5121	Dechloromonas aromatica strain RCB
+T216	Chemical 5134 5141	benzene
+T217	Chemical 5146 5153	toluene
+T218	Process 5170 5191	Anaerobic Degradation
+T219	Chemical 5195 5202	Benzene
+T220	Chemical 5204 5211	Toluene
+T221	Chemical 5213 5225	Ethylbenzene
+T222	Chemical 5231 5247	Xylene Compounds
+T223	Chemical 5251 5264	Dechloromonas
+T224	Organism2 5265 5275	Strain RCB
+T225	Unknown 5282 5293	Chakraborty
+T226	Unknown 5295 5302	Susan M
+T227	Unknown 5304 5312	O'Connor
+T228	Unknown 5314 5324	Emily Chan
+T229	Unknown 5330 5336	John D
+T230	Chemical 5338 5344	Coates
+T231	Value 5345 5346	3
+T232	Profession 5376 5387	researchers
+T233	Chemical 5413 5420	benzene
+T234	Process 5421 5435	biodegradation
+T235	Process 5581 5588	pathway
+T236	Organism2 5589 5623	Dechloromonas aromatica strain RCB
+T237	Chemical 5640 5647	benzene
+T238	Chemical 5651 5654	CO2
+T239	Process 5681 5688	pathway
+T240	Process 5709 5722	hydroxylation
+T241	Process 5723 5731	reaction
+T242	Process 5744 5757	carboxylation
+T243	Process 5758 5766	reaction
+T244	Process 5772 5776	loss
+T245	Chemical 5780 5794	hydroxyl group
+T246	Chemical 5803 5811	benzoate
+T247	Molecule 5818 5830	intermediate
+T248	Process 5832 5845	Hydroxylation
+T249	Process 5850 5863	Carboxylation
+T250	Unknown 5869 5882	Crucial Steps
+T251	Chemical 5886 5903	Anaerobic Benzene
+T252	Process 5904 5915	Degradation
+T253	Chemical 5919 5932	Dechloromonas
+T254	Organism2 5933 5943	Strain RCB
+T255	Unknown 5950 5961	Chakraborty
+T256	Unknown 5966 5972	John D
+T257	Chemical 5974 5980	Coates

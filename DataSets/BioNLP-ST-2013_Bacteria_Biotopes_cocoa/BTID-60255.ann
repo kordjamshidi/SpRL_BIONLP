@@ -1,0 +1,143 @@
+T1	Organism1 0 30	
+T2	Organism 32 51	Geobacillus species
+T3	Process 66 77	Description
+T4	Organism1 100 107	microbe
+T5	Habitat 139 147	sediment
+T6	Organism 155 162	Mariana
+T7	Mutant_Organism 163 169	Trench
+T8	Process 187 193	growth
+T9	Parameter 202 213	temperature
+T10	Value 217 235	60 degrees Celsius
+T11	Parameter 243 254	temperature
+T12	Value 264 274	74 degrees
+T13	Unknown 275 282	Celsius
+T14	Organism 288 296	Bacillus
+T15	Cell 315 324	small rod
+T16	Chemical 331 334	geo
+T17	Organism1 363 368	genus
+T18	Cell 413 422	small rod
+T19	Organism1 435 442	species
+T20	Organism1 536 544	bacteria
+T21	Organism 546 570	Geobacillus kaustophilus
+T22	Habitat 587 599	environments
+T23	Organism1 607 614	species
+T24	Organism1 622 639	genus Geobacillus
+T25	Chemical 661 670	petroleum
+T26	Habitat 696 708	environments
+T27	Organism1 714 721	Species
+T28	Organism 729 746	Geobacillus genus
+T29	Habitat 777 789	environments
+T30	Organism1 795 802	microbe
+T31	Parameter 819 821	pH
+T32	Value 825 826	2
+T33	Parameter 839 851	temperatures
+T34	Value 860 861	5
+T35	Value 866 884	78 degrees Celsius
+T36	Parameter 892 900	salinity
+T37	Value 904 905	0
+T38	Value 909 912	30%
+T39	Process 920 931	Application
+T40	Unknown 935 948	Biotechnology
+T41	Organism2 993 999	strain
+T42	Organism1 1012 1020	bacteria
+T43	Body_part 1028 1035	culture
+T44	Organism 1039 1060	Geobacillus strain T1
+T45	Protein 1085 1098	enzyme lipase
+T46	Chemical 1100 1101	4
+T47	Organism1 1128 1136	bacteria
+T48	Body_part 1151 1155	Gram
+T49	Body_part 1166 1175	endospore
+T50	Protein 1201 1207	Lipase
+T51	Protein 1219 1225	enzyme
+T52	Organism_subdivision 1257 1263	bodies
+T53	Protein 1265 1272	Lipases
+T54	Process 1287 1297	hydrolysis
+T55	Chemical 1301 1324	long chain triglyceride
+T56	Chemical 1330 1345	diacylglyceride
+T57	Chemical 1347 1360	monoglyceride
+T58	Chemical 1362 1370	glycerol
+T59	Process 1419 1435	reverse reaction
+T60	Process 1439 1449	hydrolysis
+T61	Chemical 1461 1467	esters
+T62	Chemical 1473 1480	alcohol
+T63	Chemical 1484 1495	fatty acids
+T64	Protein 1540 1546	lipase
+T65	Parameter 1603 1615	temperatures
+T66	Process 1665 1674	equipment
+T67	Protein 1685 1691	enzyme
+T68	Parameter 1721 1732	temperature
+T69	Protein 1734 1740	Lipase
+T70	Category 1784 1792	products
+T71	Chemical 1800 1808	medicine
+T72	Food 1824 1828	food
+T73	Category 1899 1907	products
+T74	Chemical 1909 1910	4
+T75	Organism 1928 1949	Geobacillus strain T1
+T76	Process 1972 1976	role
+T77	Process 1984 1994	production
+T78	Protein 1998 2004	lipase
+T79	Protein 2075 2081	enzyme
+T80	Process 2091 2100	equipment
+T81	Parameter 2123 2134	temperature
+T82	Process 2135 2147	fermentation
+T83	Chemical 2167 2168	4
+T84	Unknown 2179 2189	
+T85	Protein_part 2201 2220	Antibiotic Residues
+T86	Technique 2225 2230	assay
+T87	Organism 2255 2279	Geobacillus kaustophilus
+T88	Unknown 2295 2302	element
+T89	Process 2326 2334	presence
+T90	Chemical 2338 2349	antibiotics
+T91	Technique 2359 2364	assay
+T92	Parameter 2370 2383	concentration
+T93	Chemical 2387 2398	antibiotics
+T94	Food 2402 2406	food
+T95	Molecule 2429 2439	substances
+T96	Value 2465 2468	1.5
+T98	Value 2474 2481	5 hours
+T99	Technique 2509 2518	technique
+T100	Organism 2528 2552	Geobacillus kaustophilus
+T101	Parameter 2575 2589	concentrations
+T102	Chemical 2593 2604	antibiotics
+T103	Food 2640 2644	food
+T104	Process 2653 2669	Thermoadaptation
+T105	Phenotype 2670 2675	trait
+T106	Protein 2692 2698	genome
+T107	Protein_part 2699 2707	sequence
+T108	Organism 2724 2748	Geobacillus kaustophilus
+T109	Protein_part 2754 2769	genone sequence
+T110	Organism 2773 2790	Geobacillus genus
+T111	Organism1 2816 2826	mesophiles
+T112	Organism1 2838 2847	organisms
+T113	Parameter 2875 2886	temperature
+T114	Protein_part 2933 2944	amino acids
+T115	Process 2945 2958	substitutions
+T116	Organism 2962 2973	Geobacillus
+T117	Organism 3040 3059	Geobacillus species
+T118	Parameter 3080 3084	time
+T119	Process 3096 3107	differences
+T120	Protein 3111 3117	genome
+T121	Geometrical_part 3118 3127	structure
+T122	Protein 3149 3155	Lipase
+T123	Organism 3161 3172	Geobacillus
+T124	Organism2 3177 3186	strain T1
+T125	Organism2 3195 3201	strain
+T126	Organism 3205 3216	Geobacillus
+T127	Organism1 3221 3239	Strain T1 bacteria
+T128	Organism_subdivision 3258 3262	Palm
+T129	Chemical 3263 3280	Oil Mill Effluent
+T130	Protein 3339 3345	lipase
+T131	Organism 3346 3348	T1
+T132	Protein 3350 3356	Lipase
+T133	Geometrical_part 3368 3372	part
+T134	Bio_Process 3376 3386	metabolism
+T135	Organism1 3390 3399	organisms
+T136	Protein 3410 3416	enzyme
+T137	Chemical 3433 3436	fat
+T138	Chemical 3450 3461	fatty acids
+T139	Process 3467 3478	development
+T140	Bio_Process 3529 3538	digestive
+T141	Food 3578 3592	dairy products
+T142	Protein 3651 3657	lipase
+T143	Parameter 3684 3695	temperature
+T144	Process 3696 3705	equipment

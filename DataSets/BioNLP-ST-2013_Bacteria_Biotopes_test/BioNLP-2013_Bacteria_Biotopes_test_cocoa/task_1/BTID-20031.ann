@@ -1,0 +1,96 @@
+T1	Organism 0 24	Burkholderia cenocepacia
+T2	Mutant_Organism 25 30	MC0-3
+T3	Organism1 36 54	genus Burkholderia
+T4	Value 72 74	35
+T5	Organism 75 92	bacterial species
+T6	Cell 117 128	saprophytes
+T7	Organism1 133 147	phytopathogens
+T8	Habitat 176 196	environmental niches
+T9	Organism1 215 222	species
+T10	Category 243 277	Burkholderia cepacia complex (Bcc)
+T11	Unknown 329 336	DNA-DNA
+T12	Process 337 350	hybridization
+T13	Parameter 351 357	values
+T14	Organism1 359 366	Species
+T15	Molecular_Part 379 384	group
+T16	Organism1 434 449	human pathogens
+T17	Disease 492 512	cystic fibrosis (CF)
+T18	Organism1 526 533	species
+T19	Organism 535 559	Burkholderia cenocepacia
+T20	Habitat 594 605	environment
+T21	Organism1 628 633	human
+T22	Disease 634 644	infections
+T23	Organism2 646 673	B. cenocepacia strain MC0-3
+T24	Organism1 722 727	maize
+T25	Body_part 728 733	roots
+T26	Organism1 741 746	maize
+T27	Parameter 765 772	density
+T28	Value 776 779	100
+T29	Value 783 788	1,000
+T30	Cell 789 794	cells
+T31	Technique 805 819	Ramette et al.
+T32	Company 837 862	Michigan State University
+T33	Parameter 872 877	field
+T34	Parameter 879 887	Michigan
+T35	Unknown 889 892	USA
+T36	Unknown 896 902	August
+T37	Value 903 907	2004
+T38	Organism1 922 929	species
+T39	Organism1 960 965	plant
+T40	Geometrical_part 966 974	surfaces
+T41	Process 999 1008	abundance
+T42	Process 1013 1022	isolation
+T43	Parameter 1023 1032	frequency
+T44	Category 1088 1091	Bcc
+T45	Organism1 1092 1099	species
+T46	Organism 1155 1169	B. cenocepacia
+T47	Organism1 1208 1213	plant
+T48	Geometrical_part 1214 1222	surfaces
+T49	Organism1 1250 1257	species
+T50	Protein 1289 1299	oxygenases
+T51	Protein 1301 1313	dioxygenases
+T52	Protein 1315 1327	hydrogenases
+T53	Chemical 1342 1360	aromatic compounds
+T54	Organism1 1377 1387	host plant
+T55	Chemical 1407 1428	secondary metabolites
+T56	Organism1 1451 1459	microbes
+T57	Chemical 1474 1483	nutrients
+T58	Protein 1520 1526	genome
+T59	Protein_part 1527 1535	sequence
+T60	Organism2 1551 1572	B. cenocepacia strain
+T61	Organism1 1590 1595	plant
+T62	Body_part 1596 1600	root
+T63	Geometrical_part 1601 1609	surfaces
+T64	Process 1624 1634	comparison
+T65	Protein 1642 1649	genetic
+T66	Organism2 1660 1667	strains
+T67	Habitat 1692 1700	habitats
+T68	Habitat 1730 1742	environments
+T69	Parameter 1765 1775	resolution
+T70	Process 1855 1864	evolution
+T71	Unknown 1872 1888	Burkholderiacaea
+T72	Protein_part 1897 1924	Multi-Locus Sequence Typing
+T73	Organism2 1926 1938	strain MC0-3
+T74	Organism 1953 1973	B. cenocepacia group
+T75	Unknown 1974 1979	III-B
+T76	Technique 1990 2012	sequencing type ST-281
+T77	Organism 2014 2026	A. Baldwin, 
+T78	Organism2 2063 2085	B. cenocepacia strains
+T79	Protein 2091 2098	genetic
+T80	Organism 2113 2118	MC0-3
+T81	Disease 2166 2172	strain
+T82	Protein_part 2192 2199	allelic
+T83	Organism2 2253 2275	B. cenocepacia strains
+T84	Process 2311 2319	addition
+T85	Organism1 2369 2383	human pathogen
+T86	Organism2 2385 2397	strain MC0-3
+T87	Chemical 2424 2429	water
+T88	Parameter 2438 2446	activity
+T89	Food 2450 2455	onion
+T90	Disease 2456 2469	pathogenicity
+T91	Process 2489 2499	maceration
+T92	Disease 2504 2522	chlorosis symptoms
+T93	Technique 2524 2540	J. Jacobs et al.
+T94	Chemical 2559 2567	nitrogen
+T95	Process 2568 2576	fixation
+T96	Unknown 2609 2628	J. Pena-Cabriales, 

@@ -1,0 +1,104 @@
+T1	Organism 0 19	
+T2	Organism 37 50	Brugia malayi
+T3	Disease 62 74	feminization
+T4	Protein 78 85	genetic
+T5	Organism2 86 91	males
+T6	Organism1 99 121	
+T7	Organism1 126 148	Gram-negative bacteria
+T8	Location 159 172	intracellular
+T9	Disease 173 193	inherited infections
+T10	Organism1 202 215	invertebrates
+T11	Process 224 231	process
+T12	Organism 249 262	Brugia malayi
+T13	Protein 263 269	genome
+T14	Geometrical_part 273 277	part
+T15	Organism1 285 293	Filarial
+T16	Protein 294 308	Genome Project
+T17	Organism1 336 341	worms
+T18	Organism 352 361	Wolbachia
+T19	Location 372 385	intracellular
+T20	Organism1 386 406	alpha-proteobacteria
+T21	Organism1 432 437	human
+T22	Organism1 447 472	animal filarial parasites
+T23	Organism1 482 491	organisms
+T24	Value 513 516	70%
+T25	Organism1 520 537	arthropod species
+T26	Organism1 542 552	arthropods
+T27	Organism 558 567	Wolbachia
+T28	Bio_Process 593 619	reproductive abnormalities
+T29	Organism2 629 634	hosts
+T30	Bio_Process 656 659	sex
+T31	Parameter 660 666	ratios
+T32	Bio_Process 685 694	sterility
+T33	Location 696 707	cytoplasmic
+T34	Bio_Process 728 743	parthenogenesis
+T35	Disease 748 760	feminization
+T36	Protein 764 771	genetic
+T37	Organism2 772 777	males
+T38	Organism 779 788	Wolbachia
+T39	Organism1 827 855	parasitic filarial nematodes
+T40	Process 905 910	roles
+T41	Organism2 933 937	host
+T42	Organism 939 948	Wolbachia
+T43	Process 973 980	targets
+T44	Process 985 996	development
+T45	Chemical 1000 1008	vaccines
+T46	Disease 1017 1036	filarial infections
+T47	Protein_part 1046 1054	sequence
+T48	Process 1104 1115	development
+T49	Unknown 1144 1148	Many
+T50	Disease 1161 1169	diseases
+T51	Habitat 1173 1187	tropical areas
+T52	Disease 1219 1228	infection
+T53	Organism1 1234 1243	parasites
+T54	Process 1254 1285	World Health Organization (WHO)
+T55	Bio_Process 1318 1323	death
+T56	Value 1346 1349	1/3
+T57	Disease 1376 1394	parasitic diseases
+T58	Habitat 1404 1412	tropical
+T59	Habitat 1417 1434	subtropical areas
+T60	Disease 1454 1474	parasitic infections
+T61	Process 1485 1489	rise
+T62	Process 1517 1523	growth
+T63	Protein_part 1569 1574	sites
+T64	Organism1 1583 1593	mosquitoes
+T65	Organism1 1612 1621	parasites
+T66	Disease 1638 1645	malaria
+T67	Disease 1650 1660	filariasis
+T68	Process 1672 1679	control
+T69	Disease 1689 1697	diseases
+T70	Process 1716 1730	administration
+T71	Chemical 1741 1746	drugs
+T72	Organism1 1780 1793	vector insect
+T73	Disease 1807 1817	Filariasis
+T74	Process 1839 1848	different
+T75	Organism1 1849 1856	species
+T76	Organism1 1860 1879	parasitic nematodes
+T77	Organism1 1904 1910	humans
+T78	Organism1 1914 1928	insect vectors
+T79	Organism1 1956 1963	species
+T80	Organism1 1967 1985	filarial parasites
+T81	Value 2010 2035	approximately 150 million
+T82	Parameter 2088 2093	areas
+T83	Disease 2100 2110	filariasis
+T84	Disease 2128 2146	filarial infection
+T85	Disease 2222 2232	disability
+T86	Disease 2248 2258	disability
+T87	Disease 2274 2283	infection
+T88	Disease 2352 2359	disease
+T89	Organism 2377 2390	Brugia malayi
+T90	Organism1 2396 2413	filarial nematode
+T91	Parameter 2430 2442	distribution
+T92	Habitat 2446 2451	South
+T93	Habitat 2456 2471	South East Asia
+T94	Tissue 2507 2512	blood
+T95	Organism1 2521 2531	mosquitoes
+T96	Organism1 2537 2545	parasite
+T97	Multi-tissue_structure 2561 2577	lymphatic system
+T98	Process 2587 2592	cause
+T99	Disease 2596 2616	lymphatic filariasis
+T100	Disease 2641 2650	infection
+T101	Disease 2656 2663	disease
+T102	Unknown 2698 2707	condition
+T103	Disease 2717 2730	elephantiasis
+T104	Multi-tissue_structure 2596 2605	lymphatic

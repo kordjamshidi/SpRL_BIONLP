@@ -1,0 +1,39 @@
+T1	Disease 35 44	virulence
+T2	Organism1 48 65	
+T3	Organism1 84 92	bacteria
+T4	Organism1 109 114	human
+T5	Disease 115 124	infection
+T6	Disease 126 139	legionellosis
+T7	Body_part 187 195	isolates
+T8	Organism 245 263	Legionella species
+T9	Organism 283 297	L. pneumophila
+T10	Disease 321 330	virulence
+T11	Value 357 360	90%
+T12	Organism1 387 394	species
+T13	Value 463 466	80%
+T14	Organism1 470 475	human
+T15	Disease 476 489	legionellosis
+T16	Protein 542 548	genome
+T17	Protein_part 549 557	sequence
+T18	Organism 565 579	L. pneumophila
+T19	Body_part 580 588	isolates
+T20	Organism2 608 614	strain
+T21	Disease 635 643	epidemic
+T22	Organism2 644 650	strain
+T23	Habitat 654 660	France
+T24	Organism 684 698	L. pneumophila
+T25	Chemical 754 766	water system
+T26	Company 772 787	French hospital
+T27	Organism 798 812	L. pneumophila
+T28	Disease 851 872	nosocomial infections
+T29	Organism2 879 885	strain
+T30	Disease 910 917	disease
+T31	Technique 981 989	analysis
+T32	Process 994 1004	comparison
+T33	Body_part 1016 1024	isolates
+T34	Protein 1058 1064	genome
+T35	Protein_part 1065 1074	sequences
+T36	Body_part 1097 1105	isolates
+T37	Protein 1161 1166	genes
+T38	Organism1 1180 1185	human
+T39	Disease 1186 1195	infection

@@ -1,0 +1,6 @@
+(S1 (S (NP (ADJP (FW Borrelia) (FW afzelii)) (NN PKo))))
+(S1 (S (NP (NN Description))))
+(S1 (S (NP (FW Borrelia) (FW afzelii)) (. .)))
+(S1 (S (S (NP (DT This) (NNS species)) (VP (VBD was) (VP (VBN isolated) (PP (IN from) (NP (NP (DT a) (NN skin) (NN lesion)) (PP (IN from) (NP (DT a) (NN Lyme) (NN disease) (NN patient))) (PP (IN in) (NP (NP (NNP Europe)) (PP (IN in) (NP (CD 1993)))))))))) (. .)))
+(S1 (S (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ specific) (JJ aetological) (NN agent)) (PP (IN of) (NP (NP (NN acrodermatitis) (NN chronica) (NNS atrophicans)) (PRN (-LRB- -LRB-) (NP (NN ACA)) (-RRB- -RRB-))))))) (. .)))
+(S1 (S (S (NP (DT This) (NN organism)) (VP (MD can) (VP (VB be) (VP (VBN differentiated) (PP (IN from) (NP (JJ other) (FW Borrelia) (NNS species))) (PP (IN by) (NP (JJ monoclonal) (NN antibody) (NN hybridization))))))) (. .)))

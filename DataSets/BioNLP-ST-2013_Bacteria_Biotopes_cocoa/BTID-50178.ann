@@ -1,0 +1,118 @@
+T1	Organism 0 19	
+T2	Organism 37 60	Drosophila melanogaster
+T3	Organism1 96 104	organism
+T4	Process 122 130	survival
+T5	Process 151 163	reproduction
+T6	Organism2 171 176	hosts
+T7	Bio_Process 217 220	sex
+T8	Organism 221 230	Wolbachia
+T9	Organism1 264 284	invertebrate species
+T10	Process 329 341	interactions
+T11	Process 347 356	different
+T12	Organism2 357 362	hosts
+T13	Disease 386 391	forms
+T14	Bio_Process 395 418	reproductive parasitism
+T15	Organism 445 454	Wolbachia
+T16	Location 459 472	intracellular
+T17	Organism1 473 495	gram-negative bacteria
+T18	Process 514 525	association
+T19	Organism1 544 564	invertebrate species
+T20	Organism1 576 583	insects
+T21	Organism1 585 590	mites
+T22	Organism1 592 599	spiders
+T23	Habitat 601 612	terrestrial
+T24	Organism1 613 624	crustaceans
+T25	Organism1 630 639	nematodes
+T26	Organism 641 650	Wolbachia
+T27	Organism2 686 693	females
+T28	Organism2 703 712	offspring
+T29	Value 771 778	20%-75%
+T30	Organism1 782 802	invertebrate species
+T31	Organism 804 813	Wolbachia
+T32	Organism 817 839	bacterial endosymbiont
+T33	Organism1 851 861	arthropods
+T34	Organism2 875 881	host's
+T35	Process 882 894	reproduction
+T36	Organism2 927 933	host's
+T37	Bio_Process 934 941	fitness
+T38	Organism2 950 964	fruit fly host
+T39	Process 965 977	interactions
+T40	Disease 1020 1030	pathogenic
+T41	Organism2 1064 1068	host
+T42	Organism 1073 1082	Wolbachia
+T43	Disease 1123 1128	forms
+T44	Bio_Process 1133 1156	reproductive parasitism
+T45	Organism2 1178 1182	host
+T46	Process 1183 1195	reproduction
+T47	Process 1220 1232	transmission
+T48	Unknown 1262 1267	agent
+T49	Bio_Process 1283 1298	parthenogenesis
+T50	Disease 1300 1308	infected
+T51	Organism2 1309 1316	females
+T52	Process 1336 1343	absence
+T53	Bio_Process 1347 1353	mating
+T54	Disease 1365 1373	infected
+T55	Organism2 1374 1390	female offspring
+T56	Disease 1393 1405	feminization
+T57	Disease 1407 1415	infected
+T58	Organism2 1416 1421	males
+T59	Bio_Process 1454 1464	phenotypic
+T60	Organism2 1465 1472	females
+T61	Organism2 1475 1479	male
+T62	Disease 1489 1497	infected
+T63	Organism2 1498 1502	male
+T64	Developing_anatomy 1503 1510	embryos
+T65	Location 1542 1553	cytoplasmic
+T66	Bio_Process 1597 1617	developmental arrest
+T67	Organism2 1621 1630	offspring
+T68	Organism2 1645 1652	females
+T69	Disease 1667 1675	infected
+T70	Organism2 1676 1681	males
+T71	Technique 1684 1692	Analysis
+T72	Protein 1700 1706	genome
+T73	Process 1735 1746	comparisons
+T74	Location 1758 1771	intracellular
+T75	Organism1 1772 1780	bacteria
+T76	Process 1830 1839	evolution
+T77	Organism 1843 1852	Wolbachia
+T78	Protein 1871 1877	genome
+T79	Location 1913 1926	intracellular
+T80	Organism1 1927 1934	species
+T81	Parameter 1993 1999	levels
+T82	Molecule 2014 2017	DNA
+T83	Molecule 2029 2032	DNA
+T84	Unknown 2033 2041	elements
+T85	Process 2096 2111	reconstructions
+T86	Process 2127 2144	natural selection
+T87	Process 2195 2205	occurrence
+T88	Technique 2242 2257	Genome analysis
+T89	Bio_Process 2272 2281	metabolic
+T90	Process 2282 2293	differences
+T91	Organism 2319 2337	Rickettsia species
+T92	Process 2353 2361	presence
+T93	Process 2372 2382	glycolysis
+T94	Chemical 2387 2393	purine
+T95	Process 2394 2403	synthesis
+T96	Chemical 2453 2456	ATP
+T97	Organism2 2475 2479	host
+T98	Organism 2484 2494	Rickettsia
+T99	Organism 2552 2561	Wolbachia
+T100	Chemical 2576 2594	lipopolysaccharide
+T101	Organism 2619 2628	Wolbachia
+T102	Multi-tissue_structure 2643 2651	germline
+T103	Organism2 2659 2663	host
+T104	Location 2714 2721	lateral
+T105	Process 2722 2735	gene transfer
+T106	Organism 2744 2753	Wolbachia
+T107	Organism 2758 2773	D. melanogaster
+T108	Process 2783 2792	transfers
+T109	Organism 2801 2810	Wolbachia
+T110	Organism2 2819 2823	host
+T111	Technique 2838 2846	analysis
+T112	Cellular_component 2884 2896	mitochondria
+T113	Organism2 2912 2920	ancestor
+T114	Organism1 2930 2950	alpha-Proteobacteria
+T115	Cellular_component 2997 3009	mitochondria
+T116	Organism1 3015 3022	species
+T117	Organism 3036 3049	Rickettsiales
+T118	Organism1 950 959	fruit fly

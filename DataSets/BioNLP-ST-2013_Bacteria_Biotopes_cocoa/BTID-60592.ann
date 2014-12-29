@@ -1,0 +1,426 @@
+T1	Organism 0 20	Sodalis glossinidius
+T2	Process 21 32	Description
+T3	Organism 50 70	Sodalis glossinidius
+T4	Body_part 76 80	Gram
+T5	Cell 109 112	rod
+T6	Organism1 133 141	bacteria
+T7	Cellular_component 150 158	flagella
+T8	Organism2 185 189	host
+T9	Bio_Process 190 203	developmental
+T10	Unknown 225 239	non-motile(10)
+T11	Organism1 282 292	tsetse fly
+T12	Organism 294 302	Glossina
+T13	Unknown 350 362	progeny(6,7)
+T14	Organism 384 410	Wigglesworthia glossinidia
+T15	Organism2 417 423	strain
+T16	Unknown 427 439	Wolbachia(5)
+T17	Parameter 487 499	relationship
+T18	Organism1 509 519	tsetse fly
+T19	Location 543 558	intracellularly
+T20	Organism_subdivision 566 572	midgut
+T21	Organism_subdivision 574 582	fat body
+T22	Body_part 587 597	haemolymph
+T23	Unknown 605 614	insect(7)
+T24	Organism 616 631	S. glossinidius
+T25	Organism1 651 657	insect
+T26	Unknown 720 730	Colin Dale
+T27	Unknown 735 746	Ian Maudlin
+T28	Company 754 775	University of Glasgow
+T29	Organism1 804 812	mosquito
+T30	Organism 814 830	Aedes albopictus
+T31	Body_part 832 858	feeder cell culture system
+T32	Body_part 881 891	haemolymph
+T33	Organism 895 927	Glossinia morsitans morsitans(7)
+T34	Organism2 938 948	strain M1T
+T35	Unknown 953 964	isolated(7)
+T36	Organism 966 981	S. glossinidius
+T37	Location 998 1013	intracellularly
+T38	Organism 1017 1033	Aedes albopictus
+T39	Body_part 1069 1075	medium
+T40	Protein 1118 1126	proteins
+T41	Chemical 1132 1140	nitrogen
+T42	Organism 1170 1179	bacterium
+T43	Value 1201 1203	5%
+T44	Chemical 1204 1210	oxygen
+T45	Value 1215 1218	95%
+T46	Chemical 1219 1233	carbon dioxide
+T47	Value 1237 1249	25 degrees C
+T48	State 1258 1268	morphology
+T49	Unknown 1307 1316	edges.(7)
+T50	Protein 1318 1324	Genome
+T51	Geometrical_part 1325 1334	structure
+T52	Organism 1335 1355	Sodalis glossinidius
+T53	Protein 1373 1383	chromosome
+T54	Value 1384 1399	approximately 4
+T55	Unknown 1400 1406	Mb(10)
+T56	Organism1 1413 1427	micro-organism
+T57	Value 1475 1480	2,432
+T58	Protein 1481 1488	protein
+T59	Protein_part 1489 1505	coding sequences
+T60	Value 1518 1521	51%
+T61	Parameter 1537 1545	capacity
+T62	Organism1 1565 1574	organisms
+T63	Unknown 1582 1615	family Enterobacteriaceae(3,7,10)
+T64	Protein 1691 1697	genome
+T65	Process 1698 1707	reduction
+T66	Process 1712 1720	function
+T67	Process 1721 1725	loss
+T68	Organism 1739 1754	S. glossinidius
+T69	Location 1774 1787	intracellular
+T70	Organism1 1788 1797	pathogens
+T71	Organism1 1811 1820	symbionts
+T72	Protein 1876 1882	genome
+T73	Parameter 1883 1887	size
+T74	Unknown 1938 1949	enterics(2)
+T75	Process 1991 1998	process
+T76	Organism2 2033 2044	tsetse host
+T77	Cell 2045 2049	cell
+T78	Organism1 2063 2072	organisms
+T79	Organism 2080 2105	Family Enterobacteriaceae
+T80	Protein 2126 2134	catalase
+T81	Organism 2136 2151	S. glossinidius
+T82	Organism1 2188 2202	micro-organism
+T83	Unknown 2230 2244	environment(7)
+T84	Protein 2246 2251	Genes
+T85	Process 2265 2278	transcription
+T86	Process 2280 2291	translation
+T87	Process 2293 2303	regulation
+T88	Chemical 2309 2321	nucleic acid
+T89	Protein_part 2326 2336	amino acid
+T90	Process 2350 2358	pathways
+T91	Protein 2397 2408	pseudogenes
+T92	Process 2434 2449	point mutations
+T93	Protein 2455 2463	homologs
+T94	Protein 2473 2481	proteins
+T95	Process 2486 2493	defense
+T96	Chemical 2531 2544	carbohydrates
+T97	Chemical 2549 2563	inorganic ions
+T98	Parameter 2592 2604	relationship
+T99	Unknown 2614 2624	host(2,10)
+T100	Protein 2630 2636	genome
+T101	Organism 2640 2655	S. glossinidius
+T102	Unknown 2663 2666	A+T
+T103	Value 2683 2686	45%
+T104	Protein 2709 2716	genomes
+T105	Unknown 2744 2747	A+T
+T106	Location 2759 2772	intracellular
+T107	Organism1 2773 2795	pathogen R. prowazekii
+T108	Value 2799 2802	71%
+T109	Value 2807 2810	75%
+T110	Organism 2829 2837	Buchnera
+T111	Protein 2851 2858	genomes
+T112	Location 2862 2875	intracellular
+T113	Organism1 2876 2885	pathogens
+T114	Process 2918 2922	loss
+T115	Process 2926 2934	function
+T116	Molecule 2938 2941	DNA
+T117	Process 2942 2948	repair
+T118	Process 2953 2966	recombination
+T119	Process 2967 2976	functions
+T120	Organism 2994 3009	S. glossinidius
+T121	Unknown 3029 3037	genes(2)
+T122	Protein 3043 3051	16S rRNA
+T123	Organism 3055 3070	S. glossinidius
+T124	Parameter 3083 3100	sequence identity
+T125	Organism1 3139 3146	insects
+T126	Organism1 3208 3215	species
+T127	Process 3235 3244	different
+T128	Organism 3245 3253	Glossina
+T129	Chemical 3254 3257	spp
+T130	Process 3280 3291	acquisition
+T131	Organism1 3299 3305	tsetse
+T132	Multi-tissue_structure 3312 3319	enteric
+T133	Organism1 3344 3352	symbiont
+T134	Unknown 3353 3364	transfer(7)
+T135	Disease 3367 3381	Cell structure
+T136	Bio_Process 3386 3396	metabolism
+T137	Organism 3397 3412	S. glossinidius
+T138	Unknown 3416 3420	Gram
+T139	Unknown 3434 3447	rod-shaped(7)
+T140	Chemical 3453 3471	lipopolysaccharide
+T141	Organism1 3480 3488	bacteria
+T142	Protein 3523 3532	O-antigen
+T143	Organism1 3551 3567	micro-organism's
+T144	Parameter 3568 3578	resistance
+T145	Organism2 3582 3586	host
+T146	Bio_Process 3587 3595	immunity
+T147	Parameter 3634 3646	relationship
+T148	Organism2 3655 3659	host
+T149	Mutant_Organism 3664 3675	symbiont(5)
+T150	Cellular_component 3677 3693	Extrachromosomal
+T151	Molecule 3694 3697	DNA
+T152	Chemical 3706 3718	siderophores
+T153	Process 3727 3738	acquisition
+T154	Unknown 3742 3749	iron(4)
+T155	Organism 3758 3773	S. glossinidius
+T156	Multi-tissue_structure 3802 3811	flagellar
+T157	Protein_part 3820 3836	coding sequences
+T158	Protein 3844 3854	chromosome
+T159	Protein 3858 3862	gene
+T160	Multi-tissue_structure 3886 3895	flagellar
+T161	Protein 3916 3933	motility proteins
+T162	Protein 3935 3939	MotA
+T163	Protein 3944 3948	MotB
+T164	Unknown 3953 3964	present(10)
+T165	Unknown 3966 3971	There
+T166	Unknown 4013 4021	type-III
+T167	Process 4022 4031	secretion
+T168	Unknown 4032 4039	systems
+T169	Protein 4041 4046	TTSSs
+T170	Protein_part 4063 4095	Sodalis symbiosis regions (SSRs)
+T171	Protein_part 4107 4112	SSR-1
+T172	Protein_part 4114 4119	SSR-2
+T173	Protein_part 4125 4134	SSR-3(10)
+T174	Geometrical_part 4158 4165	surface
+T175	Organism 4173 4182	bacterial
+T176	Cell 4183 4187	cell
+T177	Unknown 4208 4212	TTSS
+T178	Organism1 4253 4261	bacteria
+T179	Category 4273 4281	effector
+T180	Protein 4282 4290	proteins
+T181	Organism2 4300 4304	host
+T182	Cell 4305 4309	cell
+T183	Unknown 4341 4349	entry(3)
+T184	Parameter 4362 4372	components
+T185	Technique 4380 4386	needle
+T186	Unknown 4387 4396	structure
+T187	Protein_part 4413 4420	regions
+T188	Category 4437 4446	effectors
+T189	Molecule 4450 4460	regulators
+T190	Unknown 4483 4497	eliminated(10)
+T191	Protein_part 4499 4504	SSR-1
+T192	Disease 4523 4536	pathogenicity
+T193	Habitat 4537 4543	island
+T194	Organism 4553 4576	Yersinia enterocolitica
+T195	Process 4599 4604	entry
+T196	Organism2 4614 4618	host
+T197	Cell 4619 4623	cell
+T198	Protein_part 4625 4630	SSR-2
+T199	Disease 4649 4673	Salmonella pathogenicity
+T200	Habitat 4674 4686	island SPI-1
+T201	Unknown 4691 4698	Mxi-Spa
+T202	Organism 4704 4721	Shigella flexneri
+T203	Process 4760 4769	processes
+T204	Organism1 4779 4787	bacteria
+T205	Protein_part 4809 4814	SSR-3
+T206	Unknown 4829 4834	SPI-2
+T207	Organism 4859 4869	Salmonella
+T208	Organism 4879 4894	Yersinia pestis
+T209	Process 4915 4923	survival
+T210	Unknown 4928 4943	virulence(5,10)
+T211	Protein 4949 4954	TTSSs
+T212	Multi-tissue_structure 4959 4979	flagellar components
+T213	Organism1 5007 5013	larval
+T214	Process 5014 5025	development
+T215	Organism 5053 5068	S. glossinidius
+T216	Organism2 5078 5082	host
+T217	Cell 5083 5088	cells
+T218	Process 5104 5117	establishment
+T219	Process 5122 5133	maintenance
+T220	Disease 5137 5146	symbiosis
+T221	Unknown 5164 5175	progeny(10)
+T222	Organism 5177 5192	S. glossinidius
+T223	Process 5217 5225	pathways
+T224	Process 5230 5240	glycolysis
+T225	Bio_Process 5242 5257	gluconeogenesis
+T226	Disease 5263 5272	TCA cycle
+T227	Chemical 5281 5298	pentose phosphate
+T228	Process 5299 5306	pathway
+T229	Unknown 5322 5334	bacteria(10)
+T230	Parameter 5341 5347	energy
+T231	Bio_Process 5348 5358	metabolism
+T232	Protein 5363 5397	carbon compound assimilation genes
+T233	Protein 5417 5423	genome
+T234	Process 5446 5456	adaptation
+T235	Parameter 5468 5481	concentration
+T236	Process 5486 5490	lack
+T237	Chemical 5507 5520	carbohydrates
+T238	Organism1 5538 5548	vertebrate
+T239	Tissue 5549 5554	blood
+T240	Chemical 5570 5578	nutrient
+T241	Organism1 5593 5599	tsetse
+T242	Unknown 5600 5609	host(2,5)
+T243	Process 5615 5623	pathways
+T244	Protein_part 5642 5653	amino acids
+T245	Protein_part 5661 5668	alanine
+T246	Unknown 5673 5684	present(10)
+T247	Protein 5691 5696	genes
+T248	Parameter 5709 5715	energy
+T249	Process 5716 5726	production
+T250	Process 5731 5741	conversion
+T251	Process 5746 5767	anaerobic respiration
+T252	Parameter 5809 5817	constant
+T253	Habitat 5834 5845	environment
+T254	Organism1 5853 5859	tsetse
+T255	Organism_subdivision 5860 5866	midgut
+T256	Unknown 5871 5885	haemolymph(10)
+T257	Chemical 5894 5898	iron
+T258	Habitat 5904 5915	environment
+T259	Chemical 5917 5921	iron
+T260	Process 5922 5931	transport
+T261	Cellular_component 5943 5963	cytoplasmic membrane
+T262	Process 5984 6000	active transport
+T263	Unknown 6010 6029	ABC transporter(10)
+T264	Chemical 6053 6070	FeoA ferrous iron
+T265	Body_part 6094 6106	plasmid pSG1
+T266	Unknown 6113 6119	system
+T267	Chemical 6123 6135	siderophores
+T268	Cellular_component 6153 6166	store iron(4)
+T269	Chemical 6182 6188	carbon
+T270	Process 6203 6209	growth
+T271	Chemical 6213 6244	N-acetyl-d-glucosamine (GlcNAc)
+T272	Process 6273 6282	breakdown
+T273	Unknown 6286 6295	chitin(6)
+T274	Chemical 6297 6303	Chitin
+T275	Chemical 6317 6339	N-acetyl-d-glucosamine
+T276	Body_part 6359 6370	exoskeleton
+T277	Organism_subdivision 6375 6378	gut
+T278	Organism1 6379 6390	peritrophic
+T279	Cellular_component 6391 6399	membrane
+T280	Organism1 6407 6417	tsetse fly
+T281	Organism 6422 6437	S. glossinidius
+T282	Protein 6470 6479	chitinase
+T283	Chemical 6481 6509	b-N-acetylglucosaminidase(7)
+T284	Organism 6519 6534	S. glossinidius
+T285	Organism1 6561 6571	tsetse fly
+T286	Unknown 6591 6606	relationship(T.
+T287	Unknown 6610 6623	gambiense)(7)
+T288	Organism1 6625 6634	Symbionts
+T289	Tissue 6638 6643	blood
+T290	Organism1 6652 6659	insects
+T291	Food 6701 6705	diet
+T292	Tissue 6709 6714	blood
+T293	Category 6728 6737	cofactors
+T294	Chemical 6742 6761	vitamin metabolites
+T295	Protein 6763 6768	Genes
+T296	Chemical 6773 6779	biotin
+T297	Chemical 6784 6795	lipoic acid
+T298	Chemical 6797 6807	molybdenum
+T299	Category 6808 6816	cofactor
+T300	Chemical 6818 6826	thiamine
+T301	Chemical 6828 6838	riboflavin
+T302	Chemical 6844 6854	folic acid
+T303	Organism1 6875 6891	micro-organism's
+T304	Unknown 6892 6901	genome(2)
+T305	Organism 6903 6918	S. glossinidius
+T306	Organism1 6940 6951	trypanosome
+T307	Disease 6952 6961	infection
+T308	Parameter 6962 6966	rate
+T309	Unknown 6971 6980	tsetse(6)
+T310	Unknown 6987 6996	Pathology
+T311	Organism 7016 7046	
+T312	Organism1 7062 7076	micro-organism
+T313	Protein 7117 7122	TTSSs
+T314	Protein 7124 7133	hemolysin
+T315	Protein 7135 7142	lipases
+T316	Geometrical_part 7148 7157	adhesions
+T317	Process 7181 7190	functions
+T318	Disease 7224 7234	pathogenic
+T319	Unknown 7235 7247	microbes(10)
+T320	Parameter 7274 7286	relationship
+T321	Organism 7311 7326	S. glossinidius
+T322	Process 7332 7340	increase
+T323	Process 7341 7355	susceptibility
+T324	Disease 7371 7380	infection
+T325	Organism2 7389 7400	tsetse host
+T326	Organism1 7418 7424	tsetse
+T327	Multi-tissue_structure 7425 7441	immune system(6)
+T328	Organism1 7448 7454	tsetse
+T329	Chemical 7473 7487	streptozotocin
+T330	Chemical 7489 7499	2-deoxy-2-
+T331	Chemical 7500 7524	3-methyl-3-nitrosoureido
+T332	Chemical 7527 7542	glucopyranoside
+T333	Unknown 7561 7569	analogue
+T334	Chemical 7573 7579	GlcNAc
+T335	Chemical 7589 7595	carbon
+T336	Organism 7606 7621	S. glossinidius
+T337	Organism1 7642 7647	pupal
+T338	Process 7648 7657	emergence
+T339	Parameter 7658 7663	rates
+T340	Unknown 7677 7690	unaffected(6)
+T341	Chemical 7697 7707	antibiotic
+T342	Organism1 7734 7743	symbionts
+T343	Unknown 7747 7749	T.
+T344	Chemical 7764 7770	GlcNAc
+T345	Category 7787 7796	inhibitor
+T346	Organism1 7800 7806	tsetse
+T347	Organism_subdivision 7807 7813	midgut
+T348	Protein 7814 7820	lectin
+T349	Process 7834 7838	role
+T350	Process 7851 7862	recognition
+T351	Organism1 7878 7888	tsetse fly
+T352	Unknown 7889 7902	infection(11)
+T353	Protein 7910 7916	lectin
+T354	Chemical 7928 7934	sugars
+T355	Organism1 7949 7955	tsetse
+T356	Protein 7976 7985	enzymatic
+T357	Parameter 7986 7994	activity
+T358	Protein 7998 8008	chitinases
+T359	Organism 8021 8036	S. glossinigius
+T360	Organism1 8063 8074	trypanosome
+T361	Disease 8075 8084	infection
+T362	Parameter 8085 8090	rates
+T363	Unknown 8094 8106	tsetse(6,10)
+T364	Process 8108 8119	Application
+T365	Organism 8123 8152	
+T366	Unknown 8186 8196	profile(7)
+T367	Protein 8198 8205	Genetic
+T368	Chemical 8219 8228	compounds
+T369	Protein 8233 8240	enzymes
+T370	Protein 8259 8269	pseudogene
+T371	Habitat 8300 8311	environment
+T372	Organism1 8317 8331	tsetse fly(3.)
+T373	Unknown 8332 8337	There
+T374	Unknown 8397 8410	
+T375	Organism 8437 8457	Sodalis glossinidius
+T376	Organism 8471 8490	bacterial symbionts
+T377	Organism1 8506 8520	bacteriophages
+T378	Process 8534 8538	lack
+T379	Process 8542 8549	contact
+T380	Organism2 8562 8566	host
+T381	Organism 8568 8588	Sodalis glossinidius
+T382	Unknown 8601 8630	extrachomosomal element pSOG3
+T383	Organism1 8636 8641	phage
+T384	Protein_part 8650 8659	sequences
+T385	Body_part 8663 8670	culture
+T386	Organism 8676 8694	Glossina morsitans
+T387	Unknown 8722 8727	pSOG3
+T388	Value 8770 8775	52 kb
+T389	Unknown 8793 8797	CDSs
+T390	Protein 8807 8818	pseudogenes
+T391	Cellular_component 8825 8849	extrachromosomal element
+T392	Process 8885 8896	integration
+T393	Organism1 8923 8928	phage
+T394	Protein 8929 8936	genomes
+T395	Unknown 8957 8964	element
+T396	Organism1 8989 8995	phages
+T397	Chemical 8996 9001	HK620
+T398	Protein_part 9017 9020	P22
+T399	Unknown 9026 9035	epsilon15
+T400	Process 9037 9049	Degeneration
+T401	Organism 9063 9078	S. glossinidius
+T402	Disease 9092 9101	symbiosis
+T403	Organism1 9107 9113	tsetse
+T404	Unknown 9115 9120	pSOG3
+T405	Protein_part 9179 9188	sequences
+T406	Process 9220 9231	replication
+T407	Protein 9246 9253	protein
+T408	Category 9254 9261	product
+T409	Unknown 9268 9271	ORF
+T410	Unknown 9286 9290	RepA
+T411	Organism 9294 9311	Erwinia amylovora
+T412	Unknown 9321 9324	ORF
+T413	Body_part 9343 9350	plasmid
+T414	Protein 9364 9371	protein
+T415	Protein 9373 9377	ParA
+T416	Organism 9382 9408	Corynebacterium glutamicum
+T417	Organism1 9416 9423	virions
+T418	Organism 9461 9476	S. glossinidius
+T419	Unknown 9505 9510	pSOG3
+T420	Organism1 9518 9526	prophage
+T421	Organism1 9549 9556	virions
+T422	Cell 839 843	cell
+T423	Organism1 2033 2039	tsetse
+T424	Chemical 5363 5378	carbon compound
+T425	Organism1 7389 7395	tsetse
+T426	Cell 3367 3381	Cell structure

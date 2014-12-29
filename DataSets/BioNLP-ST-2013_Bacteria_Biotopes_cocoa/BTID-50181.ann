@@ -1,0 +1,54 @@
+T1	Organism 0 45	
+T2	Organism1 51 65	plant pathogen
+T3	Organism1 78 84	citrus
+T4	Organism1 95 108	citrus fruits
+T5	Organism1 113 130	genus Xanthomonas
+T6	Mutant_Organism 134 138	Gram
+T7	Cell 156 159	rod
+T8	Unknown 201 206	group
+T9	Organism1 210 234	bacterial phytopathogens
+T10	Process 253 270	gamma-subdivision
+T11	Organism 278 292	Proteobacteria
+T12	Chemical 294 332	Xanthomonas axonopodis pv. citri (Xac)
+T13	Unknown 347 352	agent
+T14	Organism1 356 362	citrus
+T15	Disease 381 388	disease
+T16	Organism1 418 434	citrus cultivars
+T17	Organism1 471 477	citrus
+T18	Process 478 488	production
+T19	Disease 500 508	Symptoms
+T20	Disease 516 523	disease
+T21	Pathological_formation 539 546	lesions
+T22	Organism1 550 556	fruits
+T23	Organism1 603 608	fruit
+T24	Organism1 621 625	twig
+T25	Organism1 647 651	tree
+T26	Process 652 659	decline
+T27	Disease 661 670	Infection
+T28	Process 703 711	presence
+T29	Organism1 719 730	citrus leaf
+T30	Unknown 738 751	Phyllocnistis
+T31	Bio_Process 792 805	feeding habit
+T32	Multi-tissue_structure 820 829	mesophyll
+T33	Disease 873 882	infection
+T34	Organism1 891 897	plants
+T35	Profession 943 954	Researchers
+T36	Organism1 980 995	plant pathogens
+T37	Organism1 1003 1020	genus Xanthomonas
+T38	Organism2 1027 1040	species preys
+T39	Process 1044 1053	different
+T40	Organism1 1054 1059	crops
+T41	Organism1 1072 1078	plants
+T42	Process 1082 1091	different
+T43	Protein 1110 1117	genomes
+T44	Value 1123 1133	80 percent
+T45	Protein 1143 1148	genes
+T46	Technique 1172 1180	analysis
+T47	Organism 1197 1216	Xanthomonas strains
+T48	Process 1233 1247	identification
+T49	Organism2 1260 1266	strain
+T50	Protein 1276 1281	genes
+T51	Disease 1339 1352	pathogenicity
+T52	Organism2 1357 1361	host
+T53	Organism1 1392 1401	organisms
+T54	Organism1 1027 1034	species

@@ -1,0 +1,75 @@
+T1	Organism 0 25	Bartonella tribocorum CIP
+T2	Value 26 32	105476
+T3	Process 33 44	Description
+T4	Organism 45 55	Bartonella
+T5	Organism 57 75	Bartonella species
+T6	Location 92 105	intracellular
+T7	Organism1 106 115	pathogens
+T8	Organism1 126 132	humans
+T9	Organism1 143 150	animals
+T10	Process 152 164	Transmission
+T11	Organism1 174 183	organisms
+T12	Organism1 204 217	insect vector
+T13	Organism2 229 233	host
+T14	Location 240 253	intracellular
+T15	Organism1 254 262	pathogen
+T16	Protein 285 290	actin
+T17	Process 301 310	mechanism
+T18	Process 326 333	targets
+T19	Cell 334 351	endothelial cells
+T20	Cell 368 373	cells
+T21	Process 395 408	proliferation
+T22	Tissue 416 436	vascular endothelium
+T23	Disease 438 460	bacillary angiomatosis
+T24	Disease 484 504	Bartonella infection
+T25	Process 520 534	multiplication
+T26	Organism2 542 558	bacterium's host
+T27	Cell 559 564	cells
+T28	Disease 566 574	Infected
+T29	Cell 575 586	macrophages
+T30	Protein 613 654	vascular endothelial growth factor (VEGF)
+T31	Protein 659 677	interleukin 1 beta
+T32	Bio_Process 701 713	angiogenesis
+T33	Cell 715 732	Endothelial cells
+T34	Process 782 789	contact
+T35	Organism 795 804	bacterial
+T36	Cell 805 810	cells
+T37	Bio_Process 825 846	programmed cell death
+T38	Bio_Process 848 857	apoptosis
+T39	Cell 862 879	endothelial cells
+T40	Process 914 923	mechanism
+T41	Organism1 924 934	eukaryotic
+T42	Cell 935 940	cells
+T43	Disease 958 977	bacterial infection
+T44	Process 979 988	Secretion
+T45	Category 992 1000	effector
+T46	Molecule 1001 1010	molecules
+T47	Complex 1029 1053	type IV secretion system
+T48	Protein 1061 1082	pathogenicity factors
+T49	Cellular_component 1091 1095	pili
+T50	Location 1100 1105	outer
+T51	Protein 1106 1123	membrane adhesins
+T52	Process 1128 1138	attachment
+T53	Organism2 1142 1146	host
+T54	Cell 1147 1152	cells
+T55	Process 1153 1164	Description
+T56	Organism 1165 1186	Bartonella tribocorum
+T57	Organism 1188 1209	Bartonella tribocorum
+T58	Tissue 1233 1238	blood
+T59	Organism1 1242 1251	wild rats
+T60	Organism1 1261 1266	fleas
+T61	Organism1 1281 1290	wild rats
+T62	Organism1 1297 1305	organism
+T63	Organism 1332 1354	Bartonella elizabethae
+T64	Disease 1389 1401	endocarditis
+T65	Organism1 1407 1412	human
+T66	Process 1414 1425	Description
+T67	Organism 1426 1451	Bartonella tribocorum CIP
+T68	Value 1452 1458	105476
+T69	Organism1 1465 1473	organism
+T70	Tissue 1496 1501	blood
+T71	Organism1 1505 1514	wild rats
+T72	Organism2 1533 1539	strain
+T73	Parameter 1583 1593	Properties
+T74	Organism1 542 553	bacterium's
+T75	Cell 836 840	cell

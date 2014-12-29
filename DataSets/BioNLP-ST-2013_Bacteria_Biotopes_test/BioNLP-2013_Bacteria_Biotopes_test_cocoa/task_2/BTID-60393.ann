@@ -1,0 +1,225 @@
+T1	Organism 0 23	Mycobacterium smegmatis
+T2	Unknown 25 29	Also
+T3	Organism 40 70	Mycobacterium paratuberculosis
+T4	Organism1 82 91	Bacterium
+T5	Organism 103 121	Bacillus smegmatis
+T6	Organism 123 153	Mycobacterium paratuberculosis
+T7	Organism1 165 174	Bacterium
+T8	Organism 186 204	Bacillus smegmatis
+T9	Organism 206 229	Mycobacterium smegmatis
+T10	Value 231 232	7
+T11	Process 235 246	Description
+T12	Process 251 263	significance
+T13	Organism 264 287	Mycobacterium smegmatis
+T14	Value 325 329	1884
+T15	Unknown 333 343	Lustgarten
+T16	Organism 383 401	Bacillus smegmatis
+T17	Unknown 405 413	Trevisan
+T18	Value 417 421	1889
+T19	Unknown 435 442	Neumann
+T20	Organism1 452 459	species
+T21	Organism 478 501	Mycobacterium smegmatis
+T22	Value 505 509	1899
+T23	Organism 511 534	Mycobacterium smegmatis
+T24	Unknown 554 560	layers
+T25	Cell 564 569	cells
+T26	Organism1 598 607	community
+T27	Bio_Process 617 624	biofilm
+T28	Organism 626 649	Mycobacterium smegmatis
+T29	Chemical 680 685	water
+T30	Organism1 691 697	plants
+T31	Disease 730 735	large
+T32	Habitat 736 742	bodies
+T33	Chemical 746 751	water
+T34	Body_part 753 761	Isolates
+T35	Value 786 788	16
+T36	Habitat 789 795	States
+T37	Habitat 797 806	Australia
+T38	Habitat 808 814	Russia
+T39	Habitat 816 822	Canada
+T40	Habitat 828 839	Switzerland
+T41	Value 841 842	1
+T42	Organism 845 868	Mycobacterium smegmatis
+T43	Organism1 900 907	species
+T44	Disease 927 934	disease
+T45	Organism1 971 977	animal
+T46	Disease 991 1001	pathogenic
+T47	Organism 1002 1015	Mycobacterium
+T48	Organism1 1021 1029	bacteria
+T49	Chemical 1105 1114	nutrients
+T50	Organism 1121 1144	Mycobacterium smegmatis
+T51	Parameter 1177 1181	time
+T52	Food 1257 1263	orange
+T53	Protein 1323 1327	Gram
+T54	Cellular_component 1337 1346	cell wall
+T55	Chemical 1359 1372	mycolic acids
+T56	Organism1 1378 1386	bacteria
+T57	Value 1493 1495	12
+T58	Organism 1498 1521	Mycobacterium smegmatis
+T59	Technique 1554 1562	analysis
+T60	Organism1 1572 1579	species
+T61	Organism1 1587 1605	genus Mycobacteria
+T62	Body_part 1609 1621	cell culture
+T63	Organism1 1654 1675	Mycobacterial species
+T64	Disease 1701 1709	diseases
+T65	Organism 1716 1736	Mycobacterium leprea
+T66	Organism 1738 1764	Mycobacterium tuberculosis
+T67	Organism 1770 1789	Mycobacterium bovis
+T68	Organism 1791 1814	Mycobacterium smegmatis
+T69	Disease 1862 1876	non-pathogenic
+T70	Organism1 1895 1902	species
+T71	Process 1919 1931	similarities
+T72	Organism 1940 1963	Mycobacterium smegmatis
+T73	Organism1 2000 2009	pathogens
+T74	Mutant_Organism 2019 2031	Mycobacteria
+T75	Chemical 2083 2092	mycothiol
+T76	Process 2093 2105	biosynthesis
+T77	Organism 2109 2122	Mycobacterium
+T78	Chemical 2147 2152	thiol
+T79	Organism1 2209 2216	species
+T80	Process 2242 2251	treatment
+T81	Value 2267 2269	10
+T82	Chemical 2315 2319	drug
+T83	Procedure 2320 2329	therapies
+T84	Chemical 2359 2363	acid
+T85	Process 2364 2376	biosynthesis
+T86	Organism 2420 2429	bacterial
+T87	Cellular_component 2430 2439	cell wall
+T88	Value 2441 2443	11
+T89	Organism1 2523 2530	species
+T90	Disease 2548 2560	pathological
+T91	Organism1 2583 2595	Mycobacteria
+T92	Bio_Process 2606 2614	Biofilms
+T93	Organism 2618 2641	Mycobacterium smegmatis
+T94	Chemical 2650 2662	stigmasterol
+T95	Chemical 2668 2674	carbon
+T96	Organism1 2687 2693	plants
+T97	Organism1 2699 2707	bacteria
+T98	Chemical 2728 2736	compound
+T99	Chemical 2749 2757	androgen
+T100	Chemical 2759 2774	androstenedione
+T101	Organism 2779 2802	Mycobacterium smegmatis
+T102	Disease 2815 2820	large
+T103	Habitat 2821 2825	body
+T104	Chemical 2829 2834	water
+T105	Organism1 2879 2887	bacteria
+T106	Chemical 2901 2916	androstenedione
+T107	Chemical 2922 2930	androgen
+T108	Chemical 2938 2943	water
+T109	Organism1 2951 2971	female mosquito fish
+T110	Organism2 2980 2984	male
+T111	Bio_Process 2996 2999	sex
+T112	Organ 3000 3006	organs
+T113	Value 3008 3010	15
+T114	Process 3052 3064	contribution
+T115	Habitat 3072 3083	environment
+T116	Organism1 3100 3108	organism
+T117	Organism 3169 3192	Mycobacterium smegmatis
+T118	Organism1 3224 3231	animals
+T119	Disease 3273 3283	infections
+T120	Disease 3413 3422	virulence
+T121	Organism 3426 3449	Mycobacterium smegmatis
+T122	Value 3458 3466	15 years
+T123	Organism1 3489 3496	species
+T124	Organism1 3508 3513	genus
+T125	Organism1 3539 3548	pathogens
+T126	Organism 3557 3583	Mycobacterium tuberculosis
+T127	Organism 3585 3604	Mycobacterium bovis
+T128	Organism 3610 3630	Mycobacterium leprea
+T129	Organism1 3656 3663	animals
+T130	Organism1 3671 3678	species
+T131	Disease 3689 3701	tuberculosis
+T132	Disease 3706 3713	leprosy
+T133	Disease 3728 3736	diseases
+T134	Bio_Process 3754 3759	death
+T135	Process 3763 3776	disfigurement
+T136	Organism1 3784 3793	pathogens
+T137	Organism1 3822 3835	host organism
+T138	Process 3855 3869	classification
+T139	Organism1 3883 3892	pathogens
+T140	Organism1 3901 3906	genus
+T141	Organism 3916 3935	Mycobacterium avium
+T142	Organism2 3970 3974	host
+T143	Habitat 3975 3986	environment
+T144	Disease 3997 4006	virulence
+T145	Organism2 4036 4040	host
+T146	Value 4066 4067	1
+T147	Organism1 4083 4091	bacteria
+T148	Organism1 4105 4110	human
+T149	Disease 4117 4126	infection
+T150	Organism2 4145 4158	Italian child
+T151	Organism 4175 4198	Mycobacterium smegmatis
+T152	Parameter 4215 4218	age
+T153	Value 4222 4223	8
+T154	Technique 4231 4247	genetic analysis
+T155	Organism2 4255 4260	child
+T156	Chemical 4290 4301	nucleotides
+T157	Process 4327 4337	frameshift
+T158	Process 4344 4361	nonsense mutation
+T159	Protein_part 4367 4377	stop codon
+T160	Process 4410 4421	translation
+T161	Protein 4436 4444	proteins
+T162	Disease 4490 4500	pathogenic
+T163	Parameter 4501 4511	properties
+T164	Organism 4515 4538	Mycobacterium smegmatis
+T165	Organism2 4568 4573	child
+T166	Protein 4583 4597	mutant alleles
+T167	Protein_part 4601 4604	his
+T168	Protein 4605 4611	genome
+T169	Organism1 4620 4628	bacteria
+T170	Organism 4683 4706	Mycobacterium smegmatis
+T171	Value 4745 4746	5
+T172	Process 4749 4760	Application
+T173	Organism 4764 4801	
+T174	Chemical 4827 4834	Xylitol
+T175	Chemical 4836 4843	Xylitol
+T176	Chemical 4860 4865	sugar
+T177	Molecule 4910 4917	dietary
+T178	Chemical 4918 4924	sugars
+T179	Disease 4936 4947	tooth decay
+T180	Pathological_formation 4959 4965	plaque
+T181	Body_part 5006 5017	bloodstream
+T182	Chemical 5063 5074	blood sugar
+T183	Parameter 5075 5081	levels
+T184	Molecule 5101 5108	dietary
+T185	Organism2 5125 5134	diabetics
+T186	Process 5158 5168	treatments
+T187	Disease 5173 5185	osteoporosis
+T188	Disease 5190 5193	ear
+T189	Disease 5198 5226	upper respiratory infections
+T190	Chemical 5232 5248	D-xylulose sugar
+T191	Organism 5261 5284	Mycobacterium smegmatis
+T192	Chemical 5306 5320	D-xylose sugar
+T193	Protein 5333 5351	D-xylose isomerase
+T194	Organism 5367 5390	Mycobacterium smegmatis
+T195	Chemical 5417 5424	Xylitol
+T196	Value 5426 5427	6
+T197	Organism 5430 5453	Mycobacterium smegmatis
+T198	Chemical 5480 5490	L-ribulose
+T199	Chemical 5496 5507	L-arabinose
+T200	Protein 5517 5545	enzyme L-arabinose isomerase
+T201	Organism 5547 5570	Mycobacterium smegmatis
+T202	Chemical 5580 5591	L-arabinose
+T203	Chemical 5599 5611	carbohydrate
+T204	Bio_Process 5612 5622	metabolism
+T205	Chemical 5624 5635	L-arabinose
+T206	Company 5655 5664	companies
+T207	Chemical 5683 5688	drugs
+T208	Profession 5690 5701	Researchers
+T209	Chemical 5706 5717	L-arabinose
+T210	Parameter 5723 5732	component
+T211	Body_part 5742 5763	tissue culture medium
+T212	Food 5784 5788	food
+T213	Process 5807 5824	Maillard reaction
+T214	Food 5833 5838	bread
+T215	Food 5840 5844	beer
+T216	Food 5865 5869	milk
+T217	Value 5877 5878	6
+T218	Cell 1337 1341	cell
+T219	Cell 1609 1613	cell
+T220	Cell 2430 2434	cell
+T221	Chemical 5333 5341	D-xylose
+T222	Chemical 5524 5535	L-arabinose
+T223	Organ 4936 4941	tooth
+T224	Organism_subdivision 5190 5193	ear
+T225	Multi-tissue_structure 5198 5215	upper respiratory

@@ -1,0 +1,33 @@
+T1	Organism 0 7	Frankia
+T2	Unknown 12 19	EAN1pec
+T3	Process 20 31	Description
+T4	Organism 32 39	Frankia
+T5	Organism1 46 51	genus
+T6	Unknown 57 63	member
+T7	Chemical 109 117	nitrogen
+T8	Process 125 136	association
+T9	Parameter 144 150	number
+T10	Organism1 154 160	plants
+T11	Cellular_component 162 170	Vesicles
+T12	Unknown 209 219	structures
+T13	Organism1 246 251	plant
+T14	Cell 252 256	cell
+T15	Protein_part 269 274	sites
+T16	Organism 278 287	bacterial
+T17	Chemical 288 296	nitrogen
+T18	Process 297 305	fixation
+T19	Organism1 311 316	genus
+T20	Organism2 336 341	Swiss
+T21	Profession 342 356	microbiologist
+T22	Profession 358 361	A.B
+T23	Organism1 405 411	fungus
+T24	Multi-tissue_structure 433 439	hyphal
+T25	State 440 450	morphology
+T26	Organism1 458 466	organism
+T27	Process 468 479	Description
+T28	Organism 480 502	Frankia strain EAN1pec
+T29	Organism2 509 515	strain
+T30	Company 536 565	Kettering Research Laboratory
+T31	Unknown 569 573	Ohio
+T32	Unknown 577 578	M
+T33	Value 591 595	1978

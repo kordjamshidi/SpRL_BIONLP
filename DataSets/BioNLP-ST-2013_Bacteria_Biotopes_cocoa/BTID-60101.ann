@@ -1,0 +1,209 @@
+T1	Organism 0 23	Burkholderia xenovorans
+T2	Process 24 35	Description
+T3	Organism 53 76	Burkholderia xenovorans
+T4	Organism 95 108	B. fungorumis
+T5	Chemical 145 176	polychlorinatred biphenyl (PCB)
+T6	Chemical 190 206	organic chemical
+T7	Organism1 247 254	animals
+T8	Organism1 259 265	humans
+T9	Organism 267 290	Burkholderia xenovorans
+T10	Protein 334 340	genome
+T11	Value 341 350	about 9.7
+T12	Unknown 351 353	Mb
+T13	Disease 371 384	nonpathogenic
+T14	Organism 385 405	Burkholderia isolate
+T15	Mutant_Organism 417 422	LB400
+T16	Organism 426 449	Burkholderia xenovorans
+T17	Bio_Process 461 470	catabolic
+T18	Unknown 511 516	group
+T19	Organism1 520 542	heterotrophic bacteria
+T20	Habitat 551 563	environments
+T21	Organism2 569 581	LB400 strain
+T22	Organism2 602 608	strain
+T23	Process 647 656	different
+T24	Chemical 657 670	PCB congeners
+T25	Chemical 718 721	PCB
+T26	Unknown 725 733	New York
+T27	Value 739 747	20 years
+T28	Organism 753 777	Burkholderia xenovorans'
+T29	Unknown 792 797	niche
+T30	Parameter 841 845	area
+T31	Organism1 858 863	plant
+T32	Body_part 864 869	roots
+T33	Organism1 876 884	organism
+T34	Process 895 903	pathways
+T35	Chemical 936 944	Nitrogen
+T36	Disease 950 964	Cell structure
+T37	Bio_Process 969 979	metabolism
+T38	Organism 980 1003	Burkholderia xenovorans
+T39	Organism1 1010 1040	aerobic gram-negative bacteria
+T40	Organism 1113 1136	Burkholderia xenovorans
+T41	Chemical 1166 1184	aromatic compounds
+T42	Body_part 1217 1222	roots
+T43	Body_part 1238 1242	root
+T44	Process 1243 1251	turnover
+T45	Process 1253 1264	Degradation
+T46	Chemical 1268 1286	aromatic compounds
+T47	Geometrical_part 1315 1319	ring
+T48	Process 1320 1330	activation
+T49	Process 1348 1361	hydroxylation
+T50	Protein 1368 1377	oxygenase
+T51	Protein 1383 1393	CoA ligase
+T52	Process 1403 1410	pathway
+T53	Chemical 1416 1433	aromatic compound
+T54	Process 1468 1477	different
+T55	Bio_Process 1478 1487	catabolic
+T56	Process 1488 1496	pathways
+T57	Category 1515 1524	substrate
+T58	Organism 1530 1553	Burkholderia xenovorans
+T59	Protein 1563 1586	nitrogen fixation genes
+T60	Protein 1609 1621	chromosome 2
+T61	Chemical 1661 1669	nitrogen
+T62	Organism 1671 1694	Burkholderia xenovorans
+T63	Bio_Process 1709 1719	chemotaxis
+T64	Protein 1720 1725	genes
+T65	Chemical 1756 1774	aromatic compounds
+T66	Organism 1804 1835	
+T67	Organism1 1877 1884	species
+T68	Organism1 1888 1900	grass plants
+T69	Organism 1906 1930	Burkholderia xenovorans'
+T70	Chemical 1946 1954	nitrogen
+T71	Organism1 1976 1984	symbiont
+T72	Organism1 1989 1995	plants
+T73	Chemical 2009 2022	nitrogen-poor
+T74	Body_part 2033 2038	roots
+T75	Organism1 2048 2054	plants
+T76	Organism 2060 2083	Burkholderia xenovorans
+T77	Chemical 2098 2107	nutrients
+T78	Process 2112 2122	protection
+T79	Organism 2160 2183	Burkholderia xenovorans
+T80	Parameter 2201 2207	energy
+T81	Chemical 2217 2226	nutrients
+T82	Chemical 2246 2264	inorganic nitrogen
+T83	Chemical 2270 2286	organic nitrogen
+T84	Organism1 2291 2296	plant
+T85	Organism 2312 2335	Burkholderia xenovorans
+T86	Disease 2362 2369	disease
+T87	Organism1 2373 2379	humans
+T88	Organism1 2383 2390	animals
+T89	Disease 2409 2426	genetic virulence
+T90	Organism 2447 2471	Burkholderia cenocepacia
+T91	Organism1 2499 2507	pathogen
+T92	Organism2 2511 2519	patients
+T93	Disease 2525 2540	cystic fibrosis
+T94	Disease 2553 2575	granulomatous diseases
+T95	Organism 2581 2601	Burkholderia species
+T96	Molecule 2653 2670	virulence factors
+T97	Parameter 2677 2687	resistance
+T98	Chemical 2695 2708	antimicrobial
+T99	Unknown 2709 2720	Polymixin B
+T100	Process 2722 2730	presence
+T101	Cellular_component 2736 2744	flagella
+T102	Chemical 2746 2769	reactive oxygen species
+T103	Parameter 2770 2780	resistance
+T104	Phenotype 2793 2799	traits
+T105	Habitat 2828 2844	ecological niche
+T106	Process 2850 2861	Application
+T107	Unknown 2865 2878	Biotechnology
+T108	Organism 2931 2954	Burkholderia xenovorans
+T109	Parameter 2967 2976	potential
+T110	Process 3012 3024	applications
+T111	Process 3026 3040	Bioremediation
+T112	Organism1 3055 3064	organisms
+T113	Chemical 3122 3131	compounds
+T114	Chemical 3159 3168	compounds
+T115	Unknown 3174 3181	However
+T116	Process 3187 3196	challenge
+T117	Organism1 3215 3229	microorganisms
+T118	Organism 3238 3261	Burkholderia xenovorans
+T119	Process 3281 3287	target
+T120	Chemical 3288 3291	PCB
+T121	Habitat 3305 3317	environments
+T122	Chemical 3355 3367	contaminants
+T123	Chemical 3385 3394	compounds
+T124	Unknown 3458 3462	Also
+T125	Organism1 3464 3473	microbial
+T126	Protein 3474 3481	factors
+T127	Bio_Process 3501 3511	chemotaxis
+T128	Geometrical_part 3513 3520	surface
+T129	Process 3521 3530	adherence
+T130	Process 3550 3561	interaction
+T131	Organism1 3589 3597	bacteria
+T132	Process 3629 3638	breakdown
+T133	Chemical 3674 3683	compounds
+T134	Unknown 3689 3696	Finally
+T135	Organism1 3770 3784	microorganisms
+T136	Process 3792 3798	target
+T137	Habitat 3799 3810	environment
+T138	Organism 3824 3856	
+T139	Technique 3894 3898	tool
+T140	Process 3902 3916	bioremediation
+T141	Chemical 3943 3947	PCBs
+T142	Organism 3958 3981	Burkholderia xenovorans
+T143	Chemical 4013 4017	PCBs
+T144	Process 4047 4060	biotreatments
+T145	Process 4085 4094	breakdown
+T146	Chemical 4098 4102	PCBs
+T147	Process 4132 4144	biotreatment
+T148	Organism 4151 4180	Burkholderia xenovorans LB400
+T149	Organism 4185 4196	Rhodococcus
+T150	Organism2 4201 4207	strain
+T151	Organism 4208 4212	RHA1
+T152	Protein 4233 4238	genes
+T153	Process 4243 4257	dechlorination
+T154	Chemical 4261 4276	chlorobenzoates
+T155	Process 4298 4310	augmentation
+T156	Chemical 4323 4326	PCB
+T157	Organism1 4340 4348	bacteria
+T158	Chemical 4360 4375	chlorobenzoates
+T159	Chemical 4383 4386	PCB
+T160	Process 4387 4396	breakdown
+T161	Process 4416 4422	growth
+T162	Process 4424 4432	Addition
+T163	Protein 4440 4460	dechlorination genes
+T164	Organism1 4477 4485	bacteria
+T165	Chemical 4503 4506	PCB
+T166	Process 4556 4569	biotreatments
+T167	Organism2 4640 4647	strains
+T168	Chemical 4673 4676	PCB
+T169	Parameter 4716 4736	biodegradation rates
+T170	Protein 4813 4819	enzyme
+T171	Technique 4835 4866	polymerase chain reaction (PCR)
+T172	Process 4867 4880	amplification
+T173	Protein 4884 4911	biphenyl dioxygenase (BphA)
+T174	Protein 4912 4917	genes
+T175	Organism 4923 4946	Burkholderia xenovorans
+T176	Protein_part 4961 4969	sequence
+T177	Protein 4973 4983	BphA genes
+T178	Organism 4989 5000	Pseudomonas
+T179	Organism2 5005 5024	strain B4-Magdeburg
+T180	Protein 5068 5074	enzyme
+T181	Chemical 5121 5125	PCBs
+T182	Organism2 5158 5188	parent Burkholderia xenovorans
+T183	Protein 5189 5196	oxidase
+T184	Molecule 5212 5219	chimera
+T185	Chemical 5279 5283	PCBs
+T186	Organism2 5300 5306	parent
+T187	Protein 5307 5313	enzyme
+T188	Process 5381 5390	oxidation
+T189	Protein 5460 5472	dioxygenases
+T190	Chemical 5522 5526	PCBs
+T191	Technique 5532 5545	Another study
+T192	Process 5553 5562	different
+T193	Protein 5607 5634	biphenyl dioxygenase (BPDO)
+T194	Protein 5678 5682	BPDO
+T195	Organism2 5707 5719	LB400 strain
+T196	Organism 5723 5746	Burkholderia xenovorans
+T197	Chemical 5754 5785	2,2'-dichlorobiphenyl (2,2'-CB)
+T198	Protein 5799 5809	BphA genes
+T199	Chemical 5825 5828	PCB
+T200	Protein 5868 5881	variant BPDOs
+T201	Parameter 5905 5915	properties
+T202	Chemical 5933 5936	PCB
+T203	Process 6016 6025	mutations
+T204	Process 6093 6104	limitations
+T205	Category 6164 6173	substrate
+T206	Protein 6189 6194	BPDOs
+T207	Chemical 1383 1386	CoA
+T208	Chemical 1563 1571	nitrogen
+T209	Cell 950 964	Cell structure

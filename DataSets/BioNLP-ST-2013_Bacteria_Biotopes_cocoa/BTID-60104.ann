@@ -1,0 +1,125 @@
+T1	Organism1 0 28	
+T2	Organism 30 40	C.concisus
+T3	Organism 42 51	C. curvus
+T4	Organism 53 64	C. faecalis
+T5	Organism 66 74	C. fetus
+T6	Organism 80 91	C. gracilis
+T7	Organism 93 106	C. helveticus
+T8	Organism 108 118	C. hominis
+T9	Organism 120 138	C. hyointestinalis
+T10	Organism 144 153	C. jejuni
+T11	Organism 159 168	C. jejuni
+T12	Organism 174 183	bacterium
+T13	Organism 185 196	C. lanienae
+T14	Organism 202 209	C. lari
+T15	Mutant_Organism 211 212	C
+T16	Mutant_Organism 225 226	C
+T17	Organism 243 252	bacterium
+T18	Organism 254 263	C. rectus
+T19	Organism 265 274	C. showae
+T20	Organism 276 287	C. sputorum
+T21	Organism 293 307	C. upsaliensis
+T22	Process 308 319	Description
+T23	Organism 337 350	Campylobacter
+T24	Organism1 356 378	Gram-negative pathogen
+T25	Process 394 405	recognition
+T26	Process 410 420	importance
+T27	Value 451 462	three times
+T28	Disease 468 482	food poisoning
+T29	Organism 501 511	Salmonella
+T30	Protein 513 519	Genome
+T31	Geometrical_part 520 529	Structure
+T32	Technique 534 551	genome sequencing
+T33	Organism 552 572	Campylobacter jejuni
+T34	Company 601 614	Sanger Centre
+T35	Organism 638 647	C. jejuni
+T36	Protein 648 654	genome
+T37	Protein_part 673 683	base pairs
+T38	Value 696 701	1,654
+T39	Protein 702 709	protein
+T40	Protein 710 722	coding genes
+T41	Organism 724 733	C. jejuni
+T42	Organism 757 766	bacterium
+T43	Value 796 801	94.3%
+T44	Protein 809 815	genome
+T45	Protein 827 839	coding genes
+T46	Company 841 857	Sanger Institute
+T47	Disease 866 880	Cell Structure
+T48	Bio_Process 885 895	Metabolism
+T49	Organism 896 909	Campylobacter
+T50	Cell 931 934	rod
+T51	Disease 968 988	bacterial infections
+T52	Organism_subdivision 996 1000	body
+T53	Body_part 1002 1005	FDA
+T54	Protein 1014 1018	Gene
+T55	Chemical 1058 1069	sialic acid
+T56	Cell 1077 1081	cell
+T57	Geometrical_part 1082 1089	surface
+T58	Chemical 1096 1107	sialic acid
+T59	Organism 1116 1129	Campylobacter
+T60	Organism2 1148 1154	host's
+T61	Organism_subdivision 1155 1159	body
+T62	Multi-tissue_structure 1176 1189	body's immune
+T63	Process 1190 1198	response
+T64	Organism_subdivision 1229 1233	body
+T65	Company 1257 1273	Sanger Institute
+T66	Organism 1284 1297	Campylobacter
+T67	Habitat 1312 1320	habitats
+T68	Chemical 1329 1335	oxygen
+T69	Parameter 1336 1341	level
+T70	Value 1353 1355	5%
+T71	Body_part 1390 1406	intestinal tract
+T72	Organism1 1410 1417	animals
+T73	Organism 1419 1432	Campylobacter
+T74	Multi-tissue_structure 1447 1454	mucosal
+T75	Geometrical_part 1455 1463	surfaces
+T76	Organism1 1467 1472	birds
+T77	Organism1 1477 1484	mammals
+T78	Multi-tissue_structure 1525 1531	mucous
+T79	Parameter 1532 1536	flow
+T80	Technique 1541 1557	Wassenaar et al.
+T81	Organism 1566 1587	Campylobacter species
+T82	Parameter 1605 1613	salinity
+T83	Parameter 1629 1631	pH
+T84	Organism 1644 1657	Campylobacter
+T85	Process 1673 1679	growth
+T86	Parameter 1680 1691	temperature
+T87	Value 1700 1702	37
+T88	Value 1707 1719	42 degrees C
+T89	Unknown 1721 1732	Studio Chem
+T90	Organism 1751 1773	Campylobacter bacteria
+T91	Disease 1786 1793	disease
+T92	Organism 1806 1814	Shigella
+T93	Organism 1819 1829	Salmonella
+T94	Mutant_Organism 1840 1843	FDA
+T95	Disease 1851 1869	Campylobacteriosis
+T96	Disease 1874 1892	gastrointestinitis
+T97	Disease 1914 1933	infectious diseases
+T98	Organism1 1951 1958	species
+T99	Organism 1962 1975	Campylobacter
+T100	Organism 1977 1986	C. jejuni
+T101	Disease 1994 2002	infected
+T102	Organism 2006 2019	Campylobacter
+T103	Disease 2021 2029	symptoms
+T104	Disease 2042 2057	bloody diarrhea
+T105	Disease 2059 2065	cramps
+T106	Disease 2067 2073	nausea
+T107	Disease 2079 2084	fever
+T108	Organism1 2086 2092	Humans
+T109	Organism 2116 2129	Campylobacter
+T110	Food 2160 2164	milk
+T111	Chemical 2169 2174	water
+T112	Food 2205 2209	meat
+T113	Organism1 2224 2231	chicken
+T114	Organism 2233 2242	C. jejuni
+T115	Organism1 2270 2277	species
+T116	Organism 2281 2294	Campylobacter
+T117	Organism1 2308 2316	pathogen
+T118	Geometrical_part 2334 2340	lining
+T119	Organ 2348 2363	small intestine
+T120	Multi-tissue_structure 2375 2385	gut mucosa
+T121	Molecule 2397 2403	toxins
+T122	Disease 2418 2441	Campylobacter infection
+T123	Value 2467 2477	seven days
+T124	Unknown 2479 2484	MEdIC
+T125	Cell 866 880	Cell Structure

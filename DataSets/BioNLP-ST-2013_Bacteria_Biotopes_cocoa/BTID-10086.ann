@@ -1,0 +1,17 @@
+T1	Organism 0 21	Bordetella petrii DSM
+T2	Process 28 39	Description
+T3	Organism2 40 73	Bordetella petrii strain DSM12804
+T4	Organism2 75 108	Bordetella petrii strain DSM12804
+T5	Habitat 137 151	river sediment
+T6	Unknown 166 173	members
+T7	Organism1 181 186	genus
+T8	Organism1 193 201	organism
+T9	Organism1 237 243	humans
+T10	Organism1 253 273	warm-blooded animals
+T11	Organism 275 292	Bordetella petrii
+T12	Organism 317 335	Bordetella species
+T13	Organism1 364 372	anaerobe
+T14	Organism2 379 385	strain
+T15	Organism2 398 404	strain
+T16	Organism1 413 420	species
+T17	Organism 474 492	Bordetella species

@@ -1,0 +1,65 @@
+T1	Organism 0 40	Caldicellulosiruptor saccharolyticus DSM
+T2	Organism 46 82	Caldicellulosiruptor saccharolyticus
+T3	Value 102 114	70 degrees C
+T4	Organism 149 158	bacterium
+T5	Habitat 202 213	New Zealand
+T6	Chemical 252 265	carbohydrates
+T7	Chemical 267 276	cellulose
+T8	Chemical 278 291	hemicellulose
+T9	Chemical 293 299	pectin
+T10	Chemical 303 310	-glucan
+T11	Chemical 312 318	starch
+T12	Chemical 320 328	glycogen
+T13	Chemical 333 340	-glucan
+T14	Body_part 369 372	gum
+T15	Chemical 377 384	acetate
+T16	Chemical 386 393	lactate
+T17	Chemical 395 403	hydrogen
+T18	Chemical 408 412	CO 2
+T19	Chemical 432 439	ethanol
+T20	Technique 473 481	analysis
+T21	Unknown 536 556	Bacillus/Clostridium
+T22	Organism1 574 596	Gram-positive bacteria
+T23	Unknown 629 637	DOE/NREL
+T24	Process 672 679	process
+T25	Chemical 718 725	biofuel
+T26	Organism1 803 817	microorganisms
+T27	Category 842 849	product
+T28	Process 850 860	inhibition
+T29	Process 880 891	utilisation
+T30	Chemical 895 901	sugars
+T31	Chemical 903 912	cellulose
+T32	Chemical 914 927	hemicellulose
+T33	Chemical 929 935	pectin
+T34	Process 948 954	growth
+T35	Parameter 967 979	temperatures
+T36	Organism1 1001 1010	organisms
+T37	Process 1029 1033	risk
+T38	Process 1037 1050	contamination
+T39	Organism 1054 1063	bacterium
+T40	Organism 1097 1133	Caldicellulosiruptor saccharolyticus
+T41	Process 1178 1182	role
+T42	Process 1190 1201	development
+T43	Parameter 1215 1221	energy
+T44	Organism 1241 1250	bacterium
+T45	Parameter 1305 1323	biomass components
+T46	Parameter 1331 1347	potential energy
+T47	Chemical 1355 1363	hydrogen
+T48	Process 1384 1396	fermentation
+T49	Process 1397 1408	experiments
+T50	Process 1435 1446	degradation
+T51	Chemical 1450 1457	glucose
+T52	Chemical 1462 1468	xylose
+T53	Process 1470 1480	Comparison
+T54	Protein 1488 1494	genome
+T55	Organism1 1516 1524	microbes
+T56	Parameter 1536 1545	potential
+T57	Parameter 1550 1556	energy
+T58	Process 1557 1567	production
+T59	Process 1616 1623	insight
+T60	Parameter 1631 1649	metabolic capacity
+T61	Process 1658 1668	regulation
+T62	Organism1 1767 1776	microbial
+T63	Parameter 1777 1783	energy
+T64	Process 1784 1794	production
+T65	Unknown 1795 1801	system

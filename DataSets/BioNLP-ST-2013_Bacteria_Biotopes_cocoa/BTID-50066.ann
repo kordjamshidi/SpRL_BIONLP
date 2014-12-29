@@ -1,0 +1,15 @@
+T1	Organism 0 45	
+T2	Chemical 58 64	metals
+T3	Molecule 168 174	toxins
+T4	Organism 175 197	Desulfovibrio vulgaris
+T5	Unknown 203 207	Gram
+T6	Body_part 230 239	non-spore
+T7	Cell 256 259	rod
+T8	Organism1 267 275	bacteria
+T9	Value 277 283	0.7 um
+T10	Cell 287 291	cell
+T11	Parameter 292 300	diameter
+T12	Organism1 322 328	animal
+T13	Organ 329 339	intestines
+T14	Multi-tissue_structure 344 349	feces
+T15	Chemical 365 375	salt water

@@ -1,0 +1,72 @@
+T1	Organism 0 22	Wolinella succinogenes
+T2	Organism 23 45	Wolinella succinogenes
+T3	Organism1 69 73	cows
+T4	Organism1 108 116	microbes
+T5	Disease 128 145	stomach disorders
+T6	Organism1 149 155	humans
+T7	Organism 157 166	H. pylori
+T8	Organism 171 196	
+T9	Organism 216 225	bacterium
+T10	Process 237 258	anaerobic respiration
+T11	Process 296 304	presence
+T12	Value 308 310	2%
+T13	Chemical 311 318	oxygen)
+T14	Process 332 340	motility
+T15	Organism 344 359	W. succinogenes
+T16	Process 448 460	flagellation
+T17	Process 469 478	insertion
+T18	Multi-tissue_structure 486 495	flagellar
+T19	Geometrical_part 496 501	motor
+T20	Location 511 515	pole
+T21	Cell 523 527	cell
+T22	Organism 529 544	W. succinogenes
+T23	Organism 572 584	bovine rumen
+T24	Organism1 590 595	human
+T25	Body_part 596 611	gingival sulcus
+T26	Disease 617 645	dental root canal infections
+T27	Process 676 685	emergence
+T28	Disease 689 699	pathogenic
+T29	Organism1 700 708	bacteria
+T30	Process 710 720	comparison
+T31	Disease 730 743	nonpathogenic
+T32	Organism2 744 753	relatives
+T33	Protein 799 805	genome
+T34	Protein_part 806 814	sequence
+T35	Organism 818 840	Wolinella succinogenes
+T36	Disease 874 884	pathogenic
+T37	Organism1 885 913	bacteria Helicobacter pylori
+T38	Organism 918 938	Campylobacter jejuni
+T39	Disease 985 998	nonpathogenic
+T40	Organism 1006 1017	bovine host
+T41	Organism 1019 1034	W. succinogenes
+T42	Protein 1068 1073	genes
+T43	Organism 1094 1103	bacterial
+T44	Molecule 1104 1121	virulence factors
+T45	Protein 1137 1142	genes
+T46	Location 1165 1172	lateral
+T47	Process 1173 1186	gene transfer
+T48	Organism2 1209 1213	host
+T49	Organism1 1222 1230	bacteria
+T50	Organism 1232 1247	W. succinogenes
+T51	Parameter 1273 1280	density
+T52	Organism 1284 1300	bacterial sensor
+T53	Protein 1301 1308	kinases
+T54	Organism 1322 1331	bacterial
+T55	Protein 1332 1338	genome
+T56	Process 1375 1385	signalling
+T57	Protein 1403 1415	GGDEF family
+T58	Protein 1419 1427	proteins
+T59	Technique 1441 1449	analysis
+T60	Organism 1457 1472	W. succinogenes
+T61	Protein 1473 1479	genome
+T62	Protein 1494 1499	genes
+T63	Organism1 1520 1525	plant
+T64	Organism1 1537 1545	bacteria
+T65	Protein 1562 1567	genes
+T66	Organism 1569 1584	W. succinogenes
+T67	Unknown 1601 1607	member
+T68	Protein 1615 1622	epsilon
+T69	Organism1 1623 1637	proteobacteria
+T70	Organism2 1668 1672	host
+T71	Organ 128 135	stomach
+T72	Body_part 617 634	dental root canal

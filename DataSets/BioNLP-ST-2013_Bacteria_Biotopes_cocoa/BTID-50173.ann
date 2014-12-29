@@ -1,0 +1,72 @@
+T1	Organism 0 31	
+T2	Disease 39 46	Cholera
+T3	Unknown 47 54	Vibrios
+T4	Organism1 73 91	anaerobic bacteria
+T5	Organism 130 148	Enterobacteriaceae
+T6	Habitat 173 179	oceans
+T7	Chemical 189 195	waters
+T8	Habitat 201 210	estuaries
+T9	Organism1 227 234	species
+T10	Organism 238 253	Vibrio cholerae
+T11	Disease 271 295	severe diarrheal illness
+T12	Organism1 299 305	humans
+T13	Organism1 311 323	genus Vibrio
+T14	Body_part 336 340	Gram
+T15	Cell 369 373	rods
+T16	Cellular_component 403 418	polar flagellum
+T17	Unknown 420 427	Vibrios
+T18	Multi-tissue_structure 448 459	respiratory
+T19	Bio_Process 477 487	metabolism
+T20	Disease 489 504	Classic cholera
+T21	Process 535 540	onset
+T22	Disease 544 552	vomiting
+T23	Disease 572 581	diaorrhea
+T24	Body_part 583 588	Fluid
+T25	Value 622 630	20 L/day
+T26	Disease 636 653	hypovolemic shock
+T27	Bio_Process 658 676	metabolic acidosis
+T28	Bio_Process 687 692	death
+T29	Value 702 711	few hours
+T30	Process 715 720	onset
+T31	Organism2 736 744	children
+T32	Bio_Process 746 755	Mortality
+T33	Value 791 794	60%
+T34	Value 808 817	180 years
+T35	Unknown 857 864	Bengali
+T36	Habitat 913 922	Indonesia
+T37	Technique 949 956	Western
+T38	Disease_Process 980 996	cholera outbreak
+T39	Habitat 1000 1004	Peru
+T40	Technique 1035 1042	Western
+T41	Value 1073 1080	600,000
+T42	Bio_Process 1097 1103	deaths
+T43	Protein 1118 1124	genome
+T44	Organism 1128 1143	Vibrio cholerae
+T45	Protein 1169 1180	chromosomes
+T46	Protein 1211 1216	genes
+T47	Cell 1231 1235	cell
+T48	Process 1236 1245	functions
+T49	Molecule 1253 1256	DNA
+T50	Process 1257 1268	replication
+T51	Process 1270 1283	transcription
+T52	Process 1285 1296	translation
+T53	Disease 1308 1321	pathogenicity
+T54	Molecule 1329 1334	toxin
+T55	Geometrical_part 1336 1343	surface
+T56	Protein 1344 1352	antigens
+T57	Process 1358 1366	adhesion
+T58	Protein 1393 1403	chromosome
+T59	Protein 1415 1425	chromosome
+T60	Protein 1470 1475	genes
+T61	Protein 1482 1487	genes
+T62	Organism 1531 1545	Proteobacteria
+T63	Protein 1552 1556	gene
+T64	Process 1557 1564	capture
+T65	Unknown 1565 1571	system
+T66	Habitat 1582 1588	island
+T67	Organism 1662 1676	Vibrio species
+T68	Organism 1682 1697	Vibrio cholerae
+T69	Protein 1698 1704	genome
+T70	Protein_part 1705 1714	sequences
+T71	Organism1 1791 1804	microorganism
+T72	Organism1 1815 1829	human pathogen

@@ -1,6 +1,7 @@
 package edu.illinois.cs.cogcomp.bionlp.Utility;
 
 import java.util.Arrays;
+import java.util.Vector;
 
 public class Util {
 public static boolean contains_int(int[] A, int x){
@@ -49,4 +50,18 @@ public static boolean overlap_tok_index(Integer a[],Integer b[]){
 				return true;
  return false;	
 }
+    public static int[] find_tree_indexes(Vector<TreeNode> t, Vector<Vector<String>> M){
+        int [] a=new int[M.size()];
+        int n=t.size();
+        int j=0;
+        for (int i=0; i<n ;i++){
+            if (t.elementAt(i).getNumberOfNodesInTree()==1&j<a.length)
+                if(t.elementAt(i).getWords().equalsIgnoreCase((M.elementAt(j).elementAt(1))) ){
+                    a[j]=i;
+                    j++;
+                }
+        }
+        return a;
+    }
+
 }

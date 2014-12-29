@@ -1,0 +1,195 @@
+T1	Unknown 0 5	Agent
+T2	Organism 13 19	Murine
+T3	Disease 20 45	Respiratory Mycoplasmosis
+T4	Unknown 46 53	General
+T5	Mutant_Organism 72 83	Mycoplasmas
+T6	Organism 84 103	Mycoplasma pulmonis
+T7	Disease 109 119	pathogenic
+T8	Organism 120 129	bacterium
+T9	Disease 143 153	infections
+T10	Organism1 157 161	mice
+T11	Organism1 166 170	rats
+T12	Organism1 177 184	species
+T13	Molecular_Part 200 205	group
+T14	Organism 236 246	Mollicutes
+T15	Organ 249 258	soft skin
+T16	Organism1 262 270	bacteria
+T17	Process 302 309	absence
+T18	Cellular_component 315 324	cell wall
+T19	Organism 330 340	Mollicutes
+T20	Value 342 351	about 200
+T21	Organism1 352 359	species
+T22	Organism 379 394	bacterial taxon
+T23	Organism1 398 420	Gram-positive bacteria
+T24	Unknown 430 433	G+C
+T25	Organism 446 456	Firmicutes
+T26	Organ 459 468	hard skin
+T27	Cellular_component 494 503	cell wall
+T28	Process 509 513	loss
+T29	Cellular_component 522 531	cell wall
+T30	State 560 565	state
+T31	Organism 570 580	Mollicutes
+T32	Organism 600 610	Firmicutes
+T33	Mutant_Organism 631 641	Clostridia
+T34	Organism1 650 657	Bacilli
+T35	Molecular_Part 674 680	groups
+T36	Process 712 721	reduction
+T37	Parameter 725 729	size
+T38	Organism1 733 744	mycoplasmal
+T39	Protein 745 752	genomes
+T40	Organism1 805 813	bacteria
+T41	Process 824 831	contact
+T42	Organism2 843 847	host
+T43	Organism1 879 888	pathogens
+T44	Location 919 932	intracellular
+T45	Organism1 933 942	parasites
+T46	Organism1 967 974	animals
+T47	Organism1 986 992	humans
+T48	Organism1 997 1004	insects
+T49	Organism1 1010 1016	plants
+T50	Mutant_Organism 1018 1030	Spiroplasmas
+T51	Mutant_Organism 1035 1047	Phytoplasmas
+T52	Process 1054 1062	adoption
+T53	Organism1 1069 1078	parasitic
+T54	Organism2 1135 1139	host
+T55	Cell 1140 1144	cell
+T56	Bio_Process 1166 1175	metabolic
+T57	Process 1176 1185	functions
+T58	Organism1 1208 1219	Mycoplasmas
+T59	Unknown 1242 1252	precursors
+T60	Process 1270 1274	loss
+T61	Protein 1278 1283	genes
+T62	Process 1310 1318	pathways
+T63	Protein 1341 1348	genomes
+T64	Organism1 1356 1367	mycoplasmas
+T65	Organism1 1418 1429	mycoplasmas
+T66	Value 1435 1449	less than 1000
+T67	Protein 1450 1455	genes
+T68	Organism 1457 1468	M. pulmonis
+T69	Protein 1496 1501	genes
+T70	Value 1517 1522	4,100
+T71	Organism 1549 1567	bacterium Bacillus
+T72	Process 1582 1586	loss
+T73	Cellular_component 1594 1603	cell wall
+T74	Location 1627 1640	intracellular
+T75	Organism1 1661 1672	mycoplasmas
+T76	Organism2 1692 1696	host
+T77	Disease 1713 1729	chronic diseases
+T78	Process 1740 1751	progression
+T79	Organism1 1755 1761	humans
+T80	Organism1 1766 1773	animals
+T81	Organism 1775 1780	Human
+T82	Disease 1781 1794	mycoplasmoses
+T83	Disease 1816 1824	diseases
+T84	Multi-tissue_structure 1832 1843	respiratory
+T85	Body_part 1848 1865	urogenital tracts
+T86	Disease 1867 1880	Mycoplasmoses
+T87	Organism1 1899 1906	animals
+T88	Process 1935 1939	loss
+T89	Chemical 1941 1951	Antibiotic
+T90	Process 1952 1961	treatment
+T91	Organism1 1993 2001	bacteria
+T92	Organism1 2016 2025	pathogens
+T93	Protein_part 2081 2090	sequences
+T94	Bio_Process 2134 2144	physiology
+T95	Disease 2146 2156	pathogenic
+T96	Process 2157 2166	potential
+T97	Organism2 2171 2175	host
+T98	Organism1 2191 2202	mycoplasmas
+T99	Process 2215 2226	development
+T100	Process 2234 2244	prevention
+T101	Process 2249 2258	treatment
+T102	Protein 2301 2308	genomes
+T103	Organism1 2314 2332	mycoplasma species
+T104	Process 2399 2409	prediction
+T105	Disease 2413 2426	pathogenicity
+T106	Protein_part 2427 2434	regions
+T107	Process 2447 2460	comprehension
+T108	Process 2468 2477	evolution
+T109	Molecular_Part 2496 2501	group
+T110	Disease 2515 2528	pathogenicity
+T111	Organism2 2530 2534	host
+T112	State 2556 2566	morphology
+T113	Process 2583 2595	requirements
+T114	Technique 2602 2619	Molligen database
+T115	Chemical 2648 2652	CBiB
+T116	Company 2654 2675	Bordeaux 2 University
+T117	Organism1 2722 2733	mycoplasmas
+T118	Process 2735 2746	Description
+T119	Disease 2750 2808	
+T120	Organism 2819 2838	Mycoplasma pulmonis
+T121	Disease 2865 2876	pathologies
+T122	Organism1 2892 2896	rats
+T123	Organism1 2901 2905	mice
+T124	Disease 2921 2934	mycoplasmosis
+T125	Disease 2987 2994	illness
+T126	Disease 3036 3039	MRM
+T127	Protein 3065 3072	factors
+T128	Habitat 3083 3094	environment
+T129	Organism2 3096 3100	host
+T130	Organism1 3102 3109	species
+T131	Protein 3114 3121	genetic
+T132	Organism2 3138 3156	M. pulmonis strain
+T133	Organism 3162 3173	M. pulmonis
+T134	Disease 3174 3196	experimental infection
+T135	Process 3235 3246	development
+T136	Chemical 3250 3258	vaccines
+T137	Disease 3275 3278	MRM
+T138	Organism 3280 3291	M. pulmonis
+T139	Disease 3299 3317	genital infections
+T140	Process 3356 3365	fertility
+T141	Disease 3433 3443	infections
+T142	Disease 3445 3448	MRM
+T143	Disease 3470 3497	pathological manifestations
+T144	Organism 3501 3514	M. pneumoniae
+T145	Disease 3515 3525	infections
+T146	Organism1 3529 3535	humans
+T147	Organism1 3549 3555	animal
+T148	Disease 3556 3581	respiratory mycoplasmoses
+T149	Organism 3583 3596	M. pneumoniae
+T150	Organism1 3613 3627	human pathogen
+T151	Disease 3632 3645	mycoplasmoses
+T152	Organism1 3657 3664	animals
+T153	Organism 3715 3728	M. pneumoniae
+T154	Organism 3733 3744	M. pulmonis
+T155	Molecular_Part 3777 3783	groups
+T156	Organism 3786 3799	M. pneumoniae
+T157	Organism 3827 3840	M. genitalium
+T158	Organism 3842 3854	M. penetrans
+T159	Organism 3859 3868	U. parvum
+T160	Organism1 3876 3883	species
+T161	Protein 3890 3896	genome
+T162	Organism 3920 3931	M. pulmonis
+T163	Organism 3947 3963	M. hominis group
+T164	Organism1 3970 4007	ruminant livestock pathogens M. bovis
+T165	Organism 4012 4025	M. agalactiae
+T166	Disease 4065 4089	mycoplasma pathogenicity
+T167	Chemical 4091 4096	Razin
+T168	Unknown 4097 4099	S.
+T169	Unknown 4101 4109	Yogev D.
+T170	Protein_part 4111 4117	Naot Y
+T171	Unknown 4136 4169	Molecular Biological Reviews 1998
+T172	Unknown 4228 4236	Chambaud
+T173	Unknown 4238 4240	I.
+T174	Unknown 4242 4243	R
+T175	Unknown 4253 4254	S
+T176	Unknown 4264 4265	V
+T177	Unknown 4274 4275	D
+T178	Unknown 4285 4286	F
+T179	Unknown 4298 4299	I
+T180	Unknown 4309 4310	K
+T181	Unknown 4320 4321	H
+T182	Unknown 4345 4350	E.P.C
+T183	Protein 4390 4396	genome
+T184	Protein_part 4397 4405	sequence
+T185	Organism1 4413 4419	murine
+T186	Multi-tissue_structure 4420 4431	respiratory
+T187	Organism1 4432 4460	pathogen Mycoplasma pulmonis
+T188	Chemical 4462 4489	Nucleic Acids Research 2001
+T189	Cell 315 319	cell
+T190	Cell 494 498	cell
+T191	Cell 522 526	cell
+T192	Cell 1594 1598	cell
+T193	Body_part 20 31	Respiratory
+T194	Multi-tissue_structure 3299 3306	genital
+T195	Body_part 3556 3567	respiratory

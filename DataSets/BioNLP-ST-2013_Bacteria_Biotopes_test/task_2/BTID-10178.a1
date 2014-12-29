@@ -1,0 +1,23 @@
+T1	Bacteria 0 32	Chloroflexus aurantiacus J-10-fl
+T2	Bacteria 45 69	Chloroflexus aurantiacus
+T3	Bacteria 167 183;210 218	green non-sulfur bacteria
+T4	Bacteria 188 218	purple photosynthetic bacteria
+T5	Bacteria 255 280	green non-sulfur bacteria
+T6	Habitat 388 402;414 421	hot springs of high pH
+T7	Habitat 388 410;419 421	hot springs of neutral pH
+T8	Habitat 434 438	mats
+T9	Habitat 457 480	lowest layer in the mat
+T10	Bacteria 486 499	cyanobacteria
+T11	Habitat 518 538	filamentous tendrils
+T12	Bacteria 544 553	bacterium
+T13	Habitat 599 615	organic products
+T14	Bacteria 620 633	cyanobacteria
+T15	Bacteria 771 792	green sulfur bacteria
+T16	Bacteria 1067 1080	cyanobacteria
+T17	Bacteria 1114 1135	green-sulfur bacteria
+T18	Bacteria 1322 1354	Chloroflexus aurantiacus J-10-fl
+T19	Bacteria 1356 1398	Chloroflexus aurantiacus J-10-fl (DSM 635)
+T20	Habitat 1421 1443	Hakone hot spring area
+T21	Geographical 1421 1427	Hakone
+T22	Habitat 1428 1438	hot spring
+T23	Geographical 1447 1452	Japan

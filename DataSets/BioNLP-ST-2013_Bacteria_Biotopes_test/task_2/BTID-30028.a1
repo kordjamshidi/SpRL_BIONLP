@@ -1,0 +1,81 @@
+T1	Bacteria 18 27	bacterium
+T2	Bacteria 163 172	bacterium
+T3	Bacteria 438 447	bacterium
+T4	Bacteria 448 470	Ralstonia solanacearum
+T5	Habitat 541 547	plants
+T6	Habitat 554 564	soil-borne
+T7	Bacteria 565 574	bacterium
+T8	Bacteria 606 625	beta-proteobacteria
+T9	Bacteria 646 655	bacterial
+T10	Habitat 679 684	plant
+T11	Habitat 748 754	plants
+T12	Habitat 764 770	potato
+T13	Habitat 839 845	tomato
+T14	Habitat 847 855	eggplant
+T15	Habitat 857 863	pepper
+T16	Habitat 865 872	tobacco
+T17	Habitat 877 888	banana tree
+T18	Bacteria 931 946	R. solanacearum
+T19	Habitat 969 977;994 1001	tropical regions
+T20	Habitat 982 1001	subtropical regions
+T21	Habitat 1121 1146	temperate zones of Europe
+T22	Habitat 1121 1139;1151 1168	temperate zones of the United States
+T23	Geographical 1140 1146	Europe
+T24	Geographical 1155 1168	United States
+T25	Bacteria 1183 1198	R. solanacearum
+T26	Bacteria 1259 1267	bacteria
+T27	Bacteria 1268 1288	Pseudomonas syringae
+T28	Bacteria 1290 1312	Xanthomonas campestris
+T29	Bacteria 1317 1334	Xanthomonas citri
+T30	Habitat 1367 1379	aerial parts
+T31	Habitat 1387 1392	plant
+T32	Bacteria 1402 1417	R. solanacearum
+T33	Habitat 1475 1479	soil
+T34	Habitat 1518 1529	root system
+T35	Habitat 1573 1586	xylem vessels
+T36	Habitat 1624 1629	water
+T37	Habitat 1624 1647	water-conducting system
+T38	Habitat 1685 1690	plant
+T39	Bacteria 1728 1743	R. solanacearum
+T40	Bacteria 1785 1800	R. solanacearum
+T41	Geographical 1835 1882	Laboratoire Interactions Plantes-Microorganisms
+T42	Bacteria 1925 1932	GMI1000
+T43	Geographical 1976 1982	Guyana
+T44	Habitat 1990 2011	withered tomato plant
+T45	Geographical 2028 2035	Asiatic
+T46	Habitat 2100 2111	model plant
+T47	Habitat 2113 2133	Arabidopsis thaliana
+T48	Bacteria 2286 2293	GMI1000
+T49	Habitat 2708 2718	plant cell
+T50	Habitat 2708 2713	plant
+T51	Habitat 2773 2778	plant
+T52	Bacteria 2814 2823	bacterium
+T53	Habitat 2833 2843	plant cell
+T54	Habitat 2833 2838	plant
+T55	Habitat 3074 3079	plant
+T56	Habitat 3074 3088	plant hormones
+T57	Habitat 3124 3128	cell
+T58	Bacteria 3333 3340	GMI1000
+T59	Bacteria 3365 3372	GMI1000
+T60	Bacteria 3428 3443	R. solanacearum
+T61	Bacteria 3545 3550	Molk2
+T62	Geographical 3573 3581	American
+T63	Habitat 3619 3630	banana tree
+T64	Bacteria 3728 3733	Molk2
+T65	Bacteria 3761 3768	GMI1000
+T66	Bacteria 3985 3990	Molk2
+T67	Bacteria 3995 3999	1609
+T68	Bacteria 4006 4011	Molk2
+T69	Geographical 4047 4055	American
+T70	Habitat 4102 4114	banana trees
+T71	Habitat 4165 4171	potato
+T72	Bacteria 4177 4181	1609
+T73	Geographical 4251 4257	Europe
+T74	Habitat 4412 4422	plant cell
+T75	Habitat 4412 4417	plant
+T76	Bacteria 4599 4606	GMI1000
+T77	Bacteria 4753 4758	Molk2
+T78	Bacteria 4763 4767	1609
+T79	Bacteria 4886 4901	R. solanacearum
+T80	Habitat 4953 4958	plant
+T81	Bacteria 5181 5196	R. solanacearum

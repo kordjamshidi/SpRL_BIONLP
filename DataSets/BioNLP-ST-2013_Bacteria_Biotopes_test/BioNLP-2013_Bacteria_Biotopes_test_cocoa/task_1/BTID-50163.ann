@@ -1,0 +1,21 @@
+T1	Organism 0 65	
+T2	Chemical 78 84	sugars
+T3	Parameter 112 118	energy
+T4	Organism 119 151	Thermoanaerobacter tengcongensis
+T5	Cell 157 160	rod
+T6	Unknown 169 173	Gram
+T7	Organism 185 206	anaerobic eubacterium
+T8	Chemical 232 242	freshwater
+T9	Habitat 257 266	Tengchong
+T10	Habitat 268 273	China
+T11	Organism 275 307	Thermoanaerobacter tengcongensis
+T12	Value 328 346	80 degrees Celsius
+T13	Chemical 363 369	sugars
+T14	Parameter 397 403	energy
+T15	Chemical 408 414	carbon
+T16	Parameter 433 439	energy
+T17	Chemical 457 463	sulfur
+T18	Process 464 475	respiration
+T19	Organism 496 512	T. tengcongensis
+T20	Protein 513 518	genes
+T21	Organism 555 574	Bacillus halodurans

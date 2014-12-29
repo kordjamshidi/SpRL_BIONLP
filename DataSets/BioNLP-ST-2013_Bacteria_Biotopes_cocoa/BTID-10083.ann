@@ -1,0 +1,36 @@
+T1	Organism 0 30	Bordetella bronchiseptica RB50
+T2	Process 31 42	Description
+T3	Organism 43 53	Bordetella
+T4	Unknown 60 65	group
+T5	Organism1 69 78	organisms
+T6	Body_part 106 123	respiratory tract
+T7	Organism1 127 134	animals
+T8	Disease 147 162	severe diseases
+T9	Molecule 189 206	virulence factors
+T10	Protein 237 263	filamentous hemagglutinins
+T11	Process 268 278	attachment
+T12	Molecule 280 290	cytotoxins
+T13	Protein 296 304	proteins
+T14	Complex 317 342	type III secretion system
+T15	Process 347 356	transport
+T16	Category 360 368	effector
+T17	Molecule 369 378	molecules
+T18	Organism2 384 388	host
+T19	Cell 389 394	cells
+T20	Process 396 407	Description
+T21	Organism2 408 445	Bordetella bronchiseptica strain RB50
+T22	Organism1 452 460	organism
+T23	Organism 486 496	Bordetella
+T24	Habitat 534 545	environment
+T25	Organism1 566 572	humans
+T26	Organism1 602 609	animals
+T27	Organism2 616 622	strain
+T28	Organism1 643 649	rabbit
+T29	Protein 655 661	genome
+T30	Cellular_component 673 686	type IV pilus
+T31	Protein 700 706	operon
+T32	Cellular_component 721 725	pili
+T33	Process 730 740	attachment
+T34	Protein 746 756	chromosome
+T35	Protein 775 779	gene
+T36	Protein 784 799	pertussis toxin

@@ -1,0 +1,153 @@
+T1	Organism 0 11	Spirochaeta
+T2	Process 12 23	Description
+T3	Organism1 45 62	genus Spirochaeta
+T4	Molecular_Part 76 81	group
+T5	Disease 112 126	non-pathogenic
+T6	Geometrical_part 162 169	helical
+T7	Organism1 177 185	bacteria
+T8	Organism2 196 203	strains
+T9	Chemical 241 252	freshwaters
+T10	Habitat 257 263	marine
+T11	Chemical 264 270	waters
+T12	Organism1 296 303	species
+T13	Habitat 350 361	hot springs
+T14	Habitat 365 376	New Zealand
+T15	Organism 406 426	Spirochaeta caldaria
+T16	Organism1 432 446	cyanobacterial
+T17	Habitat 455 466	hot springs
+T18	Unknown 470 474	Utah
+T19	Unknown 479 485	Oregon
+T20	Organism 517 540	Spirochaeta thermophila
+T21	Habitat 546 558	marine areas
+T22	Habitat 562 579	Shiaskotan Island
+T23	Habitat 583 589	Russia
+T24	Organism1 619 630	spirochetes
+T25	Organism 639 650	S. alkalica
+T26	Organism 652 663	S. africana
+T27	Organism 665 676	S. asiatica
+T28	Chemical 695 703	alkaline
+T29	Habitat 704 715	Lake Magadi
+T30	Habitat 719 724	Kenya
+T31	Chemical 734 741	sulfide
+T32	Habitat 756 765	sediments
+T33	Habitat 769 780	Lake Khatyn
+T34	Habitat 784 791	Siberia
+T35	Body_part 827 834	culture
+T36	Process 868 876	presence
+T37	Organism 880 899	Spirochaeta species
+T38	Habitat 909 921	environments
+T39	Body_part 961 976	digestive tract
+T40	Organism1 980 988	termites
+T41	Unknown 1022 1029	members
+T42	Organism1 1037 1054	genus Spirochaeta
+T43	Habitat 1063 1083	extreme environments
+T44	Parameter 1100 1111	temperature
+T45	Parameter 1113 1121	salinity
+T46	Parameter 1127 1135	pressure
+T47	Organism1 1144 1158	microorganisms
+T48	Protein 1176 1183	enzymes
+T49	Parameter 1189 1198	potential
+T50	Process 1216 1228	applications
+T51	Cell 1254 1268	Cell Structure
+T52	Bio_Process 1270 1280	Metabolism
+T53	Unknown 1285 1295	Life Cycle
+T54	Geometrical_part 1310 1317	helical
+T55	Geometrical_part 1318 1323	shape
+T56	Unknown 1339 1346	members
+T57	Organism1 1354 1365	Spirochetes
+T58	Organism 1391 1402	Spirochaeta
+T59	Organism1 1437 1444	termite
+T60	Organism_subdivision 1445 1448	gut
+T61	Technique 1452 1464	Droge et al.
+T62	Organism1 1491 1499	organism
+T63	Organism 1529 1546	Spirochaeta genus
+T64	Molecular_Part 1558 1563	group
+T65	Organism1 1581 1589	bacteria
+T66	Process 1607 1620	decomposition
+T67	Chemical 1624 1643	(poly)carbohydrates
+T68	Habitat 1660 1672	environments
+T69	Organism1 1678 1685	species
+T70	Organism 1693 1710	Spirochaeta genus
+T71	Process 1711 1718	ferment
+T72	Chemical 1719 1732	carbohydrates
+T73	Process 1738 1747	formation
+T74	Chemical 1751 1758	acetate
+T75	Chemical 1760 1767	ethanol
+T76	Chemical 1769 1772	CO2
+T77	Chemical 1778 1780	H2
+T78	Category 1790 1802	end products
+T79	Organism 1817 1840	Spirochaeta isovalerica
+T80	Chemical 1862 1873	amino-acids
+T81	Chemical 1889 1902	carbohydrates
+T82	Organism 1917 1936	Spirochaeta species
+T83	Protein 1949 1964	Embden-Meyerhof
+T84	Process 1965 1972	pathway
+T85	Chemical 1977 1984	glucose
+T86	Process 1985 1999	catabolization
+T87	Process 2005 2014	formation
+T88	Chemical 2018 2026	pyruvate
+T89	Organism1 2053 2060	Species
+T90	Organism 2068 2085	Spirochaeta genus
+T91	Habitat 2133 2145	environments
+T92	Chemical 2159 2164	water
+T93	Habitat 2166 2175	sediments
+T94	Habitat 2188 2193	ponds
+T95	Habitat 2195 2202	marshes
+T96	Habitat 2204 2209	lakes
+T97	Habitat 2211 2217	rivers
+T98	Habitat 2222 2228	oceans
+T99	Habitat 2239 2251	environments
+T100	Organism 2253 2264	Spirochaeta
+T101	Organism1 2301 2315	microorganisms
+T102	Chemical 2330 2339	nutrients
+T103	Phenotype 2380 2389	behaviors
+T104	Organism1 2414 2425	Spirochetes
+T105	Geometrical_part 2440 2447	helical
+T106	Geometrical_part 2448 2453	shape
+T107	Cell 2461 2466	cells
+T108	Location 2500 2505	axial
+T109	Protein 2506 2515	filaments
+T110	Geometrical_part 2547 2555	surfaces
+T111	Organism1 2575 2583	bacteria
+T112	Habitat 2613 2625	environments
+T113	Organism1 2681 2689	bacteria
+T114	Parameter 2719 2732	relationships
+T115	Organism1 2759 2766	species
+T116	Organism 2768 2790	Spirochaeta plicatilis
+T117	Organism 2816 2825	Beggiatoa
+T118	Organism 2831 2841	spirochete
+T119	Body_part 2875 2884	trichomes
+T120	Organism 2888 2897	Beggiatoa
+T121	Body_part 2940 2949	trichomes
+T122	Bio_Process 2958 2968	chemotaxis
+T123	Chemical 2976 2987	metabolites
+T124	Organism 3004 3013	Beggiatoa
+T125	Category 3028 3038	substrates
+T126	Organism 3046 3056	spirochete
+T127	Organism1 3097 3104	species
+T128	Unknown 3106 3117	Spirocheata
+T129	Parameter 3153 3166	relationships
+T130	Organism1 3176 3184	bacteria
+T131	Organism 3186 3210	Clostridium thermocellum
+T132	Organism 3212 3232	Spirochaeta caldaria
+T133	Organism 3251 3267	spirochete taken
+T134	Chemical 3275 3285	freshwater
+T135	Technique 3319 3339	Pohlschroeder et al.
+T136	Chemical 3352 3361	cellulose
+T137	Process 3362 3373	degradation
+T138	Organism 3389 3413	Clostridium thermocellum
+T139	Organism 3423 3433	spirochete
+T140	Habitat 3456 3467	environment
+T141	Process 3469 3481	Experiements
+T142	Organism1 3503 3510	species
+T143	Organism 3514 3525	Spirochaeta
+T144	Process 3563 3576	bioconversion
+T145	Chemical 3580 3589	cellulose
+T146	Chemical 3624 3631	ethanol
+T147	Chemical 3635 3647	hydrogen gas
+T148	Process 3680 3691	application
+T149	Organism1 3717 3724	species
+T150	Parameter 3767 3779	temperatures
+T151	Chemical 3789 3793	salt
+T152	Parameter 3794 3808	concentrations
+T153	Protein 3822 3829	enzymes

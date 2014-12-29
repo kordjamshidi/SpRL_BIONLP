@@ -1,0 +1,251 @@
+T1	Organism 0 18	Campylobacter coli
+T2	Process 19 30	Description
+T3	Organism 48 76	Campylobacter coli (C. coli)
+T4	Organism1 96 103	species
+T5	Organism1 119 140	epsilonproteobacteria
+T6	Unknown 164 165	S
+T7	Cell 190 193	rod
+T8	Cell 201 205	cell
+T9	Value 207 232	about 0.2-0.5 micrometers
+T10	Cellular_component 257 272	polar flagellum
+T11	Body_part 310 326	intestinal tract
+T12	Organism1 330 337	animals
+T13	Organism 346 354	bacteria
+T14	Body_part 368 389	intestinal epithelium
+T15	Body_part 429 445	epithelial layer
+T16	Body_part 467 478	bloodstream
+T17	Organism 483 490	C. coli
+T18	Organism 514 522	bacteria
+T19	Organism 533 565	Campylobacter jejuni (C. jejuni)
+T20	Disease 578 590	inflammation
+T21	Body_part 598 607	intestine
+T22	Disease 618 626	diarrhea
+T23	Disease 630 638	infected
+T24	Organism 639 646	animals
+T25	Organism 651 657	humans
+T26	Organism 664 669	human
+T27	Disease 670 680	infections
+T28	Value 682 691	about 85%
+T29	Value 695 698	95%
+T30	Organism 708 717	C. jejuni
+T31	Organism 725 732	C. coli
+T32	Process 839 849	treatments
+T33	Disease 858 865	disease
+T34	Chemical 894 907	antimicrobial
+T35	Procedure 908 920	chemotherapy
+T36	Organism 925 933	patients
+T37	Disease 939 955	severe infection
+T38	Chemical 957 969	Erythromycin
+T39	Chemical 971 987	fluoroquinolones
+T40	Chemical 993 1005	tetracycline
+T41	Chemical 1032 1051	antimicrobial drugs
+T42	Organism 1056 1063	C. coli
+T43	Organism 1089 1093	pigs
+T44	Organism 1095 1100	birds
+T45	Geometrical_part 1106 1113	surface
+T46	Chemical 1114 1119	water
+T47	Protein 1172 1180	16S rDNA
+T48	Technique 1189 1199	sequencing
+T49	Technique 1204 1230	polymerase chain reactions
+T50	Organism 1256 1262	C.coli
+T51	Organism 1267 1275	C.jejuni
+T52	Disease 1281 1295	Cell structure
+T53	Disease 1300 1310	metabolism
+T54	Organism 1311 1318	C. coli
+T55	Organism 1339 1340	S
+T56	Organism1 1348 1356	bacteria
+T57	Parameter 1448 1454	levels
+T58	Chemical 1458 1472	carbon dioxide
+T59	Process 1477 1483	growth
+T60	Organism 1485 1492	C. coli
+T61	Disease 1530 1547	citric acid cycle
+T62	Category 1561 1568	complex
+T63	Complex 1569 1586	respiratory chain
+T64	Process 1617 1638	anaerobic respiration
+T65	Habitat 1706 1718	environments
+T66	Body_part 1733 1742	intestine
+T67	Process 1744 1765	Anaerobic respiration
+T68	Process 1788 1794	growth
+T69	Body_part 1802 1818	intestinal tract
+T70	Organism 1829 1836	C. coli
+T71	Habitat 1883 1894	environment
+T72	Value 1909 1914	5-15%
+T73	Chemical 1915 1921	oxygen
+T74	Value 1926 1931	5-15%
+T75	Chemical 1932 1946	carbon dioxide
+T76	Category 1962 1969	complex
+T77	Body_part 1970 1975	media
+T78	Chemical 2014 2027	growth medium
+T79	Chemical 2036 2045	glutamate
+T80	Chemical 2047 2056	glutamine
+T81	Chemical 2082 2089	formate
+T82	Organism 2099 2106	C. coli
+T83	Protein 2107 2113	genome
+T84	Process 2149 2158	transport
+T85	Unknown 2159 2166	systems
+T86	Protein_part 2197 2208	amino acids
+T87	Chemical 2210 2219	nutrients
+T88	Chemical 2224 2228	ions
+T89	Location 2238 2246	external
+T90	Habitat 2247 2258	environment
+T91	Chemical 2270 2276	carbon
+T92	Process 2294 2300	growth
+T93	Chemical 2305 2318	carbohydrates
+T94	Protein_part 2323 2334	amino acids
+T95	Organism 2344 2359	
+T96	Body_part 2377 2381	hand
+T97	Body_part 2385 2389	hand
+T98	Organism 2399 2407	bacteria
+T99	Organism 2418 2427	C. jejuni
+T100	Organism 2439 2448	organisms
+T101	Disease 2498 2516	acute inflammation
+T102	Body_part 2520 2529	intestine
+T103	Unknown 2537 2543	United
+T104	Unknown 2544 2550	States
+T105	Process 2561 2568	nations
+T106	Organism 2573 2579	C.coli
+T107	Organism 2605 2609	pigs
+T108	Organism 2611 2616	birds
+T109	Geometrical_part 2635 2642	surface
+T110	Chemical 2643 2648	water
+T111	Value 2664 2669	1,794
+T112	Organism 2670 2675	birds
+T113	Value 2685 2687	5%
+T114	Organism 2701 2710	C. jejuni
+T115	Value 2720 2724	0.9%
+T116	Organism 2730 2737	C. coli
+T117	Organism 2757 2764	C. coli
+T118	Molecular_Part 2807 2813	groups
+T119	Organism 2817 2822	birds
+T120	Organism 2824 2829	Birds
+T121	Organism 2850 2863	invertebrates
+T122	Organism 2892 2897	birds
+T123	Parameter 2917 2921	mass
+T124	Habitat 2981 2987	Europe
+T125	Habitat 2996 3002	Africa
+T126	Habitat 3008 3019	Middle East
+T127	Habitat 3024 3028	Asia
+T128	Organism 3044 3051	C. coli
+T129	Disease 3055 3065	pathogenic
+T130	Organism 3069 3076	animals
+T131	Organism 3081 3087	humans
+T132	Food 3127 3134	poultry
+T133	Organism 3154 3162	bacteria
+T134	Food 3175 3179	food
+T135	Food 3194 3198	milk
+T136	Chemical 3220 3225	water
+T137	Organism 3257 3265	bacteria
+T138	Molecule 3282 3299	virulence factors
+T139	Organism 3314 3322	bacteria
+T140	Molecule 3340 3373	cytolethal-distending toxin (CDT)
+T141	Protein 3377 3397	multisubunit protein
+T142	Disease 3411 3421	cell death
+T143	Disease 3434 3444	cell cycle
+T144	Disease 3461 3471	DNA damage
+T145	Organism 3477 3485	organism
+T146	Body_part 3498 3514	intestinal tract
+T147	Organism 3518 3525	animals
+T148	Organism 3530 3536	humans
+T149	Disease 3548 3556	diarrhea
+T150	Disease 3561 3571	septicemia
+T151	Organism 3577 3585	bacteria
+T152	Tissue 3600 3621	intestinal epithelium
+T153	Tissue 3661 3677	epithelial layer
+T154	Body_part 3698 3709	bloodstream
+T155	Organism 3714 3722	Patients
+T156	Organism 3728 3735	C. coli
+T157	Disease 3741 3749	symptoms
+T158	Disease 3753 3761	diarrhea
+T159	Disease 3763 3777	abdominal pain
+T160	Disease 3779 3784	fever
+T161	Process 3804 3815	Application
+T162	Unknown 3819 3832	Biotechnology
+T163	Organism 3838 3846	organism
+T164	Chemical 3875 3884	compounds
+T165	Protein 3888 3895	enzymes
+T166	Parameter 3950 3960	resistance
+T167	Chemical 3964 3983	antimicrobial drugs
+T168	Unknown 3993 4003	
+T169	Unknown 4014 4026	Wondwossen A
+T170	Unknown 4038 4055	Siddhartha Thakur
+T171	Unknown 4060 4061	W
+T172	Unknown 4073 4079	Morrow
+T173	Company 4083 4093	Department
+T174	Disease 4108 4114	Health
+T175	Unknown 4119 4131	Pathobiology
+T176	Company 4133 4140	College
+T177	Chemical 4144 4163	Veterinary Medicine
+T178	Company 4165 4196	North Carolina State University
+T179	Chemical 4244 4257	antimicrobial
+T180	Parameter 4258 4268	resistance
+T181	Organism 4272 4279	C. coli
+T182	Chemical 4283 4307	antimicrobial-free (ABF)
+T183	Process 4308 4318	production
+T184	Unknown 4319 4326	systems
+T185	Organism 4349 4354	plant
+T186	Chemical 4356 4367	ABF systems
+T187	Food 4390 4397	poultry
+T188	Habitat 4415 4421	Europe
+T189	Unknown 4438 4440	US
+T190	Chemical 4451 4462	ABF systems
+T191	Organism 4464 4468	pigs
+T192	Chemical 4483 4496	antimicrobial
+T193	Process 4504 4510	growth
+T194	Organism 4519 4525	animal
+T195	Chemical 4612 4625	antimicrobial
+T196	Organism 4636 4643	C. coli
+T197	Chemical 4651 4662	ABF systems
+T198	Process 4700 4709	isolation
+T199	Unknown 4713 4740	ciprofloxacin-antimicrobial
+T200	Organism 4751 4758	strains
+T201	Chemical 4764 4767	ABF
+T202	Organism 4768 4772	pigs
+T203	Unknown 4780 4783	USA
+T204	Technique 4844 4899	NASBA (nucleic acid sequence-based amplification assay)
+T205	Molecular_Part 4924 4930	probes
+T206	Chemical 4965 4977	nucleic acid
+T207	Geometrical_part 4979 4986	hairpin
+T208	Molecular_Part 4987 4993	probes
+T209	Process 5047 5054	targets
+T210	Process 5063 5072	detection
+T211	Organism 5076 5085	C. jejuni
+T212	Organism 5090 5096	C.coli
+T213	Protein 5112 5121	16S rRNAs
+T214	Process 5149 5158	detection
+T215	Organism 5168 5177	organisms
+T216	Organism 5181 5188	chicken
+T217	Food 5189 5193	meat
+T218	Chemical 5265 5278	antimicrobial
+T219	Parameter 5279 5289	resistance
+T220	Organism 5293 5306	Campylobacter
+T221	Unknown 5310 5312	US
+T222	Food 5313 5318	dairy
+T223	Organism 5319 5325	cattle
+T224	Body_part 5327 5332	Feces
+T225	Organism 5351 5355	cows
+T226	Organism 5373 5382	C. jejuni
+T227	Organism 5387 5394	C. coli
+T228	Body_part 5402 5409	culture
+T229	Protein_part 5414 5421	strands
+T230	Organism 5425 5432	C. coli
+T231	Protein_part 5441 5448	strands
+T232	Organism 5452 5461	C. jejuni
+T233	Chemical 5506 5520	antimicrobials
+T234	Chemical 5522 5534	azithromycin
+T235	Chemical 5536 5551	chloramphenicol
+T236	Chemical 5553 5566	ciprofloxacin
+T237	Chemical 5568 5579	clindamycin
+T238	Chemical 5581 5593	erythromycin
+T239	Chemical 5595 5605	gentamicin
+T240	Chemical 5607 5621	nalidixic acid
+T241	Chemical 5626 5638	tetracycline
+T242	Organism 5640 5649	C. jejuni
+T243	Parameter 5656 5666	resistance
+T244	Chemical 5684 5698	antimicrobials
+T245	Organism 5706 5713	C. coli
+T246	Parameter 5720 5730	resistance
+T247	Chemical 5752 5765	antimicrobial
+T248	Process 5788 5798	importance
+T249	Organism 5802 5820	Campylobacter coli
+T250	Parameter 5845 5855	resistance
+T251	Chemical 5879 5893	antimicrobials

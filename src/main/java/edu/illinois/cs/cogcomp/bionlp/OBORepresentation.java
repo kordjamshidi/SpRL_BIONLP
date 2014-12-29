@@ -1,7 +1,10 @@
 package edu.illinois.cs.cogcomp.bionlp;
 
-import Utility.PreProcessing;
-import Utility.Util;
+
+
+
+import edu.illinois.cs.cogcomp.bionlp.Utility.PreProcessing;
+import edu.illinois.cs.cogcomp.bionlp.Utility.Util;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
@@ -180,7 +183,7 @@ public boolean exists_Habitat_inOBO(String[] s1){// a[1] shows containment and a
 	   }	
 		
 	for (int j=0;j<this.listOfExactSyns.size();j++){
-		String s=PreProcessing.BacteriaToken(listOfExactSyns.get(j));
+		String s= PreProcessing.BacteriaToken(listOfExactSyns.get(j));
 		//if ( s.equals(ephrase)) 
 			// return true;
 		if (overlap(s,ephrase))
@@ -204,7 +207,7 @@ public boolean overlap(String s1, String s2)
  for (int i=0;i<s1Elements.length; i++)
 	for (int j=0;j<s2Elements.length;j++)
 		 if (s1Elements[i].equalsIgnoreCase(s2Elements[j]) )
-				 if (!Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,s1Elements[i])) 
+				 if (!Util.contains_str(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords, s1Elements[i]))
 					 	return true;
 	return false;
 	}

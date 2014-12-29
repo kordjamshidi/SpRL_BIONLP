@@ -1,0 +1,53 @@
+T1	Organism 0 33	Bifidobacterium adolescentis ATCC
+T2	Value 34 39	15703
+T3	Process 40 51	Description
+T4	Organism 52 80	Bifidobacterium adolescentis
+T5	Organism1 87 94	species
+T6	Bio_Process 125 132	healthy
+T7	Organism1 133 138	human
+T8	Organism_subdivision 139 142	gut
+T9	Organism2 144 152	Newborns
+T10	Organism_subdivision 180 186	breast
+T11	Organism1 211 225	Bifidobacteria
+T12	Bio_Process 244 249	birth
+T13	Organism1 256 263	species
+T14	Multi-tissue_structure 292 297	feces
+T15	Organism_subdivision 303 309	breast
+T16	Organism2 314 320	infant
+T17	Organism1 346 354	bacteria
+T18	Organ 362 367	colon
+T19	Bio_Process 406 420	late adulthood
+T20	Process 440 447	decline
+T21	Protein_part 470 487	16S rDNA sequence
+T22	Process 494 505	enumeration
+T23	Multi-tissue_structure 513 520	colonic
+T24	Organism1 521 531	microbiota
+T25	Bio_Process 541 548	healthy
+T26	Organism1 549 561	adult humans
+T27	Parameter 580 587	average
+T28	Value 589 595	0.008%
+T29	Protein_part 603 621	16S rDNA sequences
+T30	Value 626 632	4.302%
+T31	Protein_part 640 649	sequences
+T32	Process 657 665	division
+T33	Unknown 667 674	Eckburg
+T34	Organism1 696 710	bifidobacteria
+T35	Protein 751 758	factors
+T36	Food 770 774	diet
+T37	Chemical 776 787	antibiotics
+T38	Disease 792 798	stress
+T39	Protein_part 870 871	Y
+T40	Organism1 917 926	organisms
+T41	Chemical 940 946	acetic
+T42	Chemical 951 963	lactic acids
+T43	Process 972 982	generation
+T44	Chemical 986 989	CO2
+T45	Process 1005 1016	degradation
+T46	Chemical 1020 1029	gluconate
+T47	Process 1031 1042	Description
+T48	Organism 1043 1076	Bifidobacterium adolescentis ATCC
+T49	Value 1077 1082	15703
+T50	Organism2 1089 1095	strain
+T51	Technique 1131 1146	genome analysis
+T52	Protein 470 478	16S rDNA
+T53	Protein 603 611	16S rDNA

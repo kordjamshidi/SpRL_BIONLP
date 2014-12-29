@@ -1,0 +1,66 @@
+T1	Disease 28 37	virulence
+T2	Process 38 48	mechanisms
+T3	Organism 54 63	bacterium
+T4	Disease 73 83	pathogenic
+T5	Organism1 88 92	fish
+T6	Process 117 137	molecular mechanisms
+T7	Process 167 179	colonization
+T8	Process 199 212	reorientation
+T9	Bio_Process 220 230	physiology
+T10	Organism2 236 240	host
+T11	Process 255 264	challenge
+T12	Process 274 284	importance
+T13	Process 372 382	conception
+T14	Disease 414 424	pathogenic
+T15	Organism1 425 434	organisms
+T16	Organism1 440 460	genus Flavobacterium
+T17	Organism1 491 498	species
+T18	Habitat 534 546	environments
+T19	Organism1 554 561	species
+T20	Disease 594 604	pathogenic
+T21	Organism1 609 613	fish
+T22	Organism 615 631	F. psychrophilum
+T23	Organism 633 645	F. columnare
+T24	Organism 650 667	F. branchiophilum
+T25	Protein 673 679	genome
+T26	Unknown 687 690	JIP
+T27	Value 691 696	02/86
+T28	Organism2 697 703	strain
+T29	Organism 711 737	bacterium F. psychrophilum
+T30	Disease 747 757	pathogenic
+T31	Unknown 818 828	Duchaud E.
+T32	Organism 838 850	F. columnare
+T33	Organism 855 871	F. psychrophilum
+T34	Pathological_formation 905 922	branchial lesions
+T35	Organism1 934 941	species
+T36	Organism1 945 949	fish
+T37	Organism1 959 966	species
+T38	Organism 968 985	F. branchiophilum
+T39	Disease 1013 1025	gill disease
+T40	Process 1134 1145	description
+T41	Organism 1154 1163	bacterium
+T42	Habitat 1167 1172	Japan
+T43	Organism 1174 1191	F. branchiophilum
+T44	Protein_part 1222 1229	regions
+T45	Unknown 1268 1271	USA
+T46	Habitat 1273 1280	Hungary
+T47	Habitat 1282 1288	Canada
+T48	Habitat 1290 1295	Korea
+T49	Organism 1313 1329	F. psychrophilum
+T50	Organism 1334 1346	F. columnare
+T51	Organism 1348 1365	F. branchiophilum
+T52	Organism 1401 1410	bacterium
+T53	Multi-tissue_structure 1416 1425	branchial
+T54	Process 1426 1433	tropism
+T55	Parameter 1489 1499	activities
+T56	Location 1503 1516	extracellular
+T57	Category 1517 1525	products
+T58	Process 1544 1553	adherence
+T59	Parameter 1554 1564	capacities
+T60	Organism 1572 1581	bacterium
+T61	Multi-tissue_structure 1601 1612	respiratory
+T62	Organism2 1639 1644	hosts
+T63	Mutant_Organism 1659 1663	H., 
+T64	Organism 1667 1676	Iwado, T.
+T65	Multi-tissue_structure 905 914	branchial
+T66	Body_part 1013 1017	gill

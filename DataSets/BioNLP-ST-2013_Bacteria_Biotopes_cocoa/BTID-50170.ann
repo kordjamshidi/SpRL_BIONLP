@@ -1,0 +1,38 @@
+T1	Organism 0 37	
+T2	Disease 45 53	Syphilis
+T3	Organism 54 72	Treponema pallidum
+T4	Unknown 90 95	agent
+T5	Disease 99 107	syphilis
+T6	Disease 109 117	Syphilis
+T7	Parameter 172 179	periods
+T8	Disease 191 213	asymptomatic infection
+T9	Disease 219 236	primary infection
+T10	Organism1 255 264	organisms
+T11	Disease 295 309	manifestations
+T12	Organism_subdivision 325 329	body
+T13	Disease 339 347	syphilis
+T14	Unknown 384 390	1400's
+T15	Procedure 414 423	therapies
+T16	Chemical 470 480	penicillin
+T17	Disease 482 490	syphilis
+T18	Bio_Process 519 525	health
+T19	Organism1 539 547	organism
+T20	Organism 553 563	spirochete
+T21	Geometrical_part 567 574	helical
+T22	Organism 589 598	bacterium
+T23	Location 604 609	outer
+T24	Cellular_component 614 635	cytoplasmic membranes
+T25	Protein 644 657	peptidoglycan
+T26	Unknown 658 663	layer
+T27	Cellular_component 668 676	flagella
+T28	Body_part 693 710	periplasmic space
+T29	Geometrical_part 732 736	ends
+T30	Location 748 754	middle
+T31	Organism1 762 770	organism
+T32	Organism 772 783	T. pallidum
+T33	Organism1 799 813	human parasite
+T34	Process 868 877	mechanism
+T35	Bio_Process 881 893	pathogenesis
+T36	Disease 946 954	syphilis
+T37	Chemical 977 984	vaccine
+T38	Organism 993 1004	T. pallidum

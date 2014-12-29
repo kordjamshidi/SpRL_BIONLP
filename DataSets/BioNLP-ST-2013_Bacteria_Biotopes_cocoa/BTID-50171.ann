@@ -1,0 +1,94 @@
+T1	Organism 0 39	
+T2	Disease 47 63	Whipples disease
+T3	Organism 92 101	bacterial
+T4	Protein 102 109	genomes
+T5	Organism 110 129	Tropheryma whipplei
+T6	Organism1 145 173	Gram-positive human pathogen
+T7	Disease 187 204	Whipple's disease
+T8	Process 240 247	effects
+T9	Process 253 263	alteration
+T10	State 279 284	state
+T11	Bio_Process 288 294	health
+T12	Disease 296 313	chronic enteritis
+T13	Disease 315 325	joint pain
+T14	Body_part 327 334	culture
+T15	Disease 344 356	endocarditis
+T16	Disease 358 370	encephalitis
+T17	Disease 375 382	uveitis
+T18	Disease 384 401	Whipple's disease
+T19	Disease 420 428	symptoms
+T20	Disease 433 447	manifestations
+T21	Disease 467 476	arthritis
+T22	Disease 478 498	intestinal disorders
+T23	Disease 504 512	dementia
+T24	Organism_subdivision 544 548	body
+T25	Disease 596 609	fatal illness
+T26	Disease 629 646	Whipple's disease
+T27	Organism2 669 672	Men
+T28	Disease 681 688	disease
+T29	Value 689 700	eight times
+T30	Organism2 717 722	women
+T31	Organism2 746 757	white males
+T32	Location 761 767	middle
+T33	Parameter 768 771	age
+T34	Disease 777 784	disease
+T35	Parameter 825 829	rate
+T36	Habitat 833 839	Europe
+T37	Unknown 848 854	United
+T38	Unknown 855 861	States
+T39	Habitat 888 894	Africa
+T40	Habitat 899 903	Asia
+T41	Habitat 914 919	Asian
+T42	Organism2 923 935	Japanese man
+T43	Disease 968 975	disease
+T44	Profession 986 1004	French researchers
+T45	Parameter 1029 1033	time
+T46	Disease 1049 1066	Whipple's disease
+T47	Organism1 1067 1075	pathogen
+T48	Organism 1077 1096	Tropheryma whipplei
+T49	Profession 1131 1141	scientists
+T50	Organism1 1174 1182	pathogen
+T51	Organism 1208 1217	bacterium
+T52	Value 1224 1233	four days
+T53	Cell 1244 1248	cell
+T54	Process 1249 1257	division
+T55	Process 1276 1286	comparison
+T56	Organism2 1299 1305	strain
+T57	Unknown 1309 1317	Escheria
+T58	Value 1329 1345	about 20 minutes
+T59	Body_part 1370 1377	culture
+T60	Protein 1402 1408	genome
+T61	Organism1 1460 1468	organism
+T62	Protein 1493 1500	genomes
+T63	Organism1 1510 1518	bacteria
+T64	Protein 1528 1534	genome
+T65	Protein 1551 1556	genes
+T66	Organism1 1572 1580	bacteria
+T67	Chemical 1601 1610	nutrients
+T68	Protein_part 1615 1626	amino acids
+T69	Organism1 1656 1663	microbe
+T70	Organism2 1680 1684	host
+T71	Protein 1735 1741	genome
+T72	Unknown 1760 1766	family
+T73	Protein 1770 1778	proteins
+T74	Geometrical_part 1786 1793	surface
+T75	Organism 1801 1810	bacterium
+T76	Parameter 1832 1836	time
+T77	Protein 1873 1889	surface proteins
+T78	Organism1 1895 1902	microbe
+T79	Organism_subdivision 1951 1955	body
+T80	Organism1 1961 1971	pathogen's
+T81	Cellular_component 1972 1981	cell wall
+T82	Organism1 2029 2034	human
+T83	Multi-tissue_structure 2035 2048	immune system
+T84	Cellular_component 2054 2058	wall
+T85	Cellular_component 2079 2093	outer membrane
+T86	Organism1 2123 2128	human
+T87	Cell 2129 2134	cells
+T88	Technique 2151 2161	sequencing
+T89	Protein 2169 2175	genome
+T90	Profession 2190 2201	researchers
+T91	Organism1 2232 2240	microbes
+T92	Cell 1972 1976	cell
+T93	Body_part 315 320	joint
+T94	Organ 478 488	intestinal

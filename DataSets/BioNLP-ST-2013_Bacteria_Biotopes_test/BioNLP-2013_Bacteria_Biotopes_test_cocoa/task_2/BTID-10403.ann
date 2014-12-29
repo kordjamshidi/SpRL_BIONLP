@@ -1,0 +1,124 @@
+T1	Organism 0 34	Mycobacterium tuberculosis CDC1551
+T2	Process 35 46	Description
+T3	Organism 47 60	Mycobacterium
+T4	Organism1 67 72	genus
+T5	Protein 95 99	Gram
+T6	Cell 121 124	rod
+T7	Organism1 132 148	aerobic bacteria
+T8	Unknown 165 171	member
+T9	Organism 179 202	family Mycobacteriaceae
+T10	Organism 220 235	Actinomycetales
+T11	Organism 264 279	Actinomycetales
+T12	Organism 289 297	Nocardia
+T13	Organism 302 317	Corynebacterium
+T14	Organism1 319 331	mycobacteria
+T15	Molecule 360 363	DNA
+T16	Unknown 364 366	GC
+T17	Chemical 404 417	mycolic acids
+T18	Parameter 427 437	components
+T19	Cellular_component 447 456	cell wall
+T20	Process 458 469	Description
+T21	Organism 470 496	Mycobacterium tuberculosis
+T22	Organism 503 512	bacterium
+T23	Unknown 530 535	agent
+T24	Disease 539 551	tuberculosis
+T25	Disease 556 582	chronic infectious disease
+T26	Organism1 624 631	species
+T27	Disease 656 665	morbidity
+T28	Organism1 669 675	humans
+T29	Disease 691 708	bacterial disease
+T30	Value 721 732	1.7 billion
+T31	Value 748 752	~33%
+T32	Value 801 810	3 million
+T33	Organism 829 838	bacterium
+T34	Chemical 855 877	polysaccharide capsule
+T35	Organism1 921 927	aerobe
+T36	Process 942 948	growth
+T37	Parameter 949 953	rate
+T38	Cellular_component 979 988	cell wall
+T39	Geometrical_part 1006 1013	passage
+T40	Chemical 1017 1026	nutrients
+T41	Cell 1036 1040	cell
+T42	Category 1060 1068	products
+T43	Cell 1095 1099	cell
+T44	Cell 1117 1121	cell
+T45	Geometrical_part 1122 1130	envelope
+T46	Organism1 1139 1147	organism
+T47	Protein 1169 1173	Gram
+T48	Cellular_component 1183 1192	cell wall
+T49	Geometrical_part 1198 1206	envelope
+T50	Protein_part 1228 1239	polypeptide
+T51	Unknown 1240 1245	layer
+T52	Protein 1251 1264	peptidoglycan
+T53	Unknown 1265 1270	layer
+T54	Chemical 1281 1287	lipids
+T55	Category 1306 1313	complex
+T56	Chemical 1314 1325	fatty acids
+T57	Chemical 1335 1348	mycolic acids
+T58	Geometrical_part 1407 1415	envelope
+T59	Chemical 1423 1428	acids
+T60	Cell 1452 1456	cell
+T61	Geometrical_part 1457 1465	envelope
+T62	Chemical 1481 1493	cord factors
+T63	Chemical 1513 1525	carbohydrate
+T64	Geometrical_part 1526 1535	component
+T65	Body_part 1546 1550	cord
+T66	Body_part 1556 1565	structure
+T67	Chemical 1573 1596	fatty acid-carbohydrate
+T68	Category 1597 1606	complexes
+T69	Cellular_component 1615 1629	phago-lysosome
+T70	Process 1630 1636	fusion
+T71	Disease 1682 1690	virulent
+T72	Organism2 1691 1698	strains
+T73	Cell 1704 1708	cell
+T74	Geometrical_part 1709 1717	envelope
+T75	Protein 1732 1740	adhesins
+T76	Process 1745 1756	aggressions
+T77	Molecule 1789 1795	toxins
+T78	Disease 1797 1814	Primary infection
+T79	Process 1825 1835	inhalation
+T80	Organism1 1843 1851	organism
+T81	Disease 1891 1899	infected
+T82	Organism1 1912 1920	organism
+T83	Cell 1945 1950	cells
+T84	Location 1958 1966	terminal
+T85	Body_part 1967 1974	airways
+T86	Cell 2026 2046	alveolar macrophages
+T87	Cell 2048 2059	Macrophages
+T88	Organism1 2075 2083	organism
+T89	Body_part 2093 2098	areas
+T90	Organ 2106 2111	lungs
+T91	Body_part 2129 2140	lymph nodes
+T92	Cell 2149 2153	cell
+T93	Parameter 2163 2179	hypersensitivity
+T94	Multi-tissue_structure 2180 2186	immune
+T95	Process 2187 2195	response
+T96	Process 2206 2217	replication
+T97	Organism1 2225 2233	organism
+T98	Organism1 2252 2260	bacteria
+T99	Pathological_formation 2293 2303	granulomas
+T100	Process 2305 2316	Description
+T101	Organism2 2317 2358	Mycobacterium tuberculosis strain CDC1551
+T102	Organism2 2365 2371	strain
+T103	Unknown 2389 2396	Oshkosh
+T104	Body_part 2420 2427	isolate
+T105	Organism2 2452 2458	worker
+T106	Unknown 2468 2486	Kentucky/Tennessee
+T107	Protein_part 2488 2491	USA
+T108	Protein_part 2493 2499	region
+T109	Value 2536 2553	approximately 80%
+T110	Organism2 2561 2570	patient's
+T111	Process 2578 2586	contacts
+T112	Organism2 2602 2608	strain
+T113	Disease 2624 2633	epidemics
+T114	Organism2 2637 2640	man
+T115	Chemical 2677 2682	drugs
+T116	Organism1 2716 2721	mouse
+T117	Organ 2722 2726	lung
+T118	Value 2744 2771	several orders of magnitude
+T119	Organism1 2777 2785	bacteria
+T120	Organism2 2795 2807	H37Rv strain
+T121	Parameter 2825 2835	Properties
+T122	Cell 447 451	cell
+T123	Cell 979 983	cell
+T124	Cell 1183 1187	cell

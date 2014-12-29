@@ -1,0 +1,24 @@
+T1	Unknown 11 23	Amoebophilus
+T2	Unknown 34 37	5a2
+T3	Disease 38 47	Symbiosis
+T4	Parameter 75 80	force
+T5	Process 84 93	evolution
+T6	Organism1 99 107	bacteria
+T7	Organism1 149 159	eukaryotes
+T8	Process 165 174	processes
+T9	Process 179 191	interactions
+T10	Process 225 237	associations
+T11	Process 320 341	molecular interaction
+T12	Process 342 352	mechanisms
+T13	Organism 382 405	Bacteroidetes symbionts
+T14	Organism2 427 431	host
+T15	Cell 432 437	cells
+T16	Process 463 473	mechanisms
+T17	Location 489 502	intracellular
+T18	Organism1 503 511	bacteria
+T19	Process 564 573	evolution
+T20	Phenotype 581 604	intracellular lifestyle
+T21	Process 613 623	adaptation
+T22	Organism1 627 635	bacteria
+T23	Process 639 648	different
+T24	Organism2 649 665	eukaryotic hosts

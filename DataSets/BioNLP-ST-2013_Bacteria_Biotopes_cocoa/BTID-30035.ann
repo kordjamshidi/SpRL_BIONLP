@@ -1,0 +1,55 @@
+T1	Protein_part 4 12	sequence
+T2	Organism2 21 43	Bacillus cereus strain
+T3	Organism 45 53	Bacteria
+T4	Molecular_Part 61 66	group
+T5	Organism1 136 150	microorganisms
+T6	Organism2 164 173	predators
+T7	Organism1 222 229	insects
+T8	Organism1 238 245	animals
+T9	Bio_Process 253 259	deaths
+T10	Process 274 279	cause
+T11	Organism 281 296	Bacillus cereus
+T12	Unknown 325 330	group
+T13	Organism1 334 342	bacteria
+T14	Organism 358 374	B. thuringiensis
+T15	Organism1 376 382	insect
+T16	Organism 392 404	B. anthracis
+T17	Organism1 406 412	animal
+T18	Organism 422 443	B. weihenstephanensis
+T19	Disease 461 465	cold
+T20	Organism 473 484	B. mycoides
+T21	Protein 494 503	filaments
+T22	Parameter 529 539	properties
+T23	Organism 557 565	Bacillus
+T24	Molecular_Part 574 579	group
+T25	Organism 617 626	B. cereus
+T26	Organism1 632 640	bacteria
+T27	Molecular_Part 649 654	group
+T28	Profession 696 707	researchers
+T29	Organism1 719 726	bacilli
+T30	Organism1 737 759	gram-positive bacteria
+T31	Process 830 840	adaptation
+T32	Organism1 850 858	bacteria
+T33	Disease 868 884	lines pathogenic
+T34	Organism1 889 896	animals
+T35	Organism1 901 908	insects
+T36	Organism 915 927	B. anthracis
+T37	Organism 936 958	B. thuringiensis lines
+T38	Disease 1005 1013	epidemic
+T39	Unknown 1014 1023	structure
+T40	Organism 1032 1041	bacterial
+T41	Organism2 1059 1066	strains
+T42	Organism 1070 1079	B. cereus
+T43	Organism2 1104 1111	strains
+T44	Organism1 1124 1130	animal
+T45	Food 1131 1141	probiotics
+T46	Organism2 1150 1157	strains
+T47	Disease 1165 1179	food poisoning
+T48	Chemical 1188 1194	emetic
+T49	Parameter 1279 1283	time
+T50	Process 1284 1293	evolution
+T51	Organism1 1303 1311	bacteria
+T52	Profession 1332 1342	scientists
+T53	Disease 1395 1405	pathogenic
+T54	Process 1406 1415	emergence
+T55	Body_part 868 873	lines

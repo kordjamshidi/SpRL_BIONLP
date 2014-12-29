@@ -1,0 +1,124 @@
+T1	Bacteria 0 25	Anaplasma phagocytophilum
+T2	Bacteria 67 92	Anaplasma phagocytophilum
+T3	Bacteria 94 113	Anaplasma marginale
+T4	Bacteria 115 131	Anaplasma platys
+T5	Bacteria 164 191	Anaplasma phagocytophilumis
+T6	Habitat 195 208	intracellular
+T7	Geographical 273 286	North America
+T8	Geographical 288 294	Europe
+T9	Geographical 300 304	Asia
+T10	Bacteria 306 331	Anaplasma phagocytophilum
+T11	Habitat 351 356	human
+T12	Habitat 421 431	tick bites
+T13	Habitat 421 425	tick
+T14	Bacteria 464 473	bacterium
+T15	Habitat 496 507	neutrophils
+T16	Habitat 516 525	organisms
+T17	Habitat 578 583	human
+T18	Habitat 650 658	patients
+T19	Geographical 662 671	Wisconsin
+T20	Geographical 676 685	Minnesota
+T21	Habitat 691 696	Ticks
+T22	Bacteria 837 861	Ehrlichia phagocytophila
+T23	Bacteria 896 921	Anaplasma phagocytophilum
+T24	Bacteria 958 983	Anaplasma phagocytophilum
+T25	Bacteria 1009 1018	bacterium
+T26	Habitat 1069 1082	intracellular
+T27	Habitat 1121 1133	cell vacuole
+T28	Habitat 1121 1125	cell
+T29	Bacteria 1194 1219	Anaplasma phagocytophilum
+T30	Bacteria 1387 1412	Anaplasma phagocytophilum
+T31	Bacteria 1428 1437	bacterium
+T32	Bacteria 1559 1581	gram-negative bacteria
+T33	Bacteria 1583 1608	Anaplasma phagocytophilum
+T34	Habitat 1774 1787	fragile cells
+T35	Bacteria 1830 1855	Anaplasma phagocytophilum
+T36	Habitat 1877 1890	intracellular
+T37	Bacteria 1891 1900	bacterium
+T38	Habitat 1904 1908	dogs
+T39	Habitat 1910 1916	humans
+T40	Habitat 1918 1924	horses
+T41	Habitat 1929 1938	ruminants
+T42	Bacteria 2003 2011	bacteria
+T43	Habitat 2027 2036	endosomes
+T44	Bacteria 2175 2200	Anaplasma phagocytophilum
+T45	Habitat 2211 2219	membrane
+T46	Bacteria 2267 2292	Anaplasma phagocytophilum
+T47	Bacteria 2539 2564	Anaplasma phagocytophilum
+T48	Bacteria 2811 2836	Anaplasma phagocytophilum
+T49	Geographical 2900 2913	North America
+T50	Geographical 2940 2950;2997 3010	north-east United States
+T51	Geographical 2952 2965;2997 3010	upper Midwest United States
+T52	Geographical 2970 2989	northern California
+T53	Geographical 2997 3010	United States
+T54	Geographical 3048 3056;3067 3076	European countries
+T55	Geographical 3061 3076	Asian countries
+T56	Habitat 3100 3121;3139 3146	regions with tropical climate
+T57	Habitat 3100 3112;3125 3146	regions with sub-trophical climate
+T58	Bacteria 3153 3178	Anaplasma phagocytophilum
+T59	Bacteria 3257 3282	Anaplasma phagocytophilum
+T60	Geographical 3286 3299	North America
+T61	Habitat 3307 3325	white-footed mouse
+T62	Habitat 3331 3336	human
+T63	Habitat 3391 3398	mammals
+T64	Habitat 3407 3413	horses
+T65	Habitat 3415 3419	cows
+T66	Habitat 3425 3430	sheep
+T67	Bacteria 3457 3466	bacterium
+T68	Bacteria 3481 3506	Anaplasma phagocytophilum
+T69	Habitat 3523 3528	Human
+T70	Habitat 3576 3581	human
+T71	Habitat 3582 3591	tickborne
+T72	Habitat 3608 3619	neutrophils
+T73	Habitat 3658 3686	polymorphonuclear leucocytes
+T74	Habitat 3737 3744	patient
+T75	Geographical 3748 3757	Wisconsin
+T76	Bacteria 3763 3788	Anaplasma phagocytophilum
+T77	Habitat 3802 3808	humans
+T78	Habitat 3842 3853	neutrophils
+T79	Habitat 3901 3912	neutrophils
+T80	Bacteria 3917 3942	Anaplasma phagocytophilum
+T81	Habitat 3978 3988	neutrophil
+T82	Habitat 4040 4051	neutrophils
+T83	Bacteria 4094 4103	bacterium
+T84	Habitat 4123 4134	neutrophils
+T85	Habitat 4165 4176	neutrophils
+T86	Habitat 4277 4282	Human
+T87	Habitat 4397 4419	gastrointestinal tract
+T88	Habitat 4484 4501	respiratory tract
+T89	Habitat 4510 4531	pulmonary infiltrates
+T90	Habitat 4510 4519	pulmonary
+T91	Habitat 4560 4564	body
+T92	Habitat 4583 4592	skin rash
+T93	Habitat 4583 4587	skin
+T94	Habitat 4642 4647	liver
+T95	Bacteria 4652 4677	Anaplasma phagocytophilum
+T96	Habitat 4730 4750	domesticated animals
+T97	Habitat 4759 4765	horses
+T98	Habitat 4767 4772	sheep
+T99	Habitat 4778 4784	cattle
+T100	Habitat 4802 4807	human
+T101	Bacteria 4881 4890	bacterium
+T102	Habitat 4907 4917	tick bites
+T103	Habitat 4907 4911	tick
+T104	Bacteria 5013 5038	Anaplasma phagocytophilum
+T105	Bacteria 5222 5247	Anaplasma phagocytophilum
+T106	Habitat 5303 5314	neutrophils
+T107	Bacteria 5356 5365	bacterium
+T108	Habitat 5439 5450	neutrophils
+T109	Bacteria 5495 5520	Anaplasma phagocytophilum
+T110	Bacteria 5726 5751	Anaplasma phagocytophilum
+T111	Habitat 5764 5777	immune system
+T112	Habitat 5809 5820	neutrophils
+T113	Habitat 5940 5944	cell
+T114	Bacteria 5946 5971	Anaplasma phagocytophilum
+T115	Bacteria 6265 6290	Anaplasma phagocytophilum
+T116	Bacteria 6295 6314	Anaplasma marginale
+T117	Habitat 6336 6342	cattle
+T118	Habitat 6347 6353	horses
+T119	Bacteria 6365 6384	Anaplasma marginale
+T120	Bacteria 6400 6418	A. phagocytophilum
+T121	Habitat 6455 6461	cattle
+T122	Habitat 6466 6472	horses
+T123	Bacteria 6484 6502	A. phagocytophilum
+T124	Bacteria 6530 6542	A. marginale

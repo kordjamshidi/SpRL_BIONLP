@@ -1,0 +1,118 @@
+T1	Bacteria 0 22	Lactobacillus jensenii
+T2	Bacteria 62 84	Lactobacillus jensenii
+T3	Bacteria 129 142	Lactobacillus
+T4	Bacteria 144 166	Lactobacillus jensenii
+T5	Bacteria 198 206	bacteria
+T6	Bacteria 266 274	bacteria
+T7	Bacteria 350 373	Lactobacillus crispatus
+T8	Habitat 388 414	female lower genital tract
+T9	Habitat 388 394	female
+T10	Habitat 446 456	scientists
+T11	Bacteria 566 590	Lactobacillus lichmannii
+T12	Habitat 596 619	human vaginal discharge
+T13	Habitat 596 601	human
+T14	Habitat 596 609	human vaginal
+T15	Bacteria 781 794	L. lichmannii
+T16	Habitat 914 940	natural vaginal microflora
+T17	Habitat 922 929	vaginal
+T18	Habitat 984 995	researchers
+T19	Habitat 1036 1043	vaginal
+T20	Bacteria 1044 1052	bacteria
+T21	Bacteria 1086 1097	L. jensenii
+T22	Bacteria 1125 1138	Lactobacillus
+T23	Bacteria 1674 1687	Lactobacillus
+T24	Bacteria 1690 1698	bacteria
+T25	Bacteria 1727 1738	L. jensenii
+T26	Habitat 1780 1786	vagina
+T27	Habitat 1857 1881	vaginal epithelium cells
+T28	Habitat 1857 1875	vaginal epithelium
+T29	Habitat 1857 1864	vaginal
+T30	Habitat 1967 1980	vaginal flora
+T31	Habitat 1967 1974	vaginal
+T32	Habitat 2001 2017	epithelial cells
+T33	Habitat 2001 2011	epithelial
+T34	Habitat 2082 2089	vaginal
+T35	Habitat 2178 2184	vagina
+T36	Bacteria 2240 2262	Lactobacillus jensenii
+T37	Habitat 2302 2306	body
+T38	Bacteria 2329 2340	L. jensenii
+T39	Bacteria 2353 2376	Lactobacillus crispatus
+T40	Bacteria 2381 2402	Lactobacillus gasseri
+T41	Habitat 2417 2424	vaginal
+T42	Bacteria 2435 2443	bacteria
+T43	Habitat 2455 2485	biofilms of the vaginal mucosa
+T44	Habitat 2471 2485	vaginal mucosa
+T45	Habitat 2471 2478	vaginal
+T46	Habitat 2489 2504	healthy females
+T47	Habitat 2522 2529	vaginal
+T48	Bacteria 2530 2543	lactobacillus
+T49	Habitat 2570 2577	vaginal
+T50	Bacteria 2607 2630	Lactobacillus crispatus
+T51	Habitat 2673 2680	vaginal
+T52	Bacteria 2681 2692	lactobillus
+T53	Habitat 2700 2726	lower female genital tract
+T54	Habitat 2706 2712	female
+T55	Bacteria 2761 2769	bacteria
+T56	Bacteria 2936 2945	Bacterial
+T57	Habitat 3012 3019	genital
+T58	Habitat 3049 3062	urinary tract
+T59	Habitat 3136 3141	semen
+T60	Habitat 3186 3192	vagina
+T61	Bacteria 3331 3353	Lactobaciluus jensenii
+T62	Habitat 3363 3366	men
+T63	Habitat 3371 3376	women
+T64	Habitat 3477 3501	human vaginal microflora
+T65	Habitat 3477 3482	human
+T66	Habitat 3483 3490	vaginal
+T67	Bacteria 3651 3673	Lactobacillus jensenii
+T68	Habitat 3719 3724	human
+T69	Bacteria 3736 3758	Lactobacillus jensenii
+T70	Habitat 3840 3862	cervico-vaginal mucosa
+T71	Habitat 3840 3855	cervico-vaginal
+T72	Bacteria 3864 3886	Lactobacillus jensenii
+T73	Habitat 3932 3944	vaginal area
+T74	Bacteria 4139 4150	L. jensenii
+T75	Bacteria 4283 4294	L. jensenii
+T76	Habitat 4342 4347	cells
+T77	Bacteria 4371 4379	bacteria
+T78	Habitat 4457 4467	HeLa cells
+T79	Bacteria 4589 4600	L. jensenii
+T80	Bacteria 4674 4682	bacteria
+T81	Habitat 4694 4698	body
+T82	Habitat 4744 4751	Vaginal
+T83	Bacteria 4752 4765	Lactobacillus
+T84	Habitat 4777 4784	Mucosal
+T85	Habitat 4801 4806	Human
+T86	Bacteria 4853 4875	Lactobacillus jensenii
+T87	Bacteria 5070 5078	bacteria
+T88	Bacteria 5157 5168	L. jensenii
+T89	Habitat 5200 5228	vaginas of estrus phase mice
+T90	Habitat 5211 5228	estrus phase mice
+T91	Bacteria 5295 5308	Lactobacillus
+T92	Habitat 5539 5544	women
+T93	Bacteria 5560 5581	Neisseria gonorrhoeae
+T94	Bacteria 5585 5598	Lactobacillus
+T95	Habitat 5643 5663	Female Genital Tract
+T96	Habitat 5643 5649	Female
+T97	Bacteria 5678 5700	Lactobacillus jensenii
+T98	Bacteria 5702 5725	Lactobacillus crispatus
+T99	Bacteria 5727 5752	Lactobacillus acidophilus
+T100	Bacteria 5758 5779	Lactobacillus gasseri
+T101	Bacteria 5784 5797	Lactobacillus
+T102	Bacteria 5885 5898	Lactobacillus
+T103	Bacteria 5946 5955	Neisseria
+T104	Bacteria 5967 5983	Escherichia coli
+T105	Habitat 6029 6037	clinical
+T106	Bacteria 6050 6064	N. gonorrhoeae
+T107	Habitat 6113 6118	heart
+T108	Bacteria 6168 6181	Lactobacillus
+T109	Bacteria 6268 6279	L. jensenii
+T110	Bacteria 6284 6296	L. crispatus
+T111	Bacteria 6322 6337	N. gonnorrhoeae
+T112	Bacteria 6387 6394	E. coli
+T113	Bacteria 6411 6422	L. jensenii
+T114	Bacteria 6443 6460	Neisseria cinerea
+T115	Bacteria 6502 6513	L. jensenii
+T116	Bacteria 6550 6564	N. gonorrhoeae
+T117	Bacteria 6722 6733	L. jensenii
+T118	Bacteria 6738 6750	L. crispatus

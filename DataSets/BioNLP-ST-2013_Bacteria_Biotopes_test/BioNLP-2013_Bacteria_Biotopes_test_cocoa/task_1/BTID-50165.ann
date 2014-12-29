@@ -1,0 +1,23 @@
+T1	Organism 0 59	
+T2	Organism1 80 89	organisms
+T3	Process 113 127	photosynthesis
+T4	Organism 128 157	Thermosynechococcus elongatus
+T5	Organism1 188 196	organism
+T6	Process 215 229	photosynthesis
+T7	Cellular_component 252 267	unicellular rod
+T8	Organism1 275 289	cyanobacterium
+T9	Organism1 295 303	organism
+T10	Habitat 313 324	hot springs
+T11	Process 344 350	growth
+T12	Parameter 351 362	temperature
+T13	Protein_part 366 369	55C
+T14	Organism2 385 391	strain
+T15	Unknown 410 415	Beppu
+T16	Habitat 430 435	Japan
+T17	Organism 437 450	Cyanobacteria
+T18	Organism1 473 481	bacteria
+T19	Disease 493 501	oxygenic
+T20	Process 502 516	photosyntheses
+T21	Value 539 543	1500
+T22	Organism1 544 551	species
+T23	Cell 264 267	rod

@@ -1,0 +1,292 @@
+T1	Organism 0 25	Anaplasma phagocytophilum
+T2	Process 26 40	Classification
+T3	Unknown 41 47	Higher
+T4	Organism1 54 92	
+T5	Organism 94 113	Anaplasma marginale
+T6	Organism 115 134	Anaplasma platys(2)
+T7	Process 135 146	Description
+T8	Process 151 163	significance
+T9	Organism 164 191	Anaplasma phagocytophilumis
+T10	Location 195 208	intracellular
+T11	Organism1 218 226	pathogen
+T12	Habitat 273 286	North America
+T13	Habitat 288 294	Europe
+T14	Habitat 300 304	Asia
+T15	Organism 306 331	Anaplasma phagocytophilum
+T16	Disease 343 350	disease
+T17	Organism1 351 356	human
+T18	Cell 357 387	granulocytic ehrlichiosis(HGE)
+T19	Organism1 421 425	tick
+T20	Organism 464 473	bacterium
+T21	Cell 496 507	neutrophils
+T22	Organism1 511 525	host organisms
+T23	Disease 544 560	immunodeficiency
+T24	Unknown 561 572	diseases(1)
+T25	Organism1 578 583	human
+T26	Disease 584 609	granulocytic ehrlichiosis
+T27	Organism1 610 618	pathogen
+T28	Value 642 646	1994
+T29	Organism2 650 658	patients
+T30	Unknown 662 671	Wisconsin
+T31	Unknown 676 689	Minnesota(14)
+T32	Organism1 691 696	Ticks
+T33	Body_part 716 720	area
+T34	Disease 724 733	infection
+T35	Organism2 761 769	carriers
+T36	Unknown 777 793	HGE pathogen(14)
+T37	Disease 799 809	infectious
+T38	Organism 810 815	agent
+T39	Organism 837 861	Ehrlichia phagocytophila
+T40	Organism 896 925	Anaplasma phagocytophilum(14)
+T41	Disease 928 942	Cell structure
+T42	Bio_Process 947 957	metabolism
+T43	Organism 958 983	Anaplasma phagocytophilum
+T44	Organism 995 1018	gram-negative bacterium
+T45	Value 1022 1038	0.2-2 micrometer
+T46	Unknown 1039 1050	diameter(5)
+T47	Location 1069 1082	intracellular
+T48	Organism1 1083 1091	pathogen
+T49	Organism2 1116 1120	host
+T50	Cell 1121 1125	cell
+T51	Developing_anatomy 1144 1165	morula microcolony(5)
+T52	Cellular_component 1174 1182	membrane
+T53	Geometrical_part 1183 1190	surface
+T54	Organism 1194 1219	Anaplasma phagocytophilum
+T55	Disease 1237 1252	major antigenic
+T56	Protein 1253 1270	membrane proteins
+T57	Protein 1272 1275	p44
+T58	Unknown 1280 1284	msp2
+T59	Value 1318 1324	44-kDa
+T60	Unknown 1328 1336	size(13)
+T61	Protein 1348 1365	membrane proteins
+T62	Process 1379 1383	role
+T63	Disease 1387 1422	Anaplasma phagocytophilum virulence
+T64	Organism 1428 1437	bacterium
+T65	Unknown 1444 1451	Type-IV
+T66	Process 1452 1461	secretion
+T67	Unknown 1537 1545	host(12)
+T68	Organism1 1559 1581	gram-negative bacteria
+T69	Organism 1583 1608	Anaplasma phagocytophilum
+T70	Protein 1617 1630	peptidoglycan
+T71	Unknown 1631 1636	layer
+T72	Location 1644 1649	outer
+T73	Unknown 1650 1661	membrane(7)
+T74	Protein 1689 1694	genes
+T75	Process 1713 1725	biosynthesis
+T76	Chemical 1729 1736	lipid A
+T77	Protein 1741 1754	peptidoglycan
+T78	Cell 1782 1787	cells
+T79	Unknown 1819 1828	stress(7)
+T80	Organism 1830 1855	Anaplasma phagocytophilum
+T81	Disease 1861 1868	disease
+T82	Location 1877 1890	intracellular
+T83	Organism 1891 1900	bacterium
+T84	Organism1 1904 1908	dogs
+T85	Organism1 1910 1916	humans
+T86	Organism1 1918 1924	horses
+T87	Unknown 1929 1941	ruminants(3)
+T88	Chemical 1952 1970	lipopolysaccharide
+T89	Unknown 1984 1997	machinery(12)
+T90	Organism1 2003 2011	bacteria
+T91	Organism2 2022 2026	host
+T92	Cellular_component 2027 2036	endosomes
+T93	Chemical 2061 2070	nutrients
+T94	Unknown 2102 2113	fission(12)
+T95	Process 2126 2130	lack
+T96	Protein 2160 2173	peptidoglycan
+T97	Organism 2175 2200	Anaplasma phagocytophilum
+T98	Cellular_component 2211 2219	membrane
+T99	Chemical 2220 2231	cholesterol
+T100	Unknown 2253 2265	integrity(7)
+T101	Organism 2267 2292	Anaplasma phagocytophilum
+T102	Protein 2304 2309	genes
+T103	Process 2325 2337	biosynthesis
+T104	Process 2341 2353	modification
+T105	Chemical 2357 2368	cholesterol
+T106	Chemical 2380 2390	sterols(7)
+T107	Chemical 2396 2408	cholesterols
+T108	Process 2483 2495	modification
+T109	Process 2503 2516	incorporation
+T110	Unknown 2526 2537	membrane(7)
+T111	Organism 2539 2564	Anaplasma phagocytophilum
+T112	Bio_Process 2586 2601	major metabolic
+T113	Process 2602 2610	pathways
+T114	Process 2621 2631	glycolysis
+T115	Disease 2637 2654	citric acid cycle
+T116	Chemical 2663 2680	pentose phosphate
+T117	Process 2681 2692	pathway(16)
+T118	Chemical 2719 2730	saccharides
+T119	Chemical 2739 2746	pentose
+T120	Chemical 2748 2756	fructose
+T121	Chemical 2761 2768	mannose
+T122	Bio_Process 2774 2783	metabolic
+T123	Unknown 2784 2801	intermediates(16)
+T124	Organism 2811 2836	Anaplasma phagocytophilum
+T125	Protein_part 2888 2895	regions
+T126	Habitat 2900 2913	North America
+T127	Unknown 2958 2965	Midwest
+T128	Unknown 2979 2989	California
+T129	Unknown 2997 3013	United States(5)
+T130	Habitat 3048 3056	European
+T131	Habitat 3061 3079	Asian countries(1)
+T132	Protein_part 3100 3107	regions
+T133	Value 3148 3150	10
+T134	Organism 3153 3178	Anaplasma phagocytophilum
+T135	Value 3211 3221	37 degrees
+T136	Unknown 3222 3235	Celcius(Park)
+T137	Organism2 3249 3253	host
+T138	Organism 3257 3282	Anaplasma phagocytophilum
+T139	Habitat 3286 3299	North America
+T140	Organism1 3320 3325	mouse
+T141	Organism1 3331 3343	human beings
+T142	Unknown 3365 3373	hosts(9)
+T143	Organism1 3391 3398	mammals
+T144	Organism1 3407 3413	horses
+T145	Organism1 3415 3419	cows
+T146	Organism1 3425 3430	sheep
+T147	Organism2 3444 3448	host
+T148	Unknown 3457 3469	bacterium(5)
+T149	Organism 3481 3506	Anaplasma phagocytophilum
+T150	Process 3514 3519	cause
+T151	Organism 3523 3541	Human granulocytic
+T152	Disease 3542 3554	ehrlichiosis
+T153	Organism1 3576 3581	human
+T154	Disease 3592 3600	zoonosis
+T155	Cell 3608 3619	neutrophils
+T156	Value 3621 3622	1
+T157	Organism1 3629 3637	pathogen
+T158	Cellular_component 3658 3689	polymorphonuclear leucocytes(1)
+T159	Disease 3695 3702	disease
+T160	Value 3727 3731	1990
+T161	Organism2 3737 3744	patient
+T162	Unknown 3748 3757	Wisconsin
+T163	Value 3759 3760	1
+T164	Disease 3763 3798	Anaplasma phagocytophilum infection
+T165	Organism1 3802 3808	humans
+T166	Process 3820 3825	onset
+T167	Bio_Process 3829 3838	apoptosis
+T168	Cell 3842 3853	neutrophils
+T169	Disease 3883 3893	infections
+T170	Unknown 3901 3915	neutrophils(5)
+T171	Organism 3917 3942	Anaplasma phagocytophilum
+T172	Process 3958 3966	increase
+T173	Protein 3970 3974	IL-8
+T174	Cell 3978 3988	neutrophil
+T175	Molecule 3989 4004	chemoattractant
+T176	Bio_Process 4024 4036	phagocytosis
+T177	Cell 4040 4051	neutrophils
+T178	Organism 4094 4117	bacterium dissemination
+T179	Unknown 4123 4137	neutrophils(5)
+T180	Process 4145 4157	permutations
+T181	Cell 4165 4176	neutrophils
+T182	Process 4203 4210	changes
+T183	Organism2 4223 4227	host
+T184	Unknown 4262 4275	infections(1)
+T185	Organism 4277 4295	Human granulocytic
+T186	Disease 4296 4308	anaplasmosis
+T187	Disease 4350 4358	symptoms
+T188	Disease 4362 4369	malaise
+T189	Disease 4371 4376	fever
+T190	Disease 4378 4385	myalgia
+T191	Disease 4387 4395	headache
+T192	Body_part 4397 4419	gastrointestinal tract
+T193	Process 4420 4431	involvement
+T194	Disease 4433 4439	nausea
+T195	Disease 4451 4459	diarrhea
+T196	Process 4465 4476	involvement
+T197	Body_part 4484 4501	respiratory tract
+T198	Disease 4503 4508	cough
+T199	Organ 4510 4519	pulmonary
+T200	Value 4534 4535	1
+T201	Pathological_formation 4544 4552	injuries
+T202	Organism_subdivision 4560 4564	body
+T203	Pathological_formation 4583 4592	skin rash
+T204	Disease 4594 4604	leukopenia
+T205	Disease 4606 4622	thrombocytopenia
+T206	Unknown 4642 4650	liver(1)
+T207	Organism 4652 4677	Anaplasma phagocytophilum
+T208	Disease 4690 4702	ehrlichiosis
+T209	Organism1 4712 4719	species
+T210	Organism1 4730 4750	domesticated animals
+T211	Organism1 4759 4765	horses
+T212	Organism1 4767 4772	sheep
+T213	Organism1 4778 4784	cattle
+T214	Value 4786 4788	10
+T215	Organism1 4802 4807	human
+T216	Disease 4808 4833	granulocytic anaplasmosis
+T217	Disease 4841 4846	forms
+T218	Disease 4850 4862	anaplasmosis
+T219	Organism 4881 4890	bacterium
+T220	Organism1 4907 4911	tick
+T221	Value 4919 4921	10
+T222	Unknown 4933 4951	
+T223	Protein 5000 5009	AnkA gene
+T224	Organism 5013 5038	Anaplasma phagocytophilum
+T225	Protein 5040 5044	AnkA
+T226	Protein 5050 5068	153-160kDa protein
+T227	Value 5074 5076	11
+T228	Protein_part 5077 5103	N-terminal ankyrin repeats
+T229	Protein_part 5110 5120	C-terminus
+T230	Unknown 5141 5152	repeats(17)
+T231	Protein 5165 5169	AnkA
+T232	Protein 5182 5189	protein
+T233	Organism 5222 5247	Anaplasma phagocytophilum
+T234	Disease 5290 5299	infection
+T235	Cell 5303 5314	neutrophils
+T236	Protein 5340 5344	AnkA
+T237	Organism 5356 5365	bacterium
+T238	Unknown 5374 5381	type IV
+T239	Process 5382 5391	secretion
+T240	Protein 5419 5435	nuclear proteins
+T241	Unknown 5439 5454	neutrophils(17)
+T242	Protein 5456 5460	AnkA
+T243	Process 5474 5483	different
+T244	Organism2 5484 5491	strains
+T245	Organism 5495 5520	Anaplasma phagocytophilum
+T246	Process 5530 5539	different
+T247	Protein_part 5561 5568	regions
+T248	Protein 5572 5588	conservation(17)
+T249	Process 5605 5611	effect
+T250	Process 5626 5635	variation
+T251	Protein 5639 5643	AnkA
+T252	Process 5651 5659	function
+T253	Unknown 5671 5679	Research
+T254	Organism 5726 5751	Anaplasma phagocytophilum
+T255	Multi-tissue_structure 5764 5777	immune system
+T256	Cell 5809 5820	neutrophils
+T257	Organism1 5828 5837	pathogens
+T258	Chemical 5849 5865	superoxide anion
+T259	Protein 5883 5908	NADPH oxidase complex(15)
+T260	Organism2 5935 5939	host
+T261	Cell 5940 5944	cell
+T262	Organism 5946 5971	Anaplasma phagocytophilum
+T263	Chemical 5995 6005	superoxide
+T264	Cellular_component 6065 6072	vacuole
+T265	Chemical 6097 6107	superoxide
+T266	Unknown 6108 6118	anions(15)
+T267	Process 6124 6133	mechanism
+T268	Chemical 6137 6153	superoxide anion
+T269	Parameter 6154 6164	resistance
+T270	Unknown 6191 6199	Research
+T271	Parameter 6225 6229	area
+T272	Process 6245 6256	interaction
+T273	Organism 6265 6290	Anaplasma phagocytophilum
+T274	Organism 6295 6314	Anaplasma marginale
+T275	Organism1 6336 6342	cattle
+T276	Organism1 6347 6353	horses
+T277	Organism 6365 6384	Anaplasma marginale
+T278	Molecule 6386 6396	antibodies
+T279	Organism 6400 6418	A. phagocytophilum
+T280	Unknown 6429 6441	produced(10)
+T281	Organism1 6455 6461	cattle
+T282	Organism1 6466 6472	horses
+T283	Organism 6484 6502	A. phagocytophilum
+T284	Molecule 6516 6526	antibodies
+T285	Protein 6533 6546	marginale(10)
+T286	Process 6612 6622	evaluation
+T287	Protein 5088 5095	ankyrin
+T288	Chemical 5883 5888	NADPH
+T289	Body_part 584 596	granulocytic
+T290	Cell 928 942	Cell structure
+T291	Organ 4583 4587	skin
+T292	Body_part 4808 4820	granulocytic

@@ -1,0 +1,57 @@
+T1	Organism 0 25	Borrelia turicatae 91E135
+T2	Process 26 37	Description
+T3	Organism 38 56	Borrelia turicatae
+T4	Organism 58 76	Borrelia turicatae
+T5	Unknown 94 99	agent
+T6	Organism1 103 107	tick
+T7	Disease 114 129	relapsing fever
+T8	Unknown 150 156	United
+T9	Unknown 157 163	States
+T10	Organism1 165 170	Ticks
+T11	Organism 192 200	Borrelia
+T12	Disease 221 229	infected
+T13	Organism1 230 236	mammal
+T14	Organism1 248 254	rodent
+T15	Organism1 258 266	squirrel
+T16	Organism 268 276	Borrelia
+T17	Disease 312 333	generalized infection
+T18	Organism1 349 353	tick
+T19	Organism1 374 378	tick
+T20	Organism 390 400	spirochete
+T21	Organism2 408 422	mammalian host
+T22	Body_part 446 452	saliva
+T23	Organism1 454 460	Humans
+T24	Disease 483 491	infected
+T25	Organism1 492 497	ticks
+T26	Process 506 513	contact
+T27	Organism1 519 526	rodents
+T28	Organism1 530 536	rodent
+T29	Disease 544 559	Relapsing fever
+T30	Parameter 580 586	period
+T31	Disease 590 596	chills
+T32	Disease 598 603	fever
+T33	Disease 605 613	headache
+T34	Disease 619 626	malaise
+T35	Disease 688 696	symptoms
+T36	Process 731 738	changes
+T37	Protein 746 762	surface proteins
+T38	Organism 766 774	Borrelia
+T39	Process 800 809	detection
+T40	Process 814 821	removal
+T41	Organism2 829 833	host
+T42	Multi-tissue_structure 834 847	immune system
+T43	Disease 854 863	antigenic
+T44	Process 864 873	variation
+T45	Process 891 915	homologous recombination
+T46	Protein 926 934	proteins
+T47	Protein_part 953 958	locus
+T48	Process 988 999	replacement
+T49	Organism1 1007 1015	serotype
+T50	Process 1030 1041	Description
+T51	Organism 1042 1067	Borrelia turicatae 91E135
+T52	Organism2 1074 1080	strain
+T53	Unknown 1101 1107	United
+T54	Unknown 1108 1114	States
+T55	Organism1 1129 1156	tick Ornithodoros turicatae
+T56	Technique 1190 1198	analysis
+T57	Organism1 408 417	mammalian

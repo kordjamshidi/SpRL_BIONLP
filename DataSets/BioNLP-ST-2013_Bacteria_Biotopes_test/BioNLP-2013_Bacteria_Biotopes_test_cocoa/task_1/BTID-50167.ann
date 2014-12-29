@@ -1,0 +1,123 @@
+T1	Organism 0 41	
+T2	Organism1 53 61	organism
+T3	Protein 66 73	genetic
+T4	Process 74 86	manipulation
+T5	Organism 87 107	Thermus thermophilus
+T6	Mutant_Organism 113 117	Gram
+T7	Organism 129 148	aerobic eubacterium
+T8	Parameter 167 179	temperatures
+T9	Value 193 195	50
+T10	Protein_part 199 202	82C
+T11	Organism1 208 216	organism
+T12	Organism2 218 229	strain HB27
+T13	Habitat 278 289	environment
+T14	Habitat 293 298	Japan
+T15	Process 308 314	growth
+T16	Protein_part 325 328	68C
+T17	Parameter 333 335	pH
+T18	Value 336 339	7.0
+T19	Organism2 345 351	strain
+T20	Process 391 405	transformation
+T21	Protein 435 442	genetic
+T22	Process 443 455	manipulation
+T23	Organism1 470 482	thermophiles
+T24	Habitat 507 519	environments
+T25	Organism1 531 540	anaerobes
+T26	Process 546 557	consequence
+T27	Process 565 575	adaptation
+T28	Parameter 587 597	solubility
+T29	Chemical 601 607	oxygen
+T30	Parameter 617 629	temperatures
+T31	Organism 640 655	Thermus species
+T32	Process 663 672	exception
+T33	Organism1 699 723	aerobic chemorganotrophs
+T34	Organism 737 761	Thermus thermophilus HB8
+T35	Process 799 807	presence
+T36	Chemical 811 818	nitrate
+T37	Process 826 835	synthesis
+T38	Complex 843 868	nitrate reductase complex
+T39	Protein 888 894	operon
+T40	Process 896 906	Expression
+T41	Protein 917 923	operon
+T42	Chemical 945 951	oxygen
+T43	Parameter 952 966	concentrations
+T44	Chemical 972 979	nitrate
+T45	Organism 992 1012	T. thermophilus HB27
+T46	Unknown 1063 1073	conditions
+T47	Profession 1075 1086	Researchers
+T48	Chemical 1141 1148	nitrate
+T49	Process 1149 1158	reduction
+T50	Organism2 1185 1204	aerobic strain HB27
+T51	Process 1208 1219	conjugation
+T52	Process 1226 1237	conjugation
+T53	Process 1264 1275	integration
+T54	Body_part 1293 1300	plasmid
+T55	Protein 1320 1326	operon
+T56	Protein 1336 1350	HB8 chromosome
+T57	Protein 1379 1389	chromosome
+T58	Unknown 1396 1399	Hfr
+T59	Parameter 1411 1420	frequency
+T60	Process 1424 1437	recombination
+T61	Process 1439 1448	mechanism
+T62	Protein 1479 1498	chromosomal markers
+T63	Parameter 1504 1508	time
+T64	Process 1584 1589	basis
+T65	Protein 1593 1600	protein
+T66	Process 1624 1634	adaptation
+T67	Process 1650 1658	survival
+T68	Parameter 1667 1679	temperatures
+T69	Process 1698 1710	applications
+T70	Protein 1732 1739	enzymes
+T71	Organism 1770 1785	T. thermophilus
+T72	Location 1792 1801	intrinsic
+T73	State 1802 1811	stability
+T74	Parameter 1816 1826	resistance
+T75	Protein 1854 1870	chemical factors
+T76	Process 1913 1922	processes
+T77	Protein 1929 1936	enzymes
+T78	Organism 1940 1955	Thermus species
+T79	Process 1993 2005	applications
+T80	Protein 2014 2028	DNA polymerase
+T81	Protein 2047 2053	enzyme
+T82	Technique 2062 2076	PCR techniques
+T83	Parameter 2084 2090	fields
+T84	Process 2094 2105	application
+T85	Protein 2123 2130	enzymes
+T86	Chemical 2135 2141	starch
+T87	Protein 2160 2169	-amylases
+T88	Protein 2171 2189	glucose isomerases
+T89	Process 2200 2209	synthesis
+T90	Protein 2217 2226	esterases
+T91	Protein 2228 2235	lipases
+T92	Protein 2237 2246	proteases
+T93	Process 2268 2277	treatment
+T94	Protein 2313 2322	xylanases
+T95	Organism1 2329 2335	animal
+T96	Food 2336 2340	feed
+T97	Organism1 2345 2350	human
+T98	Food 2351 2355	food
+T99	Protein_part 2357 2367	amino acid
+T100	Chemical 2372 2379	vitamin
+T101	Process 2380 2389	synthesis
+T102	Profession 2392 2403	Researchers
+T103	Process 2423 2434	comparisons
+T104	Organism 2458 2491	bacterium Deinococcus radiodurans
+T105	Organism 2496 2511	T. thermophilus
+T106	Organism1 2518 2527	organisms
+T107	Protein 2551 2559	proteins
+T108	Protein 2576 2583	genomes
+T109	Protein 2617 2622	genes
+T110	Parameter 2626 2635	potential
+T111	Process 2666 2678	applications
+T112	Organism 2693 2713	T. thermophilus HB27
+T113	Protein 2742 2751	proteases
+T114	Protein 2760 2767	enzymes
+T115	Process 2800 2809	processes
+T116	Molecule 2818 2821	DNA
+T117	Process 2822 2833	replication
+T118	Molecule 2835 2838	DNA
+T119	Process 2839 2845	repair
+T120	Protein 2850 2853	RNA
+T121	Process 2854 2864	maturation
+T122	Chemical 1854 1862	chemical
+T123	Chemical 2171 2178	glucose

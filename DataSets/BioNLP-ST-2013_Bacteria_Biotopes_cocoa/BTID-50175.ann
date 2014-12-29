@@ -1,0 +1,34 @@
+T1	Organism 0 47	
+T2	Food 55 59	food
+T3	Disease 66 81	gastroenteritis
+T4	Unknown 82 89	Vibrios
+T5	Organism1 108 126	anaerobic bacteria
+T6	Organism 165 183	Enterobacteriaceae
+T7	Habitat 208 214	oceans
+T8	Chemical 224 230	waters
+T9	Habitat 236 245	estuaries
+T10	Organism 247 270	Vibrio parahaemolyticus
+T11	Organism 276 298	Gram-negative bacillus
+T12	Unknown 309 315	family
+T13	Process 330 335	cause
+T14	Disease 336 343	cholera
+T15	Chemical 375 381	waters
+T16	Value 400 406	higher
+T17	Parameter 407 421	concentrations
+T18	Chemical 460 464	salt
+T19	Organism1 475 483	organism
+T20	Organism 485 508	Vibrio parahaemolyticus
+T21	Food 516 520	food
+T22	Disease 527 542	gastroenteritis
+T23	Organ 563 570	stomach
+T24	Organ 575 590	small intestine
+T25	Disease 632 639	illness
+T26	Body_part 662 668	fluids
+T27	Organism1 674 692	bacterial pathogen
+T28	Habitat 717 730	North America
+T29	Food 761 768	seafood
+T30	Organism1 801 809	organism
+T31	Disease 823 832	infection
+T32	Organ 840 844	skin
+T33	Pathological_formation 853 863	open wound
+T34	Chemical 883 891	seawater

@@ -1,0 +1,92 @@
+T1	Organism 0 53	
+T2	Organism_subdivision 67 70	gut
+T3	Organism1 78 88	tsetse fly
+T4	Organism1 110 118	parasite
+T5	Habitat 131 138	African
+T6	Disease 148 156	sickness
+T7	Organism 157 183	Wigglesworthia glossinidia
+T8	Organism 201 221	Glossina brevipalpis
+T9	Protein 246 253	genomes
+T10	Organism 279 288	bacterium
+T11	Organism2 311 318	British
+T12	Habitat 356 386	Sir Vincent Brian Wigglesworth
+T13	Organism 388 414	Wigglesworthia glossinidia
+T14	Organism_subdivision 432 435	gut
+T15	Tissue 443 448	blood
+T16	Organism1 457 467	tsetse fly
+T17	Organism1 473 476	fly
+T18	Organism1 489 497	parasite
+T19	Organism1 507 518	trypanosome
+T20	Habitat 543 550	African
+T21	Disease 560 568	sickness
+T22	Organism 588 597	bacterium
+T23	Organism1 602 605	fly
+T24	Disease 614 623	symbiosis
+T25	Organism 629 638	bacterium
+T26	Organism2 663 674	insect host
+T27	Process 704 716	co-evolution
+T28	Organism 733 742	bacterium
+T29	Protein 761 767	genome
+T30	Protein 781 786	genes
+T31	Organism2 800 804	host
+T32	Organism 806 822	Wigglesworthia's
+T33	Protein 823 829	genome
+T34	Organism1 871 879	organism
+T35	Protein 889 894	genes
+T36	Process 899 907	motility
+T37	Profession 918 928	scientists
+T38	Organism 945 959	Wigglesworthia
+T39	Protein 977 982	genes
+T40	Cellular_component 1018 1026	cellular
+T41	Cellular_component 1043 1051	flagella
+T42	Organism 1061 1075	Wigglesworthia
+T43	Organism1 1088 1106	adult tsetse flies
+T44	Organism1 1110 1116	larvae
+T45	Organism1 1122 1139	female tsetse fly
+T46	Organ 1168 1174	uterus
+T47	Organism1 1184 1192	bacteria
+T48	Organism2 1226 1234	mother's
+T49	Food 1235 1239	milk
+T50	Cellular_component 1256 1264	flagella
+T51	Organism1 1286 1294	bacteria
+T52	Process 1298 1308	locomotion
+T53	Process 1315 1323	invasion
+T54	Cell 1331 1343	larval cells
+T55	Protein 1349 1355	genome
+T56	Protein 1378 1383	genes
+T57	Process 1400 1409	synthesis
+T58	Unknown 1413 1431	vitamins-nutrients
+T59	Organism1 1441 1451	tsetse fly
+T60	Process 1470 1479	fertility
+T61	Organism1 1549 1552	fly
+T62	Organism1 1568 1576	bacteria
+T63	Chemical 1594 1602	vitamins
+T64	Food 1631 1635	diet
+T65	Tissue 1639 1644	blood
+T66	Organism1 1658 1666	bacteria
+T67	Chemical 1672 1680	vitamins
+T68	Organism1 1687 1697	tsetse fly
+T69	Bio_Process 1715 1724	sterility
+T70	Disease 1770 1777	disease
+T71	Organism1 1795 1803	bacteria
+T72	Organism1 1809 1821	tsetse flies
+T73	Profession 1823 1833	scientists
+T74	Process 1849 1860	development
+T75	Organism2 1864 1873	offspring
+T76	Organism1 1883 1886	fly
+T77	Disease 1903 1910	disease
+T78	Process 1911 1923	transmission
+T79	Process 1945 1958	deterioration
+T80	Habitat 1962 1977	southern Africa
+T81	Disease 1994 2007	AIDS epidemic
+T82	Organism1 2053 2073	trypanosome parasite
+T83	Process 2089 2093	rise
+T84	Disease 2106 2114	sickness
+T85	Value 2145 2152	500,000
+T86	Disease 2173 2180	disease
+T87	Value 2182 2198	about 80 percent
+T88	Disease 2234 2241	disease
+T89	Value 2248 2263	about 3 million
+T90	Organism_subdivision 2264 2268	head
+T91	Organism1 2272 2281	livestock
+T92	Organism1 663 669	insect

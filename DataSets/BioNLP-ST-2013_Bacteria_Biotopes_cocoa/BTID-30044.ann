@@ -1,0 +1,72 @@
+T1	Molecular_Part 14 19	group
+T2	Unknown 32 38	agents
+T3	Organism1 42 48	animal
+T4	Disease 49 57	diseases
+T5	Organism1 85 92	species
+T6	Organism1 96 107	mycoplasmas
+T7	Molecular_Part 138 143	group
+T8	Unknown 145 148	(M.
+T9	Unknown 158 161	ssp
+T10	Unknown 171 181	SC (MmmSC)
+T11	Organism 183 194	M. mycoides
+T12	Unknown 195 198	ssp
+T13	Unknown 208 218	LC (MmmLC)
+T14	Organism 220 231	M. mycoides
+T15	Unknown 232 235	ssp
+T16	Unknown 242 247	(Mmc)
+T17	Organism 249 262	M. capricolum
+T18	Unknown 263 266	ssp
+T19	Unknown 278 283	(Mcc)
+T20	Organism 285 298	M. capricolum
+T21	Unknown 299 302	ssp
+T22	Disease 303 317	capripneumonia
+T23	Unknown 318 324	(Mccp)
+T24	Unknown 326 328	M.
+T25	Unknown 332 339	Group 7
+T26	Unknown 343 348	Leach
+T27	Parameter 349 354	(Mg7)
+T28	Organism1 363 372	pathogens
+T29	Organism1 376 385	ruminants
+T30	Unknown 401 406	MmmSC
+T31	Unknown 411 415	Mccp
+T32	Disease 437 445	diseases
+T33	Unknown 462 463	B
+T34	Organism1 471 476	goose
+T35	Disease 605 614	syndromes
+T36	Organism1 618 627	ruminants
+T37	Disease 645 653	mammitis
+T38	Disease 655 664	arthritis
+T39	Disease 666 675	keratitis
+T40	Disease 677 686	pneumonia
+T41	Disease 691 701	septicemia
+T42	Habitat 743 748	farms
+T43	Chemical 763 774	antibiotics
+T44	Disease 829 838	infection
+T45	Organism1 865 876	mycoplasmal
+T46	Protein 877 884	genomes
+T47	Molecular_Part 905 910	group
+T48	Organism1 983 990	species
+T49	Process 1006 1013	tropism
+T50	Organism1 1034 1041	species
+T51	Organism1 1043 1049	cattle
+T52	Organism1 1053 1057	goat
+T53	Organ 1078 1083	organ
+T54	Organ 1085 1089	lung
+T55	Unknown 1094 1099	MmmSC
+T56	Organ 1101 1114	mammary gland
+T57	Unknown 1119 1124	MmmLC
+T58	Protein 1172 1179	genomes
+T59	Molecular_Part 1213 1218	group
+T60	Bio_Process 1270 1279	phylogeny
+T61	Protein 1300 1305	genes
+T62	Disease 1326 1336	pathogenic
+T63	Parameter 1337 1347	capacities
+T64	Molecular_Part 1367 1372	group
+T65	Organism 1407 1424	Spiroplasma citri
+T66	Organism 1429 1440	S. kunkelii
+T67	Organism1 1442 1457	plant pathogens
+T68	Technique 1468 1478	sequencing
+T69	Parameter 1518 1523	value
+T70	Process 1579 1584	basis
+T71	Process 1593 1605	developoment
+T72	Technique 1609 1630	diagnostic techniques

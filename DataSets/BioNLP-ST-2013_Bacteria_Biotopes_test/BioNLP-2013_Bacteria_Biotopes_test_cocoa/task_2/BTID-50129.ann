@@ -1,0 +1,98 @@
+T1	Organism 0 23	Propionibacterium acnes
+T2	Organism 24 47	Propionibacterium acnes
+T3	Organism 80 103	Propionibacterium acnes
+T4	Organism1 129 140	adult human
+T5	Organ 141 145	skin
+T6	Body_part 171 190	sebaceous follicles
+T7	Disease 259 272	acne vulgaris
+T8	Process 273 282	formation
+T9	Organism 284 307	Propionibacterium acnes
+T10	Unknown 327 331	Gram
+T11	Body_part 343 352	non-spore
+T12	Cell 372 375	rod
+T13	Organism 411 419	P. acnes
+T14	Organism1 451 459	anaerobe
+T15	Organism2 475 482	strains
+T16	Process 523 529	growth
+T17	Organism1 536 544	anaerobe
+T18	Chemical 576 590	propionic acid
+T19	Protein 595 603	catalase
+T20	Chemical 615 621	indole
+T21	Chemical 623 630	nitrate
+T22	Chemical 640 646	indole
+T23	Chemical 651 658	nitrate
+T24	Organism 660 677	Propionibacterium
+T25	Organism 688 703	Corynebacterium
+T26	State 707 717	morphology
+T27	Process 722 733	arrangement
+T28	Organism 757 765	P. acnes
+T29	Unknown 783 788	agent
+T30	Disease 792 805	acne vulgaris
+T31	Pathological_formation 807 814	pimples
+T32	Organ 862 868	glands
+T33	Organism1 876 881	human
+T34	Organ 882 886	skin
+T35	Protein 892 916	bacteria release lipases
+T36	Organ 944 948	skin
+T37	Chemical 949 952	oil
+T38	Body_part 954 959	sebum
+T39	Bio_Process 1004 1013	digestive
+T40	Category 1014 1022	products
+T41	Chemical 1024 1035	fatty acids
+T42	Organism 1041 1050	bacterial
+T43	Protein 1051 1059	antigens
+T44	Pathological_formation 1082 1100	local inflammation
+T45	Body_part 1117 1130	hair follicle
+T46	Pathological_formation 1140 1146	lesion
+T47	Geometrical_part 1160 1167	surface
+T48	Organ 1175 1179	skin
+T49	Pathological_formation 1197 1216	pustule (Whitehead)
+T50	Pathological_formation 1224 1228	acne
+T51	Disease 1255 1264	infection
+T52	Multi-tissue_structure 1304 1308	oral
+T53	Chemical 1309 1320	antibiotics
+T54	Chemical 1329 1340	clindamycin
+T55	Chemical 1342 1354	erythromycin
+T56	Chemical 1359 1371	tetracycline
+T57	Procedure 1393 1400	therapy
+T58	Chemical 1409 1418	chemicals
+T59	Organ 1432 1436	skin
+T60	Process 1437 1444	removal
+T61	Chemical 1451 1467	benzoyl peroxide
+T62	Process 1481 1491	production
+T63	Body_part 1495 1500	sebum
+T64	Unknown 1502 1509	Retin A
+T65	Chemical 1514 1522	Accutane
+T66	Organism 1525 1533	P. acnes
+T67	Chemical 1567 1599	beta-lactam antimicrobial agents
+T68	Chemical 1608 1620	piperacillin
+T69	Chemical 1625 1646	ampicillin-sulbactain
+T70	Organism1 1653 1661	bacteria
+T71	Chemical 1688 1700	penicillin G
+T72	Pathological_formation 1702 1706	Acne
+T73	Organism 1717 1740	Propionibacterium acnes
+T74	Organism2 1758 1764	adults
+T75	Parameter 1774 1777	age
+T76	Value 1781 1783	25
+T77	Value 1790 1799	about 20%
+T78	Parameter 1827 1830	age
+T79	Value 1834 1836	25
+T80	Pathological_formation 1842 1846	acne
+T81	Bio_Process 1858 1867	adulthood
+T82	Organism2 1872 1877	women
+T83	Organism2 1904 1907	men
+T84	Disease 1915 1925	infections
+T85	Organism 1936 1944	P. ances
+T86	Pathological_formation 1973 1987	corneal ulcers
+T87	Body_part 1989 2001	heart valves
+T88	Technique 2006 2024	prosthetic devices
+T89	Body_part 2030 2059	central nervous system shunts
+T90	Disease 2068 2081	heart disease
+T91	Organism 2091 2114	Propionibacterium acnes
+T92	Disease 2115 2127	endocarditis
+T93	Body_part 2164 2169	valve
+T94	Organism 2184 2192	P. acnes
+T95	Body_part 2199 2204	valve
+T96	Pathological_formation 2229 2255	multiple mycotic aneurysms
+T97	Multi-tissue_structure 1973 1980	corneal
+T98	Organ 2068 2073	heart

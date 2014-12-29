@@ -1,0 +1,39 @@
+T1	Bacteria 4 30	Granulibacter bethesdensis
+T2	Bacteria 65 91	Granulibacter bethesdensis
+T3	Habitat 112 116	soil
+T4	Habitat 121 127	plants
+T5	Habitat 143 148	human
+T6	Habitat 334 339	water
+T7	Bacteria 535 561	Granulibacter bethesdensis
+T8	Habitat 629 654	ethanol-CaCO3 agar plates
+T9	Bacteria 685 711	Granulibacter bethesdensis
+T10	Bacteria 775 791	Acetobacteraceae
+T11	Bacteria 800 826	Granulibacter bethesdensis
+T12	Habitat 832 856	ubiquitous environmental
+T13	Habitat 896 909	organic waste
+T14	Bacteria 929 945	Acetobacteraceae
+T15	Habitat 966 970	soil
+T16	Habitat 991 997	plants
+T17	Bacteria 1003 1019	Asaia bogorensis
+T18	Habitat 1059 1064	human
+T19	Bacteria 1099 1125	Granulibacter bethesdensis
+T20	Bacteria 1131 1157	Granulibacter bethesdensis
+T21	Habitat 1270 1275	water
+T22	Bacteria 1356 1382	Granulibacter bethesdensis
+T23	Habitat 1567 1577	phagocytes
+T24	Habitat 1714 1728	CGD phagocytes
+T25	Bacteria 1833 1841	bacteria
+T26	Bacteria 1950 1976	Granulibacter bethesdensis
+T27	Habitat 2089 2114	patient with X-linked CGD
+T28	Bacteria 2164 2190	Granulibacter bethesdensis
+T29	Habitat 2269 2272	air
+T30	Habitat 2293 2300	vinegar
+T31	Habitat 2316 2320	wine
+T32	Habitat 2357 2376	microbial fuel cell
+T33	Habitat 2367 2371	fuel
+T34	Bacteria 2547 2573	Granulibacter bethesdensis
+T35	Bacteria 2579 2605	Granulibacter bethesdensis
+T36	Bacteria 2669 2677	bacteria
+T37	Habitat 2688 2698	scientists
+T38	Bacteria 2752 2778	Granulibacter bethesdensis
+T39	Bacteria 2851 2859	bacteria

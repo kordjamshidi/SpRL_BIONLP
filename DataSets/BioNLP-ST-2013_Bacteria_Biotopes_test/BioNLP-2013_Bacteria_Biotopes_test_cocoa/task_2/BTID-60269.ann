@@ -1,0 +1,135 @@
+T1	Disease 35 49	Cell structure
+T2	Bio_Process 54 64	metabolism
+T3	Unknown 65 78	Granulibacter
+T4	Organism1 121 127	plants
+T5	Organism1 143 148	human
+T6	Unknown 150 152	It
+T7	Chemical 167 178	acetic acid
+T8	Chemical 182 199	oxidizing glucose
+T9	Chemical 204 211	ethanol
+T10	Chemical 230 237	lactose
+T11	Chemical 239 247	mannitol
+T12	Chemical 249 256	sucrose
+T13	Chemical 258 265	maltose
+T14	Chemical 269 275	xylose
+T15	Value 277 278	1
+T16	Unknown 280 282	It
+T17	Chemical 292 299	lactate
+T18	Chemical 304 311	acetate
+T19	Chemical 315 329	carbon dioxide
+T20	Chemical 334 339	water
+T21	Chemical 350 358	methanol
+T22	Chemical 369 375	carbon
+T23	Chemical 404 415	fatty acids
+T24	Chemical 422 453	straight-chain unsaturated acid
+T25	Value 455 458	50%
+T26	Cellular_component 468 476	cellular
+T27	Chemical 477 487	fatty acid
+T28	Unknown 488 495	2)C16:0
+T29	Value 497 500	17%
+T30	Cellular_component 510 518	cellular
+T31	Chemical 519 529	fatty acid
+T32	Chemical 571 582	acetic acid
+T33	Value 597 602	lower
+T34	Parameter 603 616	concentration
+T35	Chemical 620 625	CaCO3
+T36	Chemical 629 647	ethanol-CaCO3 agar
+T37	Value 656 657	1
+T38	Process 668 681	Contributions
+T39	Unknown 685 698	Granulibacter
+T40	Organism1 762 771	organisms
+T41	Chemical 775 798	Acetobacteraceae family
+T42	Unknown 800 813	Granulibacter
+T43	Organism1 857 865	organism
+T44	Process 878 892	biodegradation
+T45	Organism1 916 925	organisms
+T46	Chemical 929 952	Acetobacteraceae family
+T47	Organism1 991 997	plants
+T48	Organism 1003 1019	Asaia bogorensis
+T49	Organism1 1038 1046	organism
+T50	Organism1 1059 1064	human
+T51	Disease 1065 1072	disease
+T52	Unknown 1081 1087	family
+T53	Unknown 1099 1112	Granulibacter
+T54	Value 1127 1128	4
+T55	Chemical 1180 1187	ethanol
+T56	Chemical 1189 1197	methanol
+T57	Chemical 1202 1214	formaldehyde
+T58	Category 1236 1244	products
+T59	Chemical 1254 1268	carbon dioxide
+T60	Chemical 1270 1275	water
+T61	Chemical 1285 1296	acetic acid
+T62	Value 1298 1301	1,2
+T63	Process 1335 1345	mechanisms
+T64	Unknown 1356 1369	Granulibacter
+T65	Disease 1390 1425	chronic granulomatous disease (CGD)
+T66	Process 1449 1463	investigations
+T67	Disease 1465 1468	CGD
+T68	Process 1484 1490	defect
+T69	Value 1505 1506	4
+T70	Protein 1507 1515	subunits
+T71	Protein 1523 1536	NADPH oxidase
+T72	Cell 1567 1577	phagocytes
+T73	Chemical 1590 1633	antimicrobial reactive oxygen intermediates
+T74	Value 1635 1636	5
+T75	Protein 1658 1666	catalase
+T76	Organism1 1676 1685	pathogens
+T77	Disease 1693 1696	CGD
+T78	Disease 1714 1717	CGD
+T79	Cell 1718 1728	phagocytes
+T80	Process 1736 1745	oxidative
+T81	Chemical 1746 1757	metabolites
+T82	Value 1779 1784	2,5,6
+T83	Protein 1815 1823	catalase
+T84	Organism1 1833 1841	bacteria
+T85	Disease 1853 1856	CGD
+T86	Process 1891 1900	mechanism
+T87	Protein 1908 1916	catalase
+T88	Value 1918 1919	2
+T89	Unknown 1950 1963	Granulibacter
+T90	Disease 1985 1994	virulence
+T91	Disease 2022 2027	fever
+T92	Disease 2029 2043	plympahdenitis
+T93	Disease 2049 2060	weight loss
+T94	Value 2066 2083	almost six months
+T95	Organism2 2089 2096	patient
+T97	Disease 2111 2114	CGD
+T98	Value 2116 2117	2
+T99	Process 2120 2131	Application
+T100	Unknown 2135 2148	Biotechnology
+T101	Unknown 2164 2177	Granulibacter
+T102	Chemical 2202 2209	ethanol
+T103	Chemical 2214 2221	glucose
+T104	Chemical 2238 2249	acetic acid
+T105	Process 2257 2265	presence
+T106	Chemical 2269 2272	air
+T107	Food 2293 2300	vinegar
+T108	Process 2301 2311	production
+T109	Food 2316 2320	wine
+T110	Process 2321 2333	fermentation
+T111	Value 2335 2336	2
+T112	Organism1 2357 2366	microbial
+T113	Cell 2372 2376	cell
+T114	Process 2382 2392	production
+T115	Protein_part 2405 2416	polypeptide
+T116	Protein 2417 2424	enzymes
+T117	Unknown 2453 2465	
+T118	Disease 2530 2543	pathogenicity
+T119	Unknown 2547 2560	Granulibacter
+T120	Value 2575 2576	2
+T121	Protein 2606 2612	genome
+T122	Protein_part 2613 2621	sequence
+T123	Organism1 2669 2677	bacteria
+T124	Value 2679 2680	7
+T125	Profession 2688 2698	scientists
+T126	Parameter 2738 2748	resistance
+T127	Unknown 2752 2765	Granulibacter
+T128	Chemical 2787 2798	antibiotics
+T129	Parameter 2820 2830	resistance
+T130	Location 2834 2843	intrinsic
+T131	Organism1 2851 2859	bacteria
+T132	Chemical 2874 2884	antibiotic
+T133	Procedure 2885 2894	therapies
+T134	Value 2896 2897	4
+T135	Chemical 1523 1528	NADPH
+T136	Cell 35 49	Cell structure

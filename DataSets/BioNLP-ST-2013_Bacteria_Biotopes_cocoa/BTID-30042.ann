@@ -1,0 +1,296 @@
+T1	Organism1 6 14	pathogen
+T2	Organism1 18 23	sheep
+T3	Organism1 28 33	goats
+T4	Unknown 34 41	General
+T5	Mutant_Organism 60 71	Mycoplasmas
+T6	Organism 76 107	bacterium Mycoplasma agalactiae
+T7	Organism1 119 127	pathogen
+T8	Organism1 137 146	ruminants
+T9	Organism1 153 160	species
+T10	Molecular_Part 176 181	group
+T11	Organism 212 222	Mollicutes
+T12	Organ 225 234	soft skin
+T13	Organism1 238 246	bacteria
+T14	Process 278 285	absence
+T15	Cellular_component 291 300	cell wall
+T16	Organism 306 316	Mollicutes
+T17	Value 318 327	about 200
+T18	Organism1 328 335	species
+T19	Organism 355 370	bacterial taxon
+T20	Organism1 374 396	Gram-positive bacteria
+T21	Unknown 406 409	G+C
+T22	Organism 422 432	Firmicutes
+T23	Organ 435 444	hard skin
+T24	Cellular_component 470 479	cell wall
+T25	Process 485 489	loss
+T26	Cellular_component 498 507	cell wall
+T27	State 536 541	state
+T28	Organism 546 556	Mollicutes
+T29	Organism 576 586	Firmicutes
+T30	Mutant_Organism 607 617	Clostridia
+T31	Organism1 626 633	Bacilli
+T32	Molecular_Part 650 656	groups
+T33	Protein 709 715	genome
+T34	Parameter 716 720	size
+T35	Process 761 771	importance
+T36	Organism1 777 788	mycoplasmas
+T37	Technique 823 833	sequencing
+T38	Protein 849 856	genomes
+T39	Molecular_Part 894 899	group
+T40	Molecular_Part 918 923	group
+T41	Unknown 931 942	Spring 2005
+T42	Protein_part 956 965	sequences
+T43	Organism 969 993	Mycoplasma gallisepticum
+T44	Organism 995 1008	M. genitalium
+T45	Organism 1010 1026	M. hyopneumoniae
+T46	Organism 1028 1037	M. mobile
+T47	Organism 1039 1050	M. mycoides
+T48	Organism 1052 1065	M. penetrans.
+T49	Organism 1067 1080	M. pneumoniae
+T50	Organism 1082 1093	M. pulmonis
+T51	Organism 1095 1112	Mesoplasma florum
+T52	Chemical 1114 1143	Ureaplasma urealyticum/parvum
+T53	Organism 1145 1164	Phytoplasma asteris
+T54	Protein 1196 1203	genomes
+T55	Process 1215 1222	process
+T56	Protein_part 1255 1264	sequences
+T57	Organism 1272 1282	Mollicutes
+T58	Unknown 1305 1309	G+C%
+T59	Organism 1311 1320	U. parvum
+T60	Organism1 1342 1350	bacteria
+T61	Parameter 1358 1363	value
+T62	Value 1367 1372	25.5%
+T63	Organism1 1379 1395	genus Mycoplasma
+T64	Process 1419 1428	variation
+T65	Protein 1436 1443	genetic
+T66	Protein_part 1455 1473	nonsense codon UGA
+T67	Protein_part 1484 1494	tryptophan
+T68	Process 1498 1504	change
+T69	Unknown 1539 1542	G+C
+T70	Protein_part 1567 1580	Trp codon UGG
+T71	Process 1587 1596	reduction
+T72	Parameter 1600 1604	size
+T73	Organism1 1608 1619	mycoplasmal
+T74	Protein 1620 1627	genomes
+T75	Organism1 1680 1688	bacteria
+T76	Process 1699 1706	contact
+T77	Organism2 1718 1722	host
+T78	Organism1 1754 1763	pathogens
+T79	Location 1794 1807	intracellular
+T80	Organism1 1808 1817	parasites
+T81	Organism1 1842 1849	animals
+T82	Organism1 1861 1867	humans
+T83	Organism1 1872 1879	insects
+T84	Organism1 1885 1891	plants
+T85	Mutant_Organism 1893 1905	Spiroplasmas
+T86	Mutant_Organism 1910 1922	Phytoplasmas
+T87	Process 1929 1937	adoption
+T88	Organism1 1944 1953	parasitic
+T89	Organism2 2010 2014	host
+T90	Cell 2015 2019	cell
+T91	Bio_Process 2041 2050	metabolic
+T92	Process 2051 2060	functions
+T93	Organism1 2083 2094	Mycoplasmas
+T94	Unknown 2117 2127	precursors
+T95	Process 2145 2149	loss
+T96	Protein 2153 2158	genes
+T97	Process 2185 2193	pathways
+T98	Protein 2216 2223	genomes
+T99	Organism1 2231 2242	mycoplasmas
+T100	Organism1 2293 2304	mycoplasmas
+T101	Value 2310 2325	less than 1,000
+T102	Protein 2326 2331	genes
+T103	Organism 2333 2344	M. pulmonis
+T104	Protein 2371 2376	genes
+T105	Value 2392 2397	4,100
+T106	Organism 2424 2442	bacterium Bacillus
+T107	Process 2457 2461	loss
+T108	Cellular_component 2469 2478	cell wall
+T109	Location 2502 2515	intracellular
+T110	Organism1 2536 2547	mycoplasmas
+T111	Organism2 2567 2571	host
+T112	Disease 2588 2604	chronic diseases
+T113	Process 2615 2626	progression
+T114	Organism1 2630 2636	humans
+T115	Organism1 2641 2648	animals
+T116	Organism 2650 2655	Human
+T117	Disease 2656 2669	mycoplasmoses
+T118	Disease 2691 2699	diseases
+T119	Multi-tissue_structure 2707 2718	respiratory
+T120	Body_part 2723 2740	urogenital tracts
+T121	Disease 2742 2755	Mycoplasmoses
+T122	Organism1 2774 2781	animals
+T123	Process 2810 2814	loss
+T124	Chemical 2816 2826	Antibiotic
+T125	Process 2827 2836	treatment
+T126	Organism1 2868 2876	bacteria
+T127	Organism1 2891 2900	pathogens
+T128	Protein_part 2956 2965	sequences
+T129	Bio_Process 3009 3019	physiology
+T130	Disease 3021 3031	pathogenic
+T131	Process 3032 3041	potential
+T132	Organism2 3046 3050	host
+T133	Organism1 3066 3077	mycoplasmas
+T134	Process 3090 3101	development
+T135	Process 3109 3119	prevention
+T136	Process 3124 3133	treatment
+T137	Protein 3176 3183	genomes
+T138	Organism1 3189 3207	mycoplasma species
+T139	Process 3274 3284	prediction
+T140	Disease 3288 3301	pathogenicity
+T141	Protein_part 3302 3309	regions
+T142	Process 3322 3335	comprehension
+T143	Process 3343 3352	evolution
+T144	Molecular_Part 3371 3376	group
+T145	Disease 3390 3403	pathogenicity
+T146	Organism2 3405 3409	host
+T147	State 3431 3441	morphology
+T148	Process 3458 3470	requirements
+T149	Technique 3477 3494	Molligen database
+T150	Technique 3523 3527	CBiB
+T151	Company 3529 3550	Bordeaux 2 University
+T152	Organism1 3597 3608	mycoplasmas
+T153	Process 3610 3621	Description
+T154	Organism 3625 3668	
+T155	Organism1 3689 3696	species
+T156	Chemical 3711 3719	medicine
+T157	Unknown 3741 3746	agent
+T158	Disease 3815 3828	mycoplasmosis
+T159	Organism1 3832 3837	sheep
+T160	Organism1 3842 3847	goats
+T161	Habitat 3851 3857	Europe
+T162	Food 3913 3917	milk
+T163	Organism1 3946 3953	species
+T164	Organism 3955 3963	M. bovis
+T165	Organism1 3979 3985	cattle
+T166	Disease 3995 4006	respiratory
+T167	Disease 4011 4030	mammary pathologies
+T168	Organism1 4070 4074	calf
+T169	Disease 4075 4084	pneumonia
+T170	Disease 4086 4094	mastitis
+T171	Disease 4099 4108	arthritis
+T172	Organism1 4121 4130	pathogens
+T173	Disease 4147 4155	symptoms
+T174	Organism2 4176 4181	hosts
+T175	Protein_part 4284 4301	16S RNA sequences
+T176	Value 4307 4312	99.8%
+T177	Parameter 4313 4323	similarity
+T178	Organism 4330 4338	M. bovis
+T179	Organism 4384 4397	M. agalactiae
+T180	Process 4405 4410	basis
+T181	Process 4418 4428	similarity
+T182	Phenotype 4450 4460	phenotypes
+T183	Unknown 4485 4492	DNA-DNA
+T184	Process 4493 4506	reassociation
+T185	Process 4528 4542	classification
+T186	Organism1 4559 4566	species
+T187	Organism1 4578 4589	mycoplasmas
+T188	Organism 4604 4620	M. hominis group
+T189	Organism 4627 4638	M. pulmonis
+T190	Organism 4640 4656	M. hyopneumoniae
+T191	Unknown 4661 4663	M.
+T192	Organism1 4728 4736	bacteria
+T193	Organism 4744 4763	M. pneumoniae group
+T194	Organism 4773 4786	M. genitalium
+T195	Organism 4788 4800	M. penetrans
+T196	Organism 4805 4814	U. parvum
+T197	Protein_part 4820 4828	sequence
+T198	Organism 4848 4861	M. agalactiae
+T199	Disease 4935 4944	antigenic
+T200	Unknown 4945 4952	systems
+T201	Protein 4954 4973	vpma genes families
+T202	Protein 4985 4990	genes
+T203	Geometrical_part 5018 5025	surface
+T204	Protein 5026 5034	antigens
+T205	Protein_part 5052 5071	insertion sequences
+T206	Protein 5083 5101	housekeeping genes
+T207	Chemical 5108 5123	molecular bases
+T208	Disease 5127 5140	pathogenicity
+T209	Organism2 5145 5149	host
+T210	Organism 5165 5178	M. agalactiae
+T211	Protein_part 5236 5244	sequence
+T212	Organism1 5253 5263	mycoplasma
+T213	Organism2 5298 5312	close relative
+T214	Organism 5314 5322	M. bovis
+T215	Protein 5328 5334	genome
+T216	Organism2 5343 5354	strain PG45
+T217	Unknown 5377 5381	TIGR
+T218	Protein_part 5398 5407	sequences
+T219	Organism1 5417 5424	species
+T220	Organism 5432 5448	M. hominis group
+T221	Protein_part 5475 5484	sequences
+T222	Organism1 5494 5505	mycoplasmas
+T223	Organism1 5519 5528	ruminants
+T224	Organism 5530 5543	M. capricolum
+T225	Organism 5545 5556	M. mycoides
+T226	Unknown 5573 5575	SC
+T227	Organism 5583 5600	Spiroplasma group
+T228	Technique 5612 5629	Molligen database
+T229	Organism2 5640 5646	strain
+T230	Molecule 5664 5676	intermediate
+T231	Organism2 5678 5685	strains
+T232	Unknown 5720 5724	ENVT
+T233	Organism1 5822 5843	M. agalactiae species
+T234	Organism2 5854 5860	strain
+T235	Phenotype 5878 5893	atypical traits
+T236	Process 5895 5932	methylation of genomic DNA (dam-like)
+T237	Organism1 5945 5953	serotype
+T238	Protein 5976 5986	vpma genes
+T239	Process 5988 5996	presence
+T240	Protein_part 6000 6024	insertion sequences (IS)
+T241	Process 6043 6054	conjugation
+T242	Unknown 6055 6061	system
+T243	Chemical 6063 6066	ICE
+T244	Organism 6077 6095	M. fermentans ICEF
+T245	Bio_Process 6103 6113	phenotypic
+T246	Organism2 6152 6173	M. agalactiae strains
+T247	Body_part 6207 6215	isolates
+T248	Organism1 6281 6302	M. agalactiae species
+T249	Protein 6313 6319	genome
+T250	Protein_part 6320 6328	sequence
+T251	Organism1 6463 6484	M. agalactiae species
+T252	Process 6490 6499	evolution
+T253	Parameter 6508 6521	relationships
+T254	Organism1 6535 6542	species
+T255	Organism 6546 6554	M. bovis
+T256	Mutant_Organism 6559 6560	M
+T257	Organism1 6574 6581	species
+T258	Disease 6597 6607	pathogenic
+T259	Organism1 6618 6627	ruminants
+T260	Organism 6629 6640	M. mycoides
+T261	Unknown 6657 6659	SC
+T262	Technique 6661 6671	sequencing
+T263	Chemical 6716 6731	molecular bases
+T264	Process 6740 6751	differences
+T265	Disease 6755 6765	pathogenic
+T266	Process 6766 6775	potential
+T267	Parameter 6780 6791	sensitivity
+T268	Chemical 6795 6806	antibiotics
+T269	Organism2 6845 6852	strains
+T270	Molecule 6854 6861	mutants
+T271	Body_part 6874 6882	isolates
+T272	Technique 6929 6945	diagnostic tools
+T273	Process 6972 6979	control
+T274	Disease 6983 6996	mycoplasmoses
+T275	Process 7002 7012	annotation
+T276	Protein 7024 7031	genomes
+T277	Molecular_Part 7096 7102	groups
+T278	Technique 7141 7178	Bordeaux Bioinformatics Center (CBiB)
+T279	Process 7184 7196	construction
+T280	Molecule 7200 7203	DNA
+T281	Protein 7234 7239	genes
+T282	Process 7257 7270	collaboration
+T283	Unknown 7280 7311	Transcriptome-Biochips Platform
+T284	Unknown 7319 7336	Toulouse Genopole
+T285	Technique 7355 7360	tools
+T286	Protein 7365 7379	transcriptomes
+T287	Process 7400 7414	identification
+T288	Disease 7418 7427	virulence
+T289	Protein 7428 7433	genes
+T290	Cell 291 295	cell
+T291	Cell 470 474	cell
+T292	Cell 498 502	cell
+T293	Cell 2469 2473	cell
+T294	Protein 4284 4291	16S RNA
+T295	Multi-tissue_structure 3995 4006	respiratory
+T296	Body_part 4011 4018	mammary

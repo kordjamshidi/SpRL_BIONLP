@@ -1,0 +1,21 @@
+T1	Bacteria 0 22	Ralstonia solanacearum
+T2	Bacteria 23 45	Ralstonia solanacearum
+T3	Habitat 93 98	plant
+T4	Bacteria 107 129	Ralstonia solanacearum
+T5	Bacteria 171 179	bacteria
+T6	Bacteria 189 200	Pseudomonas
+T7	Habitat 300 305	plant
+T8	Habitat 382 387	plant
+T9	Bacteria 424 433	bacterium
+T10	Habitat 465 469	soil
+T11	Habitat 497 502	plant
+T12	Habitat 583 588	roots
+T13	Habitat 606 619	xylem vessels
+T14	Habitat 606 611	xylem
+T15	Habitat 636 640	stem
+T16	Bacteria 671 680	bacterial
+T17	Habitat 671 688	bacterial exudate
+T18	Bacteria 690 705	R. solanacearum
+T19	Habitat 747 754	bananas
+T20	Habitat 772 780	potatoes
+T21	Bacteria 854 863	Ralstonia

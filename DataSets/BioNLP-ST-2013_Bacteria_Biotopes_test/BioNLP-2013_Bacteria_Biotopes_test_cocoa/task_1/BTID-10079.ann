@@ -1,0 +1,61 @@
+T1	Organism 0 15	Bifidobacterium
+T2	Chemical 16 22	longum
+T3	Unknown 23 29	DJO10A
+T4	Process 30 41	Description
+T5	Organism 42 57	Bifidobacterium
+T6	Organism1 83 88	genus
+T7	Organism1 112 117	human
+T8	Organism_subdivision 118 146	gastrointestinal tract (GIT)
+T9	Bio_Process 198 209	homeostasis
+T10	Organ 217 237	intestinal ecosystem
+T11	Process 258 267	digestion
+T12	Process 275 283	presence
+T13	Bio_Process 320 326	health
+T14	Process 327 334	effects
+T15	Process 344 354	prevention
+T16	Disease 358 366	diarrhea
+T17	Process 368 380	amelioration
+T18	Disease 384 403	lactose intolerance
+T19	Disease 408 424	immunomodulation
+T20	Process 442 448	effect
+T21	Organism_subdivision 452 455	GIT
+T22	Organism1 456 466	microflora
+T23	Parameter 488 496	capacity
+T24	Organism1 500 514	bifidobacteria
+T25	Protein 526 538	bacteriocins
+T26	Molecule 550 571	bacteriostatic agents
+T27	Parameter 585 593	spectrum
+T28	Process 597 603	action
+T29	Parameter 618 620	pH
+T30	Parameter 630 638	activity
+T31	Value 652 655	~30
+T32	Organism1 662 669	species
+T33	Organism1 673 687	bifidobacteria
+T34	Organism1 716 725	mammalian
+T35	Organism_subdivision 726 729	GIT
+T36	Multi-tissue_structure 749 756	vaginal
+T37	Body_part 761 772	oral cavity
+T38	Organism1 791 800	anaerobes
+T39	Organism 818 833	Actinomycetales
+T40	Organism1 845 867	Gram-positive bacteria
+T41	Unknown 878 880	GC
+T42	Organism1 908 922	Corynebacteria
+T43	Organism1 924 936	Mycobacteria
+T44	Organism 942 956	Streptomycetes
+T45	Process 958 969	Description
+T46	Organism 970 985	Bifidobacterium
+T47	Chemical 986 992	longum
+T48	Organism1 999 1007	organism
+T49	Organism1 1020 1032	adult humans
+T50	Organism2 1049 1056	infants
+T51	Parameter 1069 1078	component
+T52	Organism_subdivision 1082 1085	gut
+T53	Organism1 1086 1091	flora
+T54	Process 1093 1104	Description
+T55	Organism 1105 1120	Bifidobacterium
+T56	Chemical 1121 1127	longum
+T57	Unknown 1128 1134	DJO10A
+T58	Organism2 1141 1147	strain
+T59	Body_part 1184 1189	media
+T60	Habitat 1190 1201	environment
+T61	Technique 1235 1243	analysis

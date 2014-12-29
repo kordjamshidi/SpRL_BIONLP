@@ -1,0 +1,47 @@
+T1	Organism 0 45	
+T2	Organism1 93 98	plant
+T3	Disease 99 106	disease
+T4	Organism 107 129	Ralstonia solanacearum
+T5	Unknown 135 139	Gram
+T6	Cell 167 170	rod
+T7	Organism1 171 179	bacteria
+T8	Organism 189 200	Pseudomonas
+T9	Unknown 201 207	family
+T10	Protein 215 221	genome
+T11	Unknown 225 228	G+C
+T12	Value 235 238	69%
+T13	Value 257 258	2
+T14	Protein 259 270	chromosomes
+T15	Organism1 300 305	plant
+T16	Disease 306 313	disease
+T17	Unknown 371 377	system
+T18	Organism1 382 387	plant
+T19	Disease 388 401	pathogenicity
+T20	Organism 424 433	bacterium
+T21	Organism1 492 502	host plant
+T22	Value 547 550	200
+T23	Organism1 551 558	species
+T24	Organism2 576 582	host's
+T25	Body_part 583 588	roots
+T26	Body_part 606 619	xylem vessels
+T27	Body_part 636 640	stem
+T28	Unknown 646 655	-sections
+T29	Organism 671 680	bacterial
+T30	Body_part 681 688	exudate
+T31	Organism 690 705	R. solanacearum
+T32	Unknown 718 723	agent
+T33	Unknown 731 735	Moko
+T34	Disease 736 743	disease
+T35	Organism1 747 754	bananas
+T36	Disease 765 768	rot
+T37	Organism1 772 780	potatoes
+T38	Organism2 792 796	host
+T39	Geometrical_part 826 831	array
+T40	Molecule 835 852	virulence factors
+T41	Organism 854 863	Ralstonia
+T42	Protein 879 884	genes
+T43	Protein 896 914	attachment factors
+T44	Protein 926 934	proteins
+T45	Organism2 944 948	host
+T46	Process 959 968	secretion
+T47	Unknown 969 975	system

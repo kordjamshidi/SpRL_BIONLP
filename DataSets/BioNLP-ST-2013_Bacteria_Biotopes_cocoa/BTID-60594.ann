@@ -1,0 +1,50 @@
+T1	Organism 0 12	Sphaerotilus
+T2	Process 13 24	Description
+T3	Organism 42 61	Sphaerotilus natans
+T4	Organism 79 88	bacterium
+T5	Body_part 110 124	tubular sheath
+T6	Chemical 153 158	water
+T7	Chemical 177 187	wastewater
+T8	Process 188 197	treatment
+T9	Organism1 198 204	plants
+T10	Organism 217 226	bacterium
+T11	Chemical 318 328	wastewater
+T12	Process 329 338	treatment
+T13	Organism1 339 345	plants
+T14	Protein 381 387	Genome
+T15	Geometrical_part 388 397	Structure
+T16	Organism 398 413	No Sphaerotilus
+T17	Protein 414 421	genomes
+T18	Parameter 450 454	time
+T19	Organism 465 484	Sphaerotilus natans
+T20	Chemical 516 521	water
+T21	Chemical 545 551	sludge
+T22	Chemical 637 643	sludge
+T23	Chemical 647 657	wastewater
+T24	Process 658 667	treatment
+T25	Geometrical_part 709 716	surface
+T26	Process 720 732	entanglement
+T27	Chemical 748 756	adhesive
+T28	Unknown 763 770	element
+T29	Geometrical_part 778 781	end
+T30	Protein 789 797	filament
+T31	Organism2 836 843	strains
+T32	Organism1 859 867	bacteria
+T33	State 914 927	morphological
+T34	Organism 965 977	Sphaerotilus
+T35	Body_part 994 1002	isolates
+T36	Body_part 1039 1055	Sheath-Degrading
+T37	Organism1 1056 1085	
+T38	Habitat 1124 1129	river
+T39	Chemical 1130 1135	water
+T40	Body_part 1186 1192	sheath
+T41	Organism 1196 1215	Sphaerotilus natans
+T42	Organism 1221 1238	bacterial strains
+T43	Mutant_Organism 1247 1249	TB
+T44	Mutant_Organism 1254 1256	TK
+T45	Cell 1262 1265	rod
+T46	Process 1301 1309	staining
+T47	Body_part 1359 1369	endospores
+T48	Organism1 1421 1429	bacteria
+T49	Organism1 1444 1463	genus Paenibacillus
+T50	Profession 1482 1493	researchers

@@ -1,0 +1,31 @@
+T1	Organism 0 19	Bartonella quintana
+T2	Unknown 20 23	str
+T3	Chemical 34 41	Toulose
+T4	Process 42 53	Description
+T5	Organism 54 64	Bartonella
+T6	Molecular_Part 71 76	group
+T7	Protein 80 85	alpha
+T8	Organism1 86 100	proteobacteria
+T9	Organism1 118 127	pathogens
+T10	Pathological_formation 147 165	angiogenic lesions
+T11	Bio_Process 167 179	Angiogenesis
+T12	Process 187 194	process
+T13	Body_part 211 224	blood vessels
+T14	Organism 227 246	Bartonella quintana
+T15	Organism1 253 261	organism
+T16	Unknown 300 305	agent
+T17	Disease 320 332	trench fever
+T18	Unknown 340 351	World War I
+T19	Value 359 366	800 000
+T20	Organism1 412 431	louse insect vector
+T21	Process 464 474	sanitation
+T22	Disease 493 498	fever
+T23	Pathological_formation 500 506	rashes
+T24	Disease 508 517	bone pain
+T25	Process 523 534	enlargement
+T26	Organ 542 548	spleen
+T27	Disease 554 561	disease
+T28	Organism2 609 617	patients
+T29	Organism2 630 642	HIV patients
+T30	Organism1 630 633	HIV
+T31	Tissue 508 512	bone

@@ -1,0 +1,217 @@
+T1	Disease 2 17	phytopathogenic
+T2	Organism 18 27	bacterium
+T3	Organism2 40 44	host
+T4	Process 51 64	Comprehension
+T5	Process 72 92	molecular mechanisms
+T6	Process 97 110	comprehension
+T7	Process 118 138	molecular mechanisms
+T8	Disease 152 162	pathogenic
+T9	Organism 163 172	bacterium
+T10	Organism 173 176	the
+T11	Organism2 245 249	host
+T12	Process 271 281	importance
+T13	Process 371 381	conception
+T14	Disease 415 425	pathogenic
+T15	Organism 426 432	agents
+T16	Organism 438 470	bacterium Ralstonia solanacearum
+T17	Organism1 498 506	organism
+T18	Disease 524 537	pathogenicity
+T19	Organism1 541 547	plants
+T20	Organism 565 574	bacterium
+T21	Unknown 597 602	group
+T22	Organism1 606 625	beta-proteobacteria
+T23	Organism 646 655	bacterial
+T24	Value 665 678	more than 200
+T25	Organism1 679 692	plant species
+T26	Value 698 700	50
+T27	Unknown 711 719	families
+T28	Organism1 748 754	plants
+T29	Organism1 764 770	potato
+T30	Disease 785 792	disease
+T31	Disease 807 816	infection
+T32	Disease 833 836	rot
+T33	Organism1 839 845	tomato
+T34	Food 847 855	eggplant
+T35	Food 857 863	pepper
+T36	Organism1 865 872	tobacco
+T37	Organism1 877 888	banana tree
+T38	Process 919 929	importance
+T39	Organism 931 946	R. solanacearum
+T40	Protein_part 994 1001	regions
+T41	Process 1040 1053	dissemination
+T42	Organism2 1057 1064	strains
+T43	Process 1081 1087	growth
+T44	Parameter 1088 1099	temperature
+T45	Habitat 1140 1146	Europe
+T46	Habitat 1155 1168	United States
+T47	Organism 1183 1198	R. solanacearum
+T48	Disease 1237 1252	phytopathogenic
+T49	Organism1 1259 1288	bacteria Pseudomonas syringae
+T50	Organism 1290 1312	Xanthomonas campestris
+T51	Organism 1317 1334	Xanthomonas citri
+T52	Organism1 1348 1355	species
+T53	Geometrical_part 1374 1379	parts
+T54	Organism1 1387 1392	plant
+T55	Organism 1402 1417	R. solanacearum
+T56	Parameter 1460 1467	periods
+T57	Organism2 1493 1498	hosts
+T58	Body_part 1518 1529	root system
+T59	Process 1557 1564	tropism
+T60	Body_part 1573 1586	xylem vessels
+T61	Process 1602 1616	multiplication
+T62	Chemical 1624 1629	water
+T63	Unknown 1641 1647	system
+T64	Disease 1659 1677	systemic infection
+T65	Organism1 1685 1690	plant
+T66	Process 1699 1710	exploration
+T67	Protein 1718 1724	genome
+T68	Organism 1728 1743	R. solanacearum
+T69	Process 1756 1767	exploration
+T70	Protein 1775 1781	genome
+T71	Organism 1785 1800	R. solanacearum
+T72	Unknown 1802 1821	Christian Boucher's
+T73	Molecular_Part 1822 1827	group
+T74	Unknown 1835 1846	Laboratoire
+T75	Process 1847 1859	Interactions
+T76	Unknown 1860 1882	Plantes-Microorganisms
+T77	Unknown 1884 1888	LIPM
+T78	Unknown 1896 1910	CNRS/INRA unit
+T79	Organism2 1925 1939	GMI1000 strain
+T80	Organism2 1946 1952	strain
+T81	Habitat 1976 1982	Guyana
+T82	Organism1 1999 2011	tomato plant
+T83	Organism1 2028 2041	Asiatic clade
+T84	Organism2 2057 2061	host
+T85	Organism1 2106 2111	plant
+T86	Organism 2113 2133	Arabidopsis thaliana
+T87	Protein 2141 2147	genome
+T88	Organism2 2225 2229	host
+T89	Process 2230 2239	responses
+T90	Body_part 2255 2260	scale
+T91	Protein_part 2274 2282	sequence
+T92	Protein 2286 2293	GMI1000
+T93	Technique 2317 2326	Genoscope
+T94	Unknown 2349 2350	C
+T95	Unknown 2352 2361	Boucher's
+T96	Molecular_Part 2362 2367	group
+T97	Value 2375 2381	5.8 Mb
+T98	Protein 2411 2420	replicons
+T99	Protein 2424 2434	chromosome
+T100	Value 2438 2444	3.7 Mb
+T101	Body_part 2451 2462	megaplasmid
+T102	Value 2466 2472	2.1 Mb
+T103	Process 2478 2488	annotation
+T104	Process 2509 2523	identification
+T105	Protein 2546 2551	genes
+T106	Bio_Process 2556 2568	pathogenesis
+T107	Protein 2591 2596	genes
+T108	Value 2601 2613	more than 50
+T109	Category 2625 2633	effector
+T110	Protein 2635 2643	proteins
+T111	Protein 2659 2667	proteins
+T112	Bio_Process 2690 2700	metabolism
+T113	Organism1 2708 2713	plant
+T114	Cell 2714 2718	cell
+T115	Process 2748 2755	defense
+T116	Process 2756 2765	reactions
+T117	Organism1 2773 2778	plant
+T118	Category 2784 2793	effectors
+T119	Organism 2814 2823	bacterium
+T120	Organism1 2833 2838	plant
+T121	Cell 2839 2843	cell
+T122	Complex 2852 2877	type III secretion system
+T123	Parameter 2885 2895	components
+T124	Technique 2926 2936	sequencing
+T125	Unknown 2950 2957	factors
+T126	Bio_Process 2961 2973	pathogenesis
+T127	Process 2996 3006	annotation
+T128	Protein 3025 3032	enzymes
+T129	Protein 3034 3041	enzymes
+T130	Process 3060 3070	production
+T131	Organism1 3074 3079	plant
+T132	Molecule 3080 3088	hormones
+T133	Protein 3102 3109	factors
+T134	Cell 3124 3128	cell
+T135	Process 3129 3138	adherence
+T136	Unknown 3174 3181	January
+T137	Value 3182 3186	2002
+T138	Process 3228 3232	role
+T139	Protein 3244 3251	genetic
+T140	Process 3252 3260	transfer
+T141	Process 3279 3290	acquisition
+T142	Disease 3294 3307	pathogenicity
+T143	Protein_part 3321 3329	sequence
+T144	Protein 3333 3340	GMI1000
+T145	Protein_part 3353 3361	sequence
+T146	Protein 3365 3372	GMI1000
+T147	Geometrical_part 3395 3399	part
+T148	Protein 3407 3414	genetic
+T149	Organism 3428 3443	R. solanacearum
+T150	Protein 3475 3481	genome
+T151	Organism2 3493 3499	strain
+T152	Value 3501 3514	Almost 100 kb
+T153	Protein 3524 3530	genome
+T154	Organism2 3538 3550	strain Molk2
+T155	Habitat 3573 3581	American
+T156	Organism1 3582 3587	clade
+T157	Organism1 3619 3630	banana tree
+T158	Process 3658 3668	Comparison
+T159	Protein_part 3676 3685	sequences
+T160	Value 3707 3710	30%
+T161	Protein 3718 3724	genome
+T162	Organism 3728 3733	Molk2
+T163	Protein 3751 3757	genome
+T164	Mutant_Organism 3761 3768	GMI1000
+T165	Technique 3824 3834	sequencing
+T166	Technique 3846 3855	Genoscope
+T167	Value 3859 3863	2004
+T168	Process 3868 3881	collaboration
+T169	Unknown 3887 3888	C
+T170	Unknown 3890 3899	Boucher's
+T171	Protein_part 3956 3964	sequence
+T172	Organism2 3976 3983	strains
+T173	Organism 3985 3990	Molk2
+T174	Value 3995 3999	1609
+T175	Organism 4006 4011	Molk2
+T176	Organism2 4025 4031	strain
+T177	Habitat 4047 4055	American
+T178	Organism1 4056 4061	clade
+T179	Organism1 4102 4114	banana trees
+T180	Organism1 4165 4171	potato
+T181	Value 4177 4181	1609
+T182	Organism2 4182 4188	strain
+T183	Organism2 4218 4224	strain
+T184	Organism2 4229 4236	strains
+T185	Habitat 4251 4257	Europe
+T186	Technique 4327 4335	analysis
+T187	Category 4343 4352	effectors
+T188	Process 4361 4377	characterization
+T189	Process 4397 4404	targets
+T190	Organism1 4412 4417	plant
+T191	Cell 4418 4422	cell
+T192	Technique 4428 4438	sequencing
+T193	Organism2 4457 4464	strains
+T194	Location 4492 4496	axis
+T195	Technique 4502 4510	analysis
+T196	Organism1 4530 4539	parasitic
+T197	Mutant_Organism 4599 4606	GMI1000
+T198	Parameter 4637 4645	capacity
+T199	Protein 4690 4695	genes
+T200	Protein_part 4736 4745	sequences
+T201	Organism 4753 4758	Molk2
+T202	Value 4763 4767	1609
+T203	Organism2 4768 4775	strains
+T204	Process 4814 4826	correlations
+T205	Protein 4835 4840	genes
+T206	Value 4866 4874	about 50
+T207	Organism2 4875 4882	strains
+T208	Organism 4886 4901	R. solanacearum
+T209	Unknown 4929 4933	LIPM
+T210	Organism2 4953 4964	plant hosts
+T211	Organism2 4996 5003	strains
+T212	Unknown 5042 5043	C
+T213	Unknown 5045 5054	Boucher's
+T214	Technique 5082 5096	molecular tool
+T215	Parameter 5160 5169	potential
+T216	Organism2 5181 5203	R. solanacearum strain
+T217	Organism1 4953 4958	plant

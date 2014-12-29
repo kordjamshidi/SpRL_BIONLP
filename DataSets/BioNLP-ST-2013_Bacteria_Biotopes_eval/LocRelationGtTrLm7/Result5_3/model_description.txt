@@ -1,0 +1,3 @@
+top-down-rows: sp, sp-tr, sp-lm, sp-tr-lm,tr, lm
+ columns are P,R,F
+-c 1000 -o 2 -v 3  -e 0.001Dimansion:17160

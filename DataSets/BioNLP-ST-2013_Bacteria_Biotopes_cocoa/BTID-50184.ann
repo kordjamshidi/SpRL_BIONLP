@@ -1,0 +1,61 @@
+T1	Organism 0 37	
+T2	Organism1 68 73	plant
+T3	Disease 74 82	diseases
+T4	Disease 93 128	citrus variegated chlorosis disease
+T5	Organism 129 147	Xylella fastidiosa
+T6	Unknown 153 157	Gram
+T7	Body_part 181 186	xylem
+T8	Organism 195 204	bacterium
+T9	Organism1 251 256	plant
+T10	Disease 257 265	diseases
+T11	Disease 276 317	citrus variegated chlorosis disease (CVC)
+T12	Food 321 328	oranges
+T13	Organism1 339 352	citrus fruits
+T14	Organism 354 367	X. fastidiosa
+T15	Disease 390 405	Pierces disease
+T16	Disease 409 423	lethal disease
+T17	Organism1 427 437	grapevines
+T18	Organism 443 452	bacterium
+T19	Organism1 541 548	insects
+T20	Disease 559 578	bacterial infection
+T21	Organism1 584 589	plant
+T22	Organism1 593 598	plant
+T23	Organism 613 626	X. fastidiosa
+T24	Organism1 645 652	plant's
+T25	Body_part 653 658	xylem
+T26	Tissue 664 680	vascular tissues
+T27	Organism1 693 701	bacteria
+T28	Organism1 725 732	plant's
+T29	Location 733 741	internal
+T30	Parameter 768 772	flow
+T31	Chemical 776 781	water
+T32	Organism1 793 798	Trees
+T33	Organism1 803 809	plants
+T34	Organism1 840 846	fruits
+T35	Organism2 910 917	strains
+T36	Body_part 924 928	leaf
+T37	Habitat 967 975	American
+T38	Food 988 996	mulberry
+T39	Food 1001 1005	plum
+T40	Protein 1011 1017	genome
+T41	Protein_part 1018 1026	sequence
+T42	Process 1039 1047	presence
+T43	Protein 1051 1061	homologues
+T44	Molecule 1065 1082	virulence factors
+T45	Organism1 1086 1102	animal pathogens
+T46	Protein 1110 1115	genes
+T47	Chemical 1128 1131	ion
+T48	Process 1154 1164	production
+T49	Molecule 1168 1174	toxins
+T50	Chemical 1179 1190	antibiotics
+T51	Protein 1211 1216	genes
+T52	Organism 1243 1256	X. fastidiosa
+T53	Process 1273 1286	gene transfer
+T54	Organism1 1302 1307	plant
+T55	Process 1308 1315	defence
+T56	Process 1316 1326	mechanisms
+T57	Process 1341 1348	control
+T58	Organism 1350 1368	Xylella fastidiosa
+T59	Organism1 1383 1397	plant pathogen
+T60	Organism1 1412 1417	plant
+T61	Organism 1429 1438	bacterium

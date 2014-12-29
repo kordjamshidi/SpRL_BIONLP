@@ -1,0 +1,39 @@
+T1	Protein 6 12	genome
+T2	Protein 21 33	Whole genome
+T3	Organism 42 61	Tropheryma whipplei
+T4	Organism1 77 91	human pathogen
+T5	Disease 105 122	Whipple's disease
+T6	Process 159 166	effects
+T7	Process 172 182	alteration
+T8	State 198 203	state
+T9	Bio_Process 207 213	health
+T10	Disease 215 232	chronic enteritis
+T11	Disease 234 244	joint pain
+T12	Body_part 246 253	culture
+T13	Disease 263 275	endocarditis
+T14	Disease 277 289	encephalitis
+T15	Disease 294 301	uveitis
+T16	Process 329 341	transmission
+T17	Organism 350 359	bacterium
+T18	Process 377 386	treatment
+T19	Disease 394 401	disease
+T20	Organism2 449 455	strain
+T21	Organism 459 478	Tropheryma whipplei
+T22	Mutant_Organism 484 489	Twist
+T23	Organism2 490 496	strain
+T24	Location 522 535	intracellular
+T25	Organism 536 545	bacterium
+T26	Technique 547 555	Analysis
+T27	Protein 559 567	16S rDNA
+T28	Protein_part 569 574	groEL
+T29	Protein_part 579 593	rpoB sequences
+T30	Protein 615 628	peptidoglycan
+T31	Body_part 629 634	group
+T32	Protein 635 636	B
+T33	Organism 659 676	Cellulomonadaceae
+T34	Technique 678 688	Sequencing
+T35	Protein 696 702	genome
+T36	Organism2 717 723	strain
+T37	Disease 821 845	intracellular parasitism
+T38	Organism1 854 862	bacteria
+T39	Body_part 234 239	joint

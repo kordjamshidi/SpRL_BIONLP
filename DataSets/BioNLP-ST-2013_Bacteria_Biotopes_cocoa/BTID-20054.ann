@@ -1,0 +1,111 @@
+T1	Organism 0 24	Chloroflexus aurantiacus
+T2	Unknown 25 38	
+T3	Organism1 76 86	phototroph
+T4	Organism1 96 107	thermophile
+T5	Process 124 137	accumulations
+T6	Chemical 172 180	alkaline
+T7	Habitat 181 192	hot springs
+T8	Organism 194 206	Chloroflexus
+T9	Value 219 225	higher
+T10	Parameter 226 238	temperatures
+T11	Disease 254 264	anoxygenic
+T12	Organism1 265 275	phototroph
+T13	Process 289 295	growth
+T14	Parameter 296 307	temperature
+T15	Value 321 323	50
+T16	Value 328 340	60 degrees C
+T17	Body_part 355 363	cultures
+T18	Unknown 400 405	layer
+T19	Organism1 411 420	microbial
+T20	Organism1 430 443	cyanobacteria
+T21	Unknown 455 461	layers
+T22	Chemical 491 498	sulfide
+T23	Organism 509 521	Chloroflexus
+T24	Organism 542 554	Chloroflexus
+T25	Organism1 576 592	photoheterotroph
+T26	Category 628 636	products
+T27	Organism1 644 669	autotrophic cyanobacteria
+T28	Habitat 684 691	habitat
+T29	Organism2 698 705	strains
+T30	Chemical 747 755	hydrogen
+T31	Chemical 759 766	sulfide
+T32	Molecule 773 781	electron
+T33	Category 782 787	donor
+T34	Chemical 793 796	CO2
+T35	Process 797 805	fixation
+T36	Process 806 815	mechanism
+T37	Chemical 821 840	3-hydroxypropionate
+T38	Process 841 848	pathway
+T39	Organism1 870 881	phototrophs
+T40	Cell 883 888	Cells
+T41	Protein 904 937	ribulose bisphosphate carboxylase
+T42	Parameter 938 946	activity
+T43	Cellular_component 991 1002	chlorosomes
+T44	Cellular_component 1020 1033	cell membrane
+T45	Cellular_component 1039 1050	chlorosomes
+T46	Organism1 1090 1111	green sulfur bacteria
+T47	Cellular_component 1117 1128	chlorosomes
+T48	Chemical 1151 1172	bacteriochlorophyll c
+T49	Complex 1174 1200	Light-harvesting complexes
+T50	Unknown 1212 1216	Bchl
+T51	Organism1 1243 1258	purple bacteria
+T52	Cellular_component 1278 1291	cell membrane
+T53	Chemical 1297 1315	pheophytin-quinone
+T54	Cellular_component 1335 1351	reaction centers
+T55	Organism1 1385 1400	purple bacteria
+T56	Cell 1406 1411	cells
+T57	Process 1422 1426	lack
+T58	Cellular_component 1427 1445	internal membranes
+T59	Organism1 1461 1476	purple bacteria
+T60	Unknown 1478 1482	Cfl.
+T61	Disease 1531 1541	anoxygenic
+T62	Organism1 1554 1565	phototrophs
+T63	Organism 1573 1606	green non-sulfur bacterial (GNSB)
+T64	Protein 1621 1629	16S rRNA
+T65	Organism1 1630 1634	tree
+T66	Molecule 1686 1696	descriptor
+T67	Unknown 1726 1733	members
+T68	Chemical 1759 1766	sulfide
+T69	Organism2 1817 1839	Chloroflexus relatives
+T70	Process 1890 1899	evolution
+T71	Process 1903 1917	photosynthesis
+T72	Organism1 1927 1934	species
+T73	Organism 1938 1950	Chloroflexus
+T74	Unknown 1981 1985	Cfl.
+T75	Chemical 2086 2096	freshwater
+T76	Organism1 2097 2106	mesophile
+T77	Organism 2108 2133	Oscillochloris trichoides
+T78	Organism 2135 2148	O. trichoides
+T79	Protein 2162 2170	filament
+T80	Organism 2189 2201	Chloroflexus
+T81	Habitat 2205 2212	habitat
+T82	Chemical 2229 2236	sulfide
+T83	Habitat 2248 2257	sediments
+T84	Habitat 2273 2278	lakes
+T85	Organism 2301 2313	Chloroflexus
+T86	Chemical 2324 2327	CO2
+T87	Protein 2333 2366	ribulose bisphosphate carboxylase
+T88	Unknown 2375 2381	Calvin
+T89	Habitat 2389 2395	Marine
+T90	Organism 2396 2408	Chloroflexus
+T91	Organism1 2414 2423	organisms
+T92	Habitat 2454 2460	marine
+T93	Organism1 2477 2486	microbial
+T94	Organism1 2497 2507	planktonic
+T95	Chemical 2508 2518	Chloronema
+T96	Chemical 2551 2561	freshwater
+T97	Habitat 2562 2567	lakes
+T98	Process 2608 2616	presence
+T99	Organism1 2633 2640	species
+T100	Organism1 2662 2673	phototrophs
+T101	Process 2694 2698	lack
+T102	Cellular_component 2699 2710	chlorosomes
+T103	Chemical 2728 2747	bacteriochlorophyll
+T104	Organism 2751 2773	Heliothrix oregonensis
+T105	Organism 2779 2803	Roseiflexus castenholzii
+T106	Habitat 2824 2835	hot springs
+T107	Organism 2847 2859	Chloroflexus
+T108	Chemical 904 925	ribulose bisphosphate
+T109	Cell 1020 1024	cell
+T110	Cell 1278 1282	cell
+T111	Chemical 2333 2354	ribulose bisphosphate

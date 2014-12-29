@@ -1,0 +1,34 @@
+T1	Organism 0 37	
+T2	Organism1 60 65	plant
+T3	Cellular_component 66 76	cell walls
+T4	Organism 77 95	Thermobifida fusca
+T5	Unknown 114 129	Thermomonaspora
+T6	Organism 168 177	bacterium
+T7	Protein_part 201 204	55C
+T8	Parameter 221 229	pH range
+T9	Value 231 235	4-10
+T10	Organism1 264 269	plant
+T11	Cellular_component 270 280	cell walls
+T12	Organism 361 369	mushroom
+T13	Chemical 370 383	growth medium
+T14	Organism1 417 422	plant
+T15	Cellular_component 423 432	cell wall
+T16	Chemical 433 441	polymers
+T17	Chemical 449 455	lignin
+T18	Chemical 460 466	pectin
+T19	Chemical 495 501	sugars
+T20	Chemical 506 522	carboxylic acids
+T21	Organism 533 545	actinomycete
+T22	Location 554 567	extracellular
+T23	Protein 568 575	enzymes
+T24	Protein 587 597	cellulases
+T25	Parameter 672 680	activity
+T26	Organism 682 700	Thermobifida fusca
+T27	Body_part 710 716	spores
+T28	Unknown 753 762	condition
+T29	Profession 770 777	farmers
+T30	Organ 778 782	lung
+T31	Disease 784 813	extrinsic allergic alveolitis
+T32	Cell 66 70	cell
+T33	Cell 270 274	cell
+T34	Cell 423 427	cell

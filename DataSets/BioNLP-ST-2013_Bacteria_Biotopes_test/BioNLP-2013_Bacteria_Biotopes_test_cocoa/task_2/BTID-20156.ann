@@ -1,0 +1,152 @@
+T1	Organism 1 55	
+T2	Unknown 56 62	NATL2A
+T3	Organism2 86 92	strain
+T4	Organism1 111 120	autotroph
+T5	Organism 121 136	Prochlorococcus
+T6	Process 155 159	role
+T7	Habitat 163 168	ocean
+T8	Chemical 169 175	carbon
+T9	Process 176 189	sequestration
+T10	Organism2 191 204	Strain NATL2A
+T11	Organism 239 254	Prochlorococcus
+T12	Value 268 272	10 m
+T13	Habitat 280 300	North Atlantic Ocean
+T14	Value 302 304	38
+T15	Value 306 308	59
+T16	Value 313 315	40
+T17	Value 317 319	33
+T18	Organism2 354 360	strain
+T19	Organism1 374 379	clade
+T20	Parameter 428 433	depth
+T21	Value 437 448	about 100 m
+T22	Geometrical_part 459 466	surface
+T23	Molecular_Part 473 478	group
+T24	Organism 480 495	Prochlorococcus
+T25	Organism1 549 557	organism
+T26	Parameter 633 641	fraction
+T27	Process 645 659	photosynthesis
+T28	Unknown 667 674	world's
+T29	Habitat 675 681	oceans
+T30	Habitat 690 709	subtropical Pacific
+T31	Value 744 747	50%
+T32	Chemical 761 772	chlorophyll
+T33	Organism1 785 798	cyanobacteria
+T34	Organism1 842 851	organisms
+T35	Protein 859 865	genome
+T36	Parameter 866 870	size
+T37	Value 874 892	approximately 2 Mb
+T38	Chemical 920 927	pigment
+T39	Process 928 939	composition
+T40	Chemical 943 962	divinyl derivatives
+T41	Chemical 966 977	chlorophyll
+T42	Chemical 987 997	a-carotene
+T43	Chemical 999 1009	zeaxanthin
+T44	Unknown 1011 1019	Goericke
+T45	Unknown 1024 1030	Repeta
+T46	Value 1032 1036	1992
+T47	Technique 1038 1052	Chisholm et al
+T48	Value 1053 1057	1988
+T49	Protein 1073 1086	phycoerythrin
+T50	Organism 1205 1218	Synechococcus
+T51	Chemical 1228 1239	chlorophyll
+T52	Chemical 1246 1257	phycobilins
+T53	Organism1 1283 1296	cyanobacteria
+T54	Organism 1307 1322	Prochlorococcus
+T55	Organism1 1350 1358	organism
+T56	Chemical 1407 1415	pigments
+T57	Organism 1512 1521	bacterium
+T58	Cellular_component 1565 1577	chloroplasts
+T59	Protein_part 1601 1609	Sequence
+T60	Technique 1610 1618	analysis
+T61	Protein 1626 1648	Prochlorococcus genome
+T62	Organism1 1695 1709	cyanobacterial
+T63	Molecule 1710 1719	radiation
+T64	Organism 1732 1747	Prochlorococcus
+T65	Mutant_Organism 1754 1762	Smallest
+T66	Organism1 1767 1803	Most Abundant Photosynthetic Microbe
+T67	Habitat 1811 1817	Oceans
+T68	Organism 1818 1833	Prochlorococcus
+T69	Cellular_component 1839 1850	unicellular
+T70	Organism1 1851 1865	cyanobacterium
+T71	Habitat 1885 1894	temperate
+T72	Habitat 1899 1914	tropical oceans
+T73	Complex 1925 1939	phycobilisomes
+T74	Organism1 1967 1980	cyanobacteria
+T75	Chemical 1995 2006	chlorophyll
+T76	Chemical 2032 2039	pigment
+T77	Molecule 2067 2077	blue light
+T78	Parameter 2107 2118	intensities
+T79	Parameter 2128 2139	wavelengths
+T80	Value 2203 2206	70%
+T81	Process 2220 2234	photosynthesis
+T82	Organism1 2242 2254	oligotrophic
+T83	Habitat 2255 2261	oceans
+T84	Process 2292 2296	role
+T85	Chemical 2311 2317	carbon
+T86	Process 2318 2323	cycle
+T87	Habitat 2332 2339	Earth's
+T88	Process 2349 2360	Description
+T89	Protein 2377 2383	genome
+T90	Organism1 2392 2399	microbe
+T91	Process 2446 2456	regulation
+T92	Process 2485 2494	processes
+T93	Organism 2496 2511	Prochlorococcus
+T94	Technique 2547 2564	genome sequencing
+T95	Value 2574 2575	1
+T96	Organism1 2602 2612	phototroph
+T97	Protein 2637 2643	genome
+T98	Value 2645 2651	1.8 Mb
+T99	Value 2655 2656	2
+T100	Technique 2742 2756	flow cytometry
+T101	Value 2759 2760	3
+T102	Chemical 2788 2795	pigment
+T103	Chemical 2797 2816	divinyl chlorophyll
+T104	Process 2828 2840	contribution
+T105	Parameter 2865 2872	biomass
+T106	Habitat 2880 2886	oceans
+T107	Value 2909 2910	4
+T108	Body_part 2933 2940	culture
+T109	Body_part 2955 2963	isolates
+T110	Process 2969 2978	different
+T111	Habitat 2979 2985	oceans
+T112	Habitat 2990 3002	environments
+T113	Organism 3029 3044	Prochlorococcus
+T114	Habitat 3060 3066	oceans
+T115	Bio_Process 3129 3138	phylogeny
+T116	Process 3158 3164	growth
+T117	Process 3218 3228	comparison
+T118	Protein 3245 3252	genomes
+T119	Process 3316 3326	regulation
+T120	Habitat 3361 3367	marine
+T121	Organism1 3368 3377	microbial
+T122	Unknown 3378 3385	systems
+T123	Technique 3411 3432	microarray technology
+T124	Technique 3441 3449	analysis
+T125	Protein 3453 3457	gene
+T126	Process 3458 3468	expression
+T127	Organism1 3529 3537	microbes
+T128	Habitat 3559 3570	environment
+T129	Organism1 3578 3590	oligotrophic
+T130	Habitat 3591 3597	oceans
+T131	Organism 3629 3668	
+T132	Organism1 3681 3688	species
+T133	Value 3703 3707	1992
+T134	Molecular_Part 3718 3723	group
+T135	Habitat 3727 3733	marine
+T136	Organism1 3734 3747	cyanobacteria
+T137	Chemical 3757 3778	(divinyl-)chlorophyll
+T138	Organism 3788 3803	Prochlorococcus
+T139	Process 3843 3852	different
+T140	Unknown 3867 3877	conditions
+T141	Chemical 3909 3924	oxyphototrophic
+T142	Organism1 3925 3933	organism
+T143	Protein 3970 3977	genetic
+T144	Organism 4047 4062	Prochlorococcus
+T145	Process 4095 4103	function
+T146	Organism 4109 4124	Prochlorococcus
+T147	Protein 4135 4151	phycobiliprotein
+T148	Unknown 4184 4190	system
+T149	Organism2 4266 4289	Prochlorococcus strains
+T150	Complex 4294 4337	(divinyl-)chlorophyll a/b-protein complexes
+T151	Body_part 4345 4365	major antenna system
+T152	Chemical 1626 1641	Prochlorococcus

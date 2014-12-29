@@ -1,0 +1,8 @@
+(ROOT (NP (JJ Bradyrhizobium) (NN sp.) (NNS BTAi1)))
+(ROOT (NP (NNP Description)))
+(ROOT (S (NP (NNP Bradyrhizobium)) (VP (VBP sp)) (. .)))
+(ROOT (NP (NP (NNP BTAi)) (NP (CD 1)) (. .)))
+(ROOT (S (NP (DT This) (NN organism)) (VP (VBZ is) (NP (NP (DT a) (JJ photosynthetic) (NN rhizobium)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (ADJP (RB also) (JJ capable) (PP (IN of) (NP (NP (NN nitrogen-fixation)) (, ,) (NP (NP (DT the) (JJ first) (JJ such) (NN example)) (PP (IN of) (NP (PDT such) (DT an) (NN organism)))))))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VP (MD can) (VP (VB form) (NP (NNS nodules)) (PP (IN on) (NP (DT the) (NN legume) (JJ Aeschynomene) (NN indica))))) (CC and) (VP (VBD was) (VP (VBN isolated) (PP (IN from) (NP (NP (DT this) (NN plant)) (PP (IN at) (NP (NP (DT the) (NNP Boyce) (NNP Thompson) (NNP Institute)) (PP (IN for) (NP (NNP Plant) (NNP Research))) (PP (IN in) (NP (NP (NNP Ithaca)) (, ,) (NP (NNP NY))))))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (MD can) (VP (VB form) (NP (NN stem) (CC and) (NN root) (NNS nodules)))) (. .)))
+(ROOT (S (S (NP (DT The) (JJ photosynthetic) (NN reaction) (NNS centers)) (VP (VBP are) (ADJP (JJ similar) (PP (TO to) (NP (NP (DT those)) (VP (VBN found) (PP (IN in) (NP (JJ purple) (JJ photosynthetic) (NNS bacteria))))))))) (CC and) (S (NP (DT this) (NN microbe)) (VP (VBZ aids) (NP (NP (DT the) (NN plant)) (PP (IN in) (NP (NP (NN carbon) (NN metabolism)) (CC and) (NP (NN nitrogen) (NN metabolism))))))) (. .)))

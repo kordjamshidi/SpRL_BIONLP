@@ -1,0 +1,71 @@
+T1	Organism 0 17	Borrelia duttonii
+T2	Unknown 18 20	Ly
+T3	Process 21 32	Description
+T4	Organism 33 50	Borrelia duttonii
+T5	Organism 52 69	Borrelia duttonii
+T6	Unknown 87 92	agent
+T7	Organism1 96 100	tick
+T8	Disease 107 122	relapsing fever
+T9	Habitat 126 137	east Africa
+T10	Disease 144 151	disease
+T11	Disease 155 162	endemic
+T12	Habitat 174 185	east Africa
+T13	Disease 211 219	diseases
+T14	Bio_Process 236 242	deaths
+T15	Organism2 246 254	children
+T16	Parameter 265 268	age
+T17	Disease 283 290	disease
+T18	Organism1 337 362	tick Ornithodoros moubata
+T19	Organism1 364 369	Ticks
+T20	Organism 391 408	Borrelia duttonii
+T21	Disease 429 437	infected
+T22	Organism1 438 444	rodent
+T23	Organism 446 454	Borrelia
+T24	Disease 490 511	generalized infection
+T25	Organism1 527 531	tick
+T26	Organism1 552 556	tick
+T27	Organism1 568 576	organism
+T28	Organism2 584 598	mammalian host
+T29	Body_part 622 628	saliva
+T30	Organism1 630 636	Humans
+T31	Disease 659 667	infected
+T32	Organism1 668 673	ticks
+T33	Process 682 689	contact
+T34	Organism1 695 702	rodents
+T35	Organism1 706 712	rodent
+T36	Disease 720 735	Relapsing fever
+T37	Parameter 758 764	period
+T38	Disease 768 774	chills
+T39	Disease 776 781	fever
+T40	Disease 783 791	headache
+T41	Disease 797 804	malaise
+T42	Parameter 822 828	period
+T43	Disease 861 869	symptoms
+T44	Process 905 912	changes
+T45	Protein 920 936	surface proteins
+T46	Organism 940 948	Borrelia
+T47	Process 974 983	detection
+T48	Process 988 995	removal
+T49	Organism2 1003 1007	host
+T50	Multi-tissue_structure 1008 1021	immune system
+T51	Disease 1028 1037	antigenic
+T52	Process 1038 1047	variation
+T53	Process 1065 1089	homologous recombination
+T54	Protein 1100 1108	proteins
+T55	Protein_part 1127 1132	locus
+T56	Process 1162 1173	replacement
+T57	Organism1 1181 1189	serotype
+T58	Process 1204 1215	Description
+T59	Organism 1216 1233	Borrelia duttonii
+T60	Unknown 1234 1236	Ly
+T61	Organism 1238 1255	Borrelia duttonii
+T62	Unknown 1256 1258	Ly
+T63	Value 1279 1289	2-year-old
+T64	Organism2 1290 1294	girl
+T65	Organism1 1300 1304	tick
+T66	Disease 1311 1326	relapsing fever
+T67	Habitat 1330 1338	Tanzania
+T68	Organism1 1345 1353	organism
+T69	Technique 1383 1391	analysis
+T70	Organism 1403 1419	Borrelia species
+T71	Organism1 584 593	mammalian

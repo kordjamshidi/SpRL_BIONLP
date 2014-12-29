@@ -1,0 +1,51 @@
+T1	Bacteria 0 23	Propionibacterium acnes
+T2	Bacteria 24 47	Propionibacterium acnes
+T3	Habitat 59 63	skin
+T4	Bacteria 80 103	Propionibacterium acnes
+T5	Habitat 129 140	adult human
+T6	Habitat 129 145	adult human skin
+T7	Habitat 171 190	sebaceous follicles
+T8	Habitat 171 180	sebaceous
+T9	Bacteria 284 307	Propionibacterium acnes
+T10	Bacteria 411 419	P. acnes
+T11	Bacteria 660 677	Propionibacterium
+T12	Bacteria 688 703	Corynebacterium
+T13	Bacteria 757 765	P. acnes
+T14	Habitat 848 868	pilosebaceous glands
+T15	Habitat 848 886	pilosebaceous glands of the human skin
+T16	Habitat 848 861	pilosebaceous
+T17	Habitat 876 886	human skin
+T18	Habitat 876 881	human
+T19	Bacteria 892 900	bacteria
+T20	Habitat 944 952	skin oil
+T21	Habitat 944 948	skin
+T22	Habitat 954 959	sebum
+T23	Bacteria 1041 1050	bacterial
+T24	Habitat 1117 1130	hair follicle
+T25	Habitat 1117 1121	hair
+T26	Habitat 1140 1146	lesion
+T27	Habitat 1160 1179	surface of the skin
+T28	Habitat 1197 1204	pustule
+T29	Habitat 1292 1299	topical
+T30	Habitat 1304 1308	oral
+T31	Habitat 1432 1436	skin
+T32	Habitat 1495 1500	sebum
+T33	Bacteria 1525 1533	P. acnes
+T34	Bacteria 1653 1661	bacteria
+T35	Bacteria 1717 1740	Propionibacterium acnes
+T36	Habitat 1758 1764	adults
+T37	Habitat 1872 1877	women
+T38	Habitat 1904 1907	men
+T39	Bacteria 1936 1944	P. ances
+T40	Habitat 1973 1987	corneal ulcers
+T41	Habitat 1973 1980	corneal
+T42	Habitat 1989 2001	heart valves
+T43	Habitat 1989 1994	heart
+T44	Habitat 2006 2024	prosthetic devices
+T45	Habitat 2030 2052	central nervous system
+T46	Habitat 2030 2059	central nervous system shunts
+T47	Habitat 2068 2073	heart
+T48	Bacteria 2091 2114	Propionibacterium acnes
+T49	Habitat 2153 2169	prosthetic valve
+T50	Bacteria 2184 2192	P. acnes
+T51	Habitat 2199 2204	valve

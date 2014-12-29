@@ -1,0 +1,16 @@
+T1	Organism 0 16	Borrelia afzelii
+T2	Unknown 17 20	PKo
+T3	Process 21 32	Description
+T4	Organism 33 49	Borrelia afzelii
+T5	Organism1 56 63	species
+T6	Pathological_formation 84 95	skin lesion
+T7	Disease 103 115	Lyme disease
+T8	Organism2 116 123	patient
+T9	Habitat 127 133	Europe
+T10	Unknown 172 177	agent
+T11	Disease 181 222	acrodermatitis chronica atrophicans (ACA)
+T12	Organism1 229 237	organism
+T13	Organism 271 287	Borrelia species
+T14	Molecule 291 310	monoclonal antibody
+T15	Process 311 324	hybridization
+T16	Organ 84 88	skin

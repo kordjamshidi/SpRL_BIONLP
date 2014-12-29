@@ -1,0 +1,44 @@
+T1	Bacteria 0 34	Mycobacterium tuberculosis CDC1551
+T2	Bacteria 47 60	Mycobacterium
+T3	Bacteria 140 148	bacteria
+T4	Bacteria 186 202	Mycobacteriaceae
+T5	Bacteria 220 235	Actinomycetales
+T6	Bacteria 264 279	Actinomycetales
+T7	Bacteria 289 297	Nocardia
+T8	Bacteria 302 317	Corynebacterium
+T9	Bacteria 319 331	mycobacteria
+T10	Bacteria 470 496	Mycobacterium tuberculosis
+T11	Bacteria 503 512	bacterium
+T12	Habitat 669 675	humans
+T13	Bacteria 691 699	bacteria
+T14	Habitat 733 739	people
+T15	Habitat 767 783	world population
+T16	Bacteria 829 838	bacterium
+T17	Habitat 1855 1884	droplets that are aerosolized
+T18	Habitat 1891 1906	infected person
+T19	Habitat 1945 1974	cells of the terminal airways
+T20	Habitat 1958 1974	terminal airways
+T21	Habitat 2026 2046	alveolar macrophages
+T22	Habitat 2048 2059	Macrophages
+T23	Habitat 2106 2111	lungs
+T24	Habitat 2120 2140	regional lymph nodes
+T25	Habitat 2129 2134	lymph
+T26	Habitat 2149 2153	cell
+T27	Bacteria 2252 2260	bacteria
+T28	Habitat 2293 2303	granulomas
+T29	Bacteria 2317 2358	Mycobacterium tuberculosis strain CDC1551
+T30	Bacteria 2389 2396	Oshkosh
+T31	Habitat 2411 2419	clinical
+T32	Habitat 2435 2499	clothing factory worker from the Kentucky/Tennessee, USA, region
+T33	Habitat 2435 2451	clothing factory
+T34	Geographical 2468 2476	Kentucky
+T35	Geographical 2477 2486	Tennessee
+T36	Geographical 2488 2491	USA
+T37	Habitat 2561 2568	patient
+T38	Habitat 2561 2586	patient's social contacts
+T39	Habitat 2637 2640	man
+T40	Habitat 2677 2682	drugs
+T41	Habitat 2716 2726	mouse lung
+T42	Habitat 2716 2721	mouse
+T43	Bacteria 2777 2785	bacteria
+T44	Bacteria 2795 2800	H37Rv

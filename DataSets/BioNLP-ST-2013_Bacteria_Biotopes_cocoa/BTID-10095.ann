@@ -1,0 +1,99 @@
+T1	Organism 0 29	Bradyrhizobium japonicum USDA
+T2	Process 34 45	Description
+T3	Organism 46 70	Bradyrhizobium japonicum
+T4	Chemical 77 85	nitrogen
+T5	Organism 93 102	bacterium
+T6	Parameter 124 136	relationship
+T7	Organism1 146 159	soybean plant
+T8	Chemical 160 167	Glycine
+T9	Protein_part 196 198	N2
+T10	Unknown 206 214	Rhizobia
+T11	Organism1 240 247	legumes
+T12	Organism 253 262	bacterium
+T13	Body_part 287 298	root nodule
+T14	Habitat 327 338	environment
+T15	Organism1 347 355	organism
+T16	Organism 374 383	bacterium
+T17	Organism1 397 402	plant
+T18	Cell 403 407	cell
+T19	Chemical 413 421	nitrogen
+T20	Parameter 469 481	relationship
+T21	Chemical 549 559	fertilizer
+T22	Protein 561 566	Genes
+T23	Protein 581 589	proteins
+T24	Body_part 602 606	root
+T25	Process 607 617	nodulation
+T26	Protein 637 647	chromosome
+T27	Process 653 663	production
+T28	Process 671 681	nodulation
+T29	Chemical 690 700	lipochitin
+T30	Protein 717 722	genes
+T31	Process 750 758	presence
+T32	Organism1 762 767	plant
+T33	Chemical 768 787	flavonoid compounds
+T34	Organism1 798 803	plant
+T35	Process 819 829	nodulation
+T36	Body_part 838 849	root nodule
+T37	Process 850 859	formation
+T38	Organism1 876 884	bacteria
+T39	Cell 908 921	cortical cell
+T40	Cellular_component 949 957	membrane
+T41	Cellular_component 964 973	organelle
+T42	Cellular_component 985 995	symbiosome
+T43	Organism1 1001 1009	bacteria
+T44	Chemical 1034 1042	nitrogen
+T45	Chemical 1083 1089	carbon
+T46	Chemical 1095 1104	nutrients
+T47	Organism1 1112 1117	plant
+T48	Process 1119 1130	Description
+T49	Organism2 1131 1170	Bradyrhizobium japonicum strain USDA110
+T50	Organism2 1177 1183	strain
+T51	Chemical 1202 1209	Glycine
+T52	Unknown 1229 1236	Florida
+T53	Unknown 1238 1241	USA
+T54	Location 1286 1294	superior
+T55	Chemical 1305 1313	nitrogen
+T56	Process 1314 1322	fixation
+T57	Organism1 1328 1336	soybeans
+T58	Organism2 1358 1365	strains
+T59	Organism2 1372 1378	strain
+T60	Value 1390 1396	681 Kb
+T61	Disease 1397 1406	symbiosis
+T62	Habitat 1407 1413	island
+T63	Protein 1428 1433	genes
+T64	Chemical 1438 1446	nitrogen
+T65	Process 1447 1455	fixation
+T66	Body_part 1460 1471	root nodule
+T67	Process 1472 1481	formation
+T68	Protein 1487 1497	chromosome
+T69	Protein 1512 1517	genes
+T70	Unknown 1538 1546	type III
+T71	Unknown 1551 1553	IV
+T72	Process 1554 1563	secretion
+T73	Unknown 1564 1571	systems
+T74	Organism2 1586 1592	strain
+T75	Process 1593 1604	designation
+T76	Organism 1608 1615	USDA110
+T77	Unknown 1620 1627	3I1b110
+T78	Organism 1660 1667	USDA110
+T79	Unknown 1681 1687	1960's
+T80	Process 1697 1708	development
+T81	Process 1729 1740	recognition
+T82	Process 1749 1758	different
+T83	Organism 1794 1801	USDA110
+T84	Organism2 1809 1824	serotype strain
+T85	Organism2 1859 1865	strain
+T86	Organism1 1873 1880	species
+T87	Organism 1884 1913	Bradyrhizobium japonicum USDA
+T88	Organism1 1940 1947	soybean
+T89	Habitat 1951 1956	Japan
+T90	Mutant_Organism 1958 1962	USDA
+T91	Body_part 1977 1984	culture
+T92	Company 1994 2013	University of Tokyo
+T93	Body_part 2028 2035	culture
+T94	Process 2042 2051	different
+T95	Parameter 2062 2070	affinity
+T96	Mutant_Organism 2074 2078	USDA
+T97	Organism2 2102 2117	serotype strain
+T98	Organism1 1809 1817	serotype
+T99	Organism1 2102 2110	serotype

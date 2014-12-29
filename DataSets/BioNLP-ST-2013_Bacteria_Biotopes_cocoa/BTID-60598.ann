@@ -1,0 +1,28 @@
+T1	Organism 0 21	Spirochaeta americana
+T2	Process 22 33	Description
+T3	Organism 51 63	S. americana
+T4	Organism1 70 82	extremophile
+T5	Chemical 116 124	alkaline
+T6	Habitat 135 146	environment
+T7	Organism 150 154	Mono
+T8	Habitat 155 159	Lake
+T9	Habitat 161 171	California
+T10	Parameter 203 208	areas
+T11	Chemical 219 225	sulfur
+T12	Chemical 230 234	salt
+T13	Parameter 235 249	concentrations
+T14	Organism 251 263	S. americana
+T15	Profession 268 278	scientists
+T16	Habitat 327 338	environment
+T17	Organism 342 346	Mono
+T18	Habitat 347 351	Lake
+T19	Habitat 374 378	Mars
+T20	Organism 431 443	S. americana
+T21	Organism1 459 467	anaerobe
+T22	Parameter 487 495	pH range
+T23	Value 499 502	8.0
+T24	Value 505 509	10.5
+T25	Cell 511 516	Cells
+T26	Organism2 524 544	Gram-negative strain
+T27	Parameter 585 590	sizes
+T28	Value 594 616	0.2-0.22 x 8-18 microm

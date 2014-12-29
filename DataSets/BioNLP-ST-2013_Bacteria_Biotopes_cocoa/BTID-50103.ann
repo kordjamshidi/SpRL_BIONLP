@@ -1,0 +1,150 @@
+T1	Disease 0 53	
+T2	Process 67 72	cause
+T3	Disease 76 88	tuberculosis
+T4	Disease 93 119	Mycobacterium tuberculosis
+T5	Category 120 127	complex
+T6	Organism1 131 140	organisms
+T7	Organism1 167 174	species
+T8	Disease 176 202	Mycobacterium tuberculosis
+T9	Organism 204 227	Mycobacterium africanum
+T10	Organism 229 248	Mycobacterium bovis
+T11	Organism 250 271	Mycobacterium microti
+T12	Organism 328 343	M. tuberculosis
+T13	Organism 345 360	M. tuberculosis
+T14	Organism1 376 384	pathogen
+T15	Organism1 418 425	animals
+T16	Organism1 427 433	Humans
+T17	Organism2 452 457	hosts
+T18	Disease 459 493	Mycobacterium tuberculosis (M.TB.)
+T19	Organism 552 560	bacillus
+T20	Body_part 619 625	spores
+T21	Organism 645 669	Acid fast bacillus (AFB)
+T22	Disease 671 676	M.TB.
+T23	Unknown 705 709	Gram
+T24	Unknown 722 726	Gram
+T25	Chemical 765 773	chemical
+T26	Organism1 814 822	bacteria
+T27	Protein 834 847	peptidoglycan
+T28	Chemical 849 855	murein
+T29	Cellular_component 866 875	cell wall
+T30	Chemical 882 892	Gram stain
+T31	Disease 909 914	M.TB.
+T32	Unknown 938 942	Gram
+T34	Value 1031 1036	24 hr
+T35	Chemical 1062 1084	chemical disinfectants
+T36	Process 1108 1122	Pasteurisation
+T37	Molecule 1128 1136	UV light
+T38	Disease 1138 1164	Mycobacterium tuberculosis
+T39	Process 1173 1178	cause
+T40	Unknown 1187 1192	White
+T41	Disease 1193 1199	Plague
+T42	Value 1208 1212	17th
+T43	Value 1217 1221	18th
+T44	Habitat 1235 1241	Europe
+T45	Disease 1250 1276	Mycobacterium tuberculosis
+T46	Disease 1301 1310	morbidity
+T47	Organism1 1314 1320	humans
+T48	Disease 1336 1353	bacterial disease
+T49	Disease 1355 1360	M.TB.
+T50	Value 1369 1380	1.7 billion
+T51	Value 1411 1414	33%
+T52	Organism1 1473 1484	individuals
+T53	Disease 1503 1534	Mycobacterium tuberculosis (TB)
+T54	Tissue 1580 1587	tissues
+T55	Disease 1616 1633	drug-resistant TB
+T56	Organism1 1674 1679	human
+T57	Organism2 1693 1710	Non-human strains
+T58	Organism1 1734 1738	cows
+T59	Organism1 1740 1745	birds
+T60	Organism1 1757 1764	animals
+T61	Disease 1784 1796	tuberculosis
+T62	Technique 1841 1845	tool
+T63	Profession 1850 1861	researchers
+T64	Protein 1869 1875	genome
+T65	Protein_part 1876 1884	sequence
+T66	Organism 1888 1903	M. tuberculosis
+T67	Organism 1910 1919	bacterium
+T68	Company 1949 1965	Sanger Institute
+T69	Habitat 1970 1977	England
+T70	Company 1987 2004	Pasteur Institute
+T71	Organism 2009 2014	Paris
+T72	Profession 2016 2027	Researchers
+T73	Protein 2087 2092	genes
+T74	Bio_Process 2110 2120	metabolism
+T75	Disease 2138 2147	virulence
+T76	Organism1 2153 2164	bacterium's
+T77	Disease 2208 2220	tuberculosis
+T78	Profession 2221 2232	researchers
+T79	Organ 2255 2260	lungs
+T80	Disease 2279 2288	infection
+T81	Organism_subdivision 2325 2331	body's
+T82	Process 2332 2340	defenses
+T83	Disease 2360 2362	TB
+T84	Disease 2377 2395	full-blown disease
+T85	Value 2399 2415	about 10 percent
+T86	Organism2 2419 2427	carriers
+T87	Organ 2458 2463	lungs
+T88	Organism 2473 2482	bacterium
+T89	Organism2 2502 2506	host
+T90	Cell 2507 2519	immune cells
+T91	Value 2537 2546	Two years
+T92	Unknown 2552 2568	Brigitte Gicquel
+T93	Company 2577 2594	Pasteur Institute
+T94	Protein 2609 2613	gene
+T95	Disease 2630 2649	bacterial virulence
+T96	Protein 2659 2663	gene
+T97	Organism2 2665 2672	Strains
+T98	Organism 2676 2685	bacterium
+T99	Protein 2702 2706	gene
+T100	Organism1 2722 2726	mice
+T101	Process 2738 2752	identification
+T102	Profession 2762 2773	researchers
+T103	Protein 2791 2796	genes
+T104	Disease 2811 2826	bug's virulence
+T105	Protein 2832 2841	pcaA gene
+T106	Parameter 2868 2876	strength
+T107	Cellular_component 2884 2893	cell wall
+T108	Process 2902 2911	formation
+T109	Body_part 2926 2931	cords
+T110	Organism1 2935 2943	bacteria
+T111	Disease 2973 2982	infection
+T112	Molecule 2984 2991	Mutants
+T113	Protein 3005 3009	gene
+T114	Organism1 3033 3037	mice
+T115	Organism2 3069 3074	hosts
+T116	Protein 3080 3089	pcaA gene
+T117	Profession 3118 3129	researchers
+T118	Unknown 3137 3146	William R
+T119	Unknown 3156 3159	Jr.
+T120	Company 3168 3191	Albert Einstein College
+T121	Chemical 3195 3203	Medicine
+T122	Unknown 3208 3216	New York
+T123	Disease 3218 3230	Tuberculosis
+T124	Chemical 3253 3256	air
+T125	Disease 3286 3298	pulmonary TB
+T126	Process 3328 3336	exposure
+T127	Disease 3364 3366	TB
+T128	Disease 3392 3401	infection
+T129	Disease 3416 3424	symptoms
+T130	Disease 3428 3430	TB
+T131	Disease 3441 3456	low-grade fever
+T132	Disease 3458 3470	night sweats
+T133	Disease 3472 3479	fatigue
+T134	Disease 3481 3492	weight loss
+T135	Disease 3499 3515	persistent cough
+T136	Disease 3550 3558	symptoms
+T137	Process 3569 3575	effect
+T138	Disease 3579 3581	TB
+T139	Organ 3594 3599	lungs
+T140	Disease 3601 3613	pulmonary TB
+T141	Geometrical_part 3622 3627	parts
+T142	Organism_subdivision 3635 3639	body
+T143	Body_part 3674 3685	lymph nodes
+T144	Organ 3687 3694	kidneys
+T145	Tissue 3696 3701	bones
+T146	Body_part 3706 3712	joints
+T147	Cell 866 870	cell
+T148	Organism1 1693 1702	Non-human
+T149	Cell 2884 2888	cell
+T150	Organ 3286 3295	pulmonary
+T151	Organ 3601 3610	pulmonary

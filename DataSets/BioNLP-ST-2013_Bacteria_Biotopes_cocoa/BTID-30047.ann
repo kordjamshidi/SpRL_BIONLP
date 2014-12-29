@@ -1,0 +1,29 @@
+T1	Protein 6 12	genome
+T2	Organism 21 39	Rickettsia conorii
+T3	Unknown 58 63	agent
+T4	Disease 97 116	Mediterranean fever
+T5	Organism2 121 124	man
+T6	Disease 131 138	disease
+T7	Disease 154 159	fever
+T8	Organism1 191 205	brown dog tick
+T9	Organism 207 225	Rickettsia conorii
+T10	Location 241 254	intracellular
+T11	Organism1 255 263	parasite
+T12	Cellular_component 288 297	cytoplasm
+T13	Organism1 301 311	eukaryotic
+T14	Cell 312 317	cells
+T15	Protein 323 329	genome
+T16	Parameter 336 340	size
+T17	Value 344 347	1.2
+T18	Unknown 348 350	Mb
+T19	Organism1 358 366	bacteria
+T20	Organism1 401 411	arthropods
+T21	Value 424 445	hundred million years
+T22	Organism 447 465	Rickettsia conorii
+T23	Organism1 492 499	species
+T24	Organism 505 525	Rickettsia prowazeki
+T25	Protein 579 584	alpha
+T26	Organism1 595 609	proteobacteria
+T27	Process 625 635	comparison
+T28	Protein_part 639 656	16S RNA sequences
+T29	Protein 639 646	16S RNA

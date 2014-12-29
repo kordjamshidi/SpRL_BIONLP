@@ -1,0 +1,37 @@
+T1	Organism2 0 35	Borrelia burgdorferi ZS7 strain ZS7
+T2	Process 36 47	Description
+T3	Organism 48 68	Borrelia burgdorferi
+T4	Organism1 75 83	organism
+T5	Unknown 101 106	agent
+T6	Disease 110 122	Lyme disease
+T7	Disease 126 147	multisystemic disease
+T8	Disease 202 209	disease
+T9	Habitat 213 226	North America
+T10	Habitat 231 237	Europe
+T11	Organism1 244 252	organism
+T12	Organism 271 288	Ixodes scapularis
+T13	Organism 302 311	bacterium
+T14	Organism 333 343	spirochete
+T15	Cellular_component 364 384	periplasmic flagella
+T16	Cell 389 393	cell
+T17	Geometrical_part 394 397	end
+T18	Process 399 407	Motility
+T19	Process 420 428	rotation
+T20	Location 445 449	axis
+T21	Process 451 460	flexation
+T22	Cell 468 472	cell
+T23	Process 477 487	locomotion
+T24	Geometrical_part 496 503	helical
+T25	Parameter 531 539	property
+T26	Process 547 555	presence
+T27	Pathological_formation 559 585	periplasmic flagella wound
+T28	Geometrical_part 597 604	helical
+T29	Multi-tissue_structure 605 617	protoplasmic
+T30	Body_part 645 657	outer sheath
+T31	Organism 659 673	B. burgdorferi
+T32	Protein 689 695	genome
+T33	Protein 721 731	chromosome
+T34	Body_part 745 762	circular plasmids
+T35	Process 798 807	different
+T36	Body_part 808 816	plasmids
+T37	Cellular_component 559 579	periplasmic flagella

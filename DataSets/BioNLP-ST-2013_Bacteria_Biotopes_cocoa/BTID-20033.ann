@@ -1,0 +1,69 @@
+T1	Organism 0 29	Burkholderia multivorans ATCC
+T2	Organism 36 56	Burkholderia species
+T3	Chemical 129 134	water
+T4	Chemical 161 169	nitrogen
+T5	Organism1 179 185	plants
+T6	Organism1 206 215	pathogens
+T7	Bio_Process 244 251	healthy
+T8	Chemical 253 256	CO2
+T9	Unknown 264 273	ecosystem
+T10	Organism 275 287	Burkholderia
+T11	Habitat 308 316	habitats
+T12	Body_part 343 352	root zone
+T13	Chemical 357 362	water
+T14	Process 375 387	associations
+T15	Organism1 393 399	plants
+T16	Organism1 404 411	animals
+T17	Location 425 440	intracellularly
+T18	Organism1 444 451	amoebas
+T19	Organism1 494 504	prokaryote
+T20	Protein 505 512	genomes
+T21	Value 519 522	9.7
+T22	Unknown 523 525	Mb
+T23	Parameter 608 612	rate
+T24	Process 630 640	plasticity
+T25	Protein 661 667	genome
+T26	Geometrical_part 668 677	structure
+T27	Mutant_Organism 706 720	Burkholderia's
+T28	Process 721 737	characterization
+T29	Unknown 771 778	members
+T30	Category 786 820	Burkholderia cepacia complex (Bcc)
+T31	Unknown 836 841	group
+T32	Organism1 845 867	Burkholderia pathogens
+T33	Category 880 883	Bcc
+T34	Unknown 910 919	selection
+T35	Process 940 947	insight
+T36	Organism1 973 978	genus
+T37	Organism 992 1004	Burkholderia
+T38	Disease 1019 1033	non-pathogenic
+T39	Unknown 1052 1059	members
+T40	Category 1067 1070	Bcc
+T41	Organism1 1112 1118	plants
+T42	Organism 1151 1163	Burkholderia
+T43	Process 1217 1224	insight
+T44	Unknown 1256 1263	members
+T45	Category 1276 1279	Bcc
+T46	Organism1 1284 1292	pathogen
+T47	Molecular_Part 1293 1299	groups
+T48	Phenotype 1331 1337	traits
+T49	Organism1 1382 1387	plant
+T50	Organism 1397 1409	Burkholderia
+T51	Chemical 1420 1428	nitrogen
+T52	Organism1 1450 1456	plants
+T53	Chemical 1476 1479	CO2
+T54	Unknown 1493 1503	ecosystems
+T55	Habitat 1535 1552	Amazon rainforest
+T56	Habitat 1561 1568	Cerrado
+T57	Organism 1570 1579	Brazilian
+T58	Habitat 1580 1588	savannah
+T59	Organism1 1616 1627	communities
+T60	Unknown 1647 1651	unit
+T61	Unknown 1658 1667	ecosystem
+T62	Organism1 1677 1682	plant
+T63	Organism1 1710 1717	species
+T64	Habitat 1778 1784	Amazon
+T65	Habitat 1790 1796	forest
+T66	Unknown 1817 1824	Cerrado
+T67	Organism2 1846 1852	strain
+T68	Organism1 1856 1861	grass
+T69	Body_part 1862 1866	root

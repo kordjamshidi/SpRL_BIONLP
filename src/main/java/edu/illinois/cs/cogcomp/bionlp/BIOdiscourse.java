@@ -1,17 +1,14 @@
 package edu.illinois.cs.cogcomp.bionlp;
 
-import GeneralData_preprocess.build_RelDB;
-import LBJ2.nlp.SentenceSplitter;
-import LBJ2.nlp.Word;
-import LBJ2.nlp.WordSplitter;
-import LBJ2.nlp.seg.PlainToTokenParser;
-import LBJ2.parse.Parser;
-import RLpackage.TreeNode;
-import RLpackage.TreeRepresentation;
-import Utility.PreProcessing;
-import Utility.StringSimilarity;
-import Utility.Util;
+
+
+import edu.illinois.cs.cogcomp.bionlp.Utility.*;
 import edu.illinois.cs.cogcomp.lbj.chunk.Chunker;
+import edu.illinois.cs.cogcomp.lbjava.nlp.SentenceSplitter;
+import edu.illinois.cs.cogcomp.lbjava.nlp.Word;
+import edu.illinois.cs.cogcomp.lbjava.nlp.WordSplitter;
+import edu.illinois.cs.cogcomp.lbjava.nlp.seg.PlainToTokenParser;
+import edu.illinois.cs.cogcomp.lbjava.parse.Parser;
 import edu.ucdenver.ccp.nlp.biolemmatizer.BioLemmatizer;
 import edu.ucdenver.ccp.nlp.biolemmatizer.LemmataEntry;
 
@@ -20,6 +17,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.*;
 import java.util.regex.Pattern;
+
+import static edu.illinois.cs.cogcomp.bionlp.Utility.Util.find_tree_indexes;
 
 public class BIOdiscourse {
 	String name="";
@@ -586,7 +585,7 @@ public void Add_B_H_Sp_candidates(){
 			  
 			  if (!inVerbPhrase(temp,allsentences.elementAt(i).parseTree)){
 				  String w=allsentences.elementAt(i).sentence_feat.elementAt(temp[0]).words.word;
-				  if (!FEx_BIONLP_BB.find_(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,w) && w.length()>1) //exclude puntuation
+				  if (!FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.find_(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,w) && w.length()>1) //exclude puntuation
 	               { 
 				    FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.statis.Entity_neg_num++;  
 				   discourse_annotations.add_new_Entity();
@@ -669,7 +668,7 @@ public void Add_B_H_Sp_candidates(){
 
 						if (!inVerbPhrase(temp,allsentences.elementAt(i).parseTree)){
 							String w=allsentences.elementAt(i).sentence_feat.elementAt(temp[0]).words.word;
-							if (!FEx_BIONLP_BB.find_(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,w) && w.length()>1) //exclude puntuation
+							if (!FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.find_(FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.StopWords,w) && w.length()>1) //exclude puntuation
 							{ 
 								FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.statis.Entity_neg_num++;  
 								discourse_annotations.add_new_Entity();
@@ -873,7 +872,7 @@ public void Add_B_H_Sp_candidates(){
 	    for (int it=lth_begin;it<lth_end;it++)
 	    {lth_submatrix.addElement(lth_matrix.elementAt(it));}
 	    
-		Tree_indexes=build_RelDB.find_tree_indexes(Nodes_, lth_submatrix);
+		Tree_indexes=find_tree_indexes(Nodes_, lth_submatrix);
 		for (int w=0;w<wordNum;w++){
 			String wordsubcat="";
 			TreeNode tem=Nodes_.elementAt(Tree_indexes[w]).getParent();
@@ -1457,8 +1456,8 @@ public void EntitySimilarity(){
 		    	 S2[w]=PreProcessing.BacteriaToken(allsentences.elementAt(e2.sentence_id).sentence_feat.elementAt(e2.wordIndexes[w]).words.word);
 			      
 		      }
-		     S2=PreProcessing.BacteriafullName(S2);
-		     Similarity_Matrix[i][j]=StringSimilarity.Jaccard(S1,S2);
+		     S2= PreProcessing.BacteriafullName(S2);
+		     Similarity_Matrix[i][j]= StringSimilarity.Jaccard(S1, S2);
 		
 	    }
 	   }
@@ -2043,7 +2042,7 @@ public void chunk() {
 						new WordSplitter(new SentenceSplitter(a)));
 		String previous = "";
 
-		for (Word w = (Word) parser.next(); w != null; w = (Word) parser.next()) 
+		for (Word w = (Word) parser.next(); w != null; w = (Word) parser.next())
 		{
 
 
@@ -2355,7 +2354,7 @@ private String find_annotation(int sen_ind, int tok_ind) {
 	    if (e.wordIndexes[0]==tok_ind)
 	    	ann="B-"+e.role.charAt(0);
 	    else
-	    	if (Utility.Util.contains_int(e.wordIndexes, tok_ind))
+	    	if (Util.contains_int(e.wordIndexes, tok_ind))
 	    	  ann="I-"+e.role.charAt(0);	
 	    
 	    	

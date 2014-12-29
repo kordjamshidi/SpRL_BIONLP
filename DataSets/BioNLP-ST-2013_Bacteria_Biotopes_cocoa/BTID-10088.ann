@@ -1,0 +1,45 @@
+T1	Organism 0 24	Borrelia burgdorferi B31
+T2	Process 25 36	Description
+T3	Organism 37 57	Borrelia burgdorferi
+T4	Organism1 64 72	organism
+T5	Unknown 90 95	agent
+T6	Disease 99 111	Lyme disease
+T7	Disease 115 136	multisystemic disease
+T8	Disease 191 198	disease
+T9	Habitat 202 215	North America
+T10	Habitat 220 226	Europe
+T11	Organism1 233 241	organism
+T12	Organism 260 277	Ixodes scapularis
+T13	Organism 291 300	bacterium
+T14	Organism 322 332	spirochete
+T15	Cellular_component 353 373	periplasmic flagella
+T16	Cell 378 382	cell
+T17	Geometrical_part 383 386	end
+T18	Process 388 396	Motility
+T19	Process 409 417	rotation
+T20	Location 434 438	axis
+T21	Process 440 449	flexation
+T22	Cell 457 461	cell
+T23	Process 466 476	locomotion
+T24	Geometrical_part 485 492	helical
+T25	Parameter 520 528	property
+T26	Process 536 544	presence
+T27	Pathological_formation 548 574	periplasmic flagella wound
+T28	Geometrical_part 586 593	helical
+T29	Multi-tissue_structure 594 606	protoplasmic
+T30	Body_part 634 646	outer sheath
+T31	Organism 648 662	B. burgdorferi
+T32	Protein 678 684	genome
+T33	Protein 710 720	chromosome
+T34	Body_part 734 751	circular plasmids
+T35	Process 787 796	different
+T36	Body_part 797 805	plasmids
+T37	Process 807 818	Description
+T38	Organism2 819 850	Borrelia burgdorferi strain B31
+T39	Organism2 869 888	strain (ATCC 35210)
+T40	Organism1 898 906	organism
+T41	Technique 945 952	cloning
+T42	Body_part 971 983	Lyme-disease
+T43	Organism1 984 988	tick
+T44	Body_part 989 996	isolate
+T45	Cellular_component 548 568	periplasmic flagella

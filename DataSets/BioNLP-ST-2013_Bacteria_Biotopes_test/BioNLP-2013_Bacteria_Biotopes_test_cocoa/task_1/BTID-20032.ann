@@ -1,0 +1,51 @@
+T1	Organism 0 54	
+T2	Unknown 56 59	LMG
+T3	Value 60 65	19182
+T4	Organism1 84 92	organism
+T5	Organism1 118 123	plant
+T6	Process 124 130	growth
+T7	Organism1 157 162	plant
+T8	Disease 163 173	pathogenic
+T9	Organism 174 181	Pythium
+T10	Organism 191 212	Aphanomyces euteiches
+T11	Unknown 231 234	DOE
+T12	Chemical 238 244	carbon
+T13	Process 245 258	sequestration
+T14	Organism 260 287	Burkholderia ambifaria AMMD
+T15	Organism2 300 306	strain
+T16	Organism 311 323	B. ambifaria
+T17	Organism1 327 334	species
+T18	Organism 342 362	Burkholderia cepacia
+T19	Category 363 370	complex
+T20	Cell 390 401	saprophytes
+T21	Organism1 403 408	plant
+T22	Organism1 424 429	human
+T23	Body_part 439 447	isolates
+T24	Organism 471 498	Burkholderia ambifaria AMMD
+T25	Unknown 515 516	J
+T26	Unknown 518 523	Parke
+T27	Value 527 531	1985
+T28	Body_part 556 559	pea
+T29	Organism 562 575	Pisum sativum
+T30	Body_part 576 578	L.
+T31	Unknown 585 594	Arlington
+T32	Unknown 596 605	Wisconsin
+T33	Unknown 607 610	USA
+T34	Body_part 628 631	pea
+T35	Organism1 635 646	maize seeds
+T36	Organism1 665 669	seed
+T37	Body_part 674 685	root system
+T38	Organism1 701 705	seed
+T39	Disease 706 709	rot
+T40	Organism1 729 734	plant
+T41	Disease 735 745	pathogenic
+T42	Organism 746 753	Pythium
+T43	Food 787 791	peas
+T44	Organism 820 841	Aphanomyces euteiches
+T45	Process 993 1000	control
+T46	Unknown 1001 1006	agent
+T47	Organism1 1080 1085	human
+T48	Bio_Process 1086 1092	health
+T49	Unknown 1094 1099	Parke
+T50	Unknown 1104 1118	Gurian-Sherman
+T51	Value 1120 1124	2001

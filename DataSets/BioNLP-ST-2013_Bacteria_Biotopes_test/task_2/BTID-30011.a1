@@ -1,0 +1,31 @@
+T1	Habitat 23 42	marine environments
+T2	Bacteria 43 56	Marinobacters
+T3	Habitat 80 86	marine
+T4	Geographical 118 151	Centre d'Oceanologie de Marseille
+T5	Geographical 142 151	Marseille
+T6	Habitat 184 203	marine environments
+T7	Bacteria 367 376	bacterial
+T8	Habitat 367 381	bacterial mats
+T9	Habitat 383 416	marine hot-water springs in Japan
+T10	Geographical 411 416	Japan
+T11	Habitat 421 434	cold seawater
+T12	Geographical 441 447;462 469	Arctic regions
+T13	Geographical 452 469	Antarctic regions
+T14	Bacteria 501 514	Marinobacters
+T15	Bacteria 737 771	Marinobacter hydrocarbonoclasticus
+T16	Habitat 908 916	biofilms
+T17	Bacteria 1035 1048	Marinobacters
+T18	Habitat 1126 1140	extracelllular
+T19	Geographical 1315 1318	OOB
+T20	Geographical 1320 1327	Banyuls
+T21	Geographical 1368 1371	LEM
+T22	Geographical 1373 1376	Pau
+T23	Habitat 1399 1412	extracellular
+T24	Geographical 1422 1426	IBSM
+T25	Geographical 1427 1436	Marseille
+T26	Habitat 1459 1467	biofilms
+T27	Geographical 1469 1472	LEM
+T28	Geographical 1474 1477	Pau
+T29	Geographical 1525 1530	LMGEM
+T30	Geographical 1532 1541	Marseille
+T31	Habitat 1651 1657	marine

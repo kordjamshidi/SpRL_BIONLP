@@ -1,0 +1,146 @@
+T1	Organism 0 12	Sphingomonas
+T2	Process 13 24	Description
+T3	Organism 42 54	Sphingomonas
+T4	Unknown 60 64	Gram
+T5	Organism1 92 110	chemoheterotrophic
+T6	Organism 121 138	aerobic bacterium
+T7	Process 224 234	possession
+T8	Chemical 238 248	ubiquinone
+T9	Multi-tissue_structure 259 276	major respiratory
+T10	Chemical 277 284	quinone
+T11	Chemical 293 318	glycosphingolipids (GDLs)
+T12	Chemical 330 348	lipopolysaccharide
+T13	Cell 358 362	cell
+T14	Geometrical_part 363 372	envelopes
+T15	Organism 378 387	bacterium
+T16	Chemical 478 487	compounds
+T17	Chemical 527 539	contaminants
+T18	Bio_Process 598 607	metabolic
+T19	Process 608 618	mechanisms
+T20	Process 628 639	application
+T21	Process 685 696	utilization
+T22	Process 700 713	biomeditation
+T23	Food 725 729	food
+T24	Organism1 752 759	species
+T25	Organism 763 775	Sphingomonas
+T26	Organism 788 803	S. paucimobilis
+T27	Disease 817 826	infection
+T28	Organism1 830 836	humans
+T29	Organism1 859 868	organisms
+T30	Organism 881 893	Sphingomonas
+T31	Habitat 920 932	environments
+T32	Chemical 974 982	seawater
+T33	Habitat 988 1008	terrestrial habitats
+T34	Organism1 1010 1015	plant
+T35	Body_part 1016 1028	root systems
+T36	Parameter 1077 1089	distribution
+T37	Habitat 1097 1108	environment
+T38	Chemical 1158 1175	organic compounds
+T39	Unknown 1219 1229	conditions
+T40	Organism2 1245 1252	strains
+T41	Organism 1256 1268	Sphingomonas
+T42	Habitat 1310 1322	environments
+T43	Chemical 1420 1429	compounds
+T44	Chemical 1438 1442	PCBs
+T45	Chemical 1444 1452	creosote
+T46	Chemical 1454 1471	pentachlorophenol
+T47	Chemical 1473 1483	herbicides
+T48	Technique 1506 1521	Nishiyama et al
+T49	Organism2 1525 1531	strain
+T50	Organism 1535 1550	S. paucimobilis
+T51	Chemical 1565 1585	hexachlorocylohexane
+T52	Value 1663 1681	less than 0.025 mm
+T53	Parameter 1685 1693	diameter
+T54	Process 1740 1747	control
+T55	Organism 1764 1773	bacterium
+T56	Value 1785 1791	higher
+T57	Parameter 1792 1812	population densities
+T58	Process 1820 1828	presence
+T59	Chemical 1836 1847	contaminant
+T60	Process 1860 1867	absence
+T61	Organism 1904 1916	Sphingomonas
+T62	Chemical 1929 1941	contaminants
+T63	Process 1947 1953	growth
+T64	Parameter 1958 1964	energy
+T65	Organism1 2029 2038	organisms
+T66	Habitat 2050 2062	environments
+T67	Organism1 2074 2086	Some species
+T68	Organism 2090 2102	Sphingomonas
+T69	Organism 2115 2130	S. paucimobilis
+T70	Process 2145 2154	equipment
+T71	Company 2158 2167	hospitals
+T72	Multi-tissue_structure 2219 2230	respiratory
+T73	Procedure 2231 2238	therapy
+T74	Chemical 2259 2264	water
+T75	Chemical 2266 2269	air
+T76	Chemical 2279 2284	water
+T77	Parameter 2305 2316	temperature
+T78	Molecular_Part 2317 2323	probes
+T79	Disease 2334 2344	infections
+T80	Organism 2348 2363	S. paucimobilis
+T81	Chemical 2421 2432	antibiotics
+T82	Disease 2459 2476	active infections
+T83	Organism1 2480 2486	humans
+T84	Disease 2531 2541	infections
+T85	Organism 2556 2565	bacterium
+T86	Disease 2609 2619	bacteremia
+T87	Disease 2621 2641	bacterial infections
+T88	Body_part 2649 2660	bloodstream
+T89	Pathological_formation 2676 2686	leg ulcers
+T90	Disease 2702 2713	peritonitis
+T91	Organism2 2718 2726	patients
+T92	Technique 2757 2765	dialysis
+T93	Pathological_formation 2778 2791	brain abscess
+T94	Disease 2803 2822	cervical adenopathy
+T95	Pathological_formation 2834 2849	splenic abscess
+T96	Disease 2861 2882	respiratory infection
+T97	Disease 2894 2911	urinary infection
+T98	Disease 2927 2937	meningitis
+T99	Technique 2939 2953	Balkwill et al
+T100	Organism1 2978 2985	species
+T101	Organism 2989 3001	Sphingomonas
+T102	Organism1 3026 3031	coral
+T103	Disease 3032 3038	plague
+T104	Habitat 3071 3083	Florida Reef
+T105	Body_part 3084 3089	Tract
+T106	Unknown 3093 3097	June
+T107	Organism1 3139 3144	coral
+T108	Parameter 3171 3175	rate
+T109	Tissue 3179 3185	tissue
+T110	Process 3186 3197	degredation
+T111	Value 3219 3226	per day
+T112	Disease 3233 3241	symptoms
+T113	Body_part 3259 3263	line
+T114	Bio_Process 3272 3279	healthy
+T115	Disease 3284 3292	diseased
+T116	Tissue 3293 3299	tissue
+T117	Organism1 3339 3346	species
+T118	Disease 3370 3378	diseases
+T119	Technique 3380 3395	Richarson et al
+T120	Value 3435 3446	four months
+T121	Disease 3477 3484	disease
+T122	Value 3495 3507	about 200 km
+T123	Unknown 3518 3530	Florida Keys
+T124	Disease 3540 3547	disease
+T125	Value 3574 3585	around 1997
+T126	Unknown 3656 3663	Scott T
+T127	Technique 3665 3677	Kelley et al
+T128	Organism 3697 3709	Sphingomonas
+T129	Bio_Process 3743 3751	biofilms
+T130	Chemical 3780 3784	soap
+T131	Body_part 3828 3831	bed
+T132	Organism1 3853 3861	bacteria
+T133	Habitat 3898 3910	environments
+T134	Multi-tissue_structure 3982 3988	immune
+T135	Disease 4004 4007	ill
+T136	Organism2 4008 4016	patients
+T137	Process 4038 4046	exposure
+T138	Disease 4060 4069	infection
+T139	Bio_Process 4106 4112	health
+T140	Technique 4123 4135	Kelley et al
+T141	Body_part 2676 2679	leg
+T142	Organ 2778 2783	brain
+T143	Organism_subdivision 2803 2811	cervical
+T144	Organ 2834 2841	splenic
+T145	Multi-tissue_structure 2861 2872	respiratory
+T146	Body_part 2894 2901	urinary

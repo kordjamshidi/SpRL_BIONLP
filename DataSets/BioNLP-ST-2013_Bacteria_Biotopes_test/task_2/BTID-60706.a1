@@ -1,0 +1,56 @@
+T1	Bacteria 0 19	Wolbachia pipientis
+T2	Bacteria 53 61	Bacteria
+T3	Bacteria 63 77	Proteobacteria
+T4	Bacteria 79 98	Alphaproteobacteria
+T5	Bacteria 100 113	Rickettsiales
+T6	Bacteria 115 129	Rickettsiaceae
+T7	Bacteria 131 142	Wolbachieae
+T8	Bacteria 144 153	Wolbachia
+T9	Bacteria 172 191	Wolbachia pipientis
+T10	Bacteria 192 216	Wolbachia pipientis wMel
+T11	Bacteria 246 265	Wolbachia pipientis
+T12	Bacteria 270 278	bacteria
+T13	Habitat 307 319	invertebrate
+T14	Habitat 328 338	arthropods
+T15	Habitat 352 359	insects
+T16	Bacteria 361 370	Wolbachia
+T17	Geographical 410 415	Earth
+T18	Habitat 432 462	reproductive system of insects
+T19	Habitat 455 462	insects
+T20	Habitat 502 509	insects
+T21	Habitat 539 545	spider
+T22	Habitat 547 555	mosquito
+T23	Habitat 561 566	flies
+T24	Bacteria 572 580	bacteria
+T25	Habitat 722 728	gamete
+T26	Habitat 842 847	sperm
+T27	Habitat 880 885	males
+T28	Habitat 938 943	sperm
+T29	Habitat 986 1001	fertilized eggs
+T30	Bacteria 1003 1012	Wolbachia
+T31	Habitat 1067 1077	scientists
+T32	Bacteria 1263 1272	Wolbachia
+T33	Bacteria 1360 1369	Wolbachia
+T34	Habitat 1374 1389	D. melanogaster
+T35	Bacteria 1401 1410	Wolbachia
+T36	Habitat 1478 1490	mitochondria
+T37	Bacteria 1520 1540	alpha-Proteobacteria
+T38	Habitat 1582 1594	mitochondria
+T39	Bacteria 1624 1637	Rickettsiales
+T40	Bacteria 1649 1658	Wolbachia
+T41	Bacteria 1674 1682	bacteria
+T42	Habitat 1696 1726	reproductive system of insects
+T43	Habitat 1719 1726	insects
+T44	Habitat 1758 1764	linage
+T45	Bacteria 1805 1813	bacteria
+T46	Bacteria 1909 1917	bacteria
+T47	Habitat 1944 1949	organ
+T48	Habitat 2019 2027	maternal
+T49	Habitat 2088 2094	testes
+T50	Habitat 2099 2106	ovaries
+T51	Bacteria 2183 2192	Wolbachia
+T52	Habitat 2210 2223	mature sperms
+T53	Habitat 2242 2253	mature eggs
+T54	Habitat 2293 2302	offspring
+T55	Habitat 2315 2322	females
+T56	Habitat 2331 2336	males

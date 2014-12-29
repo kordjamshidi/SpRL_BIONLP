@@ -1,0 +1,227 @@
+T1	Organism 17 26	bacterium
+T2	Disease 40 58	genital infections
+T3	Unknown 59 66	General
+T4	Mutant_Organism 85 96	Mycoplasmas
+T5	Organism 97 115	Mycoplasma hominis
+T6	Organism 121 130	bacterium
+T7	Multi-tissue_structure 140 155	urogenital area
+T8	Disease 165 175	pathogenic
+T9	Organism1 180 186	humans
+T10	Organism1 193 200	species
+T11	Molecular_Part 216 221	group
+T12	Organism 252 262	Mollicutes
+T13	Organ 265 274	soft skin
+T14	Organism1 278 286	bacteria
+T15	Process 318 325	absence
+T16	Cellular_component 331 340	cell wall
+T17	Organism 346 356	Mollicutes
+T18	Value 358 367	about 200
+T19	Organism1 368 375	species
+T20	Organism 395 410	bacterial taxon
+T21	Organism1 414 436	Gram-positive bacteria
+T22	Unknown 446 449	G+C
+T23	Organism 462 472	Firmicutes
+T24	Organ 475 484	hard skin
+T25	Cellular_component 510 519	cell wall
+T26	Process 525 529	loss
+T27	Cellular_component 538 547	cell wall
+T28	State 576 581	state
+T29	Organism 586 596	Mollicutes
+T30	Organism 616 626	Firmicutes
+T31	Mutant_Organism 647 657	Clostridia
+T32	Organism1 666 673	Bacilli
+T33	Molecular_Part 690 696	groups
+T34	Process 729 738	reduction
+T35	Parameter 742 746	size
+T36	Organism1 750 761	mycoplasmal
+T37	Protein 762 769	genomes
+T38	Organism1 822 830	bacteria
+T39	Process 841 848	contact
+T40	Organism2 860 864	host
+T41	Organism1 896 905	pathogens
+T42	Location 936 949	intracellular
+T43	Organism1 950 959	parasites
+T44	Organism1 984 991	animals
+T45	Organism1 1003 1009	humans
+T46	Organism1 1014 1021	insects
+T47	Organism1 1027 1033	plants
+T48	Mutant_Organism 1035 1047	Spiroplasmas
+T49	Mutant_Organism 1052 1064	Phytoplasmas
+T50	Process 1071 1079	adoption
+T51	Organism1 1086 1095	parasitic
+T52	Organism2 1152 1156	host
+T53	Cell 1157 1161	cell
+T54	Bio_Process 1183 1192	metabolic
+T55	Process 1193 1202	functions
+T56	Organism1 1225 1236	Mycoplasmas
+T57	Unknown 1259 1269	precursors
+T58	Process 1287 1291	loss
+T59	Protein 1295 1300	genes
+T60	Process 1327 1335	pathways
+T61	Protein 1358 1365	genomes
+T62	Organism1 1373 1384	mycoplasmas
+T63	Organism1 1435 1446	mycoplasmas
+T64	Value 1452 1466	less than 1000
+T65	Protein 1467 1472	genes
+T66	Organism 1474 1485	M. pulmonis
+T67	Protein 1512 1517	genes
+T68	Organism 1564 1582	bacterium Bacillus
+T69	Process 1597 1601	loss
+T70	Cellular_component 1609 1618	cell wall
+T71	Location 1642 1655	intracellular
+T72	Organism1 1676 1687	mycoplasmas
+T73	Organism2 1707 1711	host
+T74	Disease 1728 1744	chronic diseases
+T75	Process 1755 1766	progression
+T76	Organism1 1770 1776	humans
+T77	Organism1 1781 1788	animals
+T78	Organism 1790 1795	Human
+T79	Disease 1796 1809	mycoplasmoses
+T80	Disease 1831 1839	diseases
+T81	Multi-tissue_structure 1847 1858	respiratory
+T82	Body_part 1863 1880	urogenital tracts
+T83	Disease 1882 1895	Mycoplasmoses
+T84	Organism1 1914 1921	animals
+T85	Process 1950 1954	loss
+T86	Chemical 1956 1966	Antibiotic
+T87	Process 1967 1976	treatment
+T88	Organism1 2008 2016	bacteria
+T89	Organism1 2031 2040	pathogens
+T90	Protein_part 2096 2105	sequences
+T91	Bio_Process 2149 2159	physiology
+T92	Disease 2161 2171	pathogenic
+T93	Process 2172 2181	potential
+T94	Organism2 2186 2190	host
+T95	Organism1 2206 2217	mycoplasmas
+T96	Process 2230 2241	development
+T97	Process 2249 2259	prevention
+T98	Process 2264 2273	treatment
+T99	Protein 2316 2323	genomes
+T100	Organism1 2329 2347	mycoplasma species
+T101	Process 2414 2424	prediction
+T102	Disease 2428 2441	pathogenicity
+T103	Protein_part 2442 2449	regions
+T104	Process 2462 2475	comprehension
+T105	Process 2483 2492	evolution
+T106	Molecular_Part 2511 2516	group
+T107	Disease 2530 2543	pathogenicity
+T108	Organism2 2545 2549	host
+T109	State 2571 2581	morphology
+T110	Process 2598 2610	requirements
+T111	Technique 2617 2634	Molligen database
+T112	Chemical 2663 2667	CBiB
+T113	Company 2669 2690	Bordeaux 2 University
+T114	Organism1 2737 2748	mycoplasmas
+T115	Process 2750 2761	Description
+T116	Organism 2765 2802	
+T117	Organism1 2822 2840	mycoplasma species
+T118	Organism 2854 2867	M. pneumoniae
+T119	Organism 2869 2882	M. genitalium
+T120	Organism 2887 2909	Ureaplasma urealyticum
+T121	Disease 2926 2936	pathogenic
+T122	Process 2937 2946	potential
+T123	Organism1 2950 2956	humans
+T124	Organism1 2983 2990	species
+T125	Organism 2992 3002	M. hominis
+T126	Protein_part 3041 3049	sequence
+T127	Organism 3068 3078	M. hominis
+T128	Organism1 3099 3109	mycoplasma
+T129	Organism 3122 3144	Ureaplasma urealyticum
+T130	Geometrical_part 3155 3159	part
+T131	Multi-tissue_structure 3177 3187	urogenital
+T132	Organism1 3188 3193	flora
+T133	Organism2 3201 3206	adult
+T134	Organism1 3220 3238	mycoplasma species
+T135	Parameter 3261 3272	probability
+T136	Disease 3296 3314	genital infections
+T137	Organism2 3318 3323	women
+T138	Organism 3325 3335	M. hominis
+T139	Disease 3351 3361	infections
+T140	Organism2 3369 3376	newborn
+T141	Disease 3394 3404	infections
+T142	Organism2 3436 3444	subjects
+T143	Chemical 3450 3465	molecular bases
+T144	Disease 3473 3483	pathogenic
+T145	Process 3484 3493	potential
+T146	Organism 3497 3507	M. hominis
+T147	Organism 3550 3560	M. hominis
+T148	Molecular_Part 3581 3586	group
+T149	Organism 3590 3601	M. pulmonis
+T150	Organism 3603 3616	M. agalactiae
+T151	Protein 3618 3625	genomes
+T152	Technique 3639 3648	Genoscope
+T153	Organism 3651 3660	M. mobile
+T154	Organism 3665 3681	M. hyopneumoniae
+T155	Protein 3683 3690	genomes
+T156	Unknown 3707 3718	Spring 2005
+T157	Organism1 3735 3742	species
+T158	Molecular_Part 3753 3758	group
+T159	Organism 3767 3781	M. arthritidis
+T160	Organism 3783 3791	M. orale
+T161	Organism 3796 3809	M. fermentans
+T162	Process 3847 3857	comparison
+T163	Protein_part 3873 3881	sequence
+T164	Organism 3885 3895	M. hominis
+T165	Organism2 3897 3908	PG21 strain
+T166	Organism1 3946 3953	species
+T167	Chemical 3999 4014	molecular bases
+T168	Organism2 4018 4022	host
+T169	Process 4041 4051	comparison
+T170	Protein_part 4080 4089	sequences
+T171	Organism1 4099 4114	human pathogens
+T172	Organism 4116 4129	M. pneumoniae
+T173	Organism 4131 4144	M. genitalium
+T174	Organism 4146 4158	M. penetrans
+T175	Chemical 4163 4177	U. urealyticum
+T176	Process 4197 4206	different
+T177	Molecular_Part 4220 4225	group
+T178	Protein 4252 4259	factors
+T179	Disease 4264 4273	virulence
+T180	Habitat 4278 4295	ecological niches
+T181	Protein_part 4311 4319	sequence
+T182	Organism 4339 4349	M. hominis
+T183	Protein 4373 4391	housekeeping genes
+T184	Protein 4400 4421	membrane lipoproteins
+T185	Process 4446 4454	adhesion
+T186	Parameter 4455 4465	properties
+T187	Disease 4481 4490	antigenic
+T188	Process 4491 4501	variations
+T189	Unknown 4522 4529	systems
+T190	Organism1 4546 4557	mycoplasmas
+T191	Organism 4572 4582	M. hominis
+T192	Parameter 4606 4612	energy
+T193	Bio_Process 4613 4623	metabolism
+T194	Process 4643 4654	degradation
+T195	Chemical 4658 4666	arginine
+T196	Organism1 4701 4712	mycoplasmas
+T197	Organism 4763 4773	M. hominis
+T198	Protein 4774 4780	genome
+T199	Bio_Process 4814 4823	metabolic
+T200	Process 4824 4839	reconstitutions
+T201	Protein_part 4872 4880	sequence
+T202	Organism 4937 4946	bacterium
+T203	Location 4983 4991	interior
+T204	Organism1 4995 5000	human
+T205	Cell 5001 5006	cells
+T206	Protein 5027 5033	genome
+T207	Organism 5037 5047	M. hominis
+T208	Technique 5073 5081	analysis
+T209	Organism2 5093 5100	strains
+T210	Body_part 5112 5120	isolates
+T211	Process 5126 5135	different
+T212	Geometrical_part 5136 5141	parts
+T213	Organism1 5149 5154	human
+T214	Organism_subdivision 5155 5159	body
+T215	Chemical 5161 5171	antibiotic
+T216	Molecule 5182 5189	mutants
+T217	Category 5229 5237	products
+T218	Process 5248 5259	mutagenesis
+T219	Process 5263 5276	transposition
+T220	Process 5306 5318	inactivation
+T221	Protein 5322 5327	genes
+T222	Cell 331 335	cell
+T223	Cell 510 514	cell
+T224	Cell 538 542	cell
+T225	Cell 1609 1613	cell
+T226	Multi-tissue_structure 40 47	genital
+T227	Multi-tissue_structure 3296 3303	genital

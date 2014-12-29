@@ -1,0 +1,26 @@
+T1	Organism 0 14	Bradyrhizobium
+T2	Unknown 19 24	BTAi1
+T3	Process 25 36	Description
+T4	Organism 37 51	Bradyrhizobium
+T5	Unknown 56 62	BTAi 1
+T6	Organism1 69 77	organism
+T7	Chemical 132 140	nitrogen
+T8	Organism1 185 193	organism
+T9	Body_part 207 214	nodules
+T10	Organism1 222 248	legume Aeschynomene indica
+T11	Organism1 276 281	plant
+T12	Company 289 313	Boyce Thompson Institute
+T13	Organism1 318 323	Plant
+T14	Unknown 324 332	Research
+T15	Unknown 336 342	Ithaca
+T16	Unknown 344 346	NY
+T17	Body_part 360 364	stem
+T18	Body_part 369 381	root nodules
+T19	Complex 387 418	photosynthetic reaction centers
+T20	Organism1 471 479	bacteria
+T21	Organism1 489 496	microbe
+T22	Organism1 506 511	plant
+T23	Chemical 515 521	carbon
+T24	Bio_Process 522 532	metabolism
+T25	Chemical 537 545	nitrogen
+T26	Bio_Process 546 556	metabolism

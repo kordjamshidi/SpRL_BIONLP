@@ -1,0 +1,95 @@
+T1	Organism 0 45	
+T2	Disease 53 70	chronic hepatitis
+T3	Disease 75 88	liver failure
+T4	Organism1 92 96	mice
+T5	Organism 97 109	H. hepaticus
+T6	Unknown 122 126	Gram
+T7	Organism1 138 162	Microaerophilic organism
+T8	Value 163 175	0.2 to 0.3 m
+T9	Parameter 179 187	diameter
+T10	Value 189 192	1.5
+T11	Value 196 201	5.0 m
+T12	Geometrical_part 232 237	shape
+T13	Cellular_component 292 300	flagella
+T14	Geometrical_part 314 317	end
+T15	Body_part 333 351	periplasmic fibres
+T16	Geometrical_part 357 365	envelope
+T17	Organism 370 379	bacterial
+T18	Cell 380 385	cells
+T19	Organism1 395 421	mouse Helicobacter species
+T20	Organism 423 435	H. hepaticus
+T21	Protein 447 453	urease
+T22	Parameter 454 462	activity
+T23	Protein 467 474	oxidase
+T24	Protein 479 487	catalase
+T25	Unknown 507 508	H
+T26	Value 509 512	2 S
+T27	Chemical 522 529	nitrate
+T28	Chemical 533 540	nitrite
+T29	Value 572 576	37 C
+T30	Value 588 592	25 C
+T31	Value 596 600	42 C
+T32	Organism 602 614	H. hepaticus
+T33	Protein 630 640	chromosome
+T34	Value 644 653	1,799,146
+T35	Protein_part 654 664	base pairs
+T36	Organism 666 688	Helicobacter hepaticus
+T37	Disease 696 713	chronic hepatitis
+T38	Disease 715 727	liver cancer
+T39	Pathological_formation 729 744	hepatocarcinoma
+T40	Disease 750 776	inflammatory bowel disease
+T41	Organism1 780 784	mice
+T42	Organism1 790 798	organism
+T43	Disease_Process 866 880	liver invasion
+T44	Process 900 910	production
+T45	Protein 914 920	urease
+T46	Protein 935 953	hepatotoxic factor
+T47	Bio_Process 977 989	pathogenesis
+T48	Organism 993 1005	H. hepaticus
+T49	Pathological_formation 1015 1028	liver lesions
+T50	Process 1034 1044	importance
+T51	Organism 1048 1060	H. hepaticus
+T52	Organism1 1064 1070	humans
+T53	Organism 1105 1125	Helicobacter species
+T54	Organism1 1211 1233	mammalian host species
+T55	Body_part 1267 1289	gastrointestinal tract
+T56	Disease 1315 1324	gastritis
+T57	Disease 1334 1362	chronic inflammatory disease
+T58	Organism2 1379 1383	host
+T59	Organism1 1399 1406	species
+T60	Organism 1423 1432	H. pylori
+T61	Organism1 1459 1465	humans
+T62	Organism1 1508 1520	domestic cat
+T63	Organism 1555 1574	Helicobacter pylori
+T64	Disease 1584 1592	zoonotic
+T65	Organism1 1593 1601	pathogen
+T66	Organism1 1641 1648	animals
+T67	Organism1 1652 1658	humans
+T68	Organism 1704 1724	Helicobacter species
+T69	Organism2 1755 1760	hosts
+T70	Process 1774 1785	variability
+T71	Organism 1789 1801	H. hepaticus
+T72	Protein 1832 1839	genomes
+T73	Value 1843 1845	12
+T74	Organism2 1846 1866	H. hepaticus strains
+T75	Protein 1886 1892	genome
+T76	Technique 1896 1906	microarray
+T77	Process 1907 1920	hybridization
+T78	Organism2 1936 1943	strains
+T79	Disease 1986 1999	liver disease
+T80	Unknown 2029 2038	ATCC51449
+T81	Organism2 2046 2053	strains
+T82	Value 2069 2071	85
+T83	Value 2076 2079	229
+T84	Protein 2080 2085	genes
+T85	Geometrical_part 2103 2108	parts
+T86	Unknown 2112 2117	HHGI1
+T87	Process 2143 2152	variation
+T88	Protein 2156 2162	genome
+T89	Organism1 2182 2189	species
+T90	Organ 75 80	liver
+T91	Organ 715 720	liver
+T92	Body_part 763 768	bowel
+T93	Organ 866 871	liver
+T94	Organ 1015 1020	liver
+T95	Organ 1986 1991	liver

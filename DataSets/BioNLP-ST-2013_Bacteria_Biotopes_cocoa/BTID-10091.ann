@@ -1,0 +1,35 @@
+T1	Organism 0 16	Borrelia garinii
+T2	Chemical 17 20	PBi
+T3	Process 21 32	Description
+T4	Organism 33 49	Borrelia garinii
+T5	Organism1 56 64	organism
+T6	Organism 93 113	Borrelia burgdorferi
+T7	Organism 123 133	B. garinii
+T8	Organism1 179 186	species
+T9	Technique 196 212	genetic analysis
+T10	Organism2 223 229	strain
+T11	Organism 233 243	B. garinii
+T12	Organism 262 276	Ixodes ricinus
+T13	Habitat 280 286	France
+T14	Organism 288 298	B. garinii
+T15	Unknown 320 325	agent
+T16	Organism1 329 333	tick
+T17	Disease 340 351	borreliosis
+T18	Habitat 355 361	Europe
+T19	Disease 374 382	symptoms
+T20	Disease 392 401	arthritis
+T21	Disease 403 413	meningitis
+T22	Body_part 427 430	leg
+T23	Disease 440 444	pain
+T24	Disease 467 476	infection
+T25	Organism 480 490	B. garinii
+T26	Process 492 503	Description
+T27	Organism 504 520	Borrelia garinii
+T28	Chemical 529 532	PBi
+T29	Organism2 539 545	strain
+T30	Mutant_Organism 547 551	OspA
+T31	Organism1 552 562	serotype 4
+T32	Habitat 580 587	Germany
+T33	Body_part 597 616	cerebrospinal fluid
+T34	Organism2 622 629	patient
+T35	Disease 635 651	neuroborreliosis

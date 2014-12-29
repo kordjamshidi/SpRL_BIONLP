@@ -1,0 +1,76 @@
+T1	Organism 0 11	Caulobacter
+T2	Mutant_Organism 16 19	K31
+T3	Organism 20 38	Caulobacter strain
+T4	Organism 39 42	K31
+T5	Organism 56 65	bacterium
+T6	Parameter 84 95	temperature
+T7	Chemical 97 109	chlorophenol
+T8	Chemical 123 134	groundwater
+T9	Process 162 172	mechanisms
+T10	Chemical 188 200	chlorophenol
+T11	Process 201 212	degradation
+T12	Process 217 231	bioremediation
+T13	Organism 233 255	Caulobacter strain K31
+T14	Process 275 285	enrichment
+T15	Body_part 286 293	culture
+T16	Chemical 298 310	chlorophenol
+T17	Organism1 320 328	bacteria
+T18	Chemical 332 343	groundwater
+T19	Habitat 349 356	Karkola
+T20	Habitat 358 365	Finland
+T21	Disease 428 440	cold (7-8oC)
+T22	Chemical 442 448	oxygen
+T23	Chemical 460 464	iron
+T24	Chemical 482 488	acidic
+T25	Parameter 490 492	pH
+T26	Value 493 498	6-6.5
+T27	Parameter 545 551	levels
+T28	Chemical 555 568	chlorophenols
+T29	Chemical 600 616	polychlorophenol
+T30	Chemical 622 631	fungicide
+T31	Process 643 652	treatment
+T32	Technique 654 670	Genomic analysis
+T33	Organism 674 685	Caulobacter
+T34	Mutant_Organism 686 689	K31
+T35	Organism1 708 717	microbial
+T36	Chemical 718 730	chlorophenol
+T37	Bio_Process 731 741	metabolism
+T38	Process 746 757	adaptations
+T39	Unknown 780 786	niches
+T40	Process 821 835	bioremediation
+T41	Organism1 854 862	bacteria
+T42	Organism 870 881	Caulobacter
+T43	Unknown 882 888	family
+T44	Chemical 911 919	nutrient
+T45	Habitat 928 936	habitats
+T46	Bio_Process 954 962	biofilms
+T47	Geometrical_part 974 979	stalk
+T48	Chemical 989 997	nutrient
+T49	Process 998 1004	uptake
+T50	Cellular_component 1025 1034	organelle
+T51	Geometrical_part 1042 1045	tip
+T52	Geometrical_part 1053 1058	stalk
+T53	Geometrical_part 1059 1066	anchors
+T54	Cell 1067 1072	cells
+T55	Category 1076 1086	substrates
+T56	Technique 1100 1108	analysis
+T57	Chemical 1112 1120	nutrient
+T58	Process 1121 1132	acquisition
+T59	Cellular_component 1134 1149	polar organelle
+T60	Process 1150 1161	development
+T61	Bio_Process 1167 1174	biofilm
+T62	Process 1175 1184	formation
+T63	Organism2 1188 1198	strain K31
+T64	Chemical 1204 1214	freshwater
+T65	Organism2 1215 1233	strain Caulobacter
+T66	Habitat 1254 1260	marine
+T67	Organism2 1261 1284	strain Maricaulis maris
+T68	Unknown 1304 1307	JGI
+T69	Process 1360 1371	adaptations
+T70	Unknown 1380 1385	niche
+T71	Process 1423 1430	pathway
+T72	Chemical 1435 1443	D-xylose
+T73	Bio_Process 1444 1454	metabolism
+T74	Organism 1465 1468	K31
+T75	Organism 1473 1486	C. crescentus
+T76	Organism 1502 1510	M. maris

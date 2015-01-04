@@ -165,6 +165,7 @@ public boolean[] match_Habitat(String phrase){// a[1] shows containment and a[2]
 		
 	   return a;
  }
+public     
 public boolean exists_Habitat_inOBO(String[] s1){// a[1] shows containment and a[2] shows the overlap
 	//boolean a=false;//,false,false,false};
 	// BacteriaToken can be applied for both habitats and bacteria 
@@ -211,4 +212,10 @@ public boolean overlap(String s1, String s2)
 					 	return true;
 	return false;
 	}
+public String closest_OntoNode(String[] S1 ){
+ return "";
 }
+}
+
+
+

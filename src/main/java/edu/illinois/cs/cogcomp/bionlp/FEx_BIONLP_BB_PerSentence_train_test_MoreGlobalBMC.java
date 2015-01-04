@@ -28,14 +28,14 @@ static String[] StopWords;
 static NCBIRepresentation NCBIRep=new NCBIRepresentation();
 static OBORepresentation obRep=new OBORepresentation();
 public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> words){
-		
+
 		int consarray[][];
-		consarray = new int[wordindexes.length][2]; 
+		consarray = new int[wordindexes.length][2];
 		for (int i2=0;i2<wordindexes.length;i2++){
 			consarray[i2][0]=wordindexes[i2];
 			consarray[i2][1]=Integer.parseInt(words.elementAt(wordindexes[i2]).words.head)-1;
 		}
-		//       
+		//
 		if (wordindexes.length==1){
 			return consarray[0][0];}
 		boolean flag=true;
@@ -45,7 +45,7 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 		{   flag=true;
 		for(int i2=0;i2<consarray.length  ;i2++)
 
-		{  
+		{
 			if(i1!=i2){
 				if (consarray[i1][1]==consarray[i2][0])
 				{flag=false;break;}
@@ -58,8 +58,8 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 		}// for i1
 		return index;
 	}
-	
-	
+
+
 	///////////////////////////////////////////////////////
 	public static String SRL(int index, Vector<Vector <String>> M)
 	{
@@ -74,7 +74,7 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 	public static  String[] sortIntegerStrings(String[] a) {
 		String[] orderedchars=new String[a.length];
     	int[] intchars=new int[a.length];
-		
+
 		for(int u=0;u<a.length;u++){
 			intchars[u]=Integer.parseInt(a[u].replaceAll( "[^\\d]", "" ));
 	     }
@@ -85,12 +85,12 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 		    	 {orderedchars[u]=a[u2];System.out.println(u2);break;}}
 		}
 		return orderedchars;}
-	
+
 	public static void sort_check(String[] a, String[] b){
 		if (a.length!=b.length)
 			System.out.print("the number of files does not match!!");
 		else{
-			
+
 		 }
 	}
 	public static void make_feature_header(Vector<Vector<String>> Att) throws IOException
@@ -98,9 +98,9 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 		String strDirectoyout ="./DataSets/collected-features_bio"; // The directory of the output database files
 		(new File(strDirectoyout)).mkdirs();
 		for(int i=0;i<Att.size();i++)
-		{ 
-		 	
-		  Collections.sort(Att.elementAt(i));	
+		{
+
+		  Collections.sort(Att.elementAt(i));
 		  PrintWriter local_features=new PrintWriter(new BufferedWriter (new FileWriter(strDirectoyout+"/phi_"+i+".txt")));
 		  for (int j=0; j<Att.elementAt(i).size();j++)
 	      local_features.print(j+"\t"+Att.elementAt(i).elementAt(j)+"\n");
@@ -108,10 +108,10 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 	    }
 	}// end make header files
 	//private static BioLemmatizer bioLemmatizer;
-	
-	
+
+
 	public static void main(String[] args) throws Exception{
-		
+
 		Vector <Vector<String>> arffAttRel =new Vector<Vector<String>>();
 	    arffAttRel.add(0,new Vector<String>());
 	    arffAttRel.add(1,new Vector<String>());
@@ -119,7 +119,7 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 	    arffAttRel.add(3,new Vector<String>());
 	    arffAttRel.add(4,new Vector<String>());
 	    arffAttRel.add(5,new Vector<String>());// this is for the features of a compound not a word only
-	      
+
 	    String[] strDirOut={"./DataSets/TablesTrain","./DataSets/TablesTest"};
 	    String[] strDirIn={"./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_train_dev","./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_test"};
 	    String[] strTask={"task_1","task_3"};
@@ -135,83 +135,83 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
     	//PrintWriter chunkerTrainingFile=new PrintWriter(new BufferedWriter(new FileWriter(strDirectoryout+"/chunkerTrain.txt")));
 	    for (int TT=0;TT<=1;TT++){
 	    PrintParameters parameters=new PrintParameters();
-		parameters.Globality=0;	
+		parameters.Globality=0;
 	    (new File(strDirOut[TT])).mkdirs();
-	    (new File(strDirOut[TT]+"/entitySpans")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/roleFeatures")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/TrLabels")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/LmLabels")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/SpLabels")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/pairFeatures")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/SpTrLabels")).mkdirs(); 
-	    (new File(strDirOut[TT]+"/SpLmLabels")).mkdirs(); 
+	    (new File(strDirOut[TT]+"/entitySpans")).mkdirs();
+	    (new File(strDirOut[TT]+"/roleFeatures")).mkdirs();
+	    (new File(strDirOut[TT]+"/TrLabels")).mkdirs();
+	    (new File(strDirOut[TT]+"/LmLabels")).mkdirs();
+	    (new File(strDirOut[TT]+"/SpLabels")).mkdirs();
+	    (new File(strDirOut[TT]+"/pairFeatures")).mkdirs();
+	    (new File(strDirOut[TT]+"/SpTrLabels")).mkdirs();
+	    (new File(strDirOut[TT]+"/SpLmLabels")).mkdirs();
 	    (new File(strDirOut[TT]+"/TrLmLabels")).mkdirs();
 	    (new File(strDirOut[TT]+"/Loc_LocLabels")).mkdirs();
 	    (new File(strDirOut[TT]+"/R_RFeatures")).mkdirs();
-	    
-	   // (new File(strDirOut[TT]+"/relations")).mkdirs(); 
+
+	   // (new File(strDirOut[TT]+"/relations")).mkdirs();
 	   // (new File(strDirOut[TT]+"/entityLabels")).mkdirs();
 	    (new File(strDirOut[TT]+"/outputPredicates")).mkdirs();
 	    //(new File(strDirOut[TT]+"/inputSparseRel")).mkdirs();
-	    (new File(strDirOut[TT]+"/inputPredicates")).mkdirs();         
+	    (new File(strDirOut[TT]+"/inputPredicates")).mkdirs();
 	    //(new File(strDirOut[TT]+"/relationLabels")).mkdirs();
 	    (new File(strDirOut[TT]+"/Coreferences")).mkdirs();
 	    (new File(strDirOut[TT]+"/CorefFeatures")).mkdirs();
 	    (new File(strDirOut[TT]+"/EntitySimilarity")).mkdirs();
-	    
+
 	    Vector <PrintWriter> roleFeatures=new Vector <PrintWriter>();
    	    Vector <PrintWriter> SpLabels=new Vector<PrintWriter>();
    	    Vector <PrintWriter> TrLabels=new Vector<PrintWriter>();
    	    Vector <PrintWriter> LmLabels=new Vector<PrintWriter>();
-   	    
+
    		Vector <PrintWriter> pairFeatures=new Vector <PrintWriter>();
 
 		Vector <PrintWriter> relationLabelsTr_Sp=new Vector <PrintWriter>();
 		Vector <PrintWriter> relationLabelsLm_Sp=new Vector <PrintWriter>();
 		Vector <PrintWriter> relationLabelsTr_Lm=new Vector <PrintWriter>();
-		
+
 		Vector <PrintWriter> R_RFeatures=new Vector<PrintWriter>();
 		Vector <PrintWriter> Loc_LocLabels=new Vector<PrintWriter>();
 
-   	
+
    	// Vector <PrintWriter> relationSparsefile=new Vector<PrintWriter>();
    	 //Vector <PrintWriter> relationfileinputs=new Vector<PrintWriter>();
    	// Vector <PrintWriter> relationLabels=new Vector<PrintWriter>();
         Vector <PrintWriter> Coreferences=new Vector<PrintWriter>();
    	    Vector <PrintWriter> CorefFeatures=new Vector<PrintWriter>();
    	    Vector <PrintWriter> Esimilarity=new Vector<PrintWriter>();
-   	 
-   	
+
+
     	Vector <PrintWriter> inputpredicates=new Vector <PrintWriter>();
         Vector <PrintWriter> outputpredicates=new Vector <PrintWriter>();
-        
+
         Vector <PrintWriter> entitySpans=new Vector<PrintWriter>();
-        
+
 	    String strDirectoryin =strDirIn[TT]+"/"+strTask[TT]+"/";//"./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_train_dev/task_1/"; // The directory of the output database files
 		(new File(strDirectoryin)).mkdirs();
-		
+
 		File f = new File(strDirIn[TT]+"/BioNLP-ST-2013_Bacteria_Biotopes_"+strTr_Ts[TT]+"_mcccj/"+strTask[TT]+"/");
     	File fsource=new File(strDirIn[TT]+"/"+strTask[TT]+"/");
 		File splitsource=new File(strDirIn[TT]+"/"+"BioNLP-ST-2013_Bacteria_Biotopes_"+strTr_Ts[TT]+"ssplit/"+strTask[TT]+"/");
     	//File t1a2=new File("./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_train_dev/task_1/");
-    	
-		File Cocoa=new File(strCocoa[TT]); 
-    	
+
+		File Cocoa=new File(strCocoa[TT]);
+
     	File t2a1=new File("./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_train_dev/task_2/");
     	File t2a2=new File("./DataSets/BioNLP-ST-2013_Bacteria_Biotopes_train_dev/task_2/");
-    	
+
 
 		FileFilter conllFilter = new FileFilter(".connlx2","");
 		//FileFilter cocoAFilter = new FileFilter(".ann","");
 		//FileFilter ptbFilter = new FileFilter(".ptb","");
 		//FileFilter sdepFilter = new FileFilter(".sdep","");
 		FileFilter txtFilter    = new FileFilter(".txt","");
-		//FileFilter ssFilter = new FileFilter(".ss",""); 
-        // Vector <PrintWriter> examplefileoutputs=new Vector <PrintWriter>(); 
+		//FileFilter ssFilter = new FileFilter(".ss","");
+        // Vector <PrintWriter> examplefileoutputs=new Vector <PrintWriter>();
     	//File OntoBiotope=new File("/DataSets/OntoBiotope_BioNLP-ST13.obo");
 		//FileFilter a2Filter = new FileFilter(".a2","");
 		//FileFilter a1Filter = new FileFilter(".a1","");
-       
+
 		File[] conllfiles = f.listFiles(conllFilter);
 		//File[] ptbfiles = f.listFiles(ptbFilter);
 		//File[] sdepfiles = f.listFiles(sdepFilter);
@@ -222,7 +222,7 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
 		//File[] t2a1files=t2a1.listFiles(a1Filter);
 		//File[] t2a2files=t2a2.listFiles(a2Filter);
 	    int sentence_num=0;
- 
+
       //  ArrayList <BIOdiscourse> training=new ArrayList<BIOdiscourse>();
         StopWords=ReadStopWords();
       NCBIParser objParser=new NCBIParser("./DataSets/taxonomie_ncbi.txt");
@@ -239,18 +239,18 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
     		ArrayList<String>  objExactSyns=  obRep.getExactAllSynonyms();
     		ArrayList<String>  objRelatedSyns=  obRep.getRelatedAllSynonyms();
     		ArrayList<String>  objNames=  obRep.getAllNames();
-    		
-    		
+
+
     	} catch (IOException e) {
     		// TODO Auto-generated catch block
     		e.printStackTrace();
     	}
-    	
-    	
+
+
        for (int i=0;i<txtfiles.length ;i++)
        {
     	    BIOdiscourse discourse1=new BIOdiscourse();
-    	    
+
     	    String file_name=conllfiles[i].getName().substring(0,conllfiles[i].getName().indexOf("."));
          	discourse1.name=file_name;
     	    BufferedReader brconnl = new BufferedReader(new FileReader(f.getPath()+"/"+file_name+".connlx2"));
@@ -268,37 +268,37 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
    			System.out.print(file_name);
     		PrintWriter discoursefile=new PrintWriter(new BufferedWriter (new FileWriter(strDirectoryin+file_name+".xml")));
     		sentence_num++;
-    		
+
     		discourse1.fetch_ling_features(brconnl,brptb,brssplit, brCocoa);
     		discourse1.chunkBIO();
     		discourse1.paragraph_info(brTxt);
-    		
+
     		discourse1.fetch_t2a1a2_annotationsAndCand(brt2a1,brt2a2);
     	//	discourse1.writeChunckerTraining(chunkerTrainingFile);
-    		
+
     		discourse1.build_all_chunk_candidatesLmNCBI_Obo();
     		discourse1.AddNegative_Relations();
     		//discourse1.build_all_candidatesLmOBO();
-    		
+
         	//	discourse1.fetch_t1a1_annotations(brt1a2);
     		//discourse1.check_OBO(obRep,NCBIRep,MatchInfo);
     		discourse1.chunker_missEntities(misedChunker_Entity);
-    		
+
     		//discourse1.addNegRelCand();
     		discourse1.candidate_features(arffAttRel);
     		//discourse1.candidate_LocLoc();
     	//	discourse1.EntitySimilarity();
-    	  
+
     		//  discourse1.collect_featureLexicon(arffAttRel.elementAt(0));
            // discourse1.collect_RelCandidatesForSOP(arffAttRel);
             //discourse1.writeDiscourseXML(discoursefile, sentence_num,0,1);
-    		 if (i==15) 
+    		 if (i==15)
     			System.out.print("Stop for check!");
              roleFeatures.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/roleFeatures/"+file_name+".data"))));
     		 SpLabels.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/SpLabels/"+file_name+".data"))));
     		 TrLabels.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/TrLabels/"+file_name+".data"))));
     		 LmLabels.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/LmLabels/"+file_name+".data"))));
-             
+
     		 // examplefileoutputs.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirectoryout+"/outputs/"+file_name+(i+1)+".data"))));
              inputpredicates.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/inputPredicates/"+file_name+".data"))));
              outputpredicates.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/outputPredicates/"+file_name+".data"))));
@@ -312,54 +312,54 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
              Coreferences.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/Coreferences/"+file_name+".data"))));
              CorefFeatures.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/CorefFeatures/"+file_name+".data"))));
              Esimilarity.addElement(new PrintWriter(new BufferedWriter(new FileWriter(strDirOut[TT]+"/EntitySimilarity/"+file_name+".data"))));
-             
+
              parameters.roleFeatures=roleFeatures.lastElement();
              parameters.SpLabels=SpLabels.lastElement();
              parameters.TrLabels=TrLabels.lastElement();
              parameters.LmLabels=LmLabels.lastElement();
              parameters.entitySpans=entitySpans.lastElement();
-             
+
              parameters.pairFeatures=pairFeatures.lastElement();
              parameters.relationLabelsTr_Sp=relationLabelsTr_Sp.lastElement();
              parameters.relationLabelsLm_Sp=relationLabelsLm_Sp.lastElement();
              parameters.relationLabelsTr_Lm=relationLabelsTr_Lm.lastElement();
-             
+
              parameters.R_RFeatures=R_RFeatures.lastElement();
              parameters.Loc_LocLabels=Loc_LocLabels.lastElement();
-             
+
             // parameters.relationLabels=relationLabels.lastElement();
             // parameters.relationKeyfile=relationSparsefile.lastElement();
              parameters.inputpredicates=inputpredicates.lastElement();
              parameters.outputpredicates=outputpredicates.lastElement();
              parameters.CorefFeatures=CorefFeatures.lastElement();
-             
+
              //%%%%%%%%%%%%%%%%%%%%%%
-             discourse1.writeRelationalFeatureSONew(arffAttRel, parameters);
+            discourse1.writeRelationalFeatureSONew(arffAttRel, parameters);
              discourse1.writeCoreferences(Coreferences.lastElement());
              discourse1.writeEntitySimilarity(Esimilarity.lastElement());
              //training.add(discourse1);
              discoursefile.close();
-           
+
          	 roleFeatures.lastElement().close();
          	 //examplefileoutputs.elementAt(filecounter).close();
-         	  
+
          	 SpLabels.lastElement().close();
          	 TrLabels.lastElement().close();
          	 LmLabels.lastElement().close();
-         	 
+
          	 entitySpans.lastElement().close();
          	 pairFeatures.lastElement().close();
-         	 
+
          	 relationLabelsTr_Sp.lastElement().close();
          	 relationLabelsLm_Sp.lastElement().close();
          	 relationLabelsTr_Lm.lastElement().close();
-         	 
+
          	 Loc_LocLabels.lastElement().close();
          	 R_RFeatures.lastElement().close();
-         	
+
          	 inputpredicates.lastElement().close();
         	 outputpredicates.lastElement().close();
-        	
+
          	 //relationfileinputs.elementAt(filecounter).close();
          	 //relationSparsefile.elementAt(filecounter).close();
          	 //entityLabels.elementAt(filecounter).close();
@@ -398,8 +398,8 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
         		
        		  }
            }*/
-        
-          
+
+
 //           int numOfattributes=trainingEx.get(0).getFeatureDimension();
 //           FastVector structAttributes = new FastVector(numOfattributes+1);
 //	       for (int i = 0 ; i < numOfattributes; i++) {
@@ -495,7 +495,7 @@ public static String[] ReadStopWords() throws IOException{
 		S[S.length-1]=in.readLine(); i++;
 	  }
 	return S;
- }	
+ }
 public static boolean find_(String [] S,String x){ // This finds a string  among an array of string
 	for(int i=0;i<S.length;i++){
 		if (S[i].toLowerCase().equals(x.toLowerCase())){
@@ -538,9 +538,9 @@ public static void writeStatistics() throws IOException{
 	stat.println("Num of discountinous mentions:\t"+statis.discontinuousMentions);
 	stat.println("Num of part of relations:\t"+statis.PartOf_annotated);
 	stat.println("Num of part of relations which are overlapping entities:\t"+statis.PartOfEntityOverlap);
-	
+
 	stat.close();
 	}
-	
+
 }//end class
 

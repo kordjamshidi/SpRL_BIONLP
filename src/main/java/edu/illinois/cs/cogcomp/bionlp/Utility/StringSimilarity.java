@@ -8,7 +8,7 @@ import java.util.Set;
 public class StringSimilarity {
 
 	
-	public static int editDistance(String s, String t){
+	public static double editDistance(String s, String t){
 	    int m=s.length();
 	    int n=t.length();
 	    int[][]d=new int[m+1][n+1];
@@ -28,7 +28,8 @@ public class StringSimilarity {
 	        }
 	      }
 	    }
-	    return(d[m][n]);
+        int l=Math.max(1,Math.max(m,n));
+	    return(((double) d[m][n])/l);
 	  }
 	  public static int min(int a,int b,int c){
 	    return(Math.min(Math.min(a,b),c));

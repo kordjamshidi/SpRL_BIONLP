@@ -1344,6 +1344,8 @@ public class BIOdiscourse {
         hashTable.elementAt(2).addElement("TT_sim");
         hashTable.elementAt(2).addElement("LL_sim");
         hashTable.elementAt(2).addElement("TL_sim");
+        hashTable.elementAt(2).addElement("obo_sim_Isa");
+        hashTable.elementAt(2).addElement("obo_sim_Dis");
     }
 
     //
@@ -1946,7 +1948,10 @@ public class BIOdiscourse {
                     sim = 1-StringSimilarity.editDistance(H1.phrase_content, H2.phrase_content);
                     pw.R_RFeatures.println((rr_count) + "\t" + (hashTable.elementAt(2).indexOf("TL_sim") + 1 )+ "\t" + sim);
 
-                    FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.obRep.exists_Habitat_inOBO(S1);
+                    double[] sim1=FEx_BIONLP_BB_PerSentence_train_test_MoreGlobalBMC.obRep.OboSimilarity(S2,S4);
+                    pw.R_RFeatures.println((rr_count) + "\t" + (hashTable.elementAt(2).indexOf("obo_sim_Isa") + 1 )+ "\t" + sim1[0]);
+                    pw.R_RFeatures.println((rr_count) + "\t" + (hashTable.elementAt(2).indexOf("obo_sim_Dis") + 1 )+ "\t" + sim1[1]);
+
                     // here is fiiling the feature file for the relation extraction.
                     //pw.Loc_LocLabels.println((rr_count)+"\t"+ll+"\t"+(r+1)+"\t"+(r2+1)+"\t"+discourse_annotations.relations.elementAt(r).relationship+e1+" "+e2+"\t"+discourse_annotations.relations.elementAt(r2).relationship+e4+" "+e3);
                     pw.outputpredicates.println("LocLoc(" + (r + 1) + "," + (r2 + 1) + "," + ll + ").");

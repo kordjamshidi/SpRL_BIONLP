@@ -4,12 +4,16 @@ package edu.illinois.cs.cogcomp.bionlp;
 
 
 import edu.illinois.cs.cogcomp.bionlp.Utility.PreProcessing;
+import edu.illinois.cs.cogcomp.bionlp.Utility.StringSimilarity;
 import edu.illinois.cs.cogcomp.bionlp.Utility.Util;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.Vector;
 import java.util.regex.Pattern;
+
+import static org.apache.commons.lang.math.NumberUtils.max;
+import static weka.core.Utils.maxIndex;
 
 public class OBORepresentation {
 
@@ -70,7 +74,7 @@ public class OBORepresentation {
 	}
 	
 	public ArrayList<String> getExactAllSynonyms(){
-		
+
 		ArrayList<String> arrExactSyns=new ArrayList<String>();
 		for (int i=0;i<oboIDs.size();i++){
 			String tmpID=oboIDs.get(i);
@@ -81,10 +85,25 @@ public class OBORepresentation {
 		     }
 		}
 		listOfExactSyns=arrExactSyns;
-		return  arrExactSyns;	
+		return  arrExactSyns;
 	}
 
-	public ArrayList<String> getRelatedAllSynonyms(){
+    public OBOElement FindByExactSynonyms(String s){
+        for (int i=0;i<oboIDs.size();i++){
+            String tmpID=oboIDs.get(i);
+            OBOElement oboEl=(OBOElement) oboFileRepresentation.get(tmpID);
+            ArrayList<String>  arr2=oboEl.getExact_synonym();
+            for (int j=0;j<arr2.size();j++){
+                if (arr2.get(j).equals(s))
+                return  oboEl;
+            }
+        }
+    return null;
+
+    }
+
+
+    public ArrayList<String> getRelatedAllSynonyms(){
 		
 		ArrayList<String> arrRelatedSyns=new ArrayList<String>();
 		for (int i=0;i<oboIDs.size();i++){
@@ -98,7 +117,19 @@ public class OBORepresentation {
 		listOfRelatedSyns=arrRelatedSyns;
 		return  listOfRelatedSyns;	
 	}
-	
+    public OBOElement FindOboBySynonyms(String s){
+         for (int i=0;i<oboIDs.size();i++){
+            String tmpID=oboIDs.get(i);
+            OBOElement oboEl=(OBOElement) oboFileRepresentation.get(tmpID);
+            ArrayList<String>  arr2=oboEl.getRelated_synonym();
+            for (int j=0;j<arr2.size();j++){
+                if (s.equals(arr2.get(j)))
+                  return oboEl;
+            }
+        }
+        return null;
+    }
+
 public ArrayList<String> getAllNames(){
 		
 		ArrayList<String> arrNames=new ArrayList<String>();
@@ -111,6 +142,17 @@ public ArrayList<String> getAllNames(){
 		listOfNames=arrNames;
 		return  listOfNames;	
 	}
+
+    public  OBOElement FindObobyName(String name){
+        for (int i=0;i<oboIDs.size();i++){
+            String tmpID=oboIDs.get(i);
+            OBOElement oboEl=(OBOElement) oboFileRepresentation.get(tmpID);
+            String strTemp=oboEl.getName();
+            if (name.equals(strTemp))
+                return(oboEl);
+        }
+      return null;
+    }
 
 //returns indexed list of integers
 public Integer[] getIndexesOfExistingWords(Vector<ling_features> s){
@@ -165,7 +207,7 @@ public boolean[] match_Habitat(String phrase){// a[1] shows containment and a[2]
 		
 	   return a;
  }
-public     
+
 public boolean exists_Habitat_inOBO(String[] s1){// a[1] shows containment and a[2] shows the overlap
 	//boolean a=false;//,false,false,false};
 	// BacteriaToken can be applied for both habitats and bacteria 
@@ -212,10 +254,71 @@ public boolean overlap(String s1, String s2)
 					 	return true;
 	return false;
 	}
-public String closest_OntoNode(String[] S1 ){
- return "";
-}
-}
+public OBOElement closest_OntoNode(String[] s1){
+    //boolean a=false;//,false,false,false};
+    // BacteriaToken can be applied for both habitats and bacteria
+    //it is just cleaning not alphanumeric characters and case, etc.
+    double[]sim=new double[3];
+    String[] node=new String[3];
+    String ephrase="";
+    for (int w=0;w<s1.length;w++){
+        ephrase=ephrase+" "+s1[w];
+    }
+    ///////////////////////////////////////////////
+    double[] simil=new double[listOfNames.size()];
+    for (int j=0;j<listOfNames.size();j++){
+        String s=PreProcessing.BacteriaToken(listOfNames.get(j));
+        simil[j]= 1-(StringSimilarity.editDistance(s, ephrase.trim()));
+        System.out.println(s+" "+ephrase.trim()+" "+simil[j] );
+    }
+    sim[0]=max(simil);
+    node[0]=listOfNames.get(maxIndex(simil));
+    ////////////////////////////////////////////
+
+    simil=new double[listOfExactSyns.size()];
+    for (int j=0;j<this.listOfExactSyns.size();j++){
+        String s= PreProcessing.BacteriaToken(listOfExactSyns.get(j));
+        simil[j]= 1-(StringSimilarity.editDistance(s, ephrase.trim()));
+    }
+    sim[1]= max(simil);
+    node[1]=listOfExactSyns.get(maxIndex(simil));
+    ////////////////////////////////////////////////
+
+    simil=new double[listOfRelatedSyns.size()];
+    for (int j=0;j<this.listOfRelatedSyns.size();j++) {
+        String s = PreProcessing.BacteriaToken(listOfRelatedSyns.get(j));
+        simil[j] = 1 - (StringSimilarity.editDistance(s, ephrase));
+    }
+    sim[2]= max(simil);
+    node[2]=listOfRelatedSyns.get(maxIndex(simil));
+    //////////////////////////////////
+
+    int closestNod=maxIndex(sim);
+    OBOElement ob=new OBOElement();
+    if (closestNod==0)
+        ob=FindObobyName(node[0]);
+    if (closestNod==1)
+        ob=FindByExactSynonyms(node[1]);
+    if (closestNod==2)
+        ob=FindOboBySynonyms(node[2]);
+    System.out.println("closest to "+ s1+ ob.getName() );
+ return ob;
+}// end closestOntoNode
+    //Obo ontology based similarity
+double[] OboSimilarity(String[]S1, String[]S2){
+    OBOElement Ob1=new OBOElement();
+    OBOElement Ob2=new OBOElement();
+    double[] sim={0,0};
+    Ob1=closest_OntoNode(S1);
+    Ob2=closest_OntoNode(S2);
+    if (Ob1.getIs_a().get(0).equals(Ob2.getIdOBOElement())| Ob2.getIs_a().get(0).equals(Ob1.getIdOBOElement()))
+      sim[0]= 1;
+    if (overlap(Ob1.getName(), Ob2.getName())) sim[1] = 1;
+    else sim[1] = 0;
+    System.out.println(S1+" "+S2+" "+ sim);
+    return (sim);}
+
+}//end OboRepresentation
 
 
 

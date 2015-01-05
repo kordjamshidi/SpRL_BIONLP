@@ -334,7 +334,7 @@ public static int HeadW_with_index(Integer[] wordindexes,Vector<ling_features> w
              parameters.CorefFeatures=CorefFeatures.lastElement();
 
              //%%%%%%%%%%%%%%%%%%%%%%
-            discourse1.writeRelationalFeatureSONew(arffAttRel, parameters);
+             discourse1.writeRelationalFeatureSONew(arffAttRel, parameters);
              discourse1.writeCoreferences(Coreferences.lastElement());
              discourse1.writeEntitySimilarity(Esimilarity.lastElement());
              //training.add(discourse1);
